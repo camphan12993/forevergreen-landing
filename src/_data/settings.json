@@ -1,0 +1,54 @@
+{
+	"meta": {
+		"title": "Nmimi Offical",
+		"description": "Nmimi Offical",
+		"siteUrl": "https://nmimiclothing.com",
+		"siteName": "Nmimi Offical",
+		"imgSrc": "https://res.cloudinary.com/dab00oody/image/upload/v1610782125/landing/700333c0a7fb57a50eea_vigaof.jpg",
+		"imgAtl": "Nmimi Offical"
+	},
+	"header": {
+		"menu": [
+			{
+				"name": "Home",
+				"url": "#"
+			},
+			{
+				"name": "Collections",
+				"url": "#collections"
+			},
+			{
+				"name": "About",
+				"url": "#about"
+			},
+			{
+				"name": "Gallery",
+				"url": "#gallery"
+			}
+		],
+		"logoWhiteUrl": "https://res.cloudinary.com/dab00oody/image/upload/v1610590390/landing/logowhite_jmhtdt.png",
+		"socials": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/nmimi.official",
+				"icon": "logo-facebook"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/nmimi.official/",
+				"icon": "logo-instagram"
+			},
+			{
+				"name": "youtube",
+				"url": "",
+				"icon": "logo-youtube"
+			}
+		]
+	},
+	"footer": {
+		"logoUrl": "https://res.cloudinary.com/dab00oody/image/upload/v1610590389/landing/logo_uweajp.png",
+		"address": "110 Ngo Gia Tu, Hai Chau, Da Nang, Viet Nam",
+		"phone": "(+84) 905 611 468",
+		"address1": "Hai Chau, Da Nang"
+	}
+}

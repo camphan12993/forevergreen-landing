@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <link href='https://unpkg.com/aos@2.3.1/dist/aos.css' rel='stylesheet'>
+    <link href='https://unpkg.com/swiper/swiper-bundle.min.css' rel='stylesheet'>
+    <link href='https://fonts.gstatic.com' rel='preconnect'>
+    <link href='/assets/css/styles.css' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css2?family=Montserrat&display=swap' rel='stylesheet'>
+    <title>{{ settings.meta.title }}</title>
+    <meta name='title' content="{{ settings.meta.title }}">
+    <meta name='description' content="{{ settings.meta.description }}">
+
+    <!-- Open Graph / Facebook -->
+    <meta content='website' property='og:type'>
+    <meta property='og:url' content="{{ settings.meta.siteUrl }}">
+    <meta property='og:site_name' content="{{ settings.meta.siteName }}">
+    <meta content='en_US' property='og:locale'>
+    <meta property='og:title' content="{{ settings.meta.title }}">
+    <meta property='og:description' content="{{ settings.meta.description }}">
+    <meta property='og:image' content="{{ settings.meta.imgSrc }}">
+    <meta content='1280' property='og:image:width'>
+    <meta content='640' property='og:image:height'>
+    <meta property='og:image:alt' content="{{ settings.meta.imgAtl }}">
+
+    <!-- Twitter -->
+    <meta content='summary_large_image' property='twitter:card'>
+    <meta property='twitter:url' content="{{ settings.meta.siteUrl }}">
+    <meta property='twitter:title' content="{{ settings.meta.title }}">
+    <meta property='twitter:description' content="{{ settings.meta.description }}">
+    <meta property='twitter:image' content="{{ settings.meta.imgSrc }}">
+    <meta property='twitter:image:alt' content="{{ settings.meta.imgAlt }}">
+  </head>
+  <body class='bg-secondary min-h-screen'>
+    <header class='fixed top-0 left-0 right-0 z-50 transition duration-500'>
+      <div class='px-4 py-6'>
+        <h3 class='text-white text-4xl text-center mb-4'>Logo</h3>
+        <ul class='flex items-center justify-center' id='menu'>
+          {% for item in settings.header.menu %}
+            <li class='px-4'>
+              <a class='hover:text-primary transition duration-300 text-white' href='{{settings.meta.siteUrl | append: item.url}}'>{{item.name}}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </header>
+    <main class='w-full overflow-hidden'>
+      {{ content | safe }}
+    </main>
+    <!-- Footer -->
+    <footer class='w-full relative footer-area py-6 px-8 sm:py-10 md:py-16 overflow-hidden' id='contact'>
+      <div class='container mx-auto max-w-screen-sm'>
+        <div class='text-center mb-10'>
+          <h3 class='text-white text-4xl text-center mb-4'>Logo</h3>
+        </div>
+        <div class='flex flex-col mb-3 text-md text-white font-light'>
+          <p>{{settings.footer.address}}</p>
+          <p>{{settings.footer.phone}}</p>
+        </div>
+        <div class='copyrights'>
+          <p class='para text-white font-light text-sm'>
+            Copyright ©2020 All rights reserved | Made by
+            <a class='text-primary hover:opacity-75' href='https://rooster-world.com/'>
+              Rooster World
+            </a>
+          </p>
+        </div>
+      </div>
+    </footer>
+    <script src='https://unpkg.com/ionicons@5.2.3/dist/ionicons.js'></script>
+    <script src='https://unpkg.com/aos@2.3.1/dist/aos.js'></script>
+    <script src='https://unpkg.com/swiper/swiper-bundle.min.js'></script>
+    <script src='/assets/js/main.js'></script>
+  </body>
+</html>

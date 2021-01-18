@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+:root {
+	--primary: #f3ab1e;
+	--secondary: #232523;
+}
+html,
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	scroll-behavior: smooth;
+}
+
+header.scrolled {
+	@apply bg-black bg-opacity-70;
+}
+
+.section {
+	@apply py-8 sm:py-16;
+}
+
+.banner-gradient {
+	background: rgb(35, 37, 35);
+	background: linear-gradient(
+		0deg,
+		rgba(35, 37, 35, 1) 0%,
+		rgba(35, 37, 35, 0.9) 50%,
+		rgba(35, 37, 35, 0) 100%
+	);
+}
+
+.intro-section {
+	background: rgb(35, 37, 35);
+	background: linear-gradient(
+		90deg,
+		rgba(35, 37, 35, 1) 0%,
+		rgba(35, 37, 35, 0.9) 50%,
+		rgba(35, 37, 35, 0) 100%
+	);
+}
+
+.intro-section.invert {
+	background: rgb(35, 37, 35);
+	background: linear-gradient(
+		270deg,
+		rgba(35, 37, 35, 1) 0%,
+		rgba(35, 37, 35, 0.9) 50%,
+		rgba(35, 37, 35, 0) 100%
+	);
+}
+
+@tailwind utilities;
