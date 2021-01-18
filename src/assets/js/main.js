@@ -34,7 +34,41 @@ window.onload = function () {
 	}
 };
 
+var currentList = [];
+
 function toggleMenu() {
 	var mainNav = document.getElementById('nav-menu');
 	mainNav.classList.toggle('active');
 }
+var modal = document.querySelector('.modal');
+var body = document.querySelector('body');
+
+function openModal(images) {
+	images.forEach((i) => {
+		var e = document.createElement('img');
+		e.classList = 'w-full';
+		e.src = i;
+		e.alt = i;
+		currentList.push(e);
+		modal.append(e);
+	});
+	modal.classList.add('show-modal');
+	body.style.overflow = 'hidden';
+	modal.scrollTop = 0;
+}
+
+function closeModal() {
+	modal.classList.remove('show-modal');
+	currentList.forEach(function (e) {
+		e.remove();
+	});
+	body.style.overflow = 'auto';
+}
+
+function windowOnClick(event) {
+	if (event.target == modal) {
+		closeModal();
+	}
+}
+
+window.addEventListener('click', windowOnClick);

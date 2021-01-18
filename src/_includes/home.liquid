@@ -49,7 +49,11 @@ layout: base.liquid
   <div class='swiper-container overflow-hidden h-56 md:h-64 w-full'>
     <div class='swiper-wrapper'>
       {% for item in data.projects %}
-        <div class='swiper-slide rounded-lg' style='background-image: url({{item.images[0]}});background-position: center;background-repeat: no-repeat;background-size: cover;'></div>
+        <div class='swiper-slide rounded-lg relative project-item' onclick='openModal({{item.images}})' style='background-image: url({{item.images[0]}});background-position: center;background-repeat: no-repeat;background-size: cover;'>
+          <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex items-center justify-center'>
+            <h4 class='text-white font-bold text-xl'>{{item.name}}</h4>
+          </div>
+        </div>
       {% endfor %}
     </div>
     <div class='swiper-button-next'></div>
@@ -101,3 +105,8 @@ layout: base.liquid
     </div>
   </div>
 </section>
+<div class='px-10 modal py-20 sm:px-16 md:px-24 overflow-auto'>
+  <button class='fixed text-5xl top-4 right-4 cursor-pointer text-white hover:opacity-80 duration-300 transition' onclick='closeModal()'>
+    &times;
+  </button>
+</div>
