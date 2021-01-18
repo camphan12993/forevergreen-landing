@@ -52,13 +52,13 @@ function openModal(images) {
 		currentList.push(e);
 		modal.append(e);
 	});
-	modal.classList.add('show-modal');
+	modal.classList.add('active');
 	body.style.overflow = 'hidden';
 	modal.scrollTop = 0;
 }
 
 function closeModal() {
-	modal.classList.remove('show-modal');
+	modal.classList.remove('active');
 	currentList.forEach(function (e) {
 		e.remove();
 	});

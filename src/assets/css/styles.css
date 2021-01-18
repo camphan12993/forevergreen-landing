@@ -90,7 +90,7 @@ header.scrolled {
 	border-radius: 0.5rem;
 }
 
-.show-modal {
+.active {
 	opacity: 1;
 	visibility: visible;
 	transform: scale(1);
