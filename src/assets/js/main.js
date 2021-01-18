@@ -1,14 +1,22 @@
 window.onload = function () {
 	var swiper = new Swiper('.swiper-container', {
-		slidesPerView: 3,
 		navigation: {
 			nextEl: '.swiper-button-next',
 			prevEl: '.swiper-button-prev',
 		},
-		spaceBetween: 30,
 		pagination: {
 			el: '.swiper-pagination',
 			clickable: true,
+		},
+		breakpoints: {
+			640: {
+				slidesPerView: 2,
+				spaceBetween: 20,
+			},
+			768: {
+				slidesPerView: 3,
+				spaceBetween: 40,
+			},
 		},
 	});
 
@@ -25,3 +33,8 @@ window.onload = function () {
 		header.classList.add('scrolled');
 	}
 };
+
+function toggleMenu() {
+	var mainNav = document.getElementById('nav-menu');
+	mainNav.classList.toggle('active');
+}

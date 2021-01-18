@@ -34,15 +34,32 @@
   </head>
   <body class='bg-secondary min-h-screen'>
     <header class='fixed top-0 left-0 right-0 z-50 transition duration-500'>
-      <div class='px-4 py-6'>
+      <div class='px-4 py-3 flex items-center justify-between'>
         <h3 class='text-white text-4xl text-center mb-4'>Logo</h3>
-        <ul class='flex items-center justify-center' id='menu'>
+        <ul class='hidden sm:flex sm:items-center sm:justify-center' id='menu'>
           {% for item in settings.header.menu %}
             <li class='px-4'>
               <a class='hover:text-primary transition duration-300 text-white' href='{{settings.meta.siteUrl | append: item.url}}'>{{item.name}}</a>
             </li>
           {% endfor %}
         </ul>
+        <button class='hover:opacity-60 sm:hidden text-white transition duration-300 outline-none focus:outline-none' onclick='toggleMenu()'>
+          <ion-icon class='text-2xl' name='menu-outline'></ion-icon>
+        </button>
+      </div>
+      <div class='fixed overlay-menu inset-0' id='nav-menu' style='z-index: 9999;'>
+        <div class='absolute flex flex-col items-center justify-center inset-0' id='nav-menu-wrapper'>
+          <button aria-label='Close Menu' class='absolute right-0 top-0 p-1 transition duration-300 text-secondary opacity-75 hover:opacity-50 focus:outline-none' onclick='toggleMenu()' style='margin-right:24px;margin-top:24px'>
+            <ion-icon class='text-3xl' name='close-outline'></ion-icon>
+          </button>
+          <ul id='nav-item'>
+            {% for item in settings.header.menu %}
+              <li class='px-4 py-2'>
+                <a class='hover:text-primary transition duration-300' href='{{settings.meta.siteUrl | append: item.url}}' onclick='toggleMenu()'>{{item.name}}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </header>
     <main class='w-full overflow-hidden'>
