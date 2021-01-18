@@ -18,6 +18,7 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
 		'theme-dark',
 		'sm:grid-cols-3',
 		'sm:grid-cols-4',
+		'fixed-top',
 		/swiper/g,
 	],
 	// Include any special characters you're using in this regular expression
