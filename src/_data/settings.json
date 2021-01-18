@@ -2,7 +2,7 @@
 	"meta": {
 		"title": "Forever Green",
 		"description": "Forever Green",
-		"siteUrl": "https://nmimiclothing.com",
+		"siteUrl": "",
 		"siteName": "Forever Green",
 		"imgSrc": "/assets/imgs/plant.jpg",
 		"imgAtl": "Forever Green"
@@ -11,19 +11,19 @@
 		"menu": [
 			{
 				"name": "Home",
-				"url": "#"
+				"url": "/#"
 			},
 			{
-				"name": "Collections",
-				"url": "#collections"
+				"name": "Projects",
+				"url": "/projects"
 			},
 			{
 				"name": "About",
-				"url": "#about"
+				"url": "/#about"
 			},
 			{
 				"name": "Gallery",
-				"url": "#gallery"
+				"url": "/#gallery"
 			}
 		],
 		"logoWhiteUrl": "https://res.cloudinary.com/dab00oody/image/upload/v1610590390/landing/logowhite_jmhtdt.png",

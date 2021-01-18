@@ -9,6 +9,18 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	scroll-behavior: smooth;
+	color: white;
+}
+main {
+	min-height: 100vh;
+}
+
+header {
+	@apply transition py-20 duration-500 flex items-center justify-between sm:block;
+}
+
+header.fixed-top {
+	@apply fixed top-0 left-0 right-0 z-50 px-4 py-3;
 }
 
 header.scrolled {

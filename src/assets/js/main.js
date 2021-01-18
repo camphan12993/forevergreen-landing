@@ -1,4 +1,19 @@
 window.onload = function () {
+	const options = {
+		/* check next step for available options */
+	};
+	AOS.init();
+
+	// Adjust the CSS selector to match the container where
+	// you set up your image gallery
+	var elem = document.querySelector('.grid');
+	if (elem) {
+		var msnry = new Masonry(elem, {
+			// options
+			itemSelector: '.grid-item',
+		});
+	}
+
 	var swiper = new Swiper('.swiper-container', {
 		navigation: {
 			nextEl: '.swiper-button-next',
@@ -23,14 +38,13 @@ window.onload = function () {
 	var header = document.querySelector('header');
 	var pathname = window.location.pathname;
 	if (pathname == '/') {
+		header.classList.add('fixed-top');
 		if (window.scrollY > 100) {
 			header.classList.add('scrolled');
 		}
 		window.addEventListener('scroll', function () {
 			header.classList.toggle('scrolled', window.scrollY > 100);
 		});
-	} else {
-		header.classList.add('scrolled');
 	}
 };
 
