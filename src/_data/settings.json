@@ -1,11 +1,11 @@
 {
 	"meta": {
-		"title": "Nmimi Offical",
-		"description": "Nmimi Offical",
+		"title": "Forever Green",
+		"description": "Forever Green",
 		"siteUrl": "https://nmimiclothing.com",
-		"siteName": "Nmimi Offical",
-		"imgSrc": "https://res.cloudinary.com/dab00oody/image/upload/v1610782125/landing/700333c0a7fb57a50eea_vigaof.jpg",
-		"imgAtl": "Nmimi Offical"
+		"siteName": "Forever Green",
+		"imgSrc": "/assets/imgs/plant.jpg",
+		"imgAtl": "Forever Green"
 	},
 	"header": {
 		"menu": [
