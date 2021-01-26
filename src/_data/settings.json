@@ -8,6 +8,7 @@
 		"imgAtl": "Forever Green"
 	},
 	"header": {
+		"logo": "/assets/imgs/logo.png",
 		"menu": [
 			{
 				"name": "Home",
