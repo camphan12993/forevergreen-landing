@@ -2,6 +2,7 @@
 layout: home.liquid
 title: SPRING LOOKBOOK.
 description: Best choice for our new season.
+logo: /assets/imgs/logo.png
 categories:
   - /assets/imgs/plant.jpg
   - /assets/imgs/plant.jpg

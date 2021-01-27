@@ -4,16 +4,6 @@ window.onload = function () {
 	};
 	AOS.init();
 
-	// Adjust the CSS selector to match the container where
-	// you set up your image gallery
-	var elem = document.querySelector('.grid-content');
-	if (elem) {
-		var msnry = new Masonry(elem, {
-			// options
-			itemSelector: '.grid-item',
-		});
-	}
-
 	var swiper = new Swiper('.swiper-container', {
 		navigation: {
 			nextEl: '.swiper-button-next',
@@ -36,16 +26,12 @@ window.onload = function () {
 	});
 
 	var header = document.querySelector('header');
-	var pathname = window.location.pathname;
-	if (pathname == '/') {
-		header.classList.add('fixed-top');
-		if (window.scrollY > 100) {
-			header.classList.add('scrolled');
-		}
-		window.addEventListener('scroll', function () {
-			header.classList.toggle('scrolled', window.scrollY > 100);
-		});
+	if (window.scrollY > 150) {
+		header.classList.add('scrolled');
 	}
+	window.addEventListener('scroll', function () {
+		header.classList.toggle('scrolled', window.scrollY > 150);
+	});
 };
 
 var currentList = [];
@@ -56,6 +42,14 @@ function toggleMenu() {
 }
 var modal = document.querySelector('.modal');
 var body = document.querySelector('body');
+
+var pathname = window.location.pathname;
+if (pathname.includes('projects')) {
+	var colc = new Colcade('.projects', {
+		columns: '.grid-col',
+		items: '.grid-item',
+	});
+}
 
 function openModal(images) {
 	images.forEach((i) => {
