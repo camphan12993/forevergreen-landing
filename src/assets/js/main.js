@@ -6,7 +6,7 @@ window.onload = function () {
 
 	// Adjust the CSS selector to match the container where
 	// you set up your image gallery
-	var elem = document.querySelector('.grid');
+	var elem = document.querySelector('.grid-content');
 	if (elem) {
 		var msnry = new Masonry(elem, {
 			// options

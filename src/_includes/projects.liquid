@@ -3,7 +3,10 @@ layout: base.liquid
 ---
 <!-- projects -->
 <section class='container'>
-  <div class='grid'>
+  <h2 class='text-4xl ml-4 mb-6 font-bold opacity-60 tracking-widest uppercase'>
+    PROJECTS
+  </h2>
+  <div class='grid-content'>
     {% for item in data.projects %}
       <div class='grid-item w-full sm:w-1/2 md:w-1/3 py-4 sm:p-4' onclick='openModal({{item.images}})'>
         <div class='w-full relative project-item rounded-lg overflow-hidden'>
