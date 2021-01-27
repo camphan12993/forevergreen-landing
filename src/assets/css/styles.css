@@ -24,7 +24,7 @@ header.scrolled {
 }
 
 header.scrolled img {
-  @apply h-0 duration-500 transition-all delay-75;
+  @apply h-0 duration-300 transition-all;
 }
 
 .project-item:hover > div {
@@ -32,7 +32,7 @@ header.scrolled img {
 }
 
 .section {
-  @apply py-8 sm:py-16;
+  @apply py-16 sm:py-32;
 }
 
 .banner-gradient {
