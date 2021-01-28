@@ -1,0 +1,21 @@
+---
+layout: base.liquid
+---
+<section class='container section mt-56'>
+  <h3 class='text-3xl mb-8 uppercase'>{{title}}</h3>
+  <div class='grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
+    {% for item in items %}
+      <div class='mb-6'>
+        <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal([{{item.images}}])'>
+          <img alt=' {{item.id}} ' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{item.images[0]}}'></div>
+        <div class='text-xl font-bold mb-1'>{{item.name}}</div>
+        {% if item.price %}
+          <div class='font-thin opacity-60 tracking-widest'>{{item.price | | append: ' đ'}}</div>
+        {% endif %}
+        {% if item.description %}
+          <div class='font-thin opacity-60'>{{item.description}}</div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</section>
