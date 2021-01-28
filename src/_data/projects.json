@@ -1,5 +1,8 @@
 {
-  "projects": [
+  "title": "Projects",
+  "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas officia, adipisci nobis nisi illo dolore aliquam eaque architecto",
+  "cover": "/assets/imgs/bg.jpg",
+  "items": [
     {
       "name": "Project 1",
       "description": "This is our project",
