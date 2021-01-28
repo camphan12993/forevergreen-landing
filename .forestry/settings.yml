@@ -8,7 +8,7 @@ sections:
   path: src/_data/settings.json
   label: Settings
 - type: document
-  path: src/_data/projects.json
+  path: src/_data/project.json
   label: Projects
 - type: document
   path: src/material.md
