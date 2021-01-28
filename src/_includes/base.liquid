@@ -34,7 +34,7 @@
   </head>
   <body class='bg-secondary min-h-screen'>
     <header>
-      <img src="{{settings.cloudinary_url}}/w_200{{settings.header.logo}}" alt='logo' class='h-32 m-auto transition-all duration-300'>
+      <img src="{{settings.cloudinary_url}}{{settings.header.logo}}" alt='logo' class='h-32 m-auto transition-all duration-300'>
       <ul class='hidden sm:flex sm:items-center sm:justify-center' id='menu'>
         {% for item in settings.header.menu %}
           <li class='px-4'>
