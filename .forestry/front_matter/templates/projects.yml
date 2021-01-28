@@ -25,3 +25,5 @@ fields:
     type: image_gallery
     config: {}
     label: images
+pages:
+- src/_data/projects.json
