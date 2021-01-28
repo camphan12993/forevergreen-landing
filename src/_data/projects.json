@@ -4,6 +4,15 @@
   "cover": "/assets/imgs/bg.jpg",
   "items": [
     {
+      "name": "Test Project",
+      "description": "This is a project",
+      "images": [
+
+      ],
+      "id": "test",
+      "price": "2000"
+    },
+    {
       "name": "Project 1",
       "description": "This is our project",
       "images": [
