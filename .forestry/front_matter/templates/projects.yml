@@ -24,9 +24,3 @@ fields:
   - type: list
     name: images
     label: images
-  - type: text
-    name: id
-    label: id
-  - type: text
-    name: price
-    label: price
