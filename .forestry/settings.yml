@@ -14,7 +14,7 @@ sections:
   path: src/decor.md
   label: Decor
 - type: document
-  path: src/projects.md
+  path: src/_data/data.json
   label: Projects
 - type: document
   path: src/index.md
