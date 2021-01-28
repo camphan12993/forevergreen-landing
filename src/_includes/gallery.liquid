@@ -6,8 +6,8 @@ layout: base.liquid
   <div class='grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
     {% for item in items %}
       <div class='mb-6'>
-        <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item.images}})'>
-          <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{item.images[0]}}'></div>
+        <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")'>
+          <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{settings.cloudinary_url}}{{item.images[0]}}'></div>
         <div class='text-xl font-bold mb-1'>{{item.name}}</div>
         {% if item.price %}
           <div class='font-thin opacity-60 tracking-widest'>{{item.price | | append: ' đ'}}</div>

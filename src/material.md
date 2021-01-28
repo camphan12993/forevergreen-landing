@@ -5,37 +5,37 @@ items:
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Fabric
     description: this is something called fabric
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
 ---

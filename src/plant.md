@@ -6,45 +6,45 @@ items:
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
   - name: Catus
     id: plant1
     price: 10000
     images:
-      - /assets/imgs/plant.jpg
+      - /v1611827320/plant_yryt8e.jpg
 ---

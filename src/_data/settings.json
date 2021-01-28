@@ -4,11 +4,11 @@
 		"description": "Forever Green",
 		"siteUrl": "",
 		"siteName": "Forever Green",
-		"imgSrc": "/assets/imgs/plant.jpg",
+		"imgSrc": "/v1611827320/plant_yryt8e.jpg",
 		"imgAtl": "Forever Green"
 	},
 	"header": {
-		"logo": "/assets/imgs/logo.png",
+		"logo": "/v1611827319/logo_cwgn2v.png",
 		"menu": [
 			{
 				"name": "Home",
@@ -51,9 +51,9 @@
 		]
 	},
 	"footer": {
-		"logoUrl": "https://res.cloudinary.com/dab00oody/image/upload/v1610590389/landing/logo_uweajp.png",
 		"address": "110 Ngo Gia Tu, Hai Chau, Da Nang, Viet Nam",
 		"phone": "(+84) 905 611 468",
 		"address1": "Hai Chau, Da Nang"
-	}
+	},
+	"cloudinary_url":"https://res.cloudinary.com/dhcoxgtyw/image/upload"
 }
