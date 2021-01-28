@@ -1,26 +1,5 @@
 AOS.init();
 
-var swiper = new Swiper('.swiper-container', {
-  navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
-  },
-  pagination: {
-    el: '.swiper-pagination',
-    clickable: true,
-  },
-  breakpoints: {
-    640: {
-      slidesPerView: 2,
-      spaceBetween: 28,
-    },
-    768: {
-      slidesPerView: 3,
-      spaceBetween: 28,
-    },
-  },
-});
-
 var header = document.querySelector('header');
 if (window.scrollY > 150) {
   header.classList.add('scrolled');
@@ -43,6 +22,27 @@ if (pathname.includes('projects')) {
   var colc = new Colcade('.projects', {
     columns: '.grid-col',
     items: '.grid-item',
+  });
+} else if (pathname == '/') {
+  var swiper = new Swiper('.swiper-container', {
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      640: {
+        slidesPerView: 2,
+        spaceBetween: 28,
+      },
+      768: {
+        slidesPerView: 3,
+        spaceBetween: 28,
+      },
+    },
   });
 }
 
