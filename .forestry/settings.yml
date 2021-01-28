@@ -9,8 +9,8 @@ sections:
     label: Settings
     match: '**/*'
   - type: document
-    path: src/_data/data.json
-    label: Data
+    path: src/_data/projects.json
+    label: Projects
     match: '**/*'
   - type: document
     path: src/material.md
