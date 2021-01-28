@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: src/data/_data.json
+  label: Data
+  match: "**/*"
+- type: document
   path: src/material.md
   label: Material
 - type: document
