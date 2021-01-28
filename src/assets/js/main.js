@@ -1,38 +1,33 @@
-window.onload = function () {
-  const options = {
-    /* check next step for available options */
-  };
-  AOS.init();
+AOS.init();
 
-  var swiper = new Swiper('.swiper-container', {
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
+var swiper = new Swiper('.swiper-container', {
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+  pagination: {
+    el: '.swiper-pagination',
+    clickable: true,
+  },
+  breakpoints: {
+    640: {
+      slidesPerView: 2,
+      spaceBetween: 28,
     },
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
+    768: {
+      slidesPerView: 3,
+      spaceBetween: 28,
     },
-    breakpoints: {
-      640: {
-        slidesPerView: 2,
-        spaceBetween: 28,
-      },
-      768: {
-        slidesPerView: 3,
-        spaceBetween: 28,
-      },
-    },
-  });
+  },
+});
 
-  var header = document.querySelector('header');
-  if (window.scrollY > 150) {
-    header.classList.add('scrolled');
-  }
-  window.addEventListener('scroll', function () {
-    header.classList.toggle('scrolled', window.scrollY > 150);
-  });
-};
+var header = document.querySelector('header');
+if (window.scrollY > 150) {
+  header.classList.add('scrolled');
+}
+window.addEventListener('scroll', function () {
+  header.classList.toggle('scrolled', window.scrollY > 150);
+});
 
 var currentList = [];
 
