@@ -7,19 +7,15 @@ sections:
 - type: document
   path: src/material.md
   label: Material
-  match: "**/*"
 - type: document
   path: src/plant.md
   label: Plants
-  match: "**/*"
 - type: document
   path: src/decor.md
   label: Decor
-  match: "**/*"
 - type: document
   path: src/projects.md
   label: Projects
-  match: "**/*"
 - type: document
   path: src/index.md
   label: Home
