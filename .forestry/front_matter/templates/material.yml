@@ -24,4 +24,5 @@ fields:
     label: images
 pages:
 - src/decor.md
+- src/material.md
 - src/plant.md
