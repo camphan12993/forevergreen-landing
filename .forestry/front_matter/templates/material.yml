@@ -1,0 +1,23 @@
+---
+label: Material
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: items
+  label: items
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
+  - type: image_gallery
+    name: images
+    label: images
