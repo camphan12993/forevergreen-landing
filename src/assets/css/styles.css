@@ -102,6 +102,25 @@ header.scrolled img {
   border-radius: 0.5rem;
 }
 
+.fading {
+  animation: aniamtion-fading 6.5s infinite;
+}
+
+@keyframes aniamtion-fading {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
 .active {
   opacity: 1;
   visibility: visible;

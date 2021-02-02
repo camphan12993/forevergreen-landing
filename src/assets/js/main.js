@@ -9,6 +9,21 @@ window.addEventListener('scroll', function () {
 });
 
 var currentList = [];
+var myIndex = 0;
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName('banner-slide');
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = 'none';
+  }
+  myIndex++;
+  if (myIndex > x.length) {
+    myIndex = 1;
+  }
+  x[myIndex - 1].style.display = 'block';
+  setTimeout(carousel, 6000);
+}
 
 function toggleMenu() {
   var mainNav = document.getElementById('nav-menu');
@@ -24,6 +39,7 @@ if (pathname.includes('projects')) {
     items: '.grid-item',
   });
 } else if (pathname == '/') {
+  carousel();
   var swiper = new Swiper('.swiper-container', {
     navigation: {
       nextEl: '.swiper-button-next',

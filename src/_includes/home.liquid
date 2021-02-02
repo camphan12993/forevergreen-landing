@@ -3,14 +3,16 @@ layout: base.liquid
 ---
 <!-- banner -->
 <div class='min-h-screen relative'>
-  <img alt='bg' class='absolute h-full w-full object-cover object-center' src='{{settings.cloudinary_url}}{{banner}}'>
+  {% for item in banner.images %}
+    <img src="{{settings.cloudinary_url}}/fl_progressive,q_auto:best{{item}}" alt='slide' class='banner-slide fading absolute w-full h-full object-center object-cover'>
+  {% endfor %}
   <div class='absolute inset-0 banner-gradient'></div>
   <div class='absolute container flex flex-col justify-center inset-0'>
     <h1 class='text-3xl sm:text-5xl text-white font-semibold leading-tight mb-3' data-aos='fade-right'>
-      {{ title }}
+      {{ banner.title }}
     </h1>
     <p class='text-md sm:text-lg text-white mb-10' data-aos-delay='200' data-aos='fade-left'>
-      {{ description }}
+      {{ banner.description }}
     </p>
     <span>
       <a class='duration-300 transition border-white border-2 text-white font-medium py-3 px-10 hover:bg-white hover:text-secondary' href='#about'>
