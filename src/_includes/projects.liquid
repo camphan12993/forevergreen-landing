@@ -2,12 +2,12 @@
 layout: base.liquid
 ---
 <!-- projects -->
-<section class='container section mt-64'>
+<section class='container section mt-48'>
   <h3 class='text-3xl mb-8'>PROJECTS</h3>
   <div class='projects flex'>
     <div class='grid-col sm:mr-8 md:mr-10 flex-1'></div>
     <div class='grid-col mr-6 sm:mr-8 md:mr-10 flex-1 hidden md:block'></div>
-    <div class='grid-col mr-6 sm:mr-8 md:mr-10 flex-1 hidden lg:block'></div>
+    <div class='grid-col mr-6 sm:mr-8 md:mr-10 flex-1 hidden xl:block'></div>
     <div class='grid-col flex-1 hidden sm:block'></div>
     {% for item in projects.items %}
       <div class='grid-item w-full mb-6 sm:mb-8 md:mb-10' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")'>
