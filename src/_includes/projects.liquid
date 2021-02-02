@@ -10,7 +10,7 @@ layout: base.liquid
     <div class='grid-col mr-6 sm:mr-8 md:mr-10 flex-1 hidden xl:block'></div>
     <div class='grid-col flex-1 hidden sm:block'></div>
     {% for item in projects.items %}
-      <div class='grid-item w-full mb-6 sm:mb-8 md:mb-10' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")'>
+      <div class='grid-item w-full mb-6 sm:mb-8 md:mb-10' data-aos='fade-up' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")'>
         <div class='w-full relative project-item rounded-lg overflow-hidden'>
           <img src="{{settings.cloudinary_url}}{{item.images[0]}}" alt='' class='w-full '>
           <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex items-center justify-center'>

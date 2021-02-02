@@ -33,6 +33,9 @@
     <meta property='twitter:image:alt' content="{{ settings.meta.imgAlt }}">
   </head>
   <body class='bg-secondary min-h-screen'>
+    <div class='fixed inset-0 bg-secondary flex items-center justify-center' id='loading' style='z-index: 999999;'>
+      <img src="{{settings.cloudinary_url}}{{settings.header.logo}}" class='h-32 logo-animation' alt='log0'>
+    </div>
     <header>
       <img src="{{settings.cloudinary_url}}{{settings.header.logo}}" alt='logo' class='h-32 m-auto transition-all duration-300'>
       <ul class='hidden sm:flex sm:items-center sm:justify-center' id='menu'>

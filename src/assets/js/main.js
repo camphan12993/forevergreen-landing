@@ -90,4 +90,8 @@ function windowOnClick(event) {
   }
 }
 
+setTimeout(function () {
+  document.querySelector('#loading').classList.add('fade-out');
+}, 1500);
+
 window.addEventListener('click', windowOnClick);

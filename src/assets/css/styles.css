@@ -121,6 +121,35 @@ header.scrolled img {
   }
 }
 
+/* loading */
+#loading.fade-out {
+  animation: fadeOut 1s both;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.logo-animation {
+  animation: logoanimation 1s ease-in-out 0s alternate infinite;
+}
+
+@keyframes logoanimation {
+  0% {
+    transform: scaleX(0);
+  }
+
+  100% {
+    transform: scaleX(1);
+  }
+}
+
 .active {
   opacity: 1;
   visibility: visible;
