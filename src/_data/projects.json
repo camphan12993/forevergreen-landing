@@ -1,15 +1,14 @@
 {
   "title": "Projects",
   "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas officia, adipisci nobis nisi illo dolore aliquam eaque architecto",
-  "cover": "/v1611827319/bg_gprvqq.jpg",
+  "cover": "/assets/imgs/bg.jpg",
   "items": [
     {
       "name": "Test Project",
       "description": "This is a project",
       "images": [
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg"
+        "/v1612247779/tay-%C4%91o%CC%9B%CC%83-ma%CC%80n-hi%CC%80nh_exd6c2.jpg",
+        "/v1611826457/Traditional-VIETNAM-food-in-Hue-style----Spare-rib-pickled-vegetables-salad-carrots_1285565959_q3hzo9.jpg"
       ],
       "id": "test",
       "price": "2000"
@@ -18,36 +17,36 @@
       "name": "Project 1",
       "description": "This is our project",
       "images": [
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg"
+        "/assets/imgs/plant.jpg",
+        "/assets/imgs/plant.jpg",
+        "/assets/imgs/plant.jpg"
       ]
     },
     {
       "name": "Project 1",
       "description": "This is our project",
       "images": [
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg"
+        "/assets/imgs/plant1.jpg",
+        "/assets/imgs/plant.jpg",
+        "/assets/imgs/plant.jpg"
       ]
     },
     {
       "name": "Project 1",
       "description": "This is our project",
       "images": [
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg"
+        "/assets/imgs/plant.jpg",
+        "/assets/imgs/plant.jpg",
+        "/assets/imgs/plant.jpg"
       ]
     },
     {
       "name": "Project 1",
       "description": "This is our project",
       "images": [
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg",
-        "/v1611827320/plant_yryt8e.jpg"
+        "/assets/imgs/plant1.jpg",
+        "/assets/imgs/plant.jpg",
+        "/assets/imgs/plant.jpg"
       ]
     }
   ]
