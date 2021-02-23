@@ -19,22 +19,11 @@ fields:
   - type: image_gallery
     name: images
     label: images
-- type: field_group
-  name: about
-  label: about
-  fields:
-  - type: textarea
-    name: description
-    label: description
-  - type: file
-    name: cover
-    label: cover
 - type: image_gallery
   name: categories
   label: categories
 - type: field_group
   name: plant
-  label: plant
   fields:
   - type: file
     name: cover
@@ -48,9 +37,10 @@ fields:
   - type: text
     name: url
     label: url
+  label: Plants
+  description: Cây xanh nội thất
 - type: field_group
-  name: decor
-  label: decor
+  name: flower
   fields:
   - type: file
     name: cover
@@ -64,9 +54,9 @@ fields:
   - type: text
     name: url
     label: url
+  label: Flowers
 - type: field_group
   name: material
-  label: material
   fields:
   - type: file
     name: cover
@@ -80,5 +70,12 @@ fields:
   - type: text
     name: url
     label: url
+  label: Materials
+- name: lookbook
+  type: include
+  config: {}
+  template: home
+  label: Lookbook
+  hidden: false
 pages:
 - src/index.md
