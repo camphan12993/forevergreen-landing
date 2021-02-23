@@ -21,11 +21,9 @@ plant:
   url: "/plant"
 decor:
   cover: "/v1611827320/plant_yryt8e.jpg"
-  title: Decoration
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
-    blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
-    officia, adipisci nobis nisi illo dolore aliquam eaque architecto
-  url: "/decor"
+  title: Flowers
+  description: ''
+  url: "/flower"
 material:
   cover: "/v1611827320/plant_yryt8e.jpg"
   title: Materials
