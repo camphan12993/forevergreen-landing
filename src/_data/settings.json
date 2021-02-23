@@ -19,12 +19,12 @@
         "url": "/projects"
       },
       {
-        "name": "Plant",
-        "url": "/plant"
-      },
-      {
         "name": "Material",
         "url": "/material"
+      },
+      {
+        "name": "Plant",
+        "url": "/plant"
       },
       {
         "name": "Flowers",
@@ -38,7 +38,7 @@
     "socials": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nmimi.official",
+        "url": "https://www.facebook.com/LaChance.FG",
         "icon": "logo-facebook"
       },
       {
