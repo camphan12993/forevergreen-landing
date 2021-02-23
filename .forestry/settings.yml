@@ -18,7 +18,7 @@ sections:
   label: Plants
 - type: document
   path: src/decor.md
-  label: Decor
+  label: Flowers
 - type: document
   path: src/index.md
   label: Home
