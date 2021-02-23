@@ -27,8 +27,12 @@
         "url": "/material"
       },
       {
-        "name": "Decoration",
-        "url": "/decor"
+        "name": "Flowers",
+        "url": "/flowers"
+      },
+      {
+        "name": "Lookbook",
+        "url": "/lookbook"
       }
     ],
     "socials": [
