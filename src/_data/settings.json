@@ -33,6 +33,10 @@
       {
         "name": "Lookbook",
         "url": "/lookbook"
+      },
+      {
+        "name": "Contact",
+        "url": "/contact"
       }
     ],
     "socials": [
