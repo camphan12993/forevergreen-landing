@@ -3,19 +3,38 @@ layout: base.liquid
 ---
 <section class='container section mt-48'>
   <h3 class='text-3xl mb-8 uppercase'>{{title}}</h3>
-  <div class='grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
-    {% for item in items %}
-      <div class='mb-6' data-aos='fade-up'>
-        <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")'>
-          <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{settings.cloudinary_url}}{{item.images[0]}}'></div>
-        <div class='text-xl font-bold mb-1'>{{item.name}}</div>
-        {% if item.price %}
-          <div class='font-thin opacity-60 tracking-widest'>{{item.price | | append: ' đ'}}</div>
-        {% endif %}
-        {% if item.description %}
-          <div class='font-thin opacity-60'>{{item.description}}</div>
-        {% endif %}
+  {% if categories.length > 1 %}
+    <div class='flex flex-wrap items-center justify-end mb-4' id='list-categories'>
+      {% for item in categories %}
+        <div class='{% if forloop.first %}active{% endif %} px-3 py-1 rounded-full border-white border mr-2 mb-2' onclick='setActiveCategory("{{forloop.index}}")'>
+          {{ item.name }}
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+  {% for cat in categories %}
+
+    {% if cat.items %}
+      <div data-active='{{forloop.index}}' class='categories {% if forloop.first == false %}hidden{% endif %} grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
+        {% for item in cat.items %}
+          <div class='mb-6' data-aos='fade-up'>
+            <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")'>
+              <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{settings.cloudinary_url}}{{item.images[0]}}'></div>
+            <div class='text-md font-bold mb-1'>{{item.name}}</div>
+            {% if item.price %}
+              <div class='font-thin opacity-60 tracking-widest'>{{item.price | | append: ' đ'}}</div>
+            {% endif %}
+            {% if item.description %}
+              <div class='font-thin opacity-60'>{{item.description}}</div>
+            {% endif %}
+          </div>
+        {% endfor %}
       </div>
-    {% endfor %}
-  </div>
+    {% else %}
+      <div class='opacity-60'>
+        No Items Available
+      </div>
+    {% endif %}
+  {% endfor %}
+
 </section>

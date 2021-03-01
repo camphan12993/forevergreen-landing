@@ -8,17 +8,20 @@ layout: base.liquid
   {% endfor %}
   <div class='absolute inset-0 banner-gradient'></div>
   <div class='absolute container flex flex-col justify-center inset-0'>
-    <h1 class='text-3xl sm:text-5xl text-white font-semibold leading-tight mb-3' data-aos='fade-right'>
-      {{ banner.title }}
-    </h1>
-    <p class='text-md sm:text-lg text-white mb-10' data-aos-delay='200' data-aos='fade-left'>
-      {{ banner.description }}
-    </p>
-    <span>
-      <a class='duration-300 transition border-white border-2 text-white font-medium py-3 px-10 hover:bg-white hover:text-secondary' href='#about'>
-        Explore
-      </a>
-    </span>
+    <div class='xl:w-2/3'>
+      <h1 class='text-4xl sm:text-6xl text-white font-semibold leading-tight mb-10' data-aos='fade-right'>
+        {{ banner.title }}
+      </h1>
+      <p class='text-md sm:text-lg text-white mb-10 ' data-aos-delay='200' data-aos='fade-left'>
+        {{ banner.description }}
+      </p>
+      <span>
+        <a class='duration-300 transition border-white border-2 text-white font-medium py-3 px-10 hover:bg-white hover:text-secondary' href='#about'>
+          {{banner.button}}
+        </a>
+      </span>
+    </div>
+
 
   </div>
   <div class='absolute right-6 bottom-6 socials flex flex-col'>
@@ -47,7 +50,7 @@ layout: base.liquid
 <!-- about us -->
 <section class='section container' id='about'>
   <h2 class='uppercase text-3xl sm:text-4xl text-white text-center mb-4' data-aos='fade-up'>
-    About Us
+    {{about.title}}
   </h2>
   <p class='text-center text-white mb-10  md:w-2/3 m-auto' data-aos-delay='200' data-aos='fade-right'>{{about.description}}</p>
   <div class='relative pb-1/2 sm:pb-1/3' data-aos-delay='400' data-aos='fade-right'>
@@ -69,7 +72,8 @@ layout: base.liquid
   </div>
   <div class='swiper-container h-56 md:h-64 w-full' data-aos='fade-up'>
     <div class='swiper-wrapper'>
-      {% for item in projects.items %}
+      {% assign prts = projects.collections | getProjects %}
+      {% for item in prts %}
         <div class='swiper-slide rounded-lg relative project-item' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")' style='background-image: url({{settings.cloudinary_url}}{{item.images[0]}});background-position: center;background-repeat: no-repeat;background-size: cover;'>
           <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex items-center justify-center'>
             <h4 class='text-white font-bold text-xl'>{{item.name}}</h4>
@@ -93,7 +97,7 @@ layout: base.liquid
         {{plant.title}}
       </h2>
       <p class='text-white mb-4'>{{plant.description}}</p>
-      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{plant.url}}'>Explore More</a>
+      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{plant.link.url}}'>{{plant.link.text}}</a>
     </div>
   </div>
 </section>
@@ -107,7 +111,7 @@ layout: base.liquid
         {{decor.title}}
       </h2>
       <p class='text-white mb-4'>{{decor.description}}</p>
-      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{decor.url}}'>Explore More</a>
+      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{decor.link.url}}'>{{decor.link.text}}</a>
     </div>
   </div>
 </section>
@@ -122,7 +126,7 @@ layout: base.liquid
         {{material.title}}
       </h2>
       <p class='text-white mb-4'>{{material.description}}</p>
-      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{material.url}}'>Explore More</a>
+      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{material.link.url}}'>{{material.link.text}}</a>
     </div>
   </div>
 </section>
