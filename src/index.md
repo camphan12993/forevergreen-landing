@@ -16,29 +16,39 @@ about:
   title: About Us
   description: ''
   cover: ''
-categories: []
-plant:
-  cover: '/v1611827320/plant_yryt8e.jpg'
-  title: Plants
-  description: Cây xanh nội thất
-  link:
-    url: '/plant'
-    text: Explore More
-decor:
-  cover: '/v1611827320/plant_yryt8e.jpg'
-  title: Flowers
-  description: ''
-  link:
-    url: '/plant'
-    text: Explore More
-material:
-  cover: '/v1611827320/plant_yryt8e.jpg'
-  title: Materials
-  description:
-    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
-    blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
-    officia, adipisci nobis nisi illo dolore aliquam eaque architecto
-  link:
-    url: '/material'
-    text: Explore More
+categories:
+  - '/v1611827320/plant_yryt8e.jpg'
+  - '/v1611827320/plant_yryt8e.jpg'
+  - '/v1611827320/plant_yryt8e.jpg'
+callout:
+  - name: plant
+    title: Plants
+    link:
+      url: /plants
+      text: View More
+    cover: /v1611827320/plant_yryt8e.jpg
+    description:
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
+      blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
+      officia, adipisci nobis nisi illo dolore aliquam eaque architecto
+  - name: flower
+    title: Flowers
+    link:
+      url: /flowers
+      text: View More
+    cover: /v1611827320/plant_yryt8e.jpg
+    description:
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
+      blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
+      officia, adipisci nobis nisi illo dolore aliquam eaque architecto
+  - name: material
+    title: Material
+    link:
+      url: /material
+      text: View More
+    cover: /v1611827320/plant_yryt8e.jpg
+    description:
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
+      blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
+      officia, adipisci nobis nisi illo dolore aliquam eaque architecto
 ---

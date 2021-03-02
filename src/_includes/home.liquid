@@ -1,10 +1,11 @@
 ---
 layout: base.liquid
 ---
+{% assign cloudUrl = settings.cloudinary_url %}
 <!-- banner -->
 <div class='min-h-screen relative'>
   {% for item in banner.images %}
-    <img src="{{settings.cloudinary_url}}/fl_progressive,q_auto:best{{item}}" alt='slide' class='banner-slide fading absolute w-full h-full object-center object-cover'>
+    <img src="{{cloudUrl}}/fl_progressive,q_auto:best{{item}}" alt='slide' class='banner-slide fading absolute w-full h-full object-center object-cover'>
   {% endfor %}
   <div class='absolute inset-0 banner-gradient'></div>
   <div class='absolute container flex flex-col justify-center inset-0'>
@@ -42,7 +43,7 @@ layout: base.liquid
 <section class='section container sm:flex sm:items-center sm:justify-center'>
   {% for item in categories %}
     <div class='w-full mb-6 sm:mb-0 sm:w-1/3 sm:px-4' data-aos='fade-up' data-aos-delay="{{forloop.index | minus:1 | times: 200}}">
-      <div class='w-full pb-full bg-white rounded-lg relative' style='background-image: url({{settings.cloudinary_url}}{{item}});background-position: center;background-repeat: no-repeat;background-size: cover;'></div>
+      <div class='w-full pb-full bg-white rounded-lg relative' style='background-image: url({{cloudUrl}}{{item}});background-position: center;background-repeat: no-repeat;background-size: cover;'></div>
     </div>
   {% endfor %}
 </section>
@@ -54,27 +55,56 @@ layout: base.liquid
   </h2>
   <p class='text-center text-white mb-10  md:w-2/3 m-auto' data-aos-delay='200' data-aos='fade-right'>{{about.description}}</p>
   <div class='relative pb-1/2 sm:pb-1/3' data-aos-delay='400' data-aos='fade-right'>
-    <img alt='about' class='absolute h-full w-full object-center object-cover rounded-lg' src='{{settings.cloudinary_url}}{{about.cover}}'>
+    <img alt='about' class='absolute h-full w-full object-center object-cover rounded-lg' src='{{cloudUrl}}{{about.cover}}'>
+  </div>
+</section>
+{% assign lookbook = collections.lookbook[0].data %}
+{% assign lookbookItems = collections.lookbook[0].data.items | slice:0, 6 %}
+<!-- Collection -->
+<section class='container section mb-16'>
+  <h2 class='uppercase text-4xl flex justify-between items-baseline text-white mb-10' data-aos='fade-right'>
+    {{lookbook.title}}
+    <a class='text-white border inline-block text-base rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' data-aos='fade-up' href='/lookbook'>View All</a>
+
+  </h2>
+  <div class='swiper-lookbook overflow-hidden w-full' data-aos='fade-up'>
+    <div class='swiper-wrapper'>
+      {% for item in lookbook.items  %}
+        <div class='swiper-slide' onclick='openModal({{item}},"{{cloudUrl}}")'>
+          <div class='w-full pb-2/3 relative project-item rounded-lg overflow-hidden cursor-default'>
+            <img class='absolute inset-0 w-full h-full object-center object-cover' src="{{cloudUrl}}{{item.images[0]}}" alt=''>
+            <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex flex-col items-center justify-center'>
+              <h4 class='text-white font-bold text-xl mb-2'>{{item.name}}</h4>
+              <p class='text-white font-thin'>{{item.description}}</h4>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class='swiper-button-next swiper-button-white'></div>
+    <div class='swiper-button-prev swiper-button-white'></div>
+    <!-- Add Pagination -->
   </div>
 </section>
 
+{% assign projects = collections.projects[0].data %}
 <!-- project -->
 <section class='container section mb-16'>
   <div class='sm:flex mb-10'>
     <div class='sm:w-1/3 mr-3'>
-      <h2 class='uppercase text-4xl text-white mb-4' data-aos='fade-right'>
+      <h2 class='uppercase text-4xl text-white mb-6' data-aos='fade-right'>
         {{projects.title}}
       </h2>
       <p class='text-white mb-4' data-aos-delay='200' data-aos='fade-up'>{{projects.description}}</p>
-      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' data-aos-delay='400' data-aos='fade-up' href='/projects'>View All</a>
+      <a class='text-white border inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' data-aos-delay='400' data-aos='fade-up' href='/projects'>View All</a>
     </div>
-    <div class='hidden sm:block sm:flex-1 rounded-lg pb-1/3' data-aos-delay='600' data-aos='fade-left' style='background-image: url({{settings.cloudinary_url}}{{projects.cover}});background-position: center;background-repeat: no-repeat;background-size: cover;'></div>
+    <div class='hidden sm:block sm:flex-1 rounded-lg pb-1/3' data-aos-delay='600' data-aos='fade-left' style='background-image: url({{cloudUrl}}{{projects.cover}});background-position: center;background-repeat: no-repeat;background-size: cover;'></div>
   </div>
   <div class='swiper-container h-56 md:h-64 w-full' data-aos='fade-up'>
     <div class='swiper-wrapper'>
-      {% assign prts = projects.collections | getProjects %}
+      {% assign prts = projects.categories | getProjects %}
       {% for item in prts %}
-        <div class='swiper-slide rounded-lg relative project-item' onclick='openModal({{item.images}},"{{settings.cloudinary_url}}")' style='background-image: url({{settings.cloudinary_url}}{{item.images[0]}});background-position: center;background-repeat: no-repeat;background-size: cover;'>
+        <div class='swiper-slide rounded-lg relative project-item' onclick='openModal({{item}},"{{cloudUrl}}")' style='background-image: url({{cloudUrl}}{{item.images[0]}});background-position: center;background-repeat: no-repeat;background-size: cover;'>
           <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex items-center justify-center'>
             <h4 class='text-white font-bold text-xl'>{{item.name}}</h4>
           </div>
@@ -86,47 +116,19 @@ layout: base.liquid
     <!-- Add Pagination -->
   </div>
 </section>
-
-<!-- decor -->
-<section class='bg-gray-800 mb-8 pb-full sm:pb-1/2 lg:pb-1/3 relative' data-aos='fade-left'>
-  <img alt='bg' class='absolute h-full w-full object-cover object-center' src='{{settings.cloudinary_url}}{{plant.cover}}'>
-  <div class='intro-section absolute inset-0'></div>
-  <div class='absolute inset-0 container flex items-center'>
-    <div class='w-full sm:w-1/2 md:w-1/3'>
-      <h2 class='uppercase text-4xl text-white mb-4'>
-        {{plant.title}}
-      </h2>
-      <p class='text-white mb-4'>{{plant.description}}</p>
-      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{plant.link.url}}'>{{plant.link.text}}</a>
+<!-- callout -->
+{% for section in callout %}
+  <section class='bg-gray-800 mb-8 pb-full sm:pb-1/2 lg:pb-1/3 relative callout' data-aos='fade-left'>
+    <img alt='bg' class='absolute h-full w-full object-cover object-center' src='{{cloudUrl}}{{section.cover}}'>
+    <div class='intro-section absolute inset-0'></div>
+    <div class='absolute inset-0 container flex items-center'>
+      <div class='w-full sm:w-1/2 md:w-1/3 content'>
+        <h2 class='uppercase text-4xl text-white mb-4'>
+          {{section.title}}
+        </h2>
+        <p class='text-white mb-4'>{{section.description}}</p>
+        <a class='text-white border inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{section.link.url}}'>{{section.link.text}}</a>
+      </div>
     </div>
-  </div>
-</section>
-<!-- decor -->
-<section class='bg-gray-800 mb-8 pb-full sm:pb-1/2 lg:pb-1/3 relative'>
-  <img alt='bg' class='absolute h-full w-full  object-cover object-center' src='{{settings.cloudinary_url}}{{decor.cover}}' data-aos='fade-right'>
-  <div class='intro-section invert absolute inset-0'></div>
-  <div class='absolute inset-0 container flex items-center'>
-    <div class='w-full sm:w-1/2 md:w-1/3 text-right ml-auto'>
-      <h2 class='uppercase text-4xl text-white mb-4'>
-        {{decor.title}}
-      </h2>
-      <p class='text-white mb-4'>{{decor.description}}</p>
-      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{decor.link.url}}'>{{decor.link.text}}</a>
-    </div>
-  </div>
-</section>
-
-<!-- decor -->
-<section class='bg-gray-800 pb-full sm:pb-1/2 lg:pb-1/3 relative' data-aos='fade-right'>
-  <img alt='bg' class='absolute h-full w-full object-cover object-center' src='{{settings.cloudinary_url}}{{material.cover}}'>
-  <div class='intro-section absolute inset-0'></div>
-  <div class='absolute inset-0 container flex items-center'>
-    <div class='w-full sm:w-1/2 md:w-1/3'>
-      <h2 class='uppercase text-4xl text-white mb-4'>
-        {{material.title}}
-      </h2>
-      <p class='text-white mb-4'>{{material.description}}</p>
-      <a class='text-white border rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{material.link.url}}'>{{material.link.text}}</a>
-    </div>
-  </div>
-</section>
+  </section>
+{% endfor %}

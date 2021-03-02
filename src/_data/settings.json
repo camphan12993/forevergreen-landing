@@ -24,7 +24,11 @@
 			},
 			{
 				"name": "Plants",
-				"url": "/plant"
+				"url": "/plants"
+			},
+      {
+				"name": "Flowers",
+				"url": "/flowers"
 			},
 			{
 				"name": "Lookbook",

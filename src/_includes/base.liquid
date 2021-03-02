@@ -1,3 +1,4 @@
+{% assign cloudUrl = settings.cloudinary_url %}
 <!DOCTYPE html>
 <html lang='en'>
   <head>
@@ -34,10 +35,10 @@
   </head>
   <body class='bg-secondary min-h-screen'>
     <div class='fixed inset-0 bg-secondary flex items-center justify-center' id='loading' style='z-index: 999999;'>
-      <img src="{{settings.cloudinary_url}}{{settings.header.logo}}" class='h-32 logo-animation' alt='log0'>
+      <img src="{{cloudUrl}}{{settings.header.logo}}" class='h-32 logo-animation' alt='log0'>
     </div>
     <header>
-      <img src="{{settings.cloudinary_url}}{{settings.header.logo}}" alt='logo' class='h-32 m-auto transition-all duration-300'>
+      <img src="{{cloudUrl}}{{settings.header.logo}}" alt='logo' class='h-32 m-auto transition-all duration-300'>
       <ul class='hidden sm:flex sm:items-center sm:justify-center' id='menu'>
         {% for item in settings.header.menu %}
           <li class='px-4'>
@@ -65,8 +66,13 @@
     </header>
     <main class='w-full overflow-hidden'>
       {{ content | safe }}
-      <div class='px-10 modal py-20 sm:px-16 md:px-24 overflow-auto'>
-        <button class='fixed text-5xl top-4 right-4 cursor-pointer text-white hover:opacity-80 duration-300 transition' onclick='closeModal()'>
+      <div class='modal'>
+        <div class='absolute w-full h-full overflow-auto py-20 px-6 sm:px-16 md:px-24'>
+          <div class='modal-content bg-white w-full rounded-lg overflow-hidden'>
+            <div class='modal-description py-8 px-6 text-center text-secondary'></div>
+          </div>
+        </div>
+        <button class='fixed text-5xl top-4 right-10 cursor-pointer text-white hover:opacity-80 duration-300 transition' onclick='closeModal()'>
           &times;
         </button>
       </div>
@@ -75,7 +81,7 @@
     <footer class='w-full relative section px-8 overflow-hidden' id='contact'>
       <div class='container mx-auto max-w-screen-sm'>
         <div class='text-center mb-10'>
-          <img src="{{settings.cloudinary_url}}{{settings.header.logo}}" alt='logo' class='h-32 m-auto'>
+          <img src="{{cloudUrl}}{{settings.header.logo}}" alt='logo' class='h-32 m-auto'>
         </div>
         <div class='flex flex-col mb-3 text-md text-white font-light'>
           <p class='mb-2'>{{settings.footer.address}}</p>
