@@ -84,9 +84,9 @@
           <img src="{{cloudUrl}}{{settings.header.logo}}" alt='logo' class='h-32 m-auto'>
         </div>
         <div class='flex flex-col mb-3 text-md text-white font-light'>
-          <p class='mb-2'>{{settings.footer.address}}</p>
-          <p class='mb-2'>{{settings.footer.phone}}</p>
-          <p class='mb-2'>{{settings.footer.email}}</p>
+          {% for item in settings.footer %}
+            <p class='mb-2'>{{item.text}}</p>
+          {% endfor %}
         </div>
         <div class='copyrights italic'>
           <p class='para text-white font-light text-sm'>

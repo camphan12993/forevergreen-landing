@@ -26,7 +26,7 @@
 				"name": "Plants",
 				"url": "/plants"
 			},
-      {
+			{
 				"name": "Flowers",
 				"url": "/flowers"
 			},
@@ -57,11 +57,19 @@
 			}
 		]
 	},
-	"footer": {
-		"address": "54 - 56 Thai Van Lung, Hoa Xuan, Cam Le, Da Nang, Viet Nam",
-		"phone": "(+84) 905 611 468",
-		"address1": "Cam Le, Da Nang",
-		"email": "email@gmail.com"
-	},
+	"footer": [
+		{
+			"name": "Address",
+			"text": "54 - 56 Thai Van Lung, Hoa Xuan, Cam Le, Da Nang, Viet Nam"
+		},
+		{
+			"name": "Phone",
+			"text": "(+84) 905 611 468"
+		},
+		{
+			"name": "Email",
+			"text": "email@gmail.com"
+		}
+	],
 	"cloudinary_url": "https://res.cloudinary.com/dhcoxgtyw/image/upload"
 }

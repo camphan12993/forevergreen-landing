@@ -15,7 +15,7 @@ banner:
 about:
   title: About Us
   description: ''
-  cover: ''
+  cover: '/v1611827320/plant_yryt8e.jpg'
 categories:
   - '/v1611827320/plant_yryt8e.jpg'
   - '/v1611827320/plant_yryt8e.jpg'

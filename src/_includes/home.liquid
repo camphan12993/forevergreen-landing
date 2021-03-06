@@ -27,7 +27,7 @@ layout: base.liquid
   </div>
   <div class='absolute right-6 bottom-6 socials flex flex-col'>
     {% for item in settings.header.socials %}
-      <a href="{{item.url}}" class='text-white hover:text-primary transition duration-500 mb-3'>
+      <a href="{{item.url}}" class='text-white text-sm hover:text-primary transition duration-500 mb-3'>
         <ion-icon name="{{item.icon}}" class='text-xl'></ion-icon>
       </a>
     {% endfor %}
@@ -50,7 +50,7 @@ layout: base.liquid
 
 <!-- about us -->
 <section class='section container' id='about'>
-  <h2 class='uppercase text-3xl sm:text-4xl text-white text-center mb-4' data-aos='fade-up'>
+  <h2 class='uppercase text-2xl sm:text-4xl text-white text-center mb-4 font-bold' data-aos='fade-up'>
     {{about.title}}
   </h2>
   <p class='text-center text-white mb-10  md:w-2/3 m-auto' data-aos-delay='200' data-aos='fade-right'>{{about.description}}</p>
@@ -59,17 +59,16 @@ layout: base.liquid
   </div>
 </section>
 {% assign lookbook = collections.lookbook[0].data %}
-{% assign lookbookItems = collections.lookbook[0].data.items | slice:0, 6 %}
+{% assign lookbookItems = lookbook.categories | getProjects %}
 <!-- Collection -->
 <section class='container section mb-16'>
-  <h2 class='uppercase text-4xl flex justify-between items-baseline text-white mb-10' data-aos='fade-right'>
+  <h2 class='uppercase text-2xl sm:text-4xl flex justify-between items-end text-white mb-10 font-bold' data-aos='fade-right'>
     {{lookbook.title}}
-    <a class='text-white border inline-block text-base rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' data-aos='fade-up' href='/lookbook'>View All</a>
-
+    <a class='text-white border text-sm inline-block text-sm rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' data-aos='fade-up' href='/lookbook'>View All</a>
   </h2>
   <div class='swiper-lookbook overflow-hidden w-full' data-aos='fade-up'>
     <div class='swiper-wrapper'>
-      {% for item in lookbook.items  %}
+      {% for item in lookbookItems  %}
         <div class='swiper-slide' onclick='openModal({{item}},"{{cloudUrl}}")'>
           <div class='w-full pb-2/3 relative project-item rounded-lg overflow-hidden cursor-default'>
             <img class='absolute inset-0 w-full h-full object-center object-cover' src="{{cloudUrl}}{{item.images[0]}}" alt=''>
@@ -92,11 +91,11 @@ layout: base.liquid
 <section class='container section mb-16'>
   <div class='sm:flex mb-10'>
     <div class='sm:w-1/3 mr-3'>
-      <h2 class='uppercase text-4xl text-white mb-6' data-aos='fade-right'>
+      <h2 class='uppercase text-2xl sm:text-4xl text-white mb-6 font-bold' data-aos='fade-right'>
         {{projects.title}}
       </h2>
       <p class='text-white mb-4' data-aos-delay='200' data-aos='fade-up'>{{projects.description}}</p>
-      <a class='text-white border inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' data-aos-delay='400' data-aos='fade-up' href='/projects'>View All</a>
+      <a class='text-white border text-sm inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' data-aos-delay='400' data-aos='fade-up' href='/projects'>View All</a>
     </div>
     <div class='hidden sm:block sm:flex-1 rounded-lg pb-1/3' data-aos-delay='600' data-aos='fade-left' style='background-image: url({{cloudUrl}}{{projects.cover}});background-position: center;background-repeat: no-repeat;background-size: cover;'></div>
   </div>
@@ -123,11 +122,11 @@ layout: base.liquid
     <div class='intro-section absolute inset-0'></div>
     <div class='absolute inset-0 container flex items-center'>
       <div class='w-full sm:w-1/2 md:w-1/3 content'>
-        <h2 class='uppercase text-4xl text-white mb-4'>
+        <h2 class='uppercase text-2xl sm:text-4xl text-white mb-4 font-bold'>
           {{section.title}}
         </h2>
         <p class='text-white mb-4'>{{section.description}}</p>
-        <a class='text-white border inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{section.link.url}}'>{{section.link.text}}</a>
+        <a class='text-white border text-sm inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300' href='{{section.link.url}}'>{{section.link.text}}</a>
       </div>
     </div>
   </section>

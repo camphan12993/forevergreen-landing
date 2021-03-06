@@ -1,21 +1,46 @@
 ---
 layout: base.liquid
 ---
+
 {% assign cloudUrl = settings.cloudinary_url %}
-<section class='mt-80'>
-  {% for section in items %}
-    <div class='bg-gray-800 mb-8 pb-full sm:pb-1/2 relative callout' data-aos='fade-left'>
-      <img alt='bg' class='absolute h-full w-full object-cover object-center' src='{{cloudUrl}}{{section.images[0]}}'>
+<section class='mt-48 container section'>
+  <h2 class='text-2xl sm:text-4xl mb-6 sm:mb-10 uppercase font-bold'>{{ title }}</h2>
+  {% for cat in categories %}
+    {% if cat.items %}
+      <h3 class='text-sm sm:text-xl mb-8 uppercase font-bold '>
+        <span class='px-4 py-2 rounded-full border-white border'>
+          {{ cat.name }}
+        </span>
+      </h3>
+      <div class='categories grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-8 mb-10'>
+        {% for item in cat.items %}
+          <div class='mb-6' data-aos='fade-up'>
+            <div class='pb-2/3 w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item}},"{{cloudUrl}}")'>
+              <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{cloudUrl}}{{item.images[0]}}'></div>
+            <div class='text-md font-bold mb-1'>{{item.name}}</div>
+            {% if item.price %}
+              <div class='font-thin opacity-60 tracking-widest'>{{item.price | | append: ' đ'}}</div>
+            {% endif %}
+            {% if item.description %}
+              <div class='font-thin opacity-60'>{{item.description}}</div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <!-- <div class='bg-gray-800 mb-8 pb-full sm:pb-1/2 relative callout' data-aos='fade-left'>
+      <img alt='bg' class='absolute h-full w-full object-cover object-center' src="{{ cloudUrl }}{{ section.images[0] }}"/>
       <div class='intro-section absolute inset-0'></div>
       <div class='absolute inset-0 container flex items-center'>
         <div class='w-full sm:w-1/2 lg:w-1/3 content'>
           <h2 class='uppercase text-4xl text-white mb-4'>
-            {{section.name}}
+            {{ section.name }}
           </h2>
-          <p class='text-white mb-4'>{{section.description}}</p>
-          <a class='text-white border inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300 cursor-default' onclick='openModal({{section}},"{{cloudUrl}}")'>View Collection</a>
+          <p class='text-white mb-4'>{{ section.description }}</p>
+          <a class='text-white border inline-block rounded px-4 py-2 border-white hover:bg-white hover:text-secondary transition duration-300 cursor-default' onclick='openModal({{ section }},&quot;{{ cloudUrl }}&quot;)'>View Collection</a>
         </div>
       </div>
-    </div>
+    </div> -->
   {% endfor %}
 </section>
