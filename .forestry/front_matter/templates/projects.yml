@@ -35,3 +35,5 @@ fields:
       name: images
       label: images
   label: Projects
+pages:
+- src/projects.md
