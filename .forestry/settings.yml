@@ -5,17 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: src/_data/settings.json
-  label: Settings
-  match: "**/*"
-- type: document
   path: src/lookbook.md
   label: Lookbook
-  match: "**/*"
 - type: document
   path: src/projects.md
   label: Projects
-  match: "**/*"
 - type: document
   path: src/_data/settings.json
   label: Settings
