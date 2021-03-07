@@ -36,5 +36,6 @@ fields:
       name: description
       label: description
 pages:
+- src/lookbook.md
 - src/material.md
 - src/plants.md
