@@ -67,3 +67,5 @@ fields:
 - type: text
   name: cloudinary_url
   label: cloudinary_url
+pages:
+- src/_data/settings.json

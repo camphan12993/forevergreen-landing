@@ -1,75 +1,75 @@
 {
-	"meta": {
-		"title": "Forever Green",
-		"description": "Forever Green",
-		"siteUrl": "",
-		"siteName": "Forever Green",
-		"imgSrc": "/v1611827320/plant_yryt8e.jpg",
-		"imgAtl": "Forever Green"
-	},
-	"header": {
-		"logo": "/v1611827319/logo_cwgn2v.png",
-		"menu": [
-			{
-				"name": "Home",
-				"url": "/"
-			},
-			{
-				"name": "Projects",
-				"url": "/projects"
-			},
-			{
-				"name": "Material",
-				"url": "/material"
-			},
-			{
-				"name": "Plants",
-				"url": "/plants"
-			},
-			{
-				"name": "Flowers",
-				"url": "/flowers"
-			},
-			{
-				"name": "Lookbook",
-				"url": "/lookbook"
-			},
-			{
-				"name": "Contact",
-				"url": "#contact"
-			}
-		],
-		"socials": [
-			{
-				"name": "facebook",
-				"url": "https://www.facebook.com/LaChance.FG",
-				"icon": "logo-facebook"
-			},
-			{
-				"name": "instagram",
-				"url": "https://www.instagram.com/nmimi.official/",
-				"icon": "logo-instagram"
-			},
-			{
-				"name": "youtube",
-				"url": "",
-				"icon": "logo-youtube"
-			}
-		]
-	},
-	"footer": [
-		{
-			"name": "Address",
-			"text": "54 - 56 Thai Van Lung, Hoa Xuan, Cam Le, Da Nang, Viet Nam"
-		},
-		{
-			"name": "Phone",
-			"text": "(+84) 905 611 468"
-		},
-		{
-			"name": "Email",
-			"text": "email@gmail.com"
-		}
-	],
-	"cloudinary_url": "https://res.cloudinary.com/dhcoxgtyw/image/upload"
+  "meta": {
+    "title": "Forever Green",
+    "description": "Forever Green",
+    "siteUrl": "",
+    "siteName": "Forever Green",
+    "imgSrc": "/v1611827320/plant_yryt8e.jpg",
+    "imgAtl": "Forever Green"
+  },
+  "header": {
+    "logo": "/v1611827319/logo_cwgn2v.png",
+    "menu": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "Projects",
+        "url": "/projects"
+      },
+      {
+        "name": "Material",
+        "url": "/material"
+      },
+      {
+        "name": "Plants",
+        "url": "/plants"
+      },
+      {
+        "name": "Flowers",
+        "url": "/flowers"
+      },
+      {
+        "name": "Lookbook",
+        "url": "/lookbook"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ],
+    "socials": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/LaChance.FG",
+        "icon": "logo-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nmimi.official/",
+        "icon": "logo-instagram"
+      },
+      {
+        "name": "youtube",
+        "url": "",
+        "icon": "logo-youtube"
+      }
+    ]
+  },
+  "footer": [
+    {
+      "name": "Address",
+      "text": "54 - 56 Thai Van Lung, Hoa Xuan, Cam Le, Da Nang, Viet Nam"
+    },
+    {
+      "name": "Phone",
+      "text": "(+84) 905 611 468"
+    },
+    {
+      "name": "Email",
+      "text": "email@gmail.com"
+    }
+  ],
+  "cloudinary_url": "https://res.cloudinary.com/dhcoxgtyw/image/upload"
 }
