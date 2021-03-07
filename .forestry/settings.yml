@@ -7,17 +7,26 @@ sections:
 - type: document
   path: src/_data/settings.json
   label: Settings
+  match: "**/*"
 - type: document
-  path: src/_data/projects.json
+  path: src/lookbook.md
+  label: Lookbook
+  match: "**/*"
+- type: document
+  path: src/projects.md
   label: Projects
+  match: "**/*"
+- type: document
+  path: src/_data/settings.json
+  label: Settings
 - type: document
   path: src/material.md
   label: Material
 - type: document
-  path: src/plant.md
+  path: src/plants.md
   label: Plants
 - type: document
-  path: src/decor.md
+  path: src/flowes.md
   label: Flowers
 - type: document
   path: src/index.md
