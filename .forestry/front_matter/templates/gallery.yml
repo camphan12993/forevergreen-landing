@@ -5,12 +5,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
 - type: field_group_list
   name: categories
-  label: categories
+  label: Collections
   fields:
   - type: text
     name: name
