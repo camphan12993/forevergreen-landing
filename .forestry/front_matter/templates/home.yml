@@ -64,3 +64,5 @@ fields:
   - type: textarea
     name: description
     label: description
+pages:
+- src/index.md
