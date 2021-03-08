@@ -25,12 +25,16 @@ categories:
     - "/v1615189382/145785842_320821469361655_1143296752559238825_n_d1pz7g.jpg"
     id: ''
     price: 550000
-  - name: Flower Basket
-    description: Những lẳng hoa hình hộp sang trọng, hiện đại
+  - name: Lựu đỏ
+    description: " Giá 80.000đ/ cành, mỗi cành cao tầm 90cm, gồm 7 quả lựu lớn nhỏ
+      căng mọng, giống thật 99%, đính kèm lá xanh."
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
+    - "/v1615189475/144131487_842376833003312_4250146062735001105_o_t90ko3.jpg"
+    - "/v1615189475/146570202_294959741970848_9152886393420520929_n_o9xfx4.jpg"
+    - "/v1615189475/144505324_842376863003309_3007349542733945276_o_xhpkkc.jpg"
+    - "/v1615189475/144494847_842376813003314_7088977074809221867_o_ndeikg.jpg"
     id: ''
-    price: 
+    price: 80000
 - name: La Chance Bouquets
   items: []
 - name: Flower Basket
