@@ -19,10 +19,10 @@ categories:
 - "/v1615174215/145705729_463290864672677_1233303499125335914_n_cduzk1.jpg"
 - "/v1615188815/NDB_0155_jroey2.jpg"
 callout:
-- name: ''
-  title: ''
+- name: Projects
+  title: Project
   link:
-    url: ''
+    url: project
     text: ''
   cover: ''
   description: ''
