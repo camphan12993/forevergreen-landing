@@ -10,8 +10,9 @@ banner:
   button: Explore
 about:
   title: About Us
-  description: ''
-  cover: "/v1611827320/plant_yryt8e.jpg"
+  description: Sứ mệnh của FG chính là mang giải pháp xanh nhân tạo tối ưu nhất đến
+    Khách hàng
+  cover: "/v1615177743/170827d19124627a3b35_de47o7.jpg"
 categories:
 - "/v1615189121/NDB_2183_fdc3fg.jpg"
 - "/v1615174215/145705729_463290864672677_1233303499125335914_n_cduzk1.jpg"
