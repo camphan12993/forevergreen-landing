@@ -2,10 +2,8 @@
 layout: home.liquid
 banner:
   title: FG - Chuyên gia không gian xanh
-  description: Với chất liệu Cỏ - Cây - Hoa - Lá giả cao cấp ngoại nhập 100% kết hợp
-    đội ngũ Florist chuyên nghiệp cùng trang thiết bị hiện đại nhất, chúng tôi luôn
-    sáng tạo, thiết kế và thi công ra những sản phẩm tinh tế, phù hợp với không gian
-    nội thất và ngân sách của Đối tác & Khách hàng
+  description: Chào mừng bạn đến với Forever Green! Cùng khám phá Không Gian Xanh
+    của chúng mình nhé!
   images:
   - "/v1615177743/170827d19124627a3b35_de47o7.jpg"
   - "/v1615177672/MAP_1235_pwdcbb.jpg"
