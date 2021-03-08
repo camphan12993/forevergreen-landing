@@ -70,11 +70,14 @@ layout: base.liquid
     <div class='swiper-wrapper'>
       {% for item in lookbookItems  %}
         <div class='swiper-slide' onclick='openModal({{item}},"{{cloudUrl}}")'>
-          <div class='w-full pb-2/3 relative project-item rounded-lg overflow-hidden cursor-default'>
+          <div class='w-full pb-2/3 lg:pb-1/2 relative project-item rounded-lg overflow-hidden cursor-default'>
             <img class='absolute inset-0 w-full h-full object-center object-cover' src="{{cloudUrl}}{{item.images[0]}}" alt=''>
-            <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex flex-col items-center justify-center'>
+            <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex flex-col items-center justify-center p-6 md:px-20'>
               <h4 class='text-white font-bold text-xl mb-2'>{{item.name}}</h4>
-              <p class='text-white font-thin'>{{item.description}}</h4>
+              {% assign des = item.description | split: '/' %}
+              {% for d in des %}
+                <p class='text-white font-thin mt-2 text-center'>{{d}}</p>
+              {% endfor %}
             </div>
           </div>
         </div>

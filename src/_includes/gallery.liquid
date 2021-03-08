@@ -23,10 +23,13 @@ layout: base.liquid
               <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{cloudUrl}}{{item.images[0]}}'></div>
             <div class='text-md font-bold mb-1'>{{item.name}}</div>
             {% if item.price %}
-              <div class='font-thin opacity-60 tracking-widest'>{{item.price | | append: ' đ'}}</div>
+              <div class='font-thin tracking-widest'>{{item.price | | append: ' đ'}}</div>
             {% endif %}
             {% if item.description %}
-              <div class='font-thin opacity-60'>{{item.description}}</div>
+              {% assign des = item.description | split: '/' %}
+              {% for d in des %}
+                <p class='text-white font-thin mt-2 opacity-60'>{{d}}</p>
+              {% endfor %}
             {% endif %}
           </div>
         {% endfor %}
