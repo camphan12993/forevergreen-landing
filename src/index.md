@@ -14,8 +14,8 @@ about:
   description: ''
   cover: "/v1611827320/plant_yryt8e.jpg"
 categories:
-- "/v1615176633/_MAP5991_we6vab.jpg"
-- "/v1615175293/146677808_120401853299636_5901119414545093535_n_ihxocb.jpg"
+- "/v1615176895/_MAP5991_oyhnh5.jpg"
+- "/v1615174215/145705729_463290864672677_1233303499125335914_n_cduzk1.jpg"
 - "/v1611827319/bg_gprvqq.jpg"
 callout:
 - name: ''
