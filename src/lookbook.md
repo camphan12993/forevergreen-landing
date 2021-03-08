@@ -1,6 +1,6 @@
 ---
 layout: lookbook.liquid
-title: Collections
+title: Flowers
 tags: lookbook
 categories:
 - name: Home Decoration
