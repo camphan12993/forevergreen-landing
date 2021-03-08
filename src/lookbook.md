@@ -15,12 +15,16 @@ categories:
     - "/v1615178706/MAP_7950_t6wooi.jpg"
     price: 900000
     id: ''
-  - name: La Chance Bouquet
-    description: Những bó hoa rực rỡ
+  - name: Chậu Lan Hồ Điệp Vàng mini
+    description: "\U0001F33F Hoa lan hồ điệp vàng là loài hoa BEST CHOICE ngày TẾT
+      bởi màu sắc hoa lan Hồ Điệp Vàng mang ý nghĩa cho sự khởi đầu tốt đẹp, thành
+      công mỹ mãn, tượng trưng cho sự giàu có, ấm no, sung túc và thịnh vượng. "
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
+    - "/v1615189382/148563979_775449326683063_6602440995792823898_n_xl2gsi.jpg"
+    - "/v1615189382/146756883_166859638301364_8735253476414347862_n_vxyl86.jpg"
+    - "/v1615189382/145785842_320821469361655_1143296752559238825_n_d1pz7g.jpg"
     id: ''
-    price: 
+    price: 550000
   - name: Flower Basket
     description: Những lẳng hoa hình hộp sang trọng, hiện đại
     images:
