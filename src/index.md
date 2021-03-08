@@ -8,7 +8,6 @@ banner:
     nội thất và ngân sách của Đối tác & Khách hàng
   images:
   - "/v1615177743/170827d19124627a3b35_de47o7.jpg"
-  - "/v1615177824/NDB_0159_edef94.jpg"
   - "/v1615177672/MAP_1235_pwdcbb.jpg"
   button: Explore
 about:
