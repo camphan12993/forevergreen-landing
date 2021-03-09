@@ -1,5 +1,6 @@
 ---
 layout: gallery.liquid
+tags: flowers
 title: Flowers
 categories:
   - name: Home Decoration

@@ -4,41 +4,46 @@ layout: base.liquid
 {% assign cloudUrl = settings.cloudinary_url %}
 <section class='container section mt-48'>
   <h2 class='text-2xl sm:text-4xl mb-10 uppercase font-bold'>{{title}}</h2>
-  {% if categories.length > 1 %}
-    <div class='flex flex-wrap items-center mb-6' id='list-categories'>
-      {% for item in categories %}
-        <div class='{% if forloop.first %}active{% endif %} px-3 py-1 rounded-full border-white border mr-2 mb-3' onclick='setActiveCategory("{{forloop.index}}")'>
-          {{ item.name }}
-        </div>
-      {% endfor %}
-    </div>
-  {% endif %}
+  <div class='flex flex-wrap items-center mb-6' id='list-categories'>
+    {% for item in categories %}
+      <div class='{% if forloop.first %}active{% endif %} px-3 py-1 rounded-full border-white border mr-2 mb-3' onclick='setActiveCategory("{{forloop.index}}")'>
+        {{ item.name }}
+      </div>
+    {% endfor %}
+  </div>
   {% for cat in categories %}
-
     {% if cat.items %}
-      <div data-active='{{forloop.index}}' class='categories {% if forloop.first == false %}hidden{% endif %} grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
-        {% for item in cat.items %}
-          <div class='mb-6' data-aos='fade-up'>
-            <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item}},"{{cloudUrl}}")'>
-              <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{cloudUrl}}{{item.images[0]}}'></div>
-            <div class='text-md font-bold mb-1'>{{item.name}}</div>
-            {% if item.price %}
-              <div class='font-thin tracking-widest'>{{item.price | | append: ' đ'}}</div>
-            {% endif %}
-            {% if item.description %}
-              {% assign des = item.description | split: '/' %}
-              {% for d in des %}
-                <p class='text-white font-thin mt-2 opacity-60'>{{d}}</p>
-              {% endfor %}
-            {% endif %}
+      <div data-active='{{forloop.index}}' class='categories {% if forloop.first == false %}hidden{% endif %}'>
+        {% if cat.description %}
+          <div class='mb-8 relative pl-6'>
+            {% include description.liquid, des: cat.description %}
+            <div class='absolute w-0.5 top-0 left-0 bottom-0 bg-white opacity-80'></div>
           </div>
-        {% endfor %}
-      </div>
-    {% else %}
-      <div class='opacity-60'>
-        No Items Available
-      </div>
-    {% endif %}
+        {% endif %}
+        <div class=' grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
+          {% for item in cat.items %}
+            <div class='mb-6' data-aos='fade-up'>
+              <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item}},"{{cloudUrl}}")'>
+                <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{cloudUrl}}{{item.images[0]}}'></div>
+              <div class='text-md font-bold mb-2'>{{item.name}}</div>
+              {% if item.price %}
+                <div class='font-thin tracking-widest'>{{item.price | append: ' đ'}}</div>
+              {% endif %}
+              {% if item.description %}
+                <div class='mt-2'>
+                  {% include description.liquid, des: item.description, class: 'text-sm italic opacity-60' %}
+                </div>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      {% else %}
+        <div class='opacity-60'>
+          No Items Available
+        </div>
+      {% endif %}
+    </div>
+
   {% endfor %}
 
 </section>

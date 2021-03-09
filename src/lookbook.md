@@ -1,5 +1,5 @@
 ---
-layout: lookbook.liquid
+layout: gallery.liquid
 title: Lookbook
 tags: lookbook
 categories:

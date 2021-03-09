@@ -64,6 +64,16 @@ if (pathname.includes('projects')) {
 			el: '.swiper-pagination',
 			clickable: true,
 		},
+		breakpoints: {
+			640: {
+				slidesPerView: 2,
+				spaceBetween: 28,
+			},
+			1024: {
+				slidesPerView: 3,
+				spaceBetween: 28,
+			},
+		},
 	});
 }
 
@@ -80,11 +90,10 @@ function openModal(item, url) {
 
 	var des = document.createElement('div');
 	if (item.description) {
-		var d = item.description.split('/');
-		if (d.length) {
-			d.forEach((i) => {
+		if (item.description.length) {
+			item.description.forEach((i) => {
 				var e = document.createElement('p');
-				e.classList = 'font-thin mt-2 text-center';
+				e.classList = 'font-thin text-center';
 				e.innerText = i;
 				des.append(e);
 			});

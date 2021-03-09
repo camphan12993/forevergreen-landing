@@ -1,4 +1,5 @@
 {% assign cloudUrl = settings.cloudinary_url %}
+{% assign meta = settings.meta %}
 <!DOCTYPE html>
 <html lang='en'>
   <head>
@@ -9,29 +10,29 @@
     <link href='https://fonts.gstatic.com' rel='preconnect'>
     <link href='/assets/css/styles.css' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css2?family=Montserrat&display=swap' rel='stylesheet'>
-    <title>{{ settings.meta.title }}</title>
-    <meta name='title' content="{{ settings.meta.title }}">
-    <meta name='description' content="{{ settings.meta.description }}">
+    <title>{{ meta.title }}</title>
+    <meta name='title' content="{{ meta.title }}">
+    <meta name='description' content="{{ meta.description }}">
 
     <!-- Open Graph / Facebook -->
     <meta content='website' property='og:type'>
-    <meta property='og:url' content="{{ settings.meta.siteUrl }}">
-    <meta property='og:site_name' content="{{ settings.meta.siteName }}">
+    <meta property='og:url' content="{{ meta.siteUrl }}">
+    <meta property='og:site_name' content="{{ meta.siteName }}">
     <meta content='en_US' property='og:locale'>
-    <meta property='og:title' content="{{ settings.meta.title }}">
-    <meta property='og:description' content="{{ settings.meta.description }}">
-    <meta property='og:image' content="{{ settings.meta.imgSrc }}">
+    <meta property='og:title' content="{{ meta.title }}">
+    <meta property='og:description' content="{{ meta.description }}">
+    <meta property='og:image' content="{{cloudUrl}}{{ meta.imgSrc }}">
     <meta content='1280' property='og:image:width'>
     <meta content='640' property='og:image:height'>
-    <meta property='og:image:alt' content="{{ settings.meta.imgAtl }}">
+    <meta property='og:image:alt' content="{{ .meta.imgAtl }}">
 
     <!-- Twitter -->
     <meta content='summary_large_image' property='twitter:card'>
-    <meta property='twitter:url' content="{{ settings.meta.siteUrl }}">
-    <meta property='twitter:title' content="{{ settings.meta.title }}">
-    <meta property='twitter:description' content="{{ settings.meta.description }}">
-    <meta property='twitter:image' content="{{ settings.meta.imgSrc }}">
-    <meta property='twitter:image:alt' content="{{ settings.meta.imgAlt }}">
+    <meta property='twitter:url' content="{{ meta.siteUrl }}">
+    <meta property='twitter:title' content="{{ meta.title }}">
+    <meta property='twitter:description' content="{{ meta.description }}">
+    <meta property='twitter:image' content="{{cloudUrl}}{{ meta.imgSrc }}">
+    <meta property='twitter:image:alt' content="{{ meta.imgAlt }}">
   </head>
   <body class='bg-secondary min-h-screen'>
     <div class='fixed inset-0 bg-secondary flex items-center justify-center' id='loading' style='z-index: 999999;'>
@@ -42,7 +43,7 @@
       <ul class='hidden sm:flex sm:items-center sm:justify-center' id='menu'>
         {% for item in settings.header.menu %}
           <li class='px-4'>
-            <a class='hover:text-primary transition duration-300 text-white' href='{{settings.meta.siteUrl | append: item.url}}'>{{item.name}}</a>
+            <a class='hover:text-primary transition duration-300 text-white' href='{{item.url}}'>{{item.name}}</a>
           </li>
         {% endfor %}
       </ul>
@@ -57,7 +58,7 @@
           <ul id='nav-item'>
             {% for item in settings.header.menu %}
               <li class='px-4 py-2'>
-                <a class='hover:text-primary transition duration-300' href='{{settings.meta.siteUrl | append: item.url}}' onclick='toggleMenu()'>{{item.name}}</a>
+                <a class='hover:text-primary transition duration-300' href='{{item.url}}' onclick='toggleMenu()'>{{item.name}}</a>
               </li>
             {% endfor %}
           </ul>

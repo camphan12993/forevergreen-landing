@@ -1,5 +1,6 @@
+{% assign addClass = class | default: "" %}
 {% for item in des %}
-  <p class='sm:text-lg text-white mt-10'>
+  <p class='font-thin text-white mt-0.5 opacity-80 {{addClass}}'>
     {{ item }}
   </p>
 {% endfor %}
