@@ -20,7 +20,7 @@ sections:
   path: src/plants.md
   label: Plants
 - type: document
-  path: src/flowes.md
+  path: src/flowers.md
   label: Flowers
 - type: document
   path: src/index.md
