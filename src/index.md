@@ -3,8 +3,8 @@ layout: home.liquid
 banner:
   title: FG - Chuyên gia không gian xanh
   description:
-    Chào mừng bạn đến với Forever Green! Cùng khám phá Không Gian Xanh
-    của chúng mình nhé!
+    - Chào mừng bạn đến với Forever Green! 
+    - Cùng khám phá Không Gian Xanh của chúng mình nhé!
   images:
     - '/v1615177743/170827d19124627a3b35_de47o7.jpg'
     - '/v1615177672/MAP_1235_pwdcbb.jpg'
@@ -12,8 +12,8 @@ banner:
 about:
   title: About Us
   description:
-    Sứ mệnh của FG chính là mang giải pháp xanh nhân tạo tối ưu nhất đến
-    Khách hàng
+    - Sứ mệnh của FG chính là mang giải pháp xanh nhân tạo tối ưu nhất đến
+    - Khách hàng
   cover: '/v1615177743/170827d19124627a3b35_de47o7.jpg'
 categories:
   - '/v1615189121/NDB_2183_fdc3fg.jpg'
@@ -27,8 +27,9 @@ callout:
       text: View More
     cover: '/v1611827320/plant_yryt8e.jpg'
     description:
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
-      blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
+      - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
+      blanditiis eos omnis, 
+      - ullam, veniam quidem nulla accusantium aperiam cum voluptas
       officia, adipisci nobis nisi illo dolore aliquam eaque architecto
   - name: plant
     title: Plants
@@ -37,8 +38,9 @@ callout:
       text: View More
     cover: '/v1611827320/plant_yryt8e.jpg'
     description:
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
-      blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
+      - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
+      blanditiis eos omnis, 
+      - ullam, veniam quidem nulla accusantium aperiam cum voluptas
       officia, adipisci nobis nisi illo dolore aliquam eaque architecto
   - name: flower
     title: Flowers
@@ -47,7 +49,8 @@ callout:
       text: View More
     cover: '/v1611827320/plant_yryt8e.jpg'
     description:
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
-      blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
+      - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
+      blanditiis eos omnis, ullam, 
+      - veniam quidem nulla accusantium aperiam cum voluptas
       officia, adipisci nobis nisi illo dolore aliquam eaque architecto
 ---

@@ -2,155 +2,82 @@
 layout: gallery.liquid
 title: Flowers
 categories:
-- name: Home Decoration
-  items:
   - name: Home Decoration
-    description: Hoa trang trí không gian sống
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: La Chance Bouquet
-    description: Những bó hoa rực rỡ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Flower Basket
-    description: Những lẳng hoa hình hộp sang trọng, hiện đại
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Bloom Box
-    description: Những hộp hoa rực rỡ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Bloom Gift Box
-    description: Những hộp hoa rực rỡ ẩn dấu bất ngờ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Wreaths
-    description: Những vòng hoa treo cửa đơn giản, tinh tế
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Fabric
-    description: this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Fabric
-    description: this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-- name: La Chance Bouquet
-  items:
-  - name: Home Decoration
-    description: Hoa trang trí không gian sống
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: La Chance Bouquet
-    description: Những bó hoa rực rỡ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Flower Basket
-    description: Những lẳng hoa hình hộp sang trọng, hiện đại
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Bloom Box
-    description: Những hộp hoa rực rỡ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Bloom Gift Box
-    description: Những hộp hoa rực rỡ ẩn dấu bất ngờ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Wreaths
-    description: Những vòng hoa treo cửa đơn giản, tinh tế
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Fabric
-    description: this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Fabric
-    description: this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-- name: Flower Basket
-  items:
-  - name: Home Decoration
-    description: Hoa trang trí không gian sống
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: La Chance Bouquet
-    description: Những bó hoa rực rỡ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Flower Basket
-    description: Những lẳng hoa hình hộp sang trọng, hiện đại
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Bloom Box
-    description: Những hộp hoa rực rỡ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Bloom Gift Box
-    description: Những hộp hoa rực rỡ ẩn dấu bất ngờ
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Wreaths
-    description: Những vòng hoa treo cửa đơn giản, tinh tế
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Fabric
-    description: this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-  - name: Fabric
-    description: this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    id: ''
-    price: 
-
+    description:
+      - this is something called fabric
+      - this is something called fabric
+    items:
+      - name: Hoa 1
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+      - name: Hoa 2
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+      - name: Hoa 3
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+  - name: Home Decoration 1
+    description:
+      - this is something called fabric
+      - this is something called fabric
+    items:
+      - name: Hoa 1
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+      - name: Hoa 2
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+      - name: Hoa 3
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+  - name: Home Decoration 2
+    description:
+      - this is something called fabric
+      - this is something called fabric
+    items:
+      - name: Hoa 1
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+      - name: Hoa 2
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
+      - name: Hoa 3
+        description:
+          - this is something called fabric
+          - this is something called fabric
+        images:
+          - '/v1611827320/plant_yryt8e.jpg'
+        price:
 ---
