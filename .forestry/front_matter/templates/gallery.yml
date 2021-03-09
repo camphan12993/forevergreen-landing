@@ -1,16 +1,18 @@
 ---
-label: Gallery
+label: Projects
 hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
 - type: text
   name: tags
   label: tags
+  hidden: true
 - type: file
   name: cover
   label: cover
@@ -19,7 +21,7 @@ fields:
   label: description
 - type: field_group_list
   name: categories
-  label: categories
+  label: Projects
   fields:
   - type: text
     name: name
