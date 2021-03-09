@@ -6,8 +6,8 @@ banner:
     - Chào mừng bạn đến với Forever Green! 
     - Cùng khám phá Không Gian Xanh của chúng mình nhé!
   images:
-    - '/v1615177743/170827d19124627a3b35_de47o7.jpg'
-    - '/v1615177672/MAP_1235_pwdcbb.jpg'
+  - "/v1615177743/170827d19124627a3b35_de47o7.jpg"
+  - "/v1615177672/MAP_1235_pwdcbb.jpg"
   button: Explore
 about:
   title: About Us
@@ -16,9 +16,9 @@ about:
     - Khách hàng
   cover: '/v1615177743/170827d19124627a3b35_de47o7.jpg'
 categories:
-  - '/v1615189121/NDB_2183_fdc3fg.jpg'
-  - '/v1615174215/145705729_463290864672677_1233303499125335914_n_cduzk1.jpg'
-  - '/v1615188815/NDB_0155_jroey2.jpg'
+- "/v1615271350/IMG_5025_rr43sh.jpg"
+- "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
+- "/v1615271273/IMG_6537_gatqtx.jpg"
 callout:
   - name: material
     title: Material
