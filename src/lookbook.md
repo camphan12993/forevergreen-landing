@@ -10,16 +10,11 @@ categories:
     images: []
     price: 
     id: ''
-  - name: Chậu Lan Hồ Điệp Vàng mini
-    description: "\U0001F33F Hoa lan hồ điệp vàng là loài hoa BEST CHOICE ngày TẾT
-      bởi màu sắc hoa lan Hồ Điệp Vàng mang ý nghĩa cho sự khởi đầu tốt đẹp, thành
-      công mỹ mãn, tượng trưng cho sự giàu có, ấm no, sung túc và thịnh vượng. "
-    images:
-    - "/v1615190350/NDB_7512_1_q5j9sr.jpg"
-    - "/v1615189382/146756883_166859638301364_8735253476414347862_n_vxyl86.jpg"
-    - "/v1615189382/145785842_320821469361655_1143296752559238825_n_d1pz7g.jpg"
+  - name: ''
+    description: ''
+    images: []
     id: ''
-    price: 550000
+    price: 
   - name: Lựu đỏ
     description: " Giá 80.000đ/ cành, mỗi cành cao tầm 90cm, gồm 7 quả lựu lớn nhỏ
       căng mọng, giống thật 99%, đính kèm lá xanh."
