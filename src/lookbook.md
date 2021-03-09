@@ -5,15 +5,10 @@ tags: lookbook
 categories:
 - name: Home Decoration
   items:
-  - name: Hoa Huệ Tây Cam
-    description: "\U0001F33F Mang nét đẹp thanh cao, sang trọng. /\U0001F33F Chất
-      liệu hoa làm từ vải lụa cao cấp, mềm mại giống thật 99%./ \U0001F449 Sự lựa
-      chọn xuất sắc để tạo điểm nhấn cho không gian trưng bày ❤️"
-    images:
-    - "/v1615178904/MAP_7948_q86jlt.jpg"
-    - "/v1615178692/739BF6F0-68B3-49AF-9E55-5DB280DBDDD1_v3xama.jpg"
-    - "/v1615178706/MAP_7950_t6wooi.jpg"
-    price: 900000
+  - name: ''
+    description: ''
+    images: []
+    price: 
     id: ''
   - name: Chậu Lan Hồ Điệp Vàng mini
     description: "\U0001F33F Hoa lan hồ điệp vàng là loài hoa BEST CHOICE ngày TẾT
