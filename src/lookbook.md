@@ -16,8 +16,7 @@ categories:
     id: ''
     price: 
   - name: ''
-    description: " Giá 80.000đ/ cành, mỗi cành cao tầm 90cm, gồm 7 quả lựu lớn nhỏ
-      căng mọng, giống thật 99%, đính kèm lá xanh."
+    description: ''
     images: []
     id: ''
     price: 
