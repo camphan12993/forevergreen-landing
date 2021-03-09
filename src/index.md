@@ -36,14 +36,14 @@ callout:
   description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
     blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
     officia, adipisci nobis nisi illo dolore aliquam eaque architecto
-- name: Lookbool
-  title: Flowers
+- name: Lookbook
+  title: Lookbook
   link:
     url: "/lookbooks"
     text: View More
-  cover: "/v1611827320/plant_yryt8e.jpg"
-  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat
-    blanditiis eos omnis, ullam, veniam quidem nulla accusantium aperiam cum voluptas
-    officia, adipisci nobis nisi illo dolore aliquam eaque architecto
+  cover: "/v1615271504/145746423_3496182167274520_5314553773798810619_n_rv9jer.jpg"
+  description: |-
+    "After women, Flowers are the most divine creations"
+    Với tất cả tâm huyết, Forever Green thương gửi đến bạn những bộ sưu tập hoa tuyệt vời nhất của chúng mình.
 
 ---
