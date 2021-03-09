@@ -74,3 +74,5 @@ fields:
   - type: list
     name: description
     label: description
+pages:
+- src/index.md
