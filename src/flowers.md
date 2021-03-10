@@ -14,21 +14,21 @@ categories:
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Hoa 2
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Hoa 3
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
 - name: Home Decoration 1
   description:
   - this is something called fabric
@@ -40,21 +40,21 @@ categories:
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Hoa 2
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Hoa 3
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
 - name: Home Decoration 2
   description:
   - this is something called fabric
@@ -66,20 +66,20 @@ categories:
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Hoa 2
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Hoa 3
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
 
 ---
