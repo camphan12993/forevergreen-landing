@@ -38,9 +38,7 @@ callout:
     url: "/material"
     text: View More
   cover: "/v1615177672/MAP_1235_pwdcbb.jpg"
-  description:
-  - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat blanditiis
-    eos omnis,
+  description: []
 - name: Plants
   link:
     url: "/plants"
