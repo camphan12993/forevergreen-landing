@@ -43,7 +43,7 @@ callout:
   link:
     url: "/plants"
     text: View More
-  cover: "/v1615365669/142773439_839787263262269_3025207159210223262_o_v0y9le.jpg"
+  cover: "/v1615367437/Th%C3%B4_m%E1%BB%99c_N%E1%BB%99i_th%E1%BA%A5t_%E1%BA%A2nh_gh%C3%A9p_hmfniq.jpg"
   description: []
 - name: Lookbook
   link:
