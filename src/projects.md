@@ -9,6 +9,8 @@ description:
   kế và thi công ra những sản phẩm tinh tế, phù hợp với không gian nội thất và ngân
   sách của Đối tác & Khách hàng.
 categories:
+- name: Nhà phố
+  items: []
 - name: Bar, Nhà hàng, Cà phê
   items:
   - name: Bar nao do
