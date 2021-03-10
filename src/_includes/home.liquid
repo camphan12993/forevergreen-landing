@@ -53,7 +53,7 @@ layout: base.liquid
   </h2>
   {% if about.description %}
     <div class='mb-6'>
-      {% include description.liquid, des: about.description, class: 'text-center' %}
+      {% include description.liquid, des: about.description %}
     </div>
   {% endif %}
 
@@ -70,12 +70,20 @@ layout: base.liquid
       {% include description.liquid, des: solutions.description %}
     </div>
   {% endif %}
-  <div class='grid grid-cols-1 md:grid-cols-2 gap-10 mt-16'>
-    {% for item in solutions.images %}
-      <img class='w-full' src="{{ cloudUrl }}{{item}}" alt=''>
-    {% endfor %}
+  <div class='swiper-solutions overflow-hidden w-full mt-10' data-aos='fade-up'>
+    <div class='swiper-wrapper'>
+      {% for item in solutions.images %}
+        <div class='swiper-slide'>
+          <div class='w-full pb-full lg:pb-2/3 relative project-item rounded-lg overflow-hidden cursor-default'>
+            <img class='absolute inset-0 w-full h-full object-center object-contain' src="{{ cloudUrl }}{{ item }}" alt=''/>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class='swiper-button-next swiper-button-white'></div>
+    <div class='swiper-button-prev swiper-button-white'></div>
+    <!-- Add Pagination -->
   </div>
-
 </section>
 {% assign flowers = collections.flowers[0].data %}
 {% assign flowersItems = flowers.categories | getProjects %}

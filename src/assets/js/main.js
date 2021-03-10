@@ -77,6 +77,17 @@ if (pathname.includes('projects')) {
 	});
 }
 
+var swiperSolution = new Swiper('.swiper-solutions', {
+	navigation: {
+		nextEl: '.swiper-button-next',
+		prevEl: '.swiper-button-prev',
+	},
+	pagination: {
+		el: '.swiper-pagination',
+		clickable: true,
+	},
+});
+
 var modal = document.querySelector('.modal');
 var modalContent = document.querySelector('.modal-content');
 var modalDes = document.querySelector('.modal-description');
