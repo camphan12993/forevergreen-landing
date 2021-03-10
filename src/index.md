@@ -49,11 +49,10 @@ callout:
   link:
     url: "/lookbook"
     text: View More
-  cover: "/v1611827320/plant_yryt8e.jpg"
+  cover: "/v1615353486/145806680_878609602938324_9152023316478921610_n_hnidjr.jpg"
   description:
-  - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat blanditiis
-    eos omnis, ullam,
-  - veniam quidem nulla accusantium aperiam cum voluptas officia, adipisci nobis nisi
-    illo dolore aliquam eaque architecto
+  - '"After women, flowers are the most divine creations"'
+  - Thương mời bạn chiêm ngưỡng những bộ sưu tập Hoa đầy tâm huyết của Forever Green
+    nhé!
 
 ---
