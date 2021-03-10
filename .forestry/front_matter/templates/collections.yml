@@ -41,3 +41,4 @@ fields:
       label: price
 pages:
 - src/flowers.md
+- src/plants.md
