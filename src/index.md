@@ -45,12 +45,8 @@ callout:
   link:
     url: "/plants"
     text: View More
-  cover: "/v1611827320/plant_yryt8e.jpg"
-  description:
-  - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat blanditiis
-    eos omnis,
-  - ullam, veniam quidem nulla accusantium aperiam cum voluptas officia, adipisci
-    nobis nisi illo dolore aliquam eaque architecto
+  cover: "/v1615353266/cay-gia-trang-tri-noi-that-2_m1dvlk.jpg"
+  description: []
 - name: Lookbook
   link:
     url: "/lookbook"
