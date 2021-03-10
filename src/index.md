@@ -24,8 +24,7 @@ about:
 solutions:
   title: Our Solutions
   description:
-  - Chào mừng bạn đến với Forever Green!
-  - Cùng khám phá Không Gian Xanh của chúng mình nhé!
+  - Quy Trình Thi Công và Thiết Kế tại FG
   images:
   - "/v1615304281/762722_khw2it.png"
   - "/v1615304167/workflow-131964753379858822_evlxgr.png"
@@ -42,8 +41,6 @@ callout:
   description:
   - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit quaerat blanditiis
     eos omnis,
-  - ullam, veniam quidem nulla accusantium aperiam cum voluptas officia, adipisci
-    nobis nisi illodolorealiquam eaque architecto
 - name: Plants
   link:
     url: "/plants"
