@@ -11,7 +11,7 @@ categories:
     description:
     - Cây này đẹp
     - Cây này đẹp hơn
-    price: 10000
+    price: "10000"
     images:
     - "/v1611827320/plant_yryt8e.jpg"
 tags: ''
