@@ -12,8 +12,14 @@ banner:
 about:
   title: About Us
   description:
-  - Sứ mệnh của FG chính là mang giải pháp xanh nhân tạo tối ưu nhất đến
-  - Khách hàng
+  - 'Forever Green chúng mình là những cô nàng có niềm đam mê bất tận với Cỏ - Cây
+    - Hoa - Lá và Phong cách thiết kế nhiệt đới. Vì vậy, mỗi ngày chúng mình đều làm
+    việc với Sứ mệnh:'
+  - "- Mang giải pháp xanh nhân tạo tối ưu nhất đến với Khách hàng."
+  - "- Tư vấn, sáng tạo và thi công những sản phẩm Hoa phù hợp với Yêu cầu & Ngân
+    sách của Khách hàng."
+  - "- Cung cấp Nguyên vật liệu chất lượng để thi công không gian xanh với giá thành
+    tốt nhất thị trường."
   cover: "/v1615177743/170827d19124627a3b35_de47o7.jpg"
 solutions:
   title: Our Solutions
