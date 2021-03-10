@@ -14,21 +14,21 @@ categories:
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
 - name: Material 1
   description:
   - this is something called fabric
@@ -41,21 +41,21 @@ categories:
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
 - name: Material 2
   description:
   - this is something called fabric
@@ -68,14 +68,14 @@ categories:
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
     - this is something called fabric
     images:
     - "/v1611827320/plant_yryt8e.jpg"
-    price: 
+    price: ''
 tags: ''
 
 ---
