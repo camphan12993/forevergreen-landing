@@ -26,7 +26,7 @@ solutions:
   description:
   - Quy Trình Thi Công và Thiết Kế tại FG
   images:
-  - "/v1615362303/QUY_TR%C3%8CNH_THI_C%C3%94NG_pgmbya.jpg"
+  - "/v1615362944/QUY_TR%C3%8CNH_THI_C%C3%94NG_macf7h.jpg"
   - "/v1615362315/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_gbfdip.jpg"
 categories:
 - "/v1615271350/IMG_5025_rr43sh.jpg"
