@@ -43,7 +43,7 @@ callout:
   link:
     url: "/plants"
     text: View More
-  cover: "/v1615353266/cay-gia-trang-tri-noi-that-2_m1dvlk.jpg"
+  cover: "/v1615365669/142773439_839787263262269_3025207159210223262_o_v0y9le.jpg"
   description: []
 - name: Lookbook
   link:
