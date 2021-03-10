@@ -49,7 +49,7 @@ callout:
   link:
     url: "/lookbook"
     text: View More
-  cover: "/v1615353486/145806680_878609602938324_9152023316478921610_n_hnidjr.jpg"
+  cover: "/v1615271504/145746423_3496182167274520_5314553773798810619_n_rv9jer.jpg"
   description:
   - '"After women, flowers are the most divine creations"'
   - Thương mời bạn chiêm ngưỡng những bộ sưu tập Hoa đầy tâm huyết của Forever Green
