@@ -41,5 +41,6 @@ fields:
       label: price
 pages:
 - src/flowers.md
+- src/lookbook.md
 - src/material.md
 - src/plants.md
