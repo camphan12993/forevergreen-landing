@@ -3,7 +3,7 @@ layout: home.liquid
 banner:
   title: FG - Chuyên gia không gian xanh
   description:
-  - Chào mừng bạn đến với Forever Green!
+  - Chào mừng bạn đến với FOREVER GREEN,
   - Cùng khám phá Không Gian Xanh của chúng mình nhé!
   images:
   - "/v1615177743/170827d19124627a3b35_de47o7.jpg"
