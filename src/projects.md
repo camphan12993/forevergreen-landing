@@ -11,19 +11,6 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
-  - name: Nguyễn Phạm Tuân Coffee
-    description:
-    - 'Địa chỉ: Đường Nguyễn Phạm Tuân, Đà Nẵng'
-    - Hạng mục thi công:Dàn dây si leo tường điểm hoa hồng trắng + Chữ dán tường chất
-      liệu thừng + Vòng Lũa kết hợp hoa treo cửa
-    images:
-    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_1_fwc65a.jpg"
-    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_4_pf7ulk.jpg"
-    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_2_uj3bcg.jpg"
-    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_3_ffjfs0.jpg"
-    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_7_r2e5pm.jpg"
-    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_6_iinri4.jpg"
-    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_5_eam331.jpg"
   - name: KOI BEER
     description:
     - 'Chủ đầu tư: Mr. Nam'
@@ -46,17 +33,19 @@ categories:
     - "/v1615450310/_MAP3282_qg2a4v.jpg"
     - "/v1615450311/_MAP3273_gdu4g4.jpg"
     - "/v1615450311/_MAP3223_yf6qhm.jpg"
-  - name: ''
-    description: []
-    images: []
-  - name: ''
+  - name: Nguyễn Phạm Tuân Coffee
     description:
-    - this is a bar
-    - this is a bar 2
+    - 'Địa chỉ: Đường Nguyễn Phạm Tuân, Đà Nẵng'
+    - Hạng mục thi công:Dàn dây si leo tường điểm hoa hồng trắng + Chữ dán tường chất
+      liệu thừng + Vòng Lũa kết hợp hoa treo cửa
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    - "/v1611827320/plant_yryt8e.jpg"
-    - "/v1611827320/plant_yryt8e.jpg"
+    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_1_fwc65a.jpg"
+    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_4_pf7ulk.jpg"
+    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_2_uj3bcg.jpg"
+    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_3_ffjfs0.jpg"
+    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_7_r2e5pm.jpg"
+    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_6_iinri4.jpg"
+    - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_5_eam331.jpg"
 - name: Nhà phố
   items:
   - name: ANH MINH
