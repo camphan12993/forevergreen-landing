@@ -71,15 +71,22 @@
     <main class='w-full overflow-hidden'>
       {{ content | safe }}
       <div class='modal'>
-        <div class='absolute w-full h-full overflow-auto py-20 px-6 sm:px-16 md:px-24'>
-          <div class='bg-white w-full p-10 min-h-full rounded-lg overflow-hidden'>
-            <div class='modal-description text-secondary mb-10'></div>
-            <div class='modal-gallery'></div>
+        <div class='absolute w-full h-full'>
+          <div class='absolute z-10 w-full h-full overflow-auto py-20 px-6 sm:px-16 md:px-24'>
+            <div class='bg-white w-full p-10 min-h-full rounded-lg overflow-hidden'>
+              <div class='modal-description text-secondary mb-10'></div>
+              <div class='modal-gallery'></div>
+            </div>
           </div>
+
+          <div class='loader-screen absolute z-0 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2'>
+            <div class='loader'></div>
+          </div>
+          <button class='absolute text-5xl z-20 focus:outline-none top-4 right-10 cursor-pointer text-white hover:opacity-80 duration-300 transition' onclick='closeModal()'>
+            &times;
+          </button>
         </div>
-        <button class='fixed text-5xl top-4 right-10 cursor-pointer text-white hover:opacity-80 duration-300 transition' onclick='closeModal()'>
-          &times;
-        </button>
+
       </div>
     </main>
     <!-- Footer -->
