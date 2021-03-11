@@ -45,6 +45,27 @@ categories:
   items: []
 - name: Văn phòng, Spa
   items:
+  - name: AN AN SPA
+    description:
+    - 'Chủ đầu tư: Christine Hà'
+    - 'Địa chỉ: 39B Tiểu La, Hoà Cường Bắc, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Cây xanh nội thất & Chậu/Bình hoa trang trí tạo điểm nhấn
+      nhẹ nhàng, tinh tế cho không gian'
+    images:
+    - "/v1615446898/MAP_0567_vyd7hs.jpg"
+    - "/v1615446899/MAP_0594_qqws2t.jpg"
+    - "/v1615446898/MAP_0572_zehjgb.jpg"
+    - "/v1615446898/MAP_0574_rtyngn.jpg"
+    - "/v1615446900/MAP_0621_pszqek.jpg"
+    - "/v1615446899/MAP_0617_svdxip.jpg"
+    - "/v1615446900/MAP_0611_q5vccu.jpg"
+    - "/v1615446900/MAP_0618_hchuj6.jpg"
+    - "/v1615446900/MAP_0631_k3i3vp.jpg"
+    - "/v1615446900/MAP_0637_srthqi.jpg"
+    - "/v1615446900/MAP_0664_mcgesq.jpg"
+    - "/v1615446900/MAP_0658_xa7zez.jpg"
+    - "/v1615446900/MAP_0603_tvjmqv.jpg"
+    - "/v1615446896/MAP_0582_m5rmeb.jpg"
   - name: TIÊN BEAUTY
     description:
     - 'Chủ đầu tư: Nguyễn Tiên'
