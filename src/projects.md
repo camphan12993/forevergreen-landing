@@ -24,7 +24,7 @@ categories:
     - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_7_r2e5pm.jpg"
     - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_6_iinri4.jpg"
     - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_5_eam331.jpg"
-  - name: Bar nao do
+  - name: ''
     description:
     - this is a bar
     - this is a bar 2
@@ -43,6 +43,24 @@ categories:
     - "/v1611827320/plant_yryt8e.jpg"
 - name: Nhà phố
   items: []
+- name: Văn phòng, Spa
+  items:
+  - name: TIÊN BEAUTY
+    description:
+    - 'Chủ đầu tư: Nguyễn Tiên'
+    - 'Hạng mục công trình: Dàn hoa hồng leo tường nơi tiếp đón khách'
+    images:
+    - "/v1615446076/MAP_2694_fuzjrx.jpg"
+    - "/v1615446077/MAP_2674_v6dita.jpg"
+    - "/v1615446077/MAP_2682_w3zx3v.jpg"
+    - "/v1615446075/MAP_2683_vps4xy.jpg"
+    - "/v1615446076/MAP_2707_bxx3kq.jpg"
+    - "/v1615446076/MAP_2692_j5vh8f.jpg"
+    - "/v1615446077/MAP_2704_ddfdkj.jpg"
+    - "/v1615446076/MAP_2684_l7ydc6.jpg"
+    - "/v1615446076/MAP_2686_qlza3w.jpg"
+    - "/v1615446076/MAP_2678_ifnhbj.jpg"
+    - "/v1615446072/MAP_2677_tjnpkd.jpg"
 - name: Hotel, Homestay
   items: []
 
