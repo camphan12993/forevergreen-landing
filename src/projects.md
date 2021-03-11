@@ -42,7 +42,38 @@ categories:
     - "/v1611827320/plant_yryt8e.jpg"
     - "/v1611827320/plant_yryt8e.jpg"
 - name: Nhà phố
-  items: []
+  items:
+  - name: ANH MINH
+    description:
+    - 'Chủ đầu tư: Anh Minh'
+    - 'Địa chỉ: Trung Lương 9, Đà Nẵng'
+    - 'Hạng mục công trình: Tiểu cảnh cây xanh nội thất nhân tạo nơi phòng khách +
+      Cây xanh rũ lan can 2 tầng'
+    images:
+    - "/v1615447867/NDB_0148_ltyivm.jpg"
+    - "/v1615447868/NDB_0164_fcoesc.jpg"
+    - "/v1615447867/NDB_0159_y9ibca.jpg"
+    - "/v1615447868/NDB_0143_avwnbq.jpg"
+    - "/v1615447869/NDB_0155_ebjkue.jpg"
+    - "/v1615447867/NDB_0119_nf3twl.jpg"
+    - "/v1615447865/NDB_0157_spadrh.jpg"
+    - "/v1615447865/NDB_0102_m4ctak.jpg"
+    - "/v1615447859/NDB_0087_xyiygu.jpg"
+    - "/v1615447862/NDB_0121_gw0xh1.jpg"
+    - "/v1615447867/NDB_0109_itgqkb.jpg"
+    - "/v1615447867/NDB_0136_qzm8bg.jpg"
+    - "/v1615447863/NDB_0139_zthey7.jpg"
+    - "/v1615447866/NDB_0134_a9ozmz.jpg"
+    - "/v1615447866/NDB_0133_au3bbt.jpg"
+    - "/v1615447866/NDB_0101_gcdckc.jpg"
+    - "/v1615447869/NDB_0107_qzblef.jpg"
+    - "/v1615447868/NDB_0093_v774iy.jpg"
+    - "/v1615447869/NDB_0099_arxggv.jpg"
+    - "/v1615447864/NDB_0098_nl6t1n.jpg"
+    - "/v1615447866/NDB_0094_d75djp.jpg"
+    - "/v1615447867/NDB_0105_dsgcfz.jpg"
+    - "/v1615447864/NDB_0124_rjo6yv.jpg"
+    - "/v1615447866/NDB_0091_tf7zt7.jpg"
 - name: Văn phòng, Spa
   items:
   - name: AN AN SPA
