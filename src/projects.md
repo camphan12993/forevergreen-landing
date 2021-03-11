@@ -48,6 +48,7 @@ categories:
   - name: TIÊN BEAUTY
     description:
     - 'Chủ đầu tư: Nguyễn Tiên'
+    - 'Địa chỉ: 03 Nguyễn Trường Tộ, Đà Nẵng'
     - 'Hạng mục công trình: Dàn hoa hồng leo tường nơi tiếp đón khách'
     images:
     - "/v1615446076/MAP_2694_fuzjrx.jpg"
