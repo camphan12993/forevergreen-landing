@@ -23,16 +23,11 @@ layout: base.liquid
         <div class=' grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
           {% for item in cat.items %}
             <div class='mb-6' data-aos='fade-up'>
-              <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden' onclick='openModal({{item}},"{{cloudUrl}}")'>
-                <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{cloudUrl}}{{item.images[0]}}'></div>
+              <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden bg-white' onclick='openModal({{item}},"{{cloudUrl}}/w_1280,h_1280,c_limit,fl_progressive/q_auto:good,f_auto")'>
+                <img alt='thumnail' class=' absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src='{{cloudUrl}}/w_600,c_limit,fl_progressive/q_auto:good{{item.images[0]}}'></div>
               <div class='text-md font-bold mb-2'>{{item.name}}</div>
               {% if item.price %}
                 <div class='font-thin tracking-widest'>{{item.price | append: ' đ'}}</div>
-              {% endif %}
-              {% if item.description %}
-                <div class='mt-2'>
-                  {% include description.liquid, des: item.description, class: 'text-sm italic opacity-60' %}
-                </div>
               {% endif %}
             </div>
           {% endfor %}

@@ -166,4 +166,8 @@ header.scrolled img {
 	);
 }
 
+#menu a.active {
+	@apply text-primary;
+}
+
 @tailwind utilities;
