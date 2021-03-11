@@ -38,7 +38,9 @@ callout:
     url: "/material"
     text: View More
   cover: "/v1615177672/MAP_1235_pwdcbb.jpg"
-  description: []
+  description:
+  - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%
+    nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
 - name: Plants
   link:
     url: "/plants"
