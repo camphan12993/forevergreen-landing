@@ -24,19 +24,35 @@ categories:
     - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_7_r2e5pm.jpg"
     - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_6_iinri4.jpg"
     - "/v1615444745/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_5_eam331.jpg"
+  - name: KOI BEER
+    description:
+    - 'Chủ đầu tư: Mr. Nam'
+    - 'Địa chỉ: Lô 20 - 21 Đường 2/9, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây nhiệt đới (DT: 19,5m2) + 2 Bồn cây cọ tiểu cảnh
+      + Dàn cúc tầng rũ dài 12m'
+    images:
+    - "/v1615450311/_MAP3243_utffpi.jpg"
+    - "/v1615450311/_MAP3195_oukvcf.jpg"
+    - "/v1615450309/_MAP3176_z463vr.jpg"
+    - "/v1615450311/_MAP3159_xsjllf.jpg"
+    - "/v1615450310/_MAP3208_wxy4mr.jpg"
+    - "/v1615450310/_MAP3199_hp2pof.jpg"
+    - "/v1615450309/_MAP3162_ab2lxr.jpg"
+    - "/v1615450311/_MAP3252_nl9kkx.jpg"
+    - "/v1615450309/_MAP3181_gwrujb.jpg"
+    - "/v1615450311/_MAP3250_nyxnje.jpg"
+    - "/v1615450310/_MAP3216_f2edx7.jpg"
+    - "/v1615450309/_MAP3184_lk7ugr.jpg"
+    - "/v1615450310/_MAP3282_qg2a4v.jpg"
+    - "/v1615450311/_MAP3273_gdu4g4.jpg"
+    - "/v1615450311/_MAP3223_yf6qhm.jpg"
+  - name: ''
+    description: []
+    images: []
   - name: ''
     description:
     - this is a bar
     - this is a bar 2
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    - "/v1611827320/plant_yryt8e.jpg"
-    - "/v1611827320/plant_yryt8e.jpg"
-  - name: Bar nao do
-    description:
-    - this is a bar
-    - this is a bar
-    - this is a bar
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     - "/v1611827320/plant_yryt8e.jpg"
