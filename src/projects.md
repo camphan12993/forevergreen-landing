@@ -62,6 +62,18 @@ categories:
     - "/v1615446076/MAP_2678_ifnhbj.jpg"
     - "/v1615446072/MAP_2677_tjnpkd.jpg"
 - name: Hotel, Homestay
-  items: []
+  items:
+  - name: RIO HOTEL
+    description:
+    - 'Chủ đầu tư: Ms. Ngân'
+    - 'Địa chỉ: 494A Đường 2/9, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây nhiệt đới diện tích 8,3m2'
+    images:
+    - "/v1615446729/NDB_9440_t6fthf.jpg"
+    - "/v1615446730/NDB_9421_cp1qxo.jpg"
+    - "/v1615446730/NDB_9419_lub4js.jpg"
+    - "/v1615446728/NDB_9426_qvnxzb.jpg"
+    - "/v1615446730/NDB_9412_c7xdrx.jpg"
+    - "/v1615446727/NDB_9414_zlqrgj.jpg"
 
 ---
