@@ -29,7 +29,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
-- name: FLOWER BASKET
+- name: Flower Basket
   description:
   - this is something called fabric
   - this is something called fabric
