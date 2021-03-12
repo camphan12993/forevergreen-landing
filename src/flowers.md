@@ -29,7 +29,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
-- name: Home Decoration 1
+- name: FLOWER BASKET
   description:
   - this is something called fabric
   - this is something called fabric
