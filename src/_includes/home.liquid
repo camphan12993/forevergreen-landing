@@ -116,8 +116,7 @@ layout: base.liquid
           <div class='w-full pb-full lg:pb-full relative project-item rounded-lg overflow-hidden cursor-default bg-white'>
             <img class='absolute inset-0 w-full h-full object-center object-cover' src="{{ cloudUrl }}/w_800,c_limit,fl_progressive/q_auto:good{{ item.images[0] }}" alt=''/>
             <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex flex-col items-center justify-center p-6'>
-              <h4 class='text-white font-bold text-xl mb-2'>{{ item.name }}</h4>
-              {% include description.liquid, des: item.description %}
+              <h4 class='text-white font-bold text-xl'>{{ item.name }}</h4>
             </div>
           </div>
         </div>
@@ -141,8 +140,7 @@ layout: base.liquid
           <div class='w-full pb-full lg:pb-full relative project-item rounded-lg overflow-hidden cursor-default'>
             <img class='absolute inset-0 w-full h-full object-center object-cover' src="{{ cloudUrl }}/w_800,c_limit,fl_progressive/q_auto:good{{ item.images[0] }}" alt=''/>
             <div class='absolute inset-0 bg-black bg-opacity-40 opacity-0 transition duration-300 flex flex-col items-center justify-center p-6'>
-              <h4 class='text-white font-bold text-xl mb-2'>{{ item.name }}</h4>
-              {% include description.liquid, des: item.description %}
+              <h4 class='text-white font-bold text-xl'>{{ item.name }}</h4>
             </div>
           </div>
         </div>
