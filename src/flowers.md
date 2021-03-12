@@ -55,7 +55,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
-- name: Home Decoration 2
+- name: Bloom Box
   description:
   - this is something called fabric
   - this is something called fabric
