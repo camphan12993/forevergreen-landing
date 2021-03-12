@@ -37,14 +37,14 @@ categories:
       hoa mộc lan + Bồn gỗ Tiểu cảnh dây rũ thả trần + Tiểu cảnh nội thất dưới chân
       cầu thang + Bồn tiểu cảnh cây Thiên điểu + Kệ gỗ kết hợp Khung tranh sen đá'
     images:
+    - "/v1615519133/IMG_7280_acm1ig.jpg"
+    - "/v1615519133/IMG_7268_izje61.jpg"
     - "/v1615519132/IMG_7141_revled.jpg"
     - "/v1615519132/amzux-i99e8_racvqp.jpg"
     - "/v1615519132/aam81-768sh_b0ezzq.jpg"
     - "/v1615519133/aaemx-tq4ol_bqzxgz.jpg"
     - "/v1615519132/ag6eh-xb1aq_cwwldh.jpg"
     - "/v1615519133/ao5ix-yjv4w_waem5c.jpg"
-    - "/v1615519133/IMG_7280_acm1ig.jpg"
-    - "/v1615519133/IMG_7268_izje61.jpg"
     - "/v1615519133/IMG_7113_ecoslj.jpg"
     - "/v1615519132/IMG_7137_dvfijo.jpg"
     - "/v1615519133/IMG_7221_qcixsk.jpg"
