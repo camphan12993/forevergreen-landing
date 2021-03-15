@@ -11,9 +11,6 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
-  - name: ''
-    description: []
-    images: []
   - name: YÊN GARDEN
     description:
     - 'Chủ đầu tư: Ms. Linh'
@@ -32,18 +29,6 @@ categories:
     - "/v1615782689/MAP_0079_vjqttp.jpg"
     - "/v1615782688/MAP_0063_adez6g.jpg"
     - "/v1615782686/MAP_0070_uyaj2j.jpg"
-  - name: LÀNG NGHỆ RESTAURANT
-    description:
-    - 'Chủ đầu tư: Nhà hàng Làng Nghệ'
-    - 'Địa chỉ: 1149 Lê Lợi, Hải Châu, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cỏ milan điểm cây dày (DT 19m2) + Bảng hiểu & Đèn'
-    images:
-    - "/v1615782023/MAP_1168_v2iyjd.jpg"
-    - "/v1615782023/MAP_1185_za2bi7.jpg"
-    - "/v1615782023/MAP_1181_nzhqm9.jpg"
-    - "/v1615782022/MAP_1178_rhrwco.jpg"
-    - "/v1615782022/MAP_1169_cpch3z.jpg"
-    - "/v1615782020/MAP_1167_zmfu5k.jpg"
   - name: KOI BEER
     description:
     - 'Chủ đầu tư: Mr. Nam'
@@ -74,6 +59,18 @@ categories:
     - "/v1615781492/MAP_1240_nw6ms0.jpg"
     - "/v1615781491/MAP_1237_krzneo.jpg"
     - "/v1615781492/MAP_1229_xywa9r.jpg"
+  - name: LÀNG NGHỆ RESTAURANT
+    description:
+    - 'Chủ đầu tư: Nhà hàng Làng Nghệ'
+    - 'Địa chỉ: 1149 Lê Lợi, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cỏ milan điểm cây dày (DT 19m2) + Bảng hiểu & Đèn'
+    images:
+    - "/v1615782023/MAP_1168_v2iyjd.jpg"
+    - "/v1615782023/MAP_1185_za2bi7.jpg"
+    - "/v1615782023/MAP_1181_nzhqm9.jpg"
+    - "/v1615782022/MAP_1178_rhrwco.jpg"
+    - "/v1615782022/MAP_1169_cpch3z.jpg"
+    - "/v1615782020/MAP_1167_zmfu5k.jpg"
   - name: 1992 COFFEE & TEA
     description:
     - " Địa chỉ: Thị trấn Hùng Sơn, Đại Từ, Tỉnh Thái Nguyên"
