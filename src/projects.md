@@ -32,6 +32,22 @@ categories:
     - "/v1615794871/_MAP5189_oyk6sr.jpg"
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: ỐC LY BÉ
+    description:
+    - 'Chủ đầu tư: Ms.Ly'
+    - 'Địa chỉ: 03 An Trung Đông 3, Đà Nẵng'
+    - 'hạng mục công trình: Dàn dây leo cổ lá si tạo điểm nhấn tường chính + Hàng
+      trúc dọc bờ tường lối đi vào'
+    images:
+    - "/v1615795825/_MAP6471_yajqhm.jpg"
+    - "/v1615795825/_MAP6469_k3givj.jpg"
+    - "/v1615795824/_MAP6454_qonvlp.jpg"
+    - "/v1615795824/_MAP6441_oajpth.jpg"
+    - "/v1615795808/NDB_8565_bjimgs.jpg"
+    - "/v1615795809/NDB_8573_vkdykj.jpg"
+    - "/v1615795808/NDB_8570_euptzb.jpg"
+    - "/v1615795809/NDB_8569_ozdgb3.jpg"
+    - "/v1615795809/NDB_8575_ijydls.jpg"
   - name: NHÀ HÀNG CO BAO
     description:
     - 'Chủ đầu tư: Mr. Dinh'
