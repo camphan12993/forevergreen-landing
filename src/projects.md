@@ -202,6 +202,18 @@ categories:
     - "/v1615446072/MAP_2677_tjnpkd.jpg"
 - name: Hotel, Homestay
   items:
+  - name: SANNY APARTMENT
+    description:
+    - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây dày trang trí lối đi cầu thang chính để đón
+      tiếp khách'
+    images:
+    - "/v1615784008/MAP_8040-2_a7knbd.jpg"
+    - "/v1615784009/MAP_8059-2_k4mdfw.jpg"
+    - "/v1615784009/MAP_8046-2_uop1hc.jpg"
+    - "/v1615784010/MAP_8075-2_qjvwjw.jpg"
+    - "/v1615784009/MAP_8074-2_vzxqg1.jpg"
+    - "/v1615784010/MAP_8072-2_lcxdha.jpg"
   - name: RIO HOTEL
     description:
     - 'Chủ đầu tư: Ms. Ngân'
