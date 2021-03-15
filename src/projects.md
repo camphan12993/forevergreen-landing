@@ -11,6 +11,11 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: ''
+    description:
+    - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
+    - 'Chủ đầu tư: Ms. Linh'
+    images: []
   - name: LÀNG NGHỆ RESTAURANT
     description:
     - 'Chủ đầu tư: Nhà hàng Làng Nghệ'
@@ -124,6 +129,14 @@ categories:
     - "/v1615447866/NDB_0091_tf7zt7.jpg"
 - name: Văn phòng, Spa
   items:
+  - name: UNICITY ĐÀ NẴNG
+    description:
+    - 'Chủ đầu tư: Ms. Linh'
+    - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cỏ milan điểm cây viền (DT 5m2)'
+    images:
+    - "/v1615782441/337c00ede01813464a09_jdsdzl.jpg"
+    - "/v1615782442/26b015a7e152120c4b43_pyzn3r.jpg"
   - name: AN AN SPA
     description:
     - 'Chủ đầu tư: Christine Hà'
