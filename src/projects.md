@@ -10,7 +10,26 @@ description:
   sách của Đối tác & Khách hàng.
 categories:
 - name: DANANG INTERNATIONAL AIRPORT (DIA)
-  items: []
+  items:
+  - name: 'FUSION MAIA '
+    description:
+    - 'Địa chỉ: Phường Hòa Thuận Tây, Quận Hỉa Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Mảng tường cây sau quầy Bar + Tiểu cảnh cây Thiên điểu
+      + Khung cây rũ kết hợp lũa treo tường'
+    images:
+    - "/v1615794869/IMG_8842_qnfoyo.jpg"
+    - "/v1615794875/32EEB935-8E49-47A0-A46D-2CB49F7E3002-3943-0000027DCE30631D_b27kqt.jpg"
+    - "/v1615794877/_MAP5204_gssztt.jpg"
+    - "/v1615794877/_MAP5212_z6qe3i.jpg"
+    - "/v1615794877/_MAP5208_k8ahgo.jpg"
+    - "/v1615794877/_MAP5230_wlt0hq.jpg"
+    - "/v1615794877/_MAP5236_fwzahu.jpg"
+    - "/v1615794877/_MAP5235_zrw0ez.jpg"
+    - "/v1615794877/_MAP5200_x6zgsc.jpg"
+    - "/v1615794877/_MAP5218_esosk7.jpg"
+    - "/v1615794873/_MAP5177_zu1rec.jpg"
+    - "/v1615794876/_MAP5222_xsc93e.jpg"
+    - "/v1615794871/_MAP5189_oyk6sr.jpg"
 - name: Bar, Nhà hàng, Cà phê
   items:
   - name: POPPING TEA & COFFEE
