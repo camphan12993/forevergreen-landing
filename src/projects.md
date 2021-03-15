@@ -212,6 +212,19 @@ categories:
     - "/v1615446072/MAP_2677_tjnpkd.jpg"
 - name: Hotel, Homestay
   items:
+  - name: MONARQUE HOTEL
+    description:
+    - 'chủ đầu tư: Ms.Phương'
+    - 'Địa chỉ: 238 Võ Nguyên Giáp, Sơn Trà, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây hồ bơi (6 mảng)'
+    images:
+    - "/v1615794606/MAP_0803_zim9o9.jpg"
+    - "/v1615794609/MAP_0811_rtnjcv.jpg"
+    - "/v1615794607/MAP_0833_rufn1v.jpg"
+    - "/v1615794606/MAP_0830_nqy4dl.jpg"
+    - "/v1615794609/MAP_0844_gvlais.jpg"
+    - "/v1615794607/MAP_0843_vnwzcs.jpg"
+    - "/v1615794605/MAP_0815_g42ygx.jpg"
   - name: SANNY APARTMENT
     description:
     - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
