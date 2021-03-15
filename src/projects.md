@@ -11,6 +11,17 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: KHÓI GARDEN
+    description:
+    - 'Chủ đầu tư: Nguyễn Quang Linh'
+    - 'Địa chỉ: 50 Trần Văn Trứ, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây sảnh chính (DT 15m2) '
+    images:
+    - "/v1615781492/MAP_1211_sqfi7q.jpg"
+    - "/v1615781493/MAP_1235_tfziyr.jpg"
+    - "/v1615781492/MAP_1240_nw6ms0.jpg"
+    - "/v1615781491/MAP_1237_krzneo.jpg"
+    - "/v1615781492/MAP_1229_xywa9r.jpg"
   - name: KOI BEER
     description:
     - 'Chủ đầu tư: Mr. Nam'
