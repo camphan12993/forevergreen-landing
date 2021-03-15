@@ -28,8 +28,8 @@ categories:
     description:
     - 'Chủ đầu tư: Ms. Linh'
     - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
-    - 'Hạng mục công trình: Vòm hoa trang trí làm nổi bật Nhãn hiệu + Tường rêu sen
-      đá + Các chậu hoa treo dây rũ'
+    - 'Hạng mục công trình: Vòm hoa trang trí tường làm nổi bật Nhãn hiệu + Tường
+      rêu sen đá + Các chậu hoa treo dây rũ'
     images:
     - "/v1615782684/MAP_0993_zcklt9.jpg"
     - "/v1615782682/MAP_0997_peva6o.jpg"
