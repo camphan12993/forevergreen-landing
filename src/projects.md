@@ -11,17 +11,18 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
-  - name: KHÓI GARDEN
+  - name: LÀNG NGHỆ RESTAURANT
     description:
-    - 'Chủ đầu tư: Nguyễn Quang Linh'
-    - 'Địa chỉ: 50 Trần Văn Trứ, Hải Châu, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cây sảnh chính (DT 15m2) '
+    - 'Chủ đầu tư: Nhà hàng Làng Nghệ'
+    - 'Địa chỉ: 1149 Lê Lợi, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cỏ milan điểm cây dày (DT 19m2) + Bảng hiểu & Đèn'
     images:
-    - "/v1615781492/MAP_1211_sqfi7q.jpg"
-    - "/v1615781493/MAP_1235_tfziyr.jpg"
-    - "/v1615781492/MAP_1240_nw6ms0.jpg"
-    - "/v1615781491/MAP_1237_krzneo.jpg"
-    - "/v1615781492/MAP_1229_xywa9r.jpg"
+    - "/v1615782023/MAP_1168_v2iyjd.jpg"
+    - "/v1615782023/MAP_1185_za2bi7.jpg"
+    - "/v1615782023/MAP_1181_nzhqm9.jpg"
+    - "/v1615782022/MAP_1178_rhrwco.jpg"
+    - "/v1615782022/MAP_1169_cpch3z.jpg"
+    - "/v1615782020/MAP_1167_zmfu5k.jpg"
   - name: KOI BEER
     description:
     - 'Chủ đầu tư: Mr. Nam'
@@ -41,6 +42,17 @@ categories:
     - "/v1615450310/_MAP3282_qg2a4v.jpg"
     - "/v1615450311/_MAP3273_gdu4g4.jpg"
     - "/v1615450311/_MAP3223_yf6qhm.jpg"
+  - name: KHÓI GARDEN
+    description:
+    - 'Chủ đầu tư: Nguyễn Quang Linh'
+    - 'Địa chỉ: 50 Trần Văn Trứ, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây sảnh chính (DT 15m2) '
+    images:
+    - "/v1615781492/MAP_1211_sqfi7q.jpg"
+    - "/v1615781493/MAP_1235_tfziyr.jpg"
+    - "/v1615781492/MAP_1240_nw6ms0.jpg"
+    - "/v1615781491/MAP_1237_krzneo.jpg"
+    - "/v1615781492/MAP_1229_xywa9r.jpg"
   - name: 1992 COFFEE & TEA
     description:
     - " Địa chỉ: Thị trấn Hùng Sơn, Đại Từ, Tỉnh Thái Nguyên"
