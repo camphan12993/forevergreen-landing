@@ -100,18 +100,19 @@ categories:
     - 'Hạng mục công trình: Tường cây nhiệt đới (DT: 19,5m2) + 2 Bồn cây cọ tiểu cảnh
       + Dàn cúc tầng rũ dài 12m'
     images:
-    - "/v1615450311/_MAP3195_oukvcf.jpg"
-    - "/v1615450311/_MAP3243_utffpi.jpg"
-    - "/v1615450311/_MAP3159_xsjllf.jpg"
-    - "/v1615450310/_MAP3208_wxy4mr.jpg"
-    - "/v1615450310/_MAP3199_hp2pof.jpg"
-    - "/v1615450309/_MAP3162_ab2lxr.jpg"
-    - "/v1615450311/_MAP3252_nl9kkx.jpg"
-    - "/v1615450309/_MAP3181_gwrujb.jpg"
-    - "/v1615450309/_MAP3184_lk7ugr.jpg"
-    - "/v1615450310/_MAP3282_qg2a4v.jpg"
-    - "/v1615450311/_MAP3273_gdu4g4.jpg"
-    - "/v1615450311/_MAP3223_yf6qhm.jpg"
+    - "/v1615796387/_MAP3190_ayusng.jpg"
+    - "/v1615796386/_MAP3243_s4fqz6.jpg"
+    - "/v1615796387/_MAP3195_kvonu4.jpg"
+    - "/v1615796385/_MAP3208_pxhdeg.jpg"
+    - "/v1615796382/_MAP3162_lrkbnp.jpg"
+    - "/v1615796386/_MAP3159_iwgbto.jpg"
+    - "/v1615796382/_MAP3176_l10fbc.jpg"
+    - "/v1615796386/_MAP3223_jcvwij.jpg"
+    - "/v1615796385/_MAP3181_e9lxpn.jpg"
+    - "/v1615796385/_MAP3216_fyg5tz.jpg"
+    - "/v1615796385/_MAP3184_wkqdjo.jpg"
+    - "/v1615796385/_MAP3218_orkkuz.jpg"
+    - "/v1615796385/_MAP3282_tk1uj2.jpg"
   - name: KHÓI GARDEN
     description:
     - 'Chủ đầu tư: Nguyễn Quang Linh'
