@@ -205,15 +205,21 @@ categories:
   - name: SANNY APARTMENT
     description:
     - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cây dày trang trí lối đi cầu thang chính để đón
-      tiếp khách'
+    - 'Hạng mục công trình: Tường cây dày trang trí lối đi cầu thang + Bồn cây chuối
+      cảnh + Cây thiên điểu cảnh'
     images:
-    - "/v1615784008/MAP_8040-2_a7knbd.jpg"
+    - "/v1615784117/MAP_8601_rzxsen.jpg"
     - "/v1615784009/MAP_8059-2_k4mdfw.jpg"
+    - "/v1615784008/MAP_8040-2_a7knbd.jpg"
     - "/v1615784009/MAP_8046-2_uop1hc.jpg"
     - "/v1615784010/MAP_8075-2_qjvwjw.jpg"
     - "/v1615784009/MAP_8074-2_vzxqg1.jpg"
     - "/v1615784010/MAP_8072-2_lcxdha.jpg"
+    - "/v1615784117/MAP_8615_ytiz78.jpg"
+    - "/v1615784117/MAP_8623_plcx39.jpg"
+    - "/v1615784209/MAP_8622_r2lesx.jpg"
+    - "/v1615784116/MAP_8592_jmemqv.jpg"
+    - "/v1615784117/MAP_8588_wczl03.jpg"
   - name: RIO HOTEL
     description:
     - 'Chủ đầu tư: Ms. Ngân'
