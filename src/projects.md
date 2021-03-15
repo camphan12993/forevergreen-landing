@@ -11,11 +11,24 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
-  - name: ''
+  - name: YÊN GARDEN
     description:
-    - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
     - 'Chủ đầu tư: Ms. Linh'
-    images: []
+    - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Vòm hoa trang trí làm nổi bật Nhãn hiệu + Tường rêu sen
+      đá + Các chậu hoa treo dây rũ'
+    images:
+    - "/v1615782684/MAP_0993_zcklt9.jpg"
+    - "/v1615782682/MAP_0997_peva6o.jpg"
+    - "/v1615782680/MAP_0992_o2tzgf.jpg"
+    - "/v1615782688/MAP_1014_miadgq.jpg"
+    - "/v1615782689/MAP_1022_cxnzbr.jpg"
+    - "/v1615782687/MAP_0991_wwb8tq.jpg"
+    - "/v1615782687/MAP_1021_mi1vmk.jpg"
+    - "/v1615782685/MAP_1030_zkj4t0.jpg"
+    - "/v1615782689/MAP_0079_vjqttp.jpg"
+    - "/v1615782688/MAP_0063_adez6g.jpg"
+    - "/v1615782686/MAP_0070_uyaj2j.jpg"
   - name: LÀNG NGHỆ RESTAURANT
     description:
     - 'Chủ đầu tư: Nhà hàng Làng Nghệ'
