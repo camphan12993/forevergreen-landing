@@ -32,6 +32,20 @@ categories:
     - "/v1615794871/_MAP5189_oyk6sr.jpg"
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: NHÀ HÀNG CO BAO
+    description:
+    - 'Chủ đầu tư: Mr. Dinh'
+    - Địa chỉ :Lô B 33 Trần Văn Trứ, Hải Châu, Đà Nẵng
+    - 'Hạng mục công trình: Tường cây nhiệt đới nhấn hoa thiên điểu (DT: 44m2)'
+    images:
+    - "/v1615795426/_MAP6014_er4eda.jpg"
+    - "/v1615795425/_MAP5997_x7ymmm.jpg"
+    - "/v1615795425/_MAP5994_sxm2kt.jpg"
+    - "/v1615795426/_MAP6005_fznqvw.jpg"
+    - "/v1615795425/_MAP6001_f6txjl.jpg"
+    - "/v1615795425/_MAP5999_txkjlh.jpg"
+    - "/v1615795425/_MAP5993_xjpeec.jpg"
+    - "/v1615795426/_MAP6002_uazqq7.jpg"
   - name: POPPING TEA & COFFEE
     description:
     - 'Địa chỉ: 503 Trần Hưng Đạo, Sơn Trà, Đà Nẵng'
