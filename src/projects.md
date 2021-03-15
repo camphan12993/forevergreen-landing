@@ -11,6 +11,9 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: ''
+    description: []
+    images: []
   - name: YÊN GARDEN
     description:
     - 'Chủ đầu tư: Ms. Linh'
@@ -142,6 +145,15 @@ categories:
     - "/v1615447866/NDB_0091_tf7zt7.jpg"
 - name: Văn phòng, Spa
   items:
+  - name: SNOW WHITHE SPA
+    description:
+    - 'Địa chỉ: 137 Hàm Nghi, Thanh Khê, Đà Nẵng'
+    - 'Hạng mục công trình: Dàn dây leo hoa hồng xanh'
+    images:
+    - "/v1615783686/MAP_1097_lk5ylq.jpg"
+    - "/v1615783686/MAP_1103_qreygi.jpg"
+    - "/v1615783682/MAP_1049_zazpcl.jpg"
+    - "/v1615783686/MAP_1051_iguecy.jpg"
   - name: UNICITY ĐÀ NẴNG
     description:
     - 'Chủ đầu tư: Ms. Linh'
