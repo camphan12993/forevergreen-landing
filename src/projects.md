@@ -11,6 +11,19 @@ description:
 categories:
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: POPPING TEA & COFFEE
+    description:
+    - 'Địa chỉ: 503 Trần Hưng Đạo, Sơn Trà, Đà Nẵng'
+    - 'Hạng mục công trình: Bồn cây tiểu cảnh Lưỡi hổ kết hợp Dương xỉ'
+    images:
+    - "/v1615794044/MAP_2145_wfayka.jpg"
+    - "/v1615794045/MAP_2141_ycxfsj.jpg"
+    - "/v1615794045/MAP_2140_vpdsdo.jpg"
+    - "/v1615794045/MAP_2105_bsnjzr.jpg"
+    - "/v1615794045/MAP_2097_onoqv9.jpg"
+    - "/v1615794044/MAP_2093_uikotl.jpg"
+    - "/v1615794044/MAP_2103_ejobxu.jpg"
+    - "/v1615794045/MAP_2102_aczyn3.jpg"
   - name: YÊN GARDEN
     description:
     - 'Chủ đầu tư: Ms. Linh'
