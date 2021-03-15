@@ -142,7 +142,7 @@ categories:
     - "/v1615519132/IMG_7096_owykag.jpg"
     - "/v1615519131/IMG_7103_nuqusa.jpg"
     - "/v1615519130/IMG_7107_v2s3bq.jpg"
-  - name: Nguyễn Phạm Tuân Coffee
+  - name: NGUYỄN TUÂN COFFEE
     description:
     - 'Địa chỉ: Đường Nguyễn Phạm Tuân, Đà Nẵng'
     - Hạng mục thi công:Dàn dây si leo tường điểm hoa hồng trắng + Chữ dán tường chất
