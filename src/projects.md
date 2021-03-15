@@ -210,7 +210,7 @@ categories:
     - "/v1615446076/MAP_2686_qlza3w.jpg"
     - "/v1615446076/MAP_2678_ifnhbj.jpg"
     - "/v1615446072/MAP_2677_tjnpkd.jpg"
-- name: Hotel, Homestay
+- name: Hotel, Homestay, Apartment
   items:
   - name: MONARQUE HOTEL
     description:
