@@ -39,5 +39,8 @@ fields:
     - type: image_gallery
       name: images
       label: images
+    - name: is_home
+      type: boolean
+      label: Home Project
 pages:
 - src/projects.md
