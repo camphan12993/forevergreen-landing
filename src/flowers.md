@@ -15,6 +15,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: true
   - name: Hoa 2
     description:
     - this is something called fabric
@@ -22,6 +23,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Hoa 3
     description:
     - this is something called fabric
@@ -29,6 +31,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
 - name: Flower Basket
   description:
   - this is something called fabric
@@ -41,6 +44,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Hoa 2
     description:
     - this is something called fabric
@@ -48,6 +52,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Hoa 3
     description:
     - this is something called fabric
@@ -55,6 +60,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
 - name: Bloom Box
   description:
   - this is something called fabric
@@ -67,6 +73,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Hoa 2
     description:
     - this is something called fabric
@@ -74,6 +81,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Hoa 3
     description:
     - this is something called fabric
@@ -81,6 +89,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
 - name: La Chance Bouquet
   description: []
   items: []
