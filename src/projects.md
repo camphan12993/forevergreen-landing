@@ -30,6 +30,7 @@ categories:
     - "/v1615794873/_MAP5177_zu1rec.jpg"
     - "/v1615794876/_MAP5222_xsc93e.jpg"
     - "/v1615794871/_MAP5189_oyk6sr.jpg"
+    is_home: true
 - name: Bar, Nhà hàng, Cà phê
   items:
   - name: ỐC LY BÉ
@@ -48,6 +49,7 @@ categories:
     - "/v1615795808/NDB_8570_euptzb.jpg"
     - "/v1615795809/NDB_8569_ozdgb3.jpg"
     - "/v1615795809/NDB_8575_ijydls.jpg"
+    is_home: false
   - name: NHÀ HÀNG CO BAO
     description:
     - 'Chủ đầu tư: Mr. Dinh'
@@ -62,6 +64,7 @@ categories:
     - "/v1615795425/_MAP5999_txkjlh.jpg"
     - "/v1615795425/_MAP5993_xjpeec.jpg"
     - "/v1615795426/_MAP6002_uazqq7.jpg"
+    is_home: false
   - name: POPPING TEA & COFFEE
     description:
     - 'Địa chỉ: 503 Trần Hưng Đạo, Sơn Trà, Đà Nẵng'
@@ -75,6 +78,7 @@ categories:
     - "/v1615794044/MAP_2093_uikotl.jpg"
     - "/v1615794044/MAP_2103_ejobxu.jpg"
     - "/v1615794045/MAP_2102_aczyn3.jpg"
+    is_home: false
   - name: YÊN GARDEN
     description:
     - 'Chủ đầu tư: Ms. Linh'
@@ -93,6 +97,7 @@ categories:
     - "/v1615782689/MAP_0079_vjqttp.jpg"
     - "/v1615782688/MAP_0063_adez6g.jpg"
     - "/v1615782686/MAP_0070_uyaj2j.jpg"
+    is_home: false
   - name: KOI BEER
     description:
     - 'Chủ đầu tư: Mr. Nam'
@@ -113,6 +118,7 @@ categories:
     - "/v1615796385/_MAP3184_wkqdjo.jpg"
     - "/v1615796385/_MAP3218_orkkuz.jpg"
     - "/v1615796385/_MAP3282_tk1uj2.jpg"
+    is_home: false
   - name: KHÓI GARDEN
     description:
     - 'Chủ đầu tư: Nguyễn Quang Linh'
@@ -124,6 +130,7 @@ categories:
     - "/v1615781492/MAP_1240_nw6ms0.jpg"
     - "/v1615781491/MAP_1237_krzneo.jpg"
     - "/v1615781492/MAP_1229_xywa9r.jpg"
+    is_home: false
   - name: LÀNG NGHỆ RESTAURANT
     description:
     - 'Chủ đầu tư: Nhà hàng Làng Nghệ'
@@ -136,6 +143,7 @@ categories:
     - "/v1615782022/MAP_1178_rhrwco.jpg"
     - "/v1615782022/MAP_1169_cpch3z.jpg"
     - "/v1615782020/MAP_1167_zmfu5k.jpg"
+    is_home: false
   - name: 1992 COFFEE & TEA
     description:
     - " Địa chỉ: Thị trấn Hùng Sơn, Đại Từ, Tỉnh Thái Nguyên"
@@ -158,6 +166,7 @@ categories:
     - "/v1615795977/IMG_7221_wkgyv2.jpg"
     - "/v1615795979/IMG_7235_t97thh.jpg"
     - "/v1615795978/ao5ix-yjv4w_kdbqga.jpg"
+    is_home: false
   - name: NGUYỄN TUÂN COFFEE
     description:
     - 'Địa chỉ: Đường Nguyễn Phạm Tuân, Đà Nẵng'
@@ -171,6 +180,7 @@ categories:
     - "/v1615795914/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_7_ksi3be.jpg"
     - "/v1615795914/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_6_hyp1if.jpg"
     - "/v1615795913/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_5_qf1juy.jpg"
+    is_home: false
 - name: Nhà phố
   items:
   - name: ANH MINH
@@ -204,6 +214,7 @@ categories:
     - "/v1615447867/NDB_0105_dsgcfz.jpg"
     - "/v1615447864/NDB_0124_rjo6yv.jpg"
     - "/v1615447866/NDB_0091_tf7zt7.jpg"
+    is_home: false
 - name: Văn phòng, Spa
   items:
   - name: SNOW WHITHE SPA
@@ -215,6 +226,7 @@ categories:
     - "/v1615783686/MAP_1103_qreygi.jpg"
     - "/v1615783682/MAP_1049_zazpcl.jpg"
     - "/v1615783686/MAP_1051_iguecy.jpg"
+    is_home: false
   - name: UNICITY ĐÀ NẴNG
     description:
     - 'Chủ đầu tư: Ms. Linh'
@@ -223,6 +235,7 @@ categories:
     images:
     - "/v1615782441/337c00ede01813464a09_jdsdzl.jpg"
     - "/v1615782442/26b015a7e152120c4b43_pyzn3r.jpg"
+    is_home: false
   - name: AN AN SPA
     description:
     - 'Chủ đầu tư: Christine Hà'
@@ -244,6 +257,7 @@ categories:
     - "/v1615446900/MAP_0658_xa7zez.jpg"
     - "/v1615446900/MAP_0603_tvjmqv.jpg"
     - "/v1615446896/MAP_0582_m5rmeb.jpg"
+    is_home: false
   - name: TIÊN BEAUTY
     description:
     - 'Chủ đầu tư: Nguyễn Tiên'
@@ -261,6 +275,7 @@ categories:
     - "/v1615446076/MAP_2686_qlza3w.jpg"
     - "/v1615446076/MAP_2678_ifnhbj.jpg"
     - "/v1615446072/MAP_2677_tjnpkd.jpg"
+    is_home: false
 - name: Hotel, Homestay, Apartment
   items:
   - name: MONARQUE HOTEL
@@ -276,6 +291,7 @@ categories:
     - "/v1615794609/MAP_0844_gvlais.jpg"
     - "/v1615794607/MAP_0843_vnwzcs.jpg"
     - "/v1615794605/MAP_0815_g42ygx.jpg"
+    is_home: false
   - name: SANNY APARTMENT
     description:
     - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
@@ -294,6 +310,7 @@ categories:
     - "/v1615784209/MAP_8622_r2lesx.jpg"
     - "/v1615784116/MAP_8592_jmemqv.jpg"
     - "/v1615784117/MAP_8588_wczl03.jpg"
+    is_home: false
   - name: RIO HOTEL
     description:
     - 'Chủ đầu tư: Ms. Ngân'
@@ -306,5 +323,6 @@ categories:
     - "/v1615446728/NDB_9426_qvnxzb.jpg"
     - "/v1615446730/NDB_9412_c7xdrx.jpg"
     - "/v1615446727/NDB_9414_zlqrgj.jpg"
+    is_home: false
 
 ---
