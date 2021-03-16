@@ -39,6 +39,9 @@ fields:
     - type: text
       name: price
       label: price
+    - name: is_home
+      type: boolean
+      label: Home Collection
 pages:
 - src/flowers.md
 - src/lookbook.md
