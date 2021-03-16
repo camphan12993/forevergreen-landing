@@ -25,10 +25,13 @@ module.exports = function (config) {
     if (categories && categories.length) {
       for (i = 0; i < categories.length; i++) {
         if (categories[i].items) {
-          projects.push(categories[i].items);
+          for (j = 0; j < categories[i].items.length; j++) {
+            if (categories[i].items[j].is_home) {
+              projects.push(categories[i].items[j]);
+            }
+          }
         }
       }
-      projects = projects.flat().slice(0, 5);
     }
     return projects;
   });

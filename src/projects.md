@@ -49,7 +49,7 @@ categories:
     - "/v1615795808/NDB_8570_euptzb.jpg"
     - "/v1615795809/NDB_8569_ozdgb3.jpg"
     - "/v1615795809/NDB_8575_ijydls.jpg"
-    is_home: false
+    is_home: true
   - name: NHÀ HÀNG CO BAO
     description:
     - 'Chủ đầu tư: Mr. Dinh'
@@ -64,7 +64,7 @@ categories:
     - "/v1615795425/_MAP5999_txkjlh.jpg"
     - "/v1615795425/_MAP5993_xjpeec.jpg"
     - "/v1615795426/_MAP6002_uazqq7.jpg"
-    is_home: false
+    is_home: true
   - name: POPPING TEA & COFFEE
     description:
     - 'Địa chỉ: 503 Trần Hưng Đạo, Sơn Trà, Đà Nẵng'
