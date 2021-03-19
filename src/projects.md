@@ -77,7 +77,7 @@ categories:
     - "/v1615795425/_MAP5999_txkjlh.jpg"
     - "/v1615795425/_MAP5993_xjpeec.jpg"
     - "/v1615795426/_MAP6002_uazqq7.jpg"
-    is_home: true
+    is_home: false
   - name: POPPING TEA & COFFEE
     description:
     - 'Địa chỉ: 503 Trần Hưng Đạo, Sơn Trà, Đà Nẵng'
