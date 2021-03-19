@@ -31,13 +31,16 @@ categories:
     - "/v1616138519/MAP_7980_ubztmd.jpg"
     price: 1.200.000
     is_home: true
-  - name: Hoa 3
+  - name: Hoa phối tone nhiệt đới 1
     description:
-    - this is something called fabric
-    - this is something called fabric
+    - Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm tú
+      cầu đỏ, điểm thêm chút hoa vàng để có được một lọ hoa tone nhiệt đới ấm áp đấy.
+      Đây chắc chắn là Best choice trưng bày khu vực bếp hoặc phòng ngủ nhé.
+    - Kích thước bình Cao 40cm x Ngang 60cm
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
+    - "/v1616139097/MAP_7960_efyjcv.jpg"
+    - "/v1616139097/MAP_7961_ciznqj.jpg"
+    price: 1.200.000
     is_home: true
 - name: Flower Basket
   description:
