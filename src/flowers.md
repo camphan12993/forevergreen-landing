@@ -21,13 +21,15 @@ categories:
     - "/v1616135528/MAP_7950_htdqdf.jpg"
     price: ''
     is_home: true
-  - name: Hoa 2
+  - name: Thiết Mộc Lan Xanh Đại
     description:
-    - this is something called fabric
-    - this is something called fabric
+    - Bình Hoa mộc lan được tạo hình uyển chuyển, gồm 4 bông lớn (ĐK 20cm) + 2 bông
+      trung + 4 bông búp. Màu xanh huyền bí, sang trọng.
+    - Kích thước bình Cao 40cm x Ngang 50cm
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
+    - "/v1616138519/MAP_7983_sh7dqs.jpg"
+    - "/v1616138519/MAP_7980_ubztmd.jpg"
+    price: 1.200.000
     is_home: true
   - name: Hoa 3
     description:
