@@ -29,9 +29,9 @@ solutions:
   - "/v1615365306/QUY_TR%C3%8CNH_THI_C%C3%94NG_mfskmt.png"
   - "/v1615365306/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_xrvfy3.png"
 categories:
-- "/v1615271350/IMG_5025_rr43sh.jpg"
+- "/v1616123207/7dba0ba8e16c47fe9e2c39f69369ffa4_msxer8.jpg"
 - "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
-- "/v1615271273/IMG_6537_gatqtx.jpg"
+- "/v1616123162/87723837_137303164435158_7882157057162346496_o_cbtqr8.jpg"
 callout:
 - name: Material
   link:
