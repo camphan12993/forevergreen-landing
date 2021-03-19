@@ -4,7 +4,9 @@ tags: flowers
 title: Flowers
 categories:
 - name: Home Decoration
-  description: []
+  description:
+  - '"Your home should tell the story of who you are, and be a collection of what
+    you love" - Nate Berkus'
   items:
   - name: Hoa Huệ Tây Vàng
     description:
