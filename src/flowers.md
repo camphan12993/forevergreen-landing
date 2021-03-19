@@ -46,17 +46,17 @@ categories:
     is_home: true
 - name: Flower Basket
   description:
-  - this is something called fabric
-  - this is something called fabric
+  - Những lẳng hoa cao cấp phối màu đầy tinh tế sẽ là món quà khiến mọi cô gái hạnh
+    phúc
   items:
-  - name: Hoa 1
+  - name: Glowing
     description:
-    - this is something called fabric
-    - this is something called fabric
+    - Glowing - Rực rỡ tỏa sắc với tone phối màu nhiệt đới.
+    - Phù hợp để tặng cho những cô nàng năng động, yêu thích sự lãng mạn.
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
+    - "/v1616139608/146677808_120401853299636_5901119414545093535_n_fktxce.jpg"
+    price: 1.000.000
+    is_home: true
   - name: Hoa 2
     description:
     - this is something called fabric
