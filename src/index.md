@@ -28,8 +28,7 @@ solutions:
   - Quy Trình Thi Công và Thiết Kế tại FG
   images:
   - "/v1616144793/QUY_TR%C3%8CNH_THI_C%C3%94NG_rkqehd.png"
-  - "/v1615365306/QUY_TR%C3%8CNH_THI_C%C3%94NG_mfskmt.png"
-  - "/v1615365306/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_xrvfy3.png"
+  - "/v1616145050/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_aezvlk.png"
 categories:
 - "/v1616132552/c00ec4a321867444b15043fc593351da_sqeubb.jpg"
 - "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
