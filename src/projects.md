@@ -304,7 +304,7 @@ categories:
     - "/v1615794609/MAP_0844_gvlais.jpg"
     - "/v1615794607/MAP_0843_vnwzcs.jpg"
     - "/v1615794605/MAP_0815_g42ygx.jpg"
-    is_home: false
+    is_home: true
   - name: SANNY APARTMENT
     description:
     - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
@@ -324,7 +324,7 @@ categories:
     - "/v1615784116/MAP_8592_jmemqv.jpg"
     - "/v1615784117/MAP_8588_wczl03.jpg"
     is_home: false
-  - name: RIO HOTEL
+  - name: TÂN PHƯƠNG NAM HOTEL
     description:
     - 'Chủ đầu tư: Ms. Ngân'
     - 'Địa chỉ: 494A Đường 2/9, Đà Nẵng'
