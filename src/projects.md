@@ -62,7 +62,7 @@ categories:
     - "/v1615795808/NDB_8570_euptzb.jpg"
     - "/v1615795809/NDB_8569_ozdgb3.jpg"
     - "/v1615795809/NDB_8575_ijydls.jpg"
-    is_home: true
+    is_home: false
   - name: NHÀ HÀNG CO BAO
     description:
     - 'Chủ đầu tư: Mr. Dinh'
@@ -131,7 +131,7 @@ categories:
     - "/v1615796385/_MAP3184_wkqdjo.jpg"
     - "/v1615796385/_MAP3218_orkkuz.jpg"
     - "/v1615796385/_MAP3282_tk1uj2.jpg"
-    is_home: false
+    is_home: true
   - name: KHÓI GARDEN
     description:
     - 'Chủ đầu tư: Nguyễn Quang Linh'
@@ -164,16 +164,16 @@ categories:
       hoa mộc lan + Bồn gỗ Tiểu cảnh dây rũ thả trần + Tiểu cảnh nội thất dưới chân
       cầu thang + Bồn tiểu cảnh cây Thiên điểu + Kệ gỗ kết hợp Khung tranh sen đá'
     images:
+    - "/v1615795976/IMG_7125_d8karq.jpg"
     - "/v1615795980/amzux-i99e8_q7a44x.jpg"
     - "/v1615795974/aam81-768sh_fnnmiw.jpg"
     - "/v1615795975/aaemx-tq4ol_musnkr.jpg"
-    - "/v1615795978/ag6eh-xb1aq_ckysjz.jpg"
     - "/v1615795979/IMG_7280_ltwx0c.jpg"
+    - "/v1615795978/ag6eh-xb1aq_ckysjz.jpg"
     - "/v1615795980/IMG_7268_pvnhsz.jpg"
     - "/v1615795978/IMG_7141_gitjky.jpg"
     - "/v1615795979/IMG_7113_tzvdjl.jpg"
     - "/v1615795977/IMG_7137_mrdixn.jpg"
-    - "/v1615795976/IMG_7125_d8karq.jpg"
     - "/v1615795977/IMG_7096_qe9qc6.jpg"
     - "/v1615795976/IMG_7103_zxujxb.jpg"
     - "/v1615795977/IMG_7221_wkgyv2.jpg"
