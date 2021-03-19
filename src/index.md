@@ -6,7 +6,8 @@ banner:
   - Chào mừng bạn đến với FOREVER GREEN,
   - Cùng khám phá Không Gian Xanh của chúng mình nhé!
   images:
-  - "/v1615177743/170827d19124627a3b35_de47o7.jpg"
+  - "/v1615784009/MAP_8046-2_uop1hc.jpg"
+  - "/v1615782689/MAP_1022_cxnzbr.jpg"
   button: Explore
 about:
   title: About Us
