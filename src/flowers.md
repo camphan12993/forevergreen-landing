@@ -57,20 +57,13 @@ categories:
     - "/v1616139608/146677808_120401853299636_5901119414545093535_n_fktxce.jpg"
     price: 1.000.000
     is_home: true
-  - name: Hoa 2
+  - name: Mystery
     description:
-    - this is something called fabric
-    - this is something called fabric
+    - Mystery - Huyền bí đầy sức hút.
+    - Phù hợp làm quà tặng cho những cô nàng cá tính, độc lập nhưng vẫn rất đổi tình
+      cảm, chân thành.
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
-  - name: Hoa 3
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
+    - "/v1616140090/3573F5CF-B38C-4178-8585-4B92189E1E05_zrmiyz.jpg"
     price: ''
     is_home: false
 - name: Bloom Box
