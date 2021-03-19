@@ -1,0 +1,20 @@
+---
+layout: base.liquid
+---
+
+{% assign cloudUrl = settings.cloudinary_url %}
+<section class='container section mt-48'>
+  <h2 class='text-2xl sm:text-4xl mb-10 uppercase font-bold'>{{ title }}</h2>
+  <div class='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 md:gap-10'>
+    {% for item in items %}
+      <div class='mb-6' data-aos='fade-up'>
+        <div class='pb-full w-full rounded-lg mb-4 relative overflow-hidden bg-white' onclick='openModal({{ item }},&quot;{{
+                        					cloudUrl
+                        				}}/w_1280,h_1280,c_limit,fl_progressive/q_auto:good,f_auto&quot;)'>
+          <img alt='thumnail' class='absolute w-full h-full top-0 left-0 object-cover object-center transform hover:scale-110 transition duration-500' src="{{ cloudUrl }}/w_600,c_limit,fl_progressive/q_auto:good{{ item.images[0] }}"/>
+        </div>
+        <div class='text-md font-bold mb-2'>{{ item.name }}</div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
