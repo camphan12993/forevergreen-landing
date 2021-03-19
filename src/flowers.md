@@ -66,10 +66,13 @@ categories:
     - "/v1616140090/3573F5CF-B38C-4178-8585-4B92189E1E05_zrmiyz.jpg"
     price: ''
     is_home: false
+  - name: ''
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Bloom Box
-  description:
-  - this is something called fabric
-  - this is something called fabric
+  description: []
   items:
   - name: Hoa 1
     description:
