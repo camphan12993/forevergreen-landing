@@ -32,7 +32,7 @@ categories:
     - "/v1616138519/MAP_7983_sh7dqs.jpg"
     - "/v1616138519/MAP_7980_ubztmd.jpg"
     price: 1.200.000
-    is_home: true
+    is_home: false
   - name: Hoa phối tone nhiệt đới 1
     description:
     - Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm tú
@@ -74,14 +74,14 @@ categories:
 - name: Bloom Box
   description: []
   items:
-  - name: Hoa 1
-    description:
-    - this is something called fabric
-    - this is something called fabric
+  - name: Rose Box
+    description: []
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
+    - "/v1616140984/51985932_1487349674730337_547656223420317696_o_hptliz.jpg"
+    - "/v1616141007/51654195_1487349824730322_2092702993701928960_o_xbcr2w.jpg"
+    - "/v1616141034/145746423_3496182167274520_5314553773798810619_n_qvx3i7.jpg"
+    price: 1.200.000
+    is_home: true
   - name: Hoa 2
     description:
     - this is something called fabric
