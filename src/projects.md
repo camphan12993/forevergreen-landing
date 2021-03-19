@@ -227,7 +227,7 @@ categories:
     - "/v1615447867/NDB_0105_dsgcfz.jpg"
     - "/v1615447864/NDB_0124_rjo6yv.jpg"
     - "/v1615447866/NDB_0091_tf7zt7.jpg"
-    is_home: false
+    is_home: true
 - name: Văn phòng, Spa
   items:
   - name: SNOW WHITHE SPA
