@@ -230,16 +230,6 @@ categories:
     is_home: true
 - name: Văn phòng, Spa
   items:
-  - name: SNOW WHITHE SPA
-    description:
-    - 'Địa chỉ: 137 Hàm Nghi, Thanh Khê, Đà Nẵng'
-    - 'Hạng mục công trình: Dàn dây leo hoa hồng xanh'
-    images:
-    - "/v1615783686/MAP_1097_lk5ylq.jpg"
-    - "/v1615783686/MAP_1103_qreygi.jpg"
-    - "/v1615783682/MAP_1049_zazpcl.jpg"
-    - "/v1615783686/MAP_1051_iguecy.jpg"
-    is_home: false
   - name: UNICITY ĐÀ NẴNG
     description:
     - 'Chủ đầu tư: Ms. Linh'
@@ -248,6 +238,24 @@ categories:
     images:
     - "/v1615782441/337c00ede01813464a09_jdsdzl.jpg"
     - "/v1615782442/26b015a7e152120c4b43_pyzn3r.jpg"
+    is_home: false
+  - name: TIÊN BEAUTY
+    description:
+    - 'Chủ đầu tư: Nguyễn Tiên'
+    - 'Địa chỉ: 03 Nguyễn Trường Tộ, Đà Nẵng'
+    - 'Hạng mục công trình: Dàn hoa hồng leo tường nơi tiếp đón khách'
+    images:
+    - "/v1615446076/MAP_2694_fuzjrx.jpg"
+    - "/v1615446077/MAP_2674_v6dita.jpg"
+    - "/v1615446077/MAP_2682_w3zx3v.jpg"
+    - "/v1615446075/MAP_2683_vps4xy.jpg"
+    - "/v1615446076/MAP_2707_bxx3kq.jpg"
+    - "/v1615446076/MAP_2692_j5vh8f.jpg"
+    - "/v1615446077/MAP_2704_ddfdkj.jpg"
+    - "/v1615446076/MAP_2684_l7ydc6.jpg"
+    - "/v1615446076/MAP_2686_qlza3w.jpg"
+    - "/v1615446076/MAP_2678_ifnhbj.jpg"
+    - "/v1615446072/MAP_2677_tjnpkd.jpg"
     is_home: false
   - name: AN AN SPA
     description:
@@ -271,23 +279,15 @@ categories:
     - "/v1615446900/MAP_0603_tvjmqv.jpg"
     - "/v1615446896/MAP_0582_m5rmeb.jpg"
     is_home: false
-  - name: TIÊN BEAUTY
+  - name: SNOW WHITHE SPA
     description:
-    - 'Chủ đầu tư: Nguyễn Tiên'
-    - 'Địa chỉ: 03 Nguyễn Trường Tộ, Đà Nẵng'
-    - 'Hạng mục công trình: Dàn hoa hồng leo tường nơi tiếp đón khách'
+    - 'Địa chỉ: 137 Hàm Nghi, Thanh Khê, Đà Nẵng'
+    - 'Hạng mục công trình: Dàn dây leo hoa hồng xanh'
     images:
-    - "/v1615446076/MAP_2694_fuzjrx.jpg"
-    - "/v1615446077/MAP_2674_v6dita.jpg"
-    - "/v1615446077/MAP_2682_w3zx3v.jpg"
-    - "/v1615446075/MAP_2683_vps4xy.jpg"
-    - "/v1615446076/MAP_2707_bxx3kq.jpg"
-    - "/v1615446076/MAP_2692_j5vh8f.jpg"
-    - "/v1615446077/MAP_2704_ddfdkj.jpg"
-    - "/v1615446076/MAP_2684_l7ydc6.jpg"
-    - "/v1615446076/MAP_2686_qlza3w.jpg"
-    - "/v1615446076/MAP_2678_ifnhbj.jpg"
-    - "/v1615446072/MAP_2677_tjnpkd.jpg"
+    - "/v1615783686/MAP_1097_lk5ylq.jpg"
+    - "/v1615783686/MAP_1103_qreygi.jpg"
+    - "/v1615783682/MAP_1049_zazpcl.jpg"
+    - "/v1615783686/MAP_1051_iguecy.jpg"
     is_home: false
 - name: Hotel, Homestay, Apartment
   items:
