@@ -33,6 +33,19 @@ categories:
     is_home: true
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: ISLAND COFFEE
+    description:
+    - 'Chủ đầu tư: Ms. Diệp'
+    - 'Địa chỉ: Khu Đảo Nổi, Cẩm Lệ, Đà Nẵng'
+    - 'Hạng mục công trình: Tiểu cảnh sen đá (DT 6 mét tới)'
+    images:
+    - "/v1616129508/MAP_1316_jkntm7.jpg"
+    - "/v1616129508/MAP_0959_mq5cg5.jpg"
+    - "/v1616129508/MAP_0950_bpwecl.jpg"
+    - "/v1616129596/dcc40c85521fa141f80e_basmks.jpg"
+    - "/v1616129594/1b0ce62caab659e800a7_nqqcur.jpg"
+    - "/v1616129508/MAP_0964_ovq5ip.jpg"
+    is_home: false
   - name: ỐC LY BÉ
     description:
     - 'Chủ đầu tư: Ms.Ly'
