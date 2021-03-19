@@ -288,7 +288,7 @@ categories:
     - "/v1615783686/MAP_1103_qreygi.jpg"
     - "/v1615783682/MAP_1049_zazpcl.jpg"
     - "/v1615783686/MAP_1051_iguecy.jpg"
-    is_home: false
+    is_home: true
 - name: Hotel, Homestay, Apartment
   items:
   - name: MONARQUE HOTEL
