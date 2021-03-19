@@ -22,7 +22,7 @@ about:
     sách của Khách hàng."
   - "- Cung cấp Nguyên vật liệu chất lượng để thi công không gian xanh với giá thành
     tốt nhất thị trường."
-  cover: "/v1615364853/Brown_Clean_Grid_Fashion_Moodboard_Photo_Collage_exrnna.png"
+  cover: "/v1616133704/z2375671056287_0b92126df55e14b42b60169cb479af93_ktqxbb.jpg"
 solutions:
   title: Our Solutions
   description:
