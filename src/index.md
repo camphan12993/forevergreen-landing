@@ -13,9 +13,11 @@ banner:
 about:
   title: About Us
   description:
-  - 'Forever Green chúng mình là những cô nàng có niềm đam mê bất tận với Cỏ - Cây
-    - Hoa - Lá và Phong cách thiết kế nhiệt đới. Vì vậy, mỗi ngày chúng mình đều làm
-    việc với Sứ mệnh:'
+  - 'Forever Green (FG) chúng mình là những cô nàng có niềm đam mê bất tận với Cỏ
+    - Cây - Hoa - Lá và Phong cách thiết kế nhiệt đới. Đồng thời, có sự thấu hiểu
+    sâu sắc những khó khăn, hạn chế khi chăm sóc mảng xanh tươi thật 100% của các
+    căn hộ, mô hình kinh doanh hiện đại. Nên, chúng mình đã thành lập ra FG và làm
+    việc mỗi ngày với Sứ mệnh:'
   - "- Mang giải pháp xanh nhân tạo tối ưu nhất đến với Khách hàng."
   - "- Tư vấn, sáng tạo và thi công những sản phẩm Hoa phù hợp với Yêu cầu & Ngân
     sách của Khách hàng."
