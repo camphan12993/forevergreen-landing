@@ -66,9 +66,13 @@ categories:
     - "/v1616140090/3573F5CF-B38C-4178-8585-4B92189E1E05_zrmiyz.jpg"
     price: ''
     is_home: false
-  - name: ''
-    description: []
-    images: []
+  - name: Sweet
+    description:
+    - Ngọt ngào, dịu dàng, ân cần là những thông điệp chúng mình muốn gửi găm vào
+      em Basket này đấy! Một món quà không thể phù hợp hơn dành tặng mẹ của những
+      đứa nhỏ :x
+    images:
+    - "/v1616140398/7B7744E8-0FDA-4E5A-BCB2-3F5A3229C5E9_haqqnz.jpg"
     price: ''
     is_home: false
 - name: Bloom Box
