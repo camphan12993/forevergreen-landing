@@ -1,0 +1,26 @@
+---
+label: Lookbook
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: tags
+  label: tags
+- type: field_group_list
+  name: items
+  label: items
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: list
+    name: description
+    label: description
+  - type: image_gallery
+    name: images
+    label: images
