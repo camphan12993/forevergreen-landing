@@ -43,7 +43,7 @@ categories:
     - "/v1616139097/MAP_7960_efyjcv.jpg"
     - "/v1616139097/MAP_7961_ciznqj.jpg"
     price: 1.200.000
-    is_home: true
+    is_home: false
 - name: Flower Basket
   description:
   - Những lẳng hoa cao cấp phối màu đầy tinh tế sẽ là món quà khiến mọi cô gái hạnh
@@ -56,7 +56,7 @@ categories:
     images:
     - "/v1616139608/146677808_120401853299636_5901119414545093535_n_fktxce.jpg"
     price: 1.000.000
-    is_home: true
+    is_home: false
   - name: Mystery
     description:
     - Mystery - Huyền bí đầy sức hút.
@@ -65,7 +65,7 @@ categories:
     images:
     - "/v1616140090/3573F5CF-B38C-4178-8585-4B92189E1E05_zrmiyz.jpg"
     price: ''
-    is_home: false
+    is_home: true
   - name: Sweet
     description:
     - Ngọt ngào, dịu dàng, ân cần là những thông điệp chúng mình muốn gửi găm vào
