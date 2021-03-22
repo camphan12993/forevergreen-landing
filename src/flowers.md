@@ -92,6 +92,16 @@ categories:
     is_home: true
 - name: La Chance Bouquet
   description: []
-  items: []
+  items:
+  - name: Triple Rose Boquet
+    description:
+    - Hoa hồng nhung mềm mại, giống thật 99% bó trong giấy chuyên dụng chất liệu bóng
+      sang trọng và định hình bằng những lớp nơ chắc chắn nhưng không kém phần uyển
+      chuyển.
+    - Bó 3 bông hồng mang thông điệp lãng mạn "I LOVE YOU".
+    images:
+    - "/v1616400897/9520034d2b93d8cd8182_n9nkqg.jpg"
+    price: "150000"
+    is_home: false
 
 ---
