@@ -328,7 +328,8 @@ categories:
     description:
     - 'Chủ đầu tư: Ms. Ngân'
     - 'Địa chỉ: 494A Đường 2/9, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cây nhiệt đới diện tích 8,3m2'
+    - 'Hạng mục công trình: Tường cây nhiệt đới diện tích 8,3m2 + Bình Lan hồ điệp
+      vàng + Chậu Thiên điểu phối tiểu cảnh nhỏ + Cầy Bàng Singapore'
     images:
     - "/v1615446729/NDB_9440_t6fthf.jpg"
     - "/v1615446730/NDB_9421_cp1qxo.jpg"
@@ -336,6 +337,12 @@ categories:
     - "/v1615446728/NDB_9426_qvnxzb.jpg"
     - "/v1615446730/NDB_9412_c7xdrx.jpg"
     - "/v1615446727/NDB_9414_zlqrgj.jpg"
+    - "/v1616397833/1_gkqyss.jpg"
+    - "/v1616397833/5_rekodl.jpg"
+    - "/v1616397834/6_t3thho.jpg"
+    - "/v1616397833/655cbf58c1e332bd6bf2-2-2_vowl7n.jpg"
+    - "/v1616397833/0c2e6a1814a3e7fdbeb2-2-2_iv2ihv.jpg"
+    - "/v1616397834/228a51872f3cdc62852d-2-2_wkvkno.jpg"
     is_home: false
 
 ---
