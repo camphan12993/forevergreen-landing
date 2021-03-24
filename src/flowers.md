@@ -3,6 +3,17 @@ layout: gallery.liquid
 tags: flowers
 title: Flowers
 categories:
+- name: Wreath
+  description: []
+  items:
+  - name: Tiny Wreath
+    description:
+    - Những vòng treo tường bé xinh, đường kính 20cm có thể kết hợp cùng nhau tạo
+      nên một mảng trang trí bắt mắt, giúp tăng cảm hứng làm việc cho bạn đấy.
+    images:
+    - "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
+    price: ''
+    is_home: false
 - name: Home Decoration
   description:
   - '"Your home should tell the story of who you are, and be a collection of what
