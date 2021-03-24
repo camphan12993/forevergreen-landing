@@ -78,6 +78,13 @@ categories:
 - name: La Chance Bouquet
   description: []
   items:
+  - name: Pink Rose Bouquet
+    description:
+    - Pink Rose Bouquet - Cổ điển, đẹp đẽ không bao giờ hết mốt
+    images:
+    - "/v1616568225/307398044f43550039ac18a4b5d400bb_ofvodo.jpg"
+    price: ''
+    is_home: false
   - name: Jessamine Bouquet
     description:
     - Jessamine - Bó hoa tươi sáng, tuyệt vời
@@ -85,6 +92,14 @@ categories:
     - "/v1616567997/47a298931d888efe24b220770ba9f793_lf4l6p.jpg"
     price: ''
     is_home: true
+  - name: Elegance Bouquet
+    description:
+    - Một bó hoa thanh lịch phối màu đơn giản dành tặng nàng đầu ngày như gửi lời
+      thông điệp "Have a nice day, Darling/My love".
+    images:
+    - "/v1616561258/7dba0ba8e16c47fe9e2c39f69369ffa4_xnkp1e.jpg"
+    price: ''
+    is_home: false
   - name: Triple Rose Boquet
     description:
     - Hoa hồng nhung mềm mại, giống thật 99% bó trong giấy chuyên dụng chất liệu bóng
@@ -95,14 +110,6 @@ categories:
     - "/v1616400897/9520034d2b93d8cd8182_n9nkqg.jpg"
     price: "150000"
     is_home: false
-  - name: Elegance Bouquet
-    description:
-    - Một bó hoa thanh lịch phối màu đơn giản dành tặng nàng đầu ngày như gửi lời
-      thông điệp "Have a nice day, Darling/My love".
-    images:
-    - "/v1616561258/7dba0ba8e16c47fe9e2c39f69369ffa4_xnkp1e.jpg"
-    price: ''
-    is_home: true
 - name: Wreath
   description:
   - Những vòng hoa xinh xắn được thiết kế bởi La Chance Decor by FG.
