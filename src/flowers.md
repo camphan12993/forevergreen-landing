@@ -78,6 +78,18 @@ categories:
 - name: La Chance Bouquet
   description: []
   items:
+  - name: Tiny Bouquet
+    description:
+    - Những bó hoa đơn nhỏ phù hợp để tặng kèm hộp quà hoặc là lựa chọn siêu thích
+      hợp dành cho các cơ quan đoàn thể gửi tặng các nhân viên nữ vào dịp lễ.
+    images:
+    - "/v1616569208/db55ef7fa2875d0d094a41dd0d8dc984_tolcak.jpg"
+    - "/v1616561243/c5104e948821122206ea4a8916e036b0_njox2w.jpg"
+    - "/v1616569207/4b6934f1fc8d732258ead23f5e46167a_qmclr1.jpg"
+    - "/v1616569208/b40fb3b325c7d13539938d381b79e933_atn2xh.jpg"
+    - "/v1616569208/64aec6a7dff6826aa6ee40b8f74f5fb4_h0a6we.jpg"
+    price: ''
+    is_home: false
   - name: Tulipe Bouquet
     description:
     - Tulip trắng đại diện cho tình yêu thuần khiết và niềm đam mê. Đồng thời, cũng
