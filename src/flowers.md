@@ -3,24 +3,6 @@ layout: gallery.liquid
 tags: flowers
 title: Flowers
 categories:
-- name: Wreath
-  description:
-  - Những vòng hoa xinh xắn được thiết kế bởi La Chance Decor by FG.
-  items:
-  - name: Peony Wreath
-    description: []
-    images:
-    - "/v1616567630/78a086b219fb01dd8dfada3aefec24ee_ioj646.jpg"
-    price: ''
-    is_home: true
-  - name: Tiny Wreath
-    description:
-    - Những vòng treo tường bé xinh, đường kính 20cm có thể kết hợp cùng nhau tạo
-      nên một mảng trang trí bắt mắt, giúp tăng cảm hứng làm việc cho bạn đấy.
-    images:
-    - "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
-    price: ''
-    is_home: false
 - name: Home Decoration
   description:
   - '"Your home should tell the story of who you are, and be a collection of what
@@ -114,6 +96,24 @@ categories:
     - "/v1616561258/7dba0ba8e16c47fe9e2c39f69369ffa4_xnkp1e.jpg"
     price: ''
     is_home: true
+- name: Wreath
+  description:
+  - Những vòng hoa xinh xắn được thiết kế bởi La Chance Decor by FG.
+  items:
+  - name: Peony Wreath
+    description: []
+    images:
+    - "/v1616567630/78a086b219fb01dd8dfada3aefec24ee_ioj646.jpg"
+    price: ''
+    is_home: true
+  - name: Tiny Wreath
+    description:
+    - Những vòng treo tường bé xinh, đường kính 20cm có thể kết hợp cùng nhau tạo
+      nên một mảng trang trí bắt mắt, giúp tăng cảm hứng làm việc cho bạn đấy.
+    images:
+    - "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
+    price: ''
+    is_home: false
 - name: Bloom Box
   description: []
   items:
