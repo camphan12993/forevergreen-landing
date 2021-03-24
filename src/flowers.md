@@ -78,6 +78,13 @@ categories:
 - name: La Chance Bouquet
   description: []
   items:
+  - name: Sweet Bouquet
+    description:
+    - Sweet - Thật  nhẹ nhàng và ngọt ngào
+    images:
+    - "/v1616568412/f67fae8f59c761f301942f1542535768_ohgwm3.jpg"
+    price: ''
+    is_home: false
   - name: Pink Rose Bouquet
     description:
     - Pink Rose Bouquet - Cổ điển, đẹp đẽ không bao giờ hết mốt
