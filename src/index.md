@@ -32,9 +32,9 @@ solutions:
   - "/v1616144793/QUY_TR%C3%8CNH_THI_C%C3%94NG_rkqehd.png"
   - "/v1616145050/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_aezvlk.png"
 categories:
-- "/v1616132552/c00ec4a321867444b15043fc593351da_sqeubb.jpg"
+- "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
 - "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
-- "/v1616123207/7dba0ba8e16c47fe9e2c39f69369ffa4_msxer8.jpg"
+- "/v1616561258/7dba0ba8e16c47fe9e2c39f69369ffa4_xnkp1e.jpg"
 callout:
 - name: Material
   link:
