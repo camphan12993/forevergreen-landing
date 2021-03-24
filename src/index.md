@@ -32,7 +32,7 @@ solutions:
   - "/v1616144793/QUY_TR%C3%8CNH_THI_C%C3%94NG_rkqehd.png"
   - "/v1616145050/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_aezvlk.png"
 categories:
-- "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
+- "/v1616567889/e82208d299d9c24a092fadfc43a9133f_mqihb2.jpg"
 - "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
 - "/v1616561258/7dba0ba8e16c47fe9e2c39f69369ffa4_xnkp1e.jpg"
 callout:
