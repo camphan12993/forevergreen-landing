@@ -93,7 +93,7 @@ categories:
     - Một bó hoa thanh lịch phối màu đơn giản dành tặng nàng đầu ngày như gửi lời
       thông điệp "Have a nice day, Darling/My love".
     images:
-    - "/v1616123207/7dba0ba8e16c47fe9e2c39f69369ffa4_msxer8.jpg"
+    - "/v1616561258/7dba0ba8e16c47fe9e2c39f69369ffa4_xnkp1e.jpg"
     price: ''
     is_home: true
 - name: Bloom Box
