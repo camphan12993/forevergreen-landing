@@ -78,6 +78,13 @@ categories:
 - name: La Chance Bouquet
   description: []
   items:
+  - name: Jessamine Bouquet
+    description:
+    - Jessamine - Bó hoa tươi sáng, tuyệt vời
+    images:
+    - "/v1616567997/47a298931d888efe24b220770ba9f793_lf4l6p.jpg"
+    price: ''
+    is_home: true
   - name: Triple Rose Boquet
     description:
     - Hoa hồng nhung mềm mại, giống thật 99% bó trong giấy chuyên dụng chất liệu bóng
