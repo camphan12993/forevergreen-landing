@@ -4,8 +4,15 @@ tags: flowers
 title: Flowers
 categories:
 - name: Wreath
-  description: []
+  description:
+  - Những vòng hoa xinh xắn được thiết kế bởi La Chance Decor by FG.
   items:
+  - name: Peony Wreath
+    description: []
+    images:
+    - "/v1616567630/78a086b219fb01dd8dfada3aefec24ee_ioj646.jpg"
+    price: ''
+    is_home: true
   - name: Tiny Wreath
     description:
     - Những vòng treo tường bé xinh, đường kính 20cm có thể kết hợp cùng nhau tạo
