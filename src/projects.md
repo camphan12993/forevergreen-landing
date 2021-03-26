@@ -230,6 +230,23 @@ categories:
     is_home: true
 - name: Văn phòng, Spa
   items:
+  - name: J&T Express
+    description:
+    - 'Chủ đầu tư: Mr. Vũ'
+    - 'Địa chỉ: 276 Huỳnh Ngọc Huệ, Hòa Khê, Thanh Khê, Đà Nẵng'
+    - 'Hạng mục thi công: Lợp trần bằng giấy phom (DT 9,6m2) + Cây xanh rũ trần (DT
+      9,6m2) + Cành cỏ lá si bò tường (15 m tới)'
+    images:
+    - "/v1616744006/NDB_3675_tdcejf.jpg"
+    - "/v1616744006/NDB_3673_x0xrlm.jpg"
+    - "/v1616744006/NDB_3634_p6ih1k.jpg"
+    - "/v1616744004/NDB_3654_b2igox.jpg"
+    - "/v1616744003/NDB_3648_nvffno.jpg"
+    - "/v1616744002/NDB_3643_wx9kaa.jpg"
+    - "/v1616744003/NDB_3639_ivmo0d.jpg"
+    - "/v1616744006/NDB_3633_n9uawa.jpg"
+    - "/v1616744006/NDB_3626_rpj96n.jpg"
+    is_home: false
   - name: UNICITY ĐÀ NẴNG
     description:
     - 'Chủ đầu tư: Ms. Linh'
