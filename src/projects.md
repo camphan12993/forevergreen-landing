@@ -33,83 +33,17 @@ categories:
     is_home: true
 - name: Bar, Nhà hàng, Cà phê
   items:
-  - name: ISLAND COFFEE
+  - name: KHÓI GARDEN
     description:
-    - 'Chủ đầu tư: Ms. Diệp'
-    - 'Địa chỉ: Khu Đảo Nổi, Cẩm Lệ, Đà Nẵng'
-    - 'Hạng mục công trình: Tiểu cảnh sen đá (DT 6 mét tới)'
+    - 'Chủ đầu tư: Nguyễn Quang Linh'
+    - 'Địa chỉ: 50 Trần Văn Trứ, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây sảnh chính (DT 15m2) '
     images:
-    - "/v1616129508/MAP_1316_jkntm7.jpg"
-    - "/v1616129508/MAP_0959_mq5cg5.jpg"
-    - "/v1616129508/MAP_0950_bpwecl.jpg"
-    - "/v1616129596/dcc40c85521fa141f80e_basmks.jpg"
-    - "/v1616129594/1b0ce62caab659e800a7_nqqcur.jpg"
-    - "/v1616129508/MAP_0964_ovq5ip.jpg"
-    is_home: false
-  - name: ỐC LY BÉ
-    description:
-    - 'Chủ đầu tư: Ms.Ly'
-    - 'Địa chỉ: 03 An Trung Đông 3, Đà Nẵng'
-    - 'hạng mục công trình: Dàn dây leo cổ lá si tạo điểm nhấn tường chính + Hàng
-      trúc dọc bờ tường lối đi vào'
-    images:
-    - "/v1615795825/_MAP6471_yajqhm.jpg"
-    - "/v1615795825/_MAP6469_k3givj.jpg"
-    - "/v1615795824/_MAP6454_qonvlp.jpg"
-    - "/v1615795824/_MAP6441_oajpth.jpg"
-    - "/v1615795808/NDB_8565_bjimgs.jpg"
-    - "/v1615795809/NDB_8573_vkdykj.jpg"
-    - "/v1615795808/NDB_8570_euptzb.jpg"
-    - "/v1615795809/NDB_8569_ozdgb3.jpg"
-    - "/v1615795809/NDB_8575_ijydls.jpg"
-    is_home: false
-  - name: NHÀ HÀNG CO BAO
-    description:
-    - 'Chủ đầu tư: Mr. Dinh'
-    - Địa chỉ :Lô B 33 Trần Văn Trứ, Hải Châu, Đà Nẵng
-    - 'Hạng mục công trình: Tường cây nhiệt đới nhấn hoa thiên điểu (DT: 44m2)'
-    images:
-    - "/v1615795426/_MAP6014_er4eda.jpg"
-    - "/v1615795425/_MAP5997_x7ymmm.jpg"
-    - "/v1615795425/_MAP5994_sxm2kt.jpg"
-    - "/v1615795426/_MAP6005_fznqvw.jpg"
-    - "/v1615795425/_MAP6001_f6txjl.jpg"
-    - "/v1615795425/_MAP5999_txkjlh.jpg"
-    - "/v1615795425/_MAP5993_xjpeec.jpg"
-    - "/v1615795426/_MAP6002_uazqq7.jpg"
-    is_home: false
-  - name: POPPING TEA & COFFEE
-    description:
-    - 'Địa chỉ: 503 Trần Hưng Đạo, Sơn Trà, Đà Nẵng'
-    - 'Hạng mục công trình: Bồn cây tiểu cảnh Lưỡi hổ kết hợp Dương xỉ'
-    images:
-    - "/v1615794044/MAP_2145_wfayka.jpg"
-    - "/v1615794045/MAP_2141_ycxfsj.jpg"
-    - "/v1615794045/MAP_2140_vpdsdo.jpg"
-    - "/v1615794045/MAP_2105_bsnjzr.jpg"
-    - "/v1615794045/MAP_2097_onoqv9.jpg"
-    - "/v1615794044/MAP_2093_uikotl.jpg"
-    - "/v1615794044/MAP_2103_ejobxu.jpg"
-    - "/v1615794045/MAP_2102_aczyn3.jpg"
-    is_home: false
-  - name: YÊN GARDEN
-    description:
-    - 'Chủ đầu tư: Ms. Linh'
-    - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
-    - 'Hạng mục công trình: Vòm hoa trang trí tường làm nổi bật Nhãn hiệu + Tường
-      rêu sen đá + Các chậu hoa treo dây rũ'
-    images:
-    - "/v1615782684/MAP_0993_zcklt9.jpg"
-    - "/v1615782682/MAP_0997_peva6o.jpg"
-    - "/v1615782680/MAP_0992_o2tzgf.jpg"
-    - "/v1615782688/MAP_1014_miadgq.jpg"
-    - "/v1615782689/MAP_1022_cxnzbr.jpg"
-    - "/v1615782687/MAP_0991_wwb8tq.jpg"
-    - "/v1615782687/MAP_1021_mi1vmk.jpg"
-    - "/v1615782685/MAP_1030_zkj4t0.jpg"
-    - "/v1615782689/MAP_0079_vjqttp.jpg"
-    - "/v1615782688/MAP_0063_adez6g.jpg"
-    - "/v1615782686/MAP_0070_uyaj2j.jpg"
+    - "/v1615781492/MAP_1211_sqfi7q.jpg"
+    - "/v1615781493/MAP_1235_tfziyr.jpg"
+    - "/v1615781492/MAP_1240_nw6ms0.jpg"
+    - "/v1615781491/MAP_1237_krzneo.jpg"
+    - "/v1615781492/MAP_1229_xywa9r.jpg"
     is_home: false
   - name: KOI BEER
     description:
@@ -132,17 +66,20 @@ categories:
     - "/v1615796385/_MAP3218_orkkuz.jpg"
     - "/v1615796385/_MAP3282_tk1uj2.jpg"
     is_home: true
-  - name: KHÓI GARDEN
+  - name: NHÀ HÀNG CO BAO
     description:
-    - 'Chủ đầu tư: Nguyễn Quang Linh'
-    - 'Địa chỉ: 50 Trần Văn Trứ, Hải Châu, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cây sảnh chính (DT 15m2) '
+    - 'Chủ đầu tư: Mr. Dinh'
+    - Địa chỉ :Lô B 33 Trần Văn Trứ, Hải Châu, Đà Nẵng
+    - 'Hạng mục công trình: Tường cây nhiệt đới nhấn hoa thiên điểu (DT: 44m2)'
     images:
-    - "/v1615781492/MAP_1211_sqfi7q.jpg"
-    - "/v1615781493/MAP_1235_tfziyr.jpg"
-    - "/v1615781492/MAP_1240_nw6ms0.jpg"
-    - "/v1615781491/MAP_1237_krzneo.jpg"
-    - "/v1615781492/MAP_1229_xywa9r.jpg"
+    - "/v1615795426/_MAP6014_er4eda.jpg"
+    - "/v1615795425/_MAP5997_x7ymmm.jpg"
+    - "/v1615795425/_MAP5994_sxm2kt.jpg"
+    - "/v1615795426/_MAP6005_fznqvw.jpg"
+    - "/v1615795425/_MAP6001_f6txjl.jpg"
+    - "/v1615795425/_MAP5999_txkjlh.jpg"
+    - "/v1615795425/_MAP5993_xjpeec.jpg"
+    - "/v1615795426/_MAP6002_uazqq7.jpg"
     is_home: false
   - name: LÀNG NGHỆ RESTAURANT
     description:
@@ -156,6 +93,69 @@ categories:
     - "/v1615782022/MAP_1178_rhrwco.jpg"
     - "/v1615782022/MAP_1169_cpch3z.jpg"
     - "/v1615782020/MAP_1167_zmfu5k.jpg"
+    is_home: false
+  - name: ỐC LY BÉ
+    description:
+    - 'Chủ đầu tư: Ms.Ly'
+    - 'Địa chỉ: 03 An Trung Đông 3, Đà Nẵng'
+    - 'hạng mục công trình: Dàn dây leo cổ lá si tạo điểm nhấn tường chính + Hàng
+      trúc dọc bờ tường lối đi vào'
+    images:
+    - "/v1615795825/_MAP6471_yajqhm.jpg"
+    - "/v1615795825/_MAP6469_k3givj.jpg"
+    - "/v1615795824/_MAP6454_qonvlp.jpg"
+    - "/v1615795824/_MAP6441_oajpth.jpg"
+    - "/v1615795808/NDB_8565_bjimgs.jpg"
+    - "/v1615795809/NDB_8573_vkdykj.jpg"
+    - "/v1615795808/NDB_8570_euptzb.jpg"
+    - "/v1615795809/NDB_8569_ozdgb3.jpg"
+    - "/v1615795809/NDB_8575_ijydls.jpg"
+    is_home: false
+  - name: ISLAND COFFEE
+    description:
+    - 'Chủ đầu tư: Ms. Diệp'
+    - 'Địa chỉ: Khu Đảo Nổi, Cẩm Lệ, Đà Nẵng'
+    - 'Hạng mục công trình: Tiểu cảnh sen đá (DT 6 mét tới)'
+    images:
+    - "/v1616129508/MAP_1316_jkntm7.jpg"
+    - "/v1616129508/MAP_0959_mq5cg5.jpg"
+    - "/v1616129508/MAP_0950_bpwecl.jpg"
+    - "/v1616129596/dcc40c85521fa141f80e_basmks.jpg"
+    - "/v1616129594/1b0ce62caab659e800a7_nqqcur.jpg"
+    - "/v1616129508/MAP_0964_ovq5ip.jpg"
+    is_home: false
+  - name: YÊN GARDEN
+    description:
+    - 'Chủ đầu tư: Ms. Linh'
+    - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Vòm hoa trang trí tường làm nổi bật Nhãn hiệu + Tường
+      rêu sen đá + Các chậu hoa treo dây rũ'
+    images:
+    - "/v1615782684/MAP_0993_zcklt9.jpg"
+    - "/v1615782682/MAP_0997_peva6o.jpg"
+    - "/v1615782680/MAP_0992_o2tzgf.jpg"
+    - "/v1615782688/MAP_1014_miadgq.jpg"
+    - "/v1615782689/MAP_1022_cxnzbr.jpg"
+    - "/v1615782687/MAP_0991_wwb8tq.jpg"
+    - "/v1615782687/MAP_1021_mi1vmk.jpg"
+    - "/v1615782685/MAP_1030_zkj4t0.jpg"
+    - "/v1615782689/MAP_0079_vjqttp.jpg"
+    - "/v1615782688/MAP_0063_adez6g.jpg"
+    - "/v1615782686/MAP_0070_uyaj2j.jpg"
+    is_home: false
+  - name: POPPING TEA & COFFEE
+    description:
+    - 'Địa chỉ: 503 Trần Hưng Đạo, Sơn Trà, Đà Nẵng'
+    - 'Hạng mục công trình: Bồn cây tiểu cảnh Lưỡi hổ kết hợp Dương xỉ'
+    images:
+    - "/v1615794044/MAP_2145_wfayka.jpg"
+    - "/v1615794045/MAP_2141_ycxfsj.jpg"
+    - "/v1615794045/MAP_2140_vpdsdo.jpg"
+    - "/v1615794045/MAP_2105_bsnjzr.jpg"
+    - "/v1615794045/MAP_2097_onoqv9.jpg"
+    - "/v1615794044/MAP_2093_uikotl.jpg"
+    - "/v1615794044/MAP_2103_ejobxu.jpg"
+    - "/v1615794045/MAP_2102_aczyn3.jpg"
     is_home: false
   - name: 1992 COFFEE & TEA
     description:
