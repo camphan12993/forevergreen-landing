@@ -7,6 +7,15 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Cẩm Nhung
+    description:
+    - Mỗi cành gồm có 3 nhánh lớn, 8 nhánh nhỏ, chiều cao cả cành là 28cm.
+    - Thích hợp tạo cây trang trí văn phòng, công sở vì thân lá mảnh nhỏ, mang ý nghĩa
+      phong thủy, may mắn.
+    images:
+    - "/v1618371252/z2431924922539_b787f640a94ced6bbfef4abcf74d9ced_pijsop.jpg"
+    price: "70000"
+    is_home: false
   - name: Dứa Nam Mỹ Nhỏ
     description:
     - Cây có hình thù đặc biệt với tán lá toả như bông hoa, cao 27cm.
