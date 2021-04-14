@@ -7,6 +7,14 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Dứa Nam Mỹ Nhỏ
+    description:
+    - Cây có hình thù đặc biệt với tán lá toả như bông hoa, cao 27cm.
+    - Thích hợp để tạo tiểu cảnh nội thất.
+    images:
+    - "/v1618371080/z2431924921809_177893d0b538e151ccd89f8780ffe67b_cpjudg.jpg"
+    price: ''
+    is_home: false
   - name: Dứa Nam Mỹ To
     description:
     - Cây có hình thù đặc biệt với tán lá toả như bông hoa, cao 33cm.
