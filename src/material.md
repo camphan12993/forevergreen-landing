@@ -7,6 +7,14 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Dẻ Quạt
+    description:
+    - 'Chất liệu: Lá bằng nhựa dẻo, thân nhựa trong bọc lõi thép.'
+    - Lá màu xanh vàng chuyển tự nhiên như thật, chiều cao cả cành là 40cm.
+    images:
+    - "/v1618372536/z2431924929298_d9bb313f472f3b11cdaa73a2b10a78f1_rdfdbc.jpg"
+    price: "60000"
+    is_home: false
   - name: Dương Xỉ Chân Thỏ
     description:
     - 'Chất liệu: Lá bằng chất liệu Su mềm mại. Chiều cao cả cành là 40cm.'
