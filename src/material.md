@@ -7,6 +7,14 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Không Khí Dài
+    description:
+    - 'Chất liệu: Nhựa PE cao cấp an toàn, dễ uốn dẻo. Chiều cao cành là 55cm.'
+    - 'Xuất xứ: hàng TW Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu).'
+    images:
+    - "/v1618371616/z2431924928020_5e14e837d194475e1112c0862abd9ca3_yur8hf.jpg"
+    price: "210000"
+    is_home: true
   - name: Cành Cẩm Nhung
     description:
     - Mỗi cành gồm có 3 nhánh lớn, 8 nhánh nhỏ, chiều cao cả cành là 28cm.
