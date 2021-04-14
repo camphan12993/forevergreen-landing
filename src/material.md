@@ -8,27 +8,17 @@ categories:
   - this is something called fabric
   - this is something called fabric
   items:
-  - name: Thảm cỏ Milan (Vẩy ốc)
+  - name: Cành Ngâu
     description:
-    - this is something called fabric
-    - this is something called fabric
+    - 'Chất liệu: lá bằng nhựa dẻo PVC, thân bằng nhựa bọc lõi thép.'
+    - Mỗi cành ngâu gồm có 7 nhánh nhỏ, chiều dài cả cành là 30cm.
+    - Màu thật của sản phẩm có thể hơi khác so với hình ảnh hiển thị trên trang web
+      do nhiều yếu tố như độ sáng màn hình và độ sáng của đèn. Cho phép độ lệch kích
+      thước (± 2cm) nếu đo bằng tay.
     images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-  - name: Thảm cỏ Milan (Vẩy ốc)
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-  - name: Thảm cỏ Milan (Vẩy ốc)
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
+    - "/v1618370194/z2431924903548_966cf75b235c6455bd11b9c4ae9c8961_qwthfi.jpg"
+    price: "42000"
+    is_home: true
 - name: Material 1
   description:
   - this is something called fabric
@@ -42,6 +32,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
@@ -49,6 +40,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
@@ -56,6 +48,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
 - name: Material 2
   description:
   - this is something called fabric
@@ -69,6 +62,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
   - name: Thảm cỏ Milan (Vẩy ốc)
     description:
     - this is something called fabric
@@ -76,6 +70,7 @@ categories:
     images:
     - "/v1611827320/plant_yryt8e.jpg"
     price: ''
+    is_home: false
 tags: ''
 
 ---
