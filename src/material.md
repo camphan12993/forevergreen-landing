@@ -7,6 +7,15 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Dương Xỉ Chân Thỏ
+    description:
+    - 'Chất liệu: Lá bằng chất liệu Su mềm mại. Chiều cao cả cành là 40cm.'
+    - Thích hợp để tạo thành chậu dương xỉ đơn hoặc phối trang trí tiểu cảnh nội thất,
+      mảng tường xanh nhân tạo.
+    images:
+    - "/v1618372217/z2431924928962_cf3818155fb5bbe01e7a148a4d12dca4_rciclm.jpg"
+    price: "90000"
+    is_home: false
   - name: Cành Không Khí Dài
     description:
     - 'Chất liệu: Nhựa PE cao cấp an toàn, dễ uốn dẻo. Chiều cao cành là 55cm.'
