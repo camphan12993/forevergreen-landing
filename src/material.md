@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Material
 categories:
+- name: Sen Đá
+  description: []
+  items: []
 - name: Thảm Rêu - Vỉ gỗ
   description: []
   items: []
