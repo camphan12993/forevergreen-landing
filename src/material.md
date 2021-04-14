@@ -2,11 +2,37 @@
 layout: gallery.liquid
 title: Material
 categories:
-- name: Material
+- name: Thảm Cỏ
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: 'Thảm cỏ Milan '
+    description:
+    - Chất liệu nhựa cao cấp an toàn.
+    - Mỗi tấm có kích thước 40 x 60 cm.
+    images:
+    - "/v1611827320/plant_yryt8e.jpg"
+    price: ''
+    is_home: false
+  - name: Thảm cỏ Vẩy ốc (Cỏ bạch đàn)
+    description:
+    - Chất liệu nhựa cao cấp an toàn.
+    - Mỗi tấm có kích thước là 40 x 60 cm.
+    images: []
+    price: ''
+    is_home: false
+- name: Cành lá
+  description:
+  - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
+    nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
+  items:
+  - description:
+    - ''
+    name: ''
+    images: []
+    price: ''
+    is_home: false
   - name: Dương Xỉ Rủ Dài
     description:
     - 'Chất liệu: Cành lá chất liệu nhựa, cuống lõi thép bọc nhựa.'
@@ -84,58 +110,11 @@ categories:
     - "/v1618370313/z2431924907745_a3521bc71034ec2036b8d6675aa5cc88_zicoqr.jpg"
     price: "90000"
     is_home: false
-- name: Material 1
+- name: Dây rũ
   description:
-  - this is something called fabric
-  - this is something called fabric
-  - this is something called fabric
-  items:
-  - name: Thảm cỏ Milan (Vẩy ốc)
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
-  - name: Thảm cỏ Milan (Vẩy ốc)
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
-  - name: Thảm cỏ Milan (Vẩy ốc)
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
-- name: Material 2
-  description:
-  - this is something called fabric
-  - this is something called fabric
-  - this is something called fabric
-  items:
-  - name: Thảm cỏ Milan (Vẩy ốc)
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
-  - name: Thảm cỏ Milan (Vẩy ốc)
-    description:
-    - this is something called fabric
-    - this is something called fabric
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
-    price: ''
-    is_home: false
+  - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
+    nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
+  items: []
 tags: ''
 
 ---
