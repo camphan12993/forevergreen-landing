@@ -2,10 +2,8 @@
 layout: gallery.liquid
 title: Material
 categories:
-- name: Cành hoa
-  description:
-  - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
-    nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
+- name: Thảm Rêu - Vỉ gỗ
+  description: []
   items: []
 - name: Thảm Cỏ
   description:
@@ -27,6 +25,11 @@ categories:
     images: []
     price: ''
     is_home: false
+- name: Dây rũ
+  description:
+  - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
+    nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
+  items: []
 - name: Cành lá
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
@@ -115,7 +118,7 @@ categories:
     - "/v1618370313/z2431924907745_a3521bc71034ec2036b8d6675aa5cc88_zicoqr.jpg"
     price: "90000"
     is_home: false
-- name: Dây rũ
+- name: Cành hoa
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
