@@ -4,9 +4,8 @@ title: Material
 categories:
 - name: Material
   description:
-  - this is something called fabric
-  - this is something called fabric
-  - this is something called fabric
+  - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
+    nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
   - name: Cành Ngâu
     description:
@@ -19,6 +18,14 @@ categories:
     - "/v1618370194/z2431924903548_966cf75b235c6455bd11b9c4ae9c8961_qwthfi.jpg"
     price: "42000"
     is_home: true
+  - name: Cành Cúc Mốc Nhựa
+    description:
+    - 'Chất liệu: Lá bằng nhựa dẻo PVC, thân bằng nhựa bọc lõi thép.'
+    - Mỗi cành gồm có 5 nhánh nhỏ, chiều cao cả cành là 40cm.
+    images:
+    - "/v1618370313/z2431924907745_a3521bc71034ec2036b8d6675aa5cc88_zicoqr.jpg"
+    price: "90000"
+    is_home: false
 - name: Material 1
   description:
   - this is something called fabric
