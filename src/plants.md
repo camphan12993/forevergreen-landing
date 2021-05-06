@@ -53,9 +53,14 @@ categories:
     images: []
     price: ''
     is_home: false
-- name: Cây Trầu Bà Rẻ Quạt
+- name: Cây Trầu Bà Lá Sẻ
   description: []
   items:
+  - name: Cây Trầu Bà Lá Sẻ 1m9
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Cây Trầu Bà Lá Sẻ 80cm
     description: []
     images: []
