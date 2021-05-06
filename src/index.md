@@ -8,7 +8,6 @@ banner:
   images:
   - "/v1615447859/NDB_0087_xyiygu.jpg"
   - "/v1615782680/MAP_0992_o2tzgf.jpg"
-  - "/v1616129596/dcc40c85521fa141f80e_basmks.jpg"
   button: Explore
 about:
   title: About Us
