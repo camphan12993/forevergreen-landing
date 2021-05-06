@@ -31,6 +31,11 @@ categories:
     images: []
     price: ''
     is_home: false
+  - name: Thảm Rêu Gỗ (Vĩ Gỗ)
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: ''
   description: []
   items: []
