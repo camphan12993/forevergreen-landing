@@ -19,7 +19,12 @@ categories:
   items: []
 - name: Cây Phát Tài Núi
   description: []
-  items: []
+  items:
+  - name: Cây Phát Tài Núi 1m4
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Dứa Cảnh
   description: []
   items:
