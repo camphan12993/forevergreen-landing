@@ -31,7 +31,12 @@ categories:
   items: []
 - name: Cây Dừa Cảnh
   description: []
-  items: []
+  items:
+  - name: Cây Dừa Cảnh 2m
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Lưỡi Hổ
   description: []
   items: []
