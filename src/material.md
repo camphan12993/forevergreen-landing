@@ -49,6 +49,11 @@ categories:
     price: ''
     is_home: false
     name: Dây Rũ Vẩy Ốc
+  - name: Dây Rũ Cúc Tầng 1 - Màu nhạt
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cành lá
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
