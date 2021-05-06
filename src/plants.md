@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Cau
+  description: []
+  items: []
 - name: Cây Dừa Cảnh
   description: []
   items: []
