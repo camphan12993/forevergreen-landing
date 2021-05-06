@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Dứa Cảnh
+  description: []
+  items: []
 - name: Cây Xương Rồng
   description: []
   items: []
