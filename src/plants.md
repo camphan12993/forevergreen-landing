@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Vạn Tuế
+  description: []
+  items: []
 - name: Cây Phát Tài Núi
   description: []
   items: []
