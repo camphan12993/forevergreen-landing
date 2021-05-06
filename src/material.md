@@ -44,6 +44,11 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Dây Lộc Vừng
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Dây Rũ Tai Chuột
     description: []
     images: []
