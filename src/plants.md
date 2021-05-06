@@ -28,7 +28,12 @@ categories:
   items: []
 - name: Cây Cau
   description: []
-  items: []
+  items:
+  - name: Cây Cau 1m5
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Dừa Cảnh
   description: []
   items:
