@@ -2,7 +2,7 @@
 layout: gallery.liquid
 title: Plants
 categories:
-- name: Cây Trầu Bà Thanh Xuân
+- name: Cây Chuối Cảnh
   description: []
   items: []
 - name: Cây Trầu Bà Rẻ Quạt
