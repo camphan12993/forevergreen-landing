@@ -59,6 +59,11 @@ categories:
 - name: Cây Trầu Bà Thanh Xuân
   description: []
   items:
+  - name: Cây Trầu Bà Thanh Xuân 3 nhánh cao 1m3
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Cây Trầu Bà Thanh Xuân 2 nhánh cao 1m2
     description: []
     images: []
