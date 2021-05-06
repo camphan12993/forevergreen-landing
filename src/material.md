@@ -2,13 +2,7 @@
 layout: gallery.liquid
 title: Material
 categories:
-- name: Sen Đá
-  description: []
-  items: []
-- name: Thảm Rêu - Vỉ gỗ
-  description: []
-  items: []
-- name: Thảm Cỏ
+- name: Thảm Cỏ - Rêu
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
@@ -17,8 +11,7 @@ categories:
     description:
     - Chất liệu nhựa cao cấp an toàn.
     - Mỗi tấm có kích thước 40 x 60 cm.
-    images:
-    - "/v1611827320/plant_yryt8e.jpg"
+    images: []
     price: ''
     is_home: false
   - name: Thảm cỏ Vẩy ốc (Cỏ bạch đàn)
@@ -28,6 +21,17 @@ categories:
     images: []
     price: ''
     is_home: false
+  - name: Thảm cỏ xanh
+    description: []
+    images: []
+    price: ''
+    is_home: false
+- name: ''
+  description: []
+  items: []
+- name: Sen Đá
+  description: []
+  items: []
 - name: Dây rũ
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
