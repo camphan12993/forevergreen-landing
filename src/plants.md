@@ -34,6 +34,11 @@ categories:
     images: []
     price: ''
     is_home: false
+  - name: Cây Cau 2m
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Dừa Cảnh
   description: []
   items:
