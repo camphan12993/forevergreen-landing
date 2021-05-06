@@ -31,6 +31,11 @@ categories:
     images: []
     price: ''
     is_home: false
+  - name: 'Cây Xương Rồng 4 cạnh '
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Cau
   description: []
   items:
