@@ -347,6 +347,21 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Lựu
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Hoa Đào Trắng
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Hoa Đào Hồng
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Cành Mai Nhện
     description: []
     images: []
