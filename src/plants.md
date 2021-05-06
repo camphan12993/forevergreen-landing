@@ -14,6 +14,11 @@ categories:
 - name: Cây Thiên Điểu
   description: []
   items:
+  - name: Cây Thiên Điểu 1m6
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Cây Thiên Điểu 1m8
     description: []
     images: []
