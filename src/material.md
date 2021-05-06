@@ -347,6 +347,16 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Lan Hồ Điệp Vàng Nhụy Nâu
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Hoa Huệ Tây Trắng
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Hoa Huệ Tây Vàng
     description: []
     images: []
