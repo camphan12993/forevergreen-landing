@@ -55,7 +55,12 @@ categories:
     is_home: false
 - name: Cây Trầu Bà Rẻ Quạt
   description: []
-  items: []
+  items:
+  - name: Cây Trầu Bà Lá Sẻ 80cm
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Trầu Bà Thanh Xuân
   description: []
   items:
