@@ -99,25 +99,15 @@ categories:
     images: []
     price: ''
     is_home: false
-- name: Cành lá
+- name: Cành cây lá - Bụi lá
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
-  - description:
-    - ''
-    name: ''
+  - name: Cành Thường Xuân Viền Trắng
+    description: []
     images: []
     price: ''
-    is_home: false
-  - name: Dương Xỉ Rủ Dài
-    description:
-    - 'Chất liệu: Cành lá chất liệu nhựa, cuống lõi thép bọc nhựa.'
-    - Chiều dài cả cành là 80cm.
-    - 'Thích hợp để phối trang trí mảng tường xanh nhân tạo. '
-    images:
-    - "/v1618372691/z2431924936574_deef2562dc63d7706a26f2cf2d8daae7_nljhnn.jpg"
-    price: "80000"
     is_home: false
   - name: Cành Dẻ Quạt
     description:
