@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Lưỡi Hổ
+  description: []
+  items: []
 - name: Cây Chuối Cảnh
   description: []
   items: []
