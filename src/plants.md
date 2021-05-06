@@ -46,7 +46,12 @@ categories:
   items: []
 - name: Cây bàng Singapore
   description: []
-  items: []
+  items:
+  - name: Cây Bàn Singapore 50cm
+    description: []
+    images: []
+    price: ''
+    is_home: false
 tags: ''
 
 ---
