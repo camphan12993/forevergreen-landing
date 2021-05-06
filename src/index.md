@@ -33,7 +33,7 @@ solutions:
 categories:
 - "/v1616567889/e82208d299d9c24a092fadfc43a9133f_mqihb2.jpg"
 - "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
-- "/v1616561258/7dba0ba8e16c47fe9e2c39f69369ffa4_xnkp1e.jpg"
+- "/v1616569019/416ae8c6c19ca3d684902053b4bcebf4_rxce67.jpg"
 callout:
 - name: Material
   link:
