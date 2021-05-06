@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Chậu Lan Ý
+  description: []
+  items: []
 - name: Cây Thiên Điểu
   description: []
   items: []
