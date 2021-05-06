@@ -56,12 +56,12 @@ categories:
 - name: Cây Trầu Bà Lá Sẻ
   description: []
   items:
-  - name: Cây Trầu Bà Lá Sẻ 1m9
+  - name: Cây Trầu Bà Lá Sẻ 80cm
     description: []
     images: []
     price: ''
     is_home: false
-  - name: Cây Trầu Bà Lá Sẻ 80cm
+  - name: Cây Trầu Bà Lá Sẻ 1m9
     description: []
     images: []
     price: ''
