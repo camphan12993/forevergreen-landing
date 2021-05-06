@@ -36,9 +36,6 @@ categories:
     images: []
     price: ''
     is_home: false
-- name: ''
-  description: []
-  items: []
 - name: Sen Đá
   description: []
   items: []
@@ -46,7 +43,12 @@ categories:
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
-  items: []
+  items:
+  - description: []
+    images: []
+    price: ''
+    is_home: false
+    name: Dây Rũ Vẩy Ốc
 - name: Cành lá
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
