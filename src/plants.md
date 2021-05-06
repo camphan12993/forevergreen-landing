@@ -23,12 +23,12 @@ categories:
 - name: Cây Dứa Cảnh
   description: []
   items:
-  - name: Cây Dứa Cảnh 1m4
+  - name: Cây Dứa Cảnh 1m1
     description: []
     images: []
     price: ''
     is_home: false
-  - name: Cây Dứa Cảnh 1m1
+  - name: Cây Dứa Cảnh 1m4
     description: []
     images: []
     price: ''
