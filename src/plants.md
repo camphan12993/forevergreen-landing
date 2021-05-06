@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Phát Tài Núi
+  description: []
+  items: []
 - name: Cây Dứa Cảnh
   description: []
   items: []
