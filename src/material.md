@@ -104,6 +104,60 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Bụi Dương Xỉ Mỹ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Bụi Dương Xỉ Dài
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Dương Xỉ Chân Thỏ
+    description:
+    - 'Chất liệu: Lá bằng chất liệu Su mềm mại. Chiều cao cả cành là 40cm.'
+    - Thích hợp để tạo thành chậu dương xỉ đơn hoặc phối trang trí tiểu cảnh nội thất,
+      mảng tường xanh nhân tạo.
+    images:
+    - "/v1618372217/z2431924928962_cf3818155fb5bbe01e7a148a4d12dca4_rciclm.jpg"
+    price: "90000"
+    is_home: false
+  - name: Bụi Dương Xỉ Đẹp
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lá Trầu Vằn
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Bụi Lá Táo
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Bụi Lá Viền Trắng
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Cau
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cụm Chuối Rễ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Tre Lá Nhỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Cành Tre Lá Lớn
     description: []
     images: []
@@ -114,27 +168,12 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Lá Ngâu Xanh
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Hoa Ngâu Xanh
-    description: []
-    images: []
-    price: ''
-    is_home: false
   - name: Dâu Mầm Đỏ (Thân Mềm)
     description: []
     images: []
     price: ''
     is_home: false
-  - name: Lá Khế Viền Trắng
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Khế Viền Cam
+  - name: Ngũ Gia Bì Vàng Xanh
     description: []
     images: []
     price: ''
@@ -154,22 +193,7 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Cành Lan Ý Lớn
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lan Ý  Nhỏ
-    description: []
-    images: []
-    price: ''
-    is_home: false
   - name: Bó Bạch Đàn Hạt Khô
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Ngũ Gia Bì Vàng Xanh
     description: []
     images: []
     price: ''
@@ -179,12 +203,27 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Cụm 12 Lá Môn
+  - name: Trầu Bà Loan
     description: []
     images: []
     price: ''
     is_home: false
-  - name: Trầu Bà Loan
+  - name: Hoa Ngâu Xanh
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lá Ngâu Xanh
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lá Khế Viền Cam
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lá Khế Viền Trắng
     description: []
     images: []
     price: ''
@@ -194,7 +233,27 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Cành Lá Si Viền Trắng
+  - name: Cụm Lá Môn Màu
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cụm 12 Lá Môn
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lá Chân Vịt Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lan Ý  Nhỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lan Ý Lớn
     description: []
     images: []
     price: ''
@@ -204,12 +263,7 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Cụm Lá Môn Màu
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Chân Vịt Chất Su
+  - name: Cành Lá Si Viền Trắng
     description: []
     images: []
     price: ''
@@ -232,23 +286,6 @@ categories:
     - "/v1618372536/z2431924929298_d9bb313f472f3b11cdaa73a2b10a78f1_rdfdbc.jpg"
     price: "60000"
     is_home: false
-  - name: Dương Xỉ Chân Thỏ
-    description:
-    - 'Chất liệu: Lá bằng chất liệu Su mềm mại. Chiều cao cả cành là 40cm.'
-    - Thích hợp để tạo thành chậu dương xỉ đơn hoặc phối trang trí tiểu cảnh nội thất,
-      mảng tường xanh nhân tạo.
-    images:
-    - "/v1618372217/z2431924928962_cf3818155fb5bbe01e7a148a4d12dca4_rciclm.jpg"
-    price: "90000"
-    is_home: false
-  - name: Cành Không Khí Dài
-    description:
-    - 'Chất liệu: Nhựa PE cao cấp an toàn, dễ uốn dẻo. Chiều cao cành là 55cm.'
-    - 'Xuất xứ: hàng TW Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu).'
-    images:
-    - "/v1618371616/z2431924928020_5e14e837d194475e1112c0862abd9ca3_yur8hf.jpg"
-    price: "210000"
-    is_home: true
   - name: Cành Cẩm Nhung
     description:
     - Mỗi cành gồm có 3 nhánh lớn, 8 nhánh nhỏ, chiều cao cả cành là 28cm.
@@ -257,21 +294,6 @@ categories:
     images:
     - "/v1618371252/z2431924922539_b787f640a94ced6bbfef4abcf74d9ced_pijsop.jpg"
     price: "70000"
-    is_home: false
-  - name: Dứa Nam Mỹ Nhỏ
-    description:
-    - Cây có hình thù đặc biệt với tán lá toả như bông hoa, cao 27cm.
-    - Thích hợp để tạo tiểu cảnh nội thất.
-    images:
-    - "/v1618371080/z2431924921809_177893d0b538e151ccd89f8780ffe67b_cpjudg.jpg"
-    price: ''
-    is_home: false
-  - name: Dứa Nam Mỹ To
-    description:
-    - Cây có hình thù đặc biệt với tán lá toả như bông hoa, cao 33cm.
-    images:
-    - "/v1618370708/z2431924914789_90b983ad677be22d9011668a2039679e_ezgn01.jpg"
-    price: ''
     is_home: false
   - name: Cành Ngâu
     description:
@@ -291,6 +313,29 @@ categories:
     images:
     - "/v1618370313/z2431924907745_a3521bc71034ec2036b8d6675aa5cc88_zicoqr.jpg"
     price: "90000"
+    is_home: false
+  - name: Cành Không Khí Dài
+    description:
+    - 'Chất liệu: Nhựa PE cao cấp an toàn, dễ uốn dẻo. Chiều cao cành là 55cm.'
+    - 'Xuất xứ: hàng TW Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu).'
+    images:
+    - "/v1618371616/z2431924928020_5e14e837d194475e1112c0862abd9ca3_yur8hf.jpg"
+    price: "210000"
+    is_home: true
+  - name: Dứa Nam Mỹ Nhỏ
+    description:
+    - Cây có hình thù đặc biệt với tán lá toả như bông hoa, cao 27cm.
+    - Thích hợp để tạo tiểu cảnh nội thất.
+    images:
+    - "/v1618371080/z2431924921809_177893d0b538e151ccd89f8780ffe67b_cpjudg.jpg"
+    price: ''
+    is_home: false
+  - name: Dứa Nam Mỹ To
+    description:
+    - Cây có hình thù đặc biệt với tán lá toả như bông hoa, cao 33cm.
+    images:
+    - "/v1618370708/z2431924914789_90b983ad677be22d9011668a2039679e_ezgn01.jpg"
+    price: ''
     is_home: false
 - name: Cành hoa
   description:
