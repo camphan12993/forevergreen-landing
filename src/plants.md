@@ -22,7 +22,12 @@ categories:
   items: []
 - name: Cây Dứa Cảnh
   description: []
-  items: []
+  items:
+  - name: Cây Dứa Cảnh 1m1
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Xương Rồng
   description: []
   items:
