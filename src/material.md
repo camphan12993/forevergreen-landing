@@ -104,6 +104,16 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Lan Ý Lớn
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lan Ý  Nhỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Bó Bạch Đàn Hạt Khô
     description: []
     images: []
