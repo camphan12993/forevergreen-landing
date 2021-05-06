@@ -104,6 +104,16 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Tre Lá Lớn
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Địa Lan Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Lá Ngâu Xanh
     description: []
     images: []
