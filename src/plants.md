@@ -58,7 +58,12 @@ categories:
   items: []
 - name: Cây Trầu Bà Thanh Xuân
   description: []
-  items: []
+  items:
+  - name: Cây Trầu Bà Thanh Xuân 2 nhánh cao 1m2
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây bàng Singapore
   description: []
   items:
