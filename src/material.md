@@ -26,6 +26,11 @@ categories:
     images: []
     price: ''
     is_home: false
+  - name: Thảm Rêu Loang (Đỏ)
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: ''
   description: []
   items: []
