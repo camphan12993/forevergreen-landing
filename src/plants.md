@@ -37,7 +37,12 @@ categories:
   items: []
 - name: Cây Chuối Cảnh
   description: []
-  items: []
+  items:
+  - description: []
+    images: []
+    price: ''
+    is_home: false
+    name: Cây Chuối Cảnh 80cm
 - name: Cây Trầu Bà Rẻ Quạt
   description: []
   items: []
