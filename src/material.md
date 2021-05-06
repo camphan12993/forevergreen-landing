@@ -342,11 +342,76 @@ categories:
     - "/v1618370708/z2431924914789_90b983ad677be22d9011668a2039679e_ezgn01.jpg"
     price: ''
     is_home: false
-- name: Cành hoa
+- name: Cành hoa quả
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: 'Cành Hoa Hồng Đen '
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Nụ Tầm Xuân Đỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: 'Cành Hoa Mộc Lan Hồng Nhỏ '
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: 'Cành Hoa Mộc Lan Vàng Nhỏ '
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: 'Cành Hoa Mộc Lan Trắng Nhỏ '
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Hoa Mộc Lan Trắng Đại
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Hoa Cẩm Tú Cầu Đỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Hoa Hồng Tím Nhạt
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Hoa Hồng Xanh Blue
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Chanh Vàng
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Chuối Pháo
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Hoa Thiên Điểu
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lan Hồ Điệp Tím
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: 'Lan Hồ Điệp Trắng '
     description: []
     images: []
@@ -387,7 +452,12 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Cành Mai Nhện
+  - name: Cành Lan Hoàng Nhạn Đỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Mai Cổ
     description: []
     images: []
     price: ''
