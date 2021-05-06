@@ -104,6 +104,11 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cụm Lá Môn Màu
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Lá Chân Vịt Chất Su
     description: []
     images: []
