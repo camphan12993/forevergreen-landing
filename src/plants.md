@@ -48,6 +48,11 @@ categories:
     images: []
     price: ''
     is_home: false
+  - name: Cây Chuối Cảnh 2m1
+    description: []
+    images: []
+    price: ''
+    is_home: false
 - name: Cây Trầu Bà Rẻ Quạt
   description: []
   items: []
