@@ -347,7 +347,7 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
-  - name: Cành Hoa Cúc Họa Mi Vàng
+  - name: Hoa Huệ Tây Vàng
     description: []
     images: []
     price: ''
@@ -422,7 +422,12 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Cành Cúc Họa Mi
+  - name: Cành Hoa Cúc Họa Mi Vàng
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Hoa Cúc Họa Mi Trắng
     description: []
     images: []
     price: ''
