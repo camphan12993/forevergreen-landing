@@ -26,6 +26,11 @@ categories:
 - name: Cây Xương Rồng
   description: []
   items:
+  - name: Xương Rồng Tròn
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Cây Xương Rồng Đơn 1m78
     description: []
     images: []
