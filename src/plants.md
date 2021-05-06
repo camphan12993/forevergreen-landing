@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Tre
+  description: []
+  items: []
 - name: Chậu Lan Ý
   description: []
   items: []
