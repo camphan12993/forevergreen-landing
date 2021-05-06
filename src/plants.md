@@ -2,6 +2,9 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Trúc
+  description: []
+  items: []
 - name: Cây Tre
   description: []
   items: []
