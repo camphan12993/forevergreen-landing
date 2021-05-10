@@ -13,7 +13,7 @@ categories:
   items:
   - name: 'FUSION MAIA '
     description:
-    - 'Địa chỉ: Phường Hòa Thuận Tây, Quận Hỉa Châu, Đà Nẵng'
+    - 'Địa chỉ: Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng'
     - 'Hạng mục công trình: Mảng tường cây sau quầy Bar + Tiểu cảnh cây Thiên điểu
       + Khung cây rũ kết hợp lũa treo tường'
     images:
