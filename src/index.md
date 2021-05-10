@@ -13,15 +13,15 @@ about:
   title: About Us
   description:
   - 'Forever Green (FG) chúng mình là những cô nàng - chàng trai có niềm đam mê bất
-    tận với Cỏ - Cây - Hoa - Lá và Phong cách thiết kế nhiệt đới. Đồng thời, có sự
-    thấu hiểu sâu sắc những khó khăn, hạn chế khi chăm sóc mảng xanh tươi thật 100%
-    của các căn hộ, mô hình kinh doanh hiện đại. Nên, chúng mình đã thành lập ra FG
-    và làm việc mỗi ngày với Sứ mệnh:'
+    tận với Cỏ - Cây - Hoa - Lá và Phong cách thiết kế nhiệt đới. Thấu hiểu sâu sắc
+    những khó khăn, hạn chế khi chăm sóc mảng xanh tươi thật 100% của các căn hộ,
+    mô hình kinh doanh hiện đại nên chúng mình đã thành lập ra FG và làm việc mỗi
+    ngày với Sứ mệnh:'
   - "- Mang giải pháp xanh nhân tạo tối ưu nhất đến với Khách hàng."
-  - "- Tư vấn, sáng tạo và thi công những sản phẩm Hoa phù hợp với Yêu cầu & Ngân
-    sách của Khách hàng."
   - "- Cung cấp Nguyên vật liệu chất lượng để thi công không gian xanh với giá thành
     tốt nhất thị trường."
+  - "- Tư vấn, sáng tạo và thi công những sản phẩm Hoa phù hợp với Yêu cầu & Ngân
+    sách của Khách hàng."
   cover: "/v1616133704/z2375671056287_0b92126df55e14b42b60169cb479af93_ktqxbb.jpg"
 solutions:
   title: Our Solutions
@@ -31,7 +31,7 @@ solutions:
   - "/v1616144793/QUY_TR%C3%8CNH_THI_C%C3%94NG_rkqehd.png"
   - "/v1616145050/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_aezvlk.png"
 categories:
-- "/v1616567889/e82208d299d9c24a092fadfc43a9133f_mqihb2.jpg"
+- "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
 - "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
 - "/v1616569019/416ae8c6c19ca3d684902053b4bcebf4_rxce67.jpg"
 callout:
