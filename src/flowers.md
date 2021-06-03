@@ -48,7 +48,7 @@ categories:
   - '"Your home should tell the story of who you are, and be a collection of what
     you love" - Nate Berkus'
   items:
-  - name: ''
+  - name: 'Cổ điển Châu Âu - '
     description: []
     images: []
     price: ''
@@ -97,7 +97,7 @@ categories:
     - "/v1616138519/MAP_7980_ubztmd.jpg"
     price: 1.200.000
     is_home: false
-  - name: Cổ điển Châu Âu - Tone Nhiệt đới
+  - name: Glowing Vase - Cổ điển Châu Âu - Tone Nhiệt đới
     description:
     - "- Kích thước bình Cao 40cm x Ngang 60cm"
     - "- Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm
