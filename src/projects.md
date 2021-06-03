@@ -47,10 +47,6 @@ categories:
     - "/v1622707475/9_nag6t3.jpg"
     - "/v1622707475/10_dmenb4.jpg"
     is_home: false
-  - name: THE VIEW QUY NHON
-    images: []
-    description: []
-    is_home: false
   - name: KHÓI GARDEN
     description:
     - 'Chủ đầu tư: Nguyễn Quang Linh'
@@ -326,6 +322,17 @@ categories:
     is_home: true
 - name: Hotel, Homestay, Apartment
   items:
+  - name: Mulberry Collection Silk Eco Hotel (Hoi An)
+    description:
+    - 'Địa chỉ: 30 Đào Duy Từ, Cẩm Phô, Hội An, Quảng Nam.  '
+    - 'Hạng mục công trình: Tường cây nhiệt đới khu vực lễ tân.'
+    images:
+    - "/v1622708088/z2529659762148_12d8790f05ee9f3a181209c7b985ae17_qtutoo.jpg"
+    - "/v1622708088/z2529659764393_40c099503226f2b4581a5f22c72e05da_gavjur.jpg"
+    - "/v1622708086/z2529659764161_25ef75601d46cd237fe5f03dec5e6e1c_fd4np6.jpg"
+    - "/v1622708088/z2529659769684_90a888c9ab4c00b8c72cafbf88dbae78_hwzp9w.jpg"
+    - "/v1622708088/z2529659779217_32e718cfc603fd51a4f591a708b2a0e7_orxamm.jpg"
+    is_home: false
   - name: MONARQUE HOTEL
     description:
     - 'chủ đầu tư: Ms.Phương'
