@@ -48,6 +48,24 @@ categories:
   - '"Your home should tell the story of who you are, and be a collection of what
     you love" - Nate Berkus'
   items:
+  - name: Glowing Vase - Cổ điển Châu Âu - Tone Nhiệt đới
+    description:
+    - "- Chất liệu: Hoa chất liệu vải lụa cao cấp, an toàn, mềm mại. Bình màu trắng,
+      chất liệu men sứ cao cấp, có quai xách inox mạ vàng chắc chắn. "
+    - "- Kích thước: Ngang 40 x Cao 28 (cm) "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    - "- Bình hoa là sự phối hợp giữa những bông hoa tone nhiệt đới rực rỡ. "
+    - "- Hướng dẫn sử dụng: Thích hợp để trang trí bàn ở phòng ăn, phòng khách, phòng
+      ngủ, phòng làm việc. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành
+      bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1622710639/DSC00319-2_fzq6xr.jpg"
+    - "/v1622710639/DSC00312-2_br46ak.jpg"
+    - "/v1622710639/DSC00308-2_jg3jxx.jpg"
+    price: ''
+    is_home: false
   - name: Pink Vase - Cổ điển Châu Âu - Tone Hồng đỏ
     description:
     - "- Kích thước: Ngang 43 x Cao 32 (cm) "
