@@ -8,12 +8,35 @@ categories:
   - Tinh tế, sang trọng, nổi bật, thu hút - là tất cả những gì Florist FG muốn truyền
     tải qua nghệ thuật sắp đặt bộ gốm sứ Bát Tràng.
   items:
+  - name: 'Concept: "Bird of Paradise"'
+    description:
+    - Hoa Thiên Điểu hình dạng tựa dáng Chim thiên đường, tượng trưng cho sự mạnh
+      mẽ, gắn kết, kiên trì của cặp đôi, sự tự do trong tình yêu đôi lứa.
+    - 'Giá: Liên hệ FG nhé'
+    images:
+    - "/v1622709550/DSC00179-2-2-2_t99hfi.jpg"
+    - "/v1622709550/DSC00139-2-2-2_mtlfkn.jpg"
+    price: ''
+    is_home: false
+  - name: 'Concept: "The lucky phoenix"'
+    description:
+    - Hoa chuối pháo rực rỡ được ví như mỏ chim Phượng hoàng, có ý nghĩa phong thủy
+      mang may mắn đến Gia chủ.
+    - 'Giá: Liên hệ FG nhé'
+    images:
+    - "/v1622709002/DSC00114-2-2-2_bo3mak.jpg"
+    - "/v1622709001/DSC00103-2-2-2_dy84uf.jpg"
+    - "/v1622709002/DSC00117-2-2-2_ds98nz.jpg"
+    - "/v1622709001/DSC00108-2-2-2_v8ptny.jpg"
+    - "/v1622709002/DSC00130-2-2-2_ucxgze.jpg"
+    price: ''
+    is_home: false
   - name: 'Concept: "Spring is coming"'
     description:
     - 'Bộ gốm sứ được trang trí cùng Đào đông đỏ, Cẩm tú cầu đỏ và Cẩm chướng đỏ -
       màu sắc rực rỡ nổi bất, phù hợp để trưng bày vào dịp Tết hoặc trang trí hỷ sự
       Gia tiên. '
-    - 'Giá: Liên hệ FG'
+    - 'Giá: Liên hệ FG nhé'
     images:
     - "/v1622708535/DSC00043-2-2-2_zoaljo.jpg"
     - "/v1622708535/DSC00055-2-2-2_emhjqi.jpg"
