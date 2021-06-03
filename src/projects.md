@@ -208,6 +208,72 @@ categories:
     - "/v1615795914/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_6_hyp1if.jpg"
     - "/v1615795913/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_5_qf1juy.jpg"
     is_home: false
+- name: Hotel, Homestay, Apartment
+  items:
+  - name: MULBERRY COLLECTION SILK ECO HOTEL (Hoi An)
+    description:
+    - 'Địa chỉ: 30 Đào Duy Từ, Cẩm Phô, Hội An, Quảng Nam.  '
+    - 'Hạng mục công trình: Tường cây nhiệt đới khu vực lễ tân.'
+    images:
+    - "/v1622708088/z2529659762148_12d8790f05ee9f3a181209c7b985ae17_qtutoo.jpg"
+    - "/v1622708088/z2529659764393_40c099503226f2b4581a5f22c72e05da_gavjur.jpg"
+    - "/v1622708086/z2529659764161_25ef75601d46cd237fe5f03dec5e6e1c_fd4np6.jpg"
+    - "/v1622708088/z2529659769684_90a888c9ab4c00b8c72cafbf88dbae78_hwzp9w.jpg"
+    - "/v1622708088/z2529659779217_32e718cfc603fd51a4f591a708b2a0e7_orxamm.jpg"
+    is_home: true
+  - name: MONARQUE HOTEL
+    description:
+    - 'chủ đầu tư: Ms.Phương'
+    - 'Địa chỉ: 238 Võ Nguyên Giáp, Sơn Trà, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây hồ bơi (6 mảng)'
+    images:
+    - "/v1615794606/MAP_0803_zim9o9.jpg"
+    - "/v1615794609/MAP_0811_rtnjcv.jpg"
+    - "/v1615794607/MAP_0833_rufn1v.jpg"
+    - "/v1615794606/MAP_0830_nqy4dl.jpg"
+    - "/v1615794609/MAP_0844_gvlais.jpg"
+    - "/v1615794607/MAP_0843_vnwzcs.jpg"
+    - "/v1615794605/MAP_0815_g42ygx.jpg"
+    is_home: false
+  - name: SANNY APARTMENT
+    description:
+    - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây dày trang trí lối đi cầu thang + Bồn cây chuối
+      cảnh + Cây thiên điểu cảnh'
+    images:
+    - "/v1615784117/MAP_8601_rzxsen.jpg"
+    - "/v1615784009/MAP_8059-2_k4mdfw.jpg"
+    - "/v1615784008/MAP_8040-2_a7knbd.jpg"
+    - "/v1615784009/MAP_8046-2_uop1hc.jpg"
+    - "/v1615784010/MAP_8075-2_qjvwjw.jpg"
+    - "/v1615784009/MAP_8074-2_vzxqg1.jpg"
+    - "/v1615784010/MAP_8072-2_lcxdha.jpg"
+    - "/v1615784117/MAP_8615_ytiz78.jpg"
+    - "/v1615784117/MAP_8623_plcx39.jpg"
+    - "/v1615784209/MAP_8622_r2lesx.jpg"
+    - "/v1615784116/MAP_8592_jmemqv.jpg"
+    - "/v1615784117/MAP_8588_wczl03.jpg"
+    is_home: false
+  - name: TÂN PHƯƠNG NAM HOTEL
+    description:
+    - 'Chủ đầu tư: Ms. Ngân'
+    - 'Địa chỉ: 494A Đường 2/9, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây nhiệt đới diện tích 8,3m2 + Bình Lan hồ điệp
+      vàng + Chậu Thiên điểu phối tiểu cảnh nhỏ + Cầy Bàng Singapore'
+    images:
+    - "/v1615446729/NDB_9440_t6fthf.jpg"
+    - "/v1615446730/NDB_9421_cp1qxo.jpg"
+    - "/v1615446730/NDB_9419_lub4js.jpg"
+    - "/v1615446728/NDB_9426_qvnxzb.jpg"
+    - "/v1615446730/NDB_9412_c7xdrx.jpg"
+    - "/v1615446727/NDB_9414_zlqrgj.jpg"
+    - "/v1616397833/1_gkqyss.jpg"
+    - "/v1616397833/5_rekodl.jpg"
+    - "/v1616397834/6_t3thho.jpg"
+    - "/v1616397833/655cbf58c1e332bd6bf2-2-2_vowl7n.jpg"
+    - "/v1616397833/0c2e6a1814a3e7fdbeb2-2-2_iv2ihv.jpg"
+    - "/v1616397834/228a51872f3cdc62852d-2-2_wkvkno.jpg"
+    is_home: false
 - name: Nhà phố
   items:
   - name: ANH MINH
@@ -320,71 +386,5 @@ categories:
     - "/v1615783682/MAP_1049_zazpcl.jpg"
     - "/v1615783686/MAP_1051_iguecy.jpg"
     is_home: true
-- name: Hotel, Homestay, Apartment
-  items:
-  - name: MULBERRY COLLECTION SILK ECO HOTEL (Hoi An)
-    description:
-    - 'Địa chỉ: 30 Đào Duy Từ, Cẩm Phô, Hội An, Quảng Nam.  '
-    - 'Hạng mục công trình: Tường cây nhiệt đới khu vực lễ tân.'
-    images:
-    - "/v1622708088/z2529659762148_12d8790f05ee9f3a181209c7b985ae17_qtutoo.jpg"
-    - "/v1622708088/z2529659764393_40c099503226f2b4581a5f22c72e05da_gavjur.jpg"
-    - "/v1622708086/z2529659764161_25ef75601d46cd237fe5f03dec5e6e1c_fd4np6.jpg"
-    - "/v1622708088/z2529659769684_90a888c9ab4c00b8c72cafbf88dbae78_hwzp9w.jpg"
-    - "/v1622708088/z2529659779217_32e718cfc603fd51a4f591a708b2a0e7_orxamm.jpg"
-    is_home: true
-  - name: MONARQUE HOTEL
-    description:
-    - 'chủ đầu tư: Ms.Phương'
-    - 'Địa chỉ: 238 Võ Nguyên Giáp, Sơn Trà, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cây hồ bơi (6 mảng)'
-    images:
-    - "/v1615794606/MAP_0803_zim9o9.jpg"
-    - "/v1615794609/MAP_0811_rtnjcv.jpg"
-    - "/v1615794607/MAP_0833_rufn1v.jpg"
-    - "/v1615794606/MAP_0830_nqy4dl.jpg"
-    - "/v1615794609/MAP_0844_gvlais.jpg"
-    - "/v1615794607/MAP_0843_vnwzcs.jpg"
-    - "/v1615794605/MAP_0815_g42ygx.jpg"
-    is_home: false
-  - name: SANNY APARTMENT
-    description:
-    - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cây dày trang trí lối đi cầu thang + Bồn cây chuối
-      cảnh + Cây thiên điểu cảnh'
-    images:
-    - "/v1615784117/MAP_8601_rzxsen.jpg"
-    - "/v1615784009/MAP_8059-2_k4mdfw.jpg"
-    - "/v1615784008/MAP_8040-2_a7knbd.jpg"
-    - "/v1615784009/MAP_8046-2_uop1hc.jpg"
-    - "/v1615784010/MAP_8075-2_qjvwjw.jpg"
-    - "/v1615784009/MAP_8074-2_vzxqg1.jpg"
-    - "/v1615784010/MAP_8072-2_lcxdha.jpg"
-    - "/v1615784117/MAP_8615_ytiz78.jpg"
-    - "/v1615784117/MAP_8623_plcx39.jpg"
-    - "/v1615784209/MAP_8622_r2lesx.jpg"
-    - "/v1615784116/MAP_8592_jmemqv.jpg"
-    - "/v1615784117/MAP_8588_wczl03.jpg"
-    is_home: false
-  - name: TÂN PHƯƠNG NAM HOTEL
-    description:
-    - 'Chủ đầu tư: Ms. Ngân'
-    - 'Địa chỉ: 494A Đường 2/9, Đà Nẵng'
-    - 'Hạng mục công trình: Tường cây nhiệt đới diện tích 8,3m2 + Bình Lan hồ điệp
-      vàng + Chậu Thiên điểu phối tiểu cảnh nhỏ + Cầy Bàng Singapore'
-    images:
-    - "/v1615446729/NDB_9440_t6fthf.jpg"
-    - "/v1615446730/NDB_9421_cp1qxo.jpg"
-    - "/v1615446730/NDB_9419_lub4js.jpg"
-    - "/v1615446728/NDB_9426_qvnxzb.jpg"
-    - "/v1615446730/NDB_9412_c7xdrx.jpg"
-    - "/v1615446727/NDB_9414_zlqrgj.jpg"
-    - "/v1616397833/1_gkqyss.jpg"
-    - "/v1616397833/5_rekodl.jpg"
-    - "/v1616397834/6_t3thho.jpg"
-    - "/v1616397833/655cbf58c1e332bd6bf2-2-2_vowl7n.jpg"
-    - "/v1616397833/0c2e6a1814a3e7fdbeb2-2-2_iv2ihv.jpg"
-    - "/v1616397834/228a51872f3cdc62852d-2-2_wkvkno.jpg"
-    is_home: false
 
 ---
