@@ -53,7 +53,7 @@ categories:
     images: []
     price: ''
     is_home: false
-  - name: Cổ điển Châu Âu - Tone Đỏ Nâu
+  - name: Glamour Vase - Cổ điển Châu Âu - Tone Đỏ Nâu
     description:
     - "- Kích thước: Ngang 26 x Cao 30 (cm) "
     - "- Chất liệu: Hoa chất liệu vải cao cấp, an toàn, mềm mại. Chân bình kiểu dáng
