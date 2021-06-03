@@ -48,6 +48,11 @@ categories:
   - '"Your home should tell the story of who you are, and be a collection of what
     you love" - Nate Berkus'
   items:
+  - name: ''
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Cổ điển Châu Âu - Tone Đỏ Nâu
     description:
     - "- Kích thước: Ngang 26 x Cao 30 (cm) "
@@ -92,15 +97,17 @@ categories:
     - "/v1616138519/MAP_7980_ubztmd.jpg"
     price: 1.200.000
     is_home: false
-  - name: Hoa phối tone nhiệt đới 1
+  - name: Cổ điển Châu Âu - Tone Nhiệt đới
     description:
-    - Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm tú
-      cầu đỏ, điểm thêm chút hoa vàng để có được một lọ hoa tone nhiệt đới ấm áp đấy.
-      Đây chắc chắn là Best choice trưng bày khu vực bếp hoặc phòng ngủ nhé.
-    - Kích thước bình Cao 40cm x Ngang 60cm
+    - "- Kích thước bình Cao 40cm x Ngang 60cm"
+    - "- Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm
+      tú cầu đỏ, điểm thêm chút hoa vàng để có được một lọ hoa tone nhiệt đới ấm áp
+      đấy. Đây chắc chắn là Best choice trưng bày khu vực bếp hoặc phòng ngủ nhé."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
     images:
-    - "/v1616139097/MAP_7960_efyjcv.jpg"
-    - "/v1616139097/MAP_7961_ciznqj.jpg"
+    - "/v1622710184/DSC00351-2_fkcywr.jpg"
+    - "/v1622710184/DSC00364-2_duwgb7.jpg"
+    - "/v1622710184/DSC00344-2_g2mtzz.jpg"
     price: 1.200.000
     is_home: false
 - name: Flower Basket
