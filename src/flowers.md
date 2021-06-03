@@ -236,7 +236,7 @@ categories:
     - "/v1616400897/9520034d2b93d8cd8182_n9nkqg.jpg"
     price: "150000"
     is_home: false
-- name: Wreath
+- name: WREATH
   description:
   - Những vòng hoa xinh xắn được thiết kế bởi La Chance Decor by FG.
   items:
@@ -254,7 +254,7 @@ categories:
     - "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
     price: ''
     is_home: false
-- name: Bloom Box
+- name: BLOOM BOX
   description: []
   items:
   - name: Rose Box
