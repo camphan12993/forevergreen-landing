@@ -30,7 +30,7 @@ categories:
     - "/v1622709001/DSC00108-2-2-2_v8ptny.jpg"
     - "/v1622709002/DSC00130-2-2-2_ucxgze.jpg"
     price: ''
-    is_home: false
+    is_home: true
   - name: 'Concept: "Spring is coming"'
     description:
     - 'Bộ gốm sứ được trang trí cùng Đào đông đỏ, Cẩm tú cầu đỏ và Cẩm chướng đỏ -
