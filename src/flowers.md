@@ -143,7 +143,7 @@ categories:
     - "/v1616138519/MAP_7980_ubztmd.jpg"
     price: 1.200.000
     is_home: false
-- name: Flower Basket
+- name: FLOWER BASKETS
   description:
   - Những lẳng hoa cao cấp phối màu đầy tinh tế sẽ là món quà khiến mọi cô gái hạnh
     phúc
