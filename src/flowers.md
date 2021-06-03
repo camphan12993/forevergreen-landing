@@ -48,24 +48,25 @@ categories:
   - '"Your home should tell the story of who you are, and be a collection of what
     you love" - Nate Berkus'
   items:
-  - name: Glowing Vase - Cổ điển Châu Âu - Tone Nhiệt đới
+  - name: Glamour Vase - Cổ điển Châu Âu - Tone Đỏ Nâu
     description:
-    - "- Chất liệu: Hoa chất liệu vải lụa cao cấp, an toàn, mềm mại. Bình màu trắng,
-      chất liệu men sứ cao cấp, có quai xách inox mạ vàng chắc chắn. "
-    - "- Kích thước: Ngang 40 x Cao 28 (cm) "
+    - "- Kích thước: Ngang 26 x Cao 30 (cm) "
+    - "- Chất liệu: Hoa chất liệu vải cao cấp, an toàn, mềm mại. Chân bình kiểu dáng
+      cổ điển, chất liệu nhôm cao cấp, phun màu đồng vintage. "
     - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    - "- Bình hoa là sự phối hợp giữa những bông hoa tone nhiệt đới rực rỡ. "
-    - "- Hướng dẫn sử dụng: Thích hợp để trang trí bàn ở phòng ăn, phòng khách, phòng
+    - "- Bình hoa là sự kết hợp giữa hoa hồng và hoa cẩm chướng vĩnh cửu phối cùng
+      các loại hoa lá khô, cành nho."
+    - "- Hướng dẫn sử dụng: Thích hợp để trang trí bàn ở phòng khách, phòng ăn, phòng
       ngủ, phòng làm việc. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành
       bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
-    - "/v1622710639/DSC00319-2_fzq6xr.jpg"
-    - "/v1622710639/DSC00312-2_br46ak.jpg"
-    - "/v1622710639/DSC00308-2_jg3jxx.jpg"
+    - "/v1622709845/DSC00261-2_h5desh.jpg"
+    - "/v1622709845/DSC00289-2_ro5kde.jpg"
+    - "/v1622709845/DSC00277-2_kfdmao.jpg"
     price: ''
-    is_home: false
+    is_home: true
   - name: Pink Vase - Cổ điển Châu Âu - Tone Hồng đỏ
     description:
     - "- Kích thước: Ngang 43 x Cao 32 (cm) "
@@ -86,25 +87,37 @@ categories:
     - "/v1622710471/DSC00396-2_wprsgx.jpg"
     price: ''
     is_home: false
-  - name: Glamour Vase - Cổ điển Châu Âu - Tone Đỏ Nâu
+  - name: Glowing Vase - Cổ điển Châu Âu - Tone Nhiệt đới
     description:
-    - "- Kích thước: Ngang 26 x Cao 30 (cm) "
-    - "- Chất liệu: Hoa chất liệu vải cao cấp, an toàn, mềm mại. Chân bình kiểu dáng
-      cổ điển, chất liệu nhôm cao cấp, phun màu đồng vintage. "
+    - "- Chất liệu: Hoa chất liệu vải lụa cao cấp, an toàn, mềm mại. Bình màu trắng,
+      chất liệu men sứ cao cấp, có quai xách inox mạ vàng chắc chắn. "
+    - "- Kích thước: Ngang 40 x Cao 28 (cm) "
     - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    - "- Bình hoa là sự kết hợp giữa hoa hồng và hoa cẩm chướng vĩnh cửu phối cùng
-      các loại hoa lá khô, cành nho."
-    - "- Hướng dẫn sử dụng: Thích hợp để trang trí bàn ở phòng khách, phòng ăn, phòng
+    - "- Bình hoa là sự phối hợp giữa những bông hoa tone nhiệt đới rực rỡ. "
+    - "- Hướng dẫn sử dụng: Thích hợp để trang trí bàn ở phòng ăn, phòng khách, phòng
       ngủ, phòng làm việc. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành
       bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
-    - "/v1622709845/DSC00261-2_h5desh.jpg"
-    - "/v1622709845/DSC00289-2_ro5kde.jpg"
-    - "/v1622709845/DSC00277-2_kfdmao.jpg"
+    - "/v1622710639/DSC00319-2_fzq6xr.jpg"
+    - "/v1622710639/DSC00312-2_br46ak.jpg"
+    - "/v1622710639/DSC00308-2_jg3jxx.jpg"
     price: ''
-    is_home: true
+    is_home: false
+  - name: Gorgeous  Vase - Cổ điển Châu Âu - Tone Nhiệt đới
+    description:
+    - "- Kích thước bình Cao 40cm x Ngang 60cm"
+    - "- Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm
+      tú cầu đỏ, điểm thêm chút hoa vàng để có được một lọ hoa tone nhiệt đới ấm áp
+      đấy. Đây chắc chắn là Best choice trưng bày khu vực bếp hoặc phòng ngủ nhé."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    images:
+    - "/v1622710184/DSC00351-2_fkcywr.jpg"
+    - "/v1622710184/DSC00364-2_duwgb7.jpg"
+    - "/v1622710184/DSC00344-2_g2mtzz.jpg"
+    price: 1.200.000
+    is_home: false
   - name: Hoa Huệ Tây Vàng
     description:
     - "\U0001F33F Còn được gọi là hoa Bách Hợp, Loa Kèn, Lily và ở Đà Lạt gọi là hoa
@@ -128,19 +141,6 @@ categories:
     images:
     - "/v1616138519/MAP_7983_sh7dqs.jpg"
     - "/v1616138519/MAP_7980_ubztmd.jpg"
-    price: 1.200.000
-    is_home: false
-  - name: Gorgeous  Vase - Cổ điển Châu Âu - Tone Nhiệt đới
-    description:
-    - "- Kích thước bình Cao 40cm x Ngang 60cm"
-    - "- Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm
-      tú cầu đỏ, điểm thêm chút hoa vàng để có được một lọ hoa tone nhiệt đới ấm áp
-      đấy. Đây chắc chắn là Best choice trưng bày khu vực bếp hoặc phòng ngủ nhé."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    images:
-    - "/v1622710184/DSC00351-2_fkcywr.jpg"
-    - "/v1622710184/DSC00364-2_duwgb7.jpg"
-    - "/v1622710184/DSC00344-2_g2mtzz.jpg"
     price: 1.200.000
     is_home: false
 - name: Flower Basket
