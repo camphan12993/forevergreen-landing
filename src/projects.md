@@ -332,7 +332,7 @@ categories:
     - "/v1622708086/z2529659764161_25ef75601d46cd237fe5f03dec5e6e1c_fd4np6.jpg"
     - "/v1622708088/z2529659769684_90a888c9ab4c00b8c72cafbf88dbae78_hwzp9w.jpg"
     - "/v1622708088/z2529659779217_32e718cfc603fd51a4f591a708b2a0e7_orxamm.jpg"
-    is_home: false
+    is_home: true
   - name: MONARQUE HOTEL
     description:
     - 'chủ đầu tư: Ms.Phương'
@@ -346,7 +346,7 @@ categories:
     - "/v1615794609/MAP_0844_gvlais.jpg"
     - "/v1615794607/MAP_0843_vnwzcs.jpg"
     - "/v1615794605/MAP_0815_g42ygx.jpg"
-    is_home: true
+    is_home: false
   - name: SANNY APARTMENT
     description:
     - 'Địa chỉ: 192 Trần Hưng Đạo, An Hải Tây, Sơn Trà, Đà Nẵng'
