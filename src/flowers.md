@@ -43,11 +43,30 @@ categories:
     - "/v1622708535/DSC00042-2-2-2_spxpi3.jpg"
     price: ''
     is_home: false
-- name: Home Decoration
+- name: HOME DECORATION
   description:
   - '"Your home should tell the story of who you are, and be a collection of what
     you love" - Nate Berkus'
   items:
+  - name: Cổ điển Châu Âu - Tone Đỏ Nâu
+    description:
+    - "- Kích thước: Ngang 26 x Cao 30 (cm) "
+    - "- Chất liệu: Hoa chất liệu vải cao cấp, an toàn, mềm mại. Chân bình kiểu dáng
+      cổ điển, chất liệu nhôm cao cấp, phun màu đồng vintage. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    - "- Bình hoa là sự kết hợp giữa hoa hồng và hoa cẩm chướng vĩnh cửu phối cùng
+      các loại hoa lá khô, cành nho."
+    - "- Hướng dẫn sử dụng: Thích hợp để trang trí bàn ở phòng khách, phòng ăn, phòng
+      ngủ, phòng làm việc. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành
+      bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1622709845/DSC00261-2_h5desh.jpg"
+    - "/v1622709845/DSC00289-2_ro5kde.jpg"
+    - "/v1622709845/DSC00277-2_kfdmao.jpg"
+    price: ''
+    is_home: false
   - name: Hoa Huệ Tây Vàng
     description:
     - "\U0001F33F Còn được gọi là hoa Bách Hợp, Loa Kèn, Lily và ở Đà Lạt gọi là hoa
