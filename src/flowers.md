@@ -119,7 +119,7 @@ categories:
     - "/v1616135528/MAP_7949_akjzsd.jpg"
     - "/v1616135528/MAP_7950_htdqdf.jpg"
     price: ''
-    is_home: true
+    is_home: false
   - name: Thiết Mộc Lan Xanh Đại
     description:
     - Bình Hoa mộc lan được tạo hình uyển chuyển, gồm 4 bông lớn (ĐK 20cm) + 2 bông
