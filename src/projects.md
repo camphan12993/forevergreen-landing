@@ -322,7 +322,7 @@ categories:
     is_home: true
 - name: Hotel, Homestay, Apartment
   items:
-  - name: Mulberry Collection Silk Eco Hotel (Hoi An)
+  - name: MULBERRY COLLECTION SILK ECO HOTEL (Hoi An)
     description:
     - 'Địa chỉ: 30 Đào Duy Từ, Cẩm Phô, Hội An, Quảng Nam.  '
     - 'Hạng mục công trình: Tường cây nhiệt đới khu vực lễ tân.'
