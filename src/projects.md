@@ -33,6 +33,24 @@ categories:
     is_home: true
 - name: Bar, Nhà hàng, Cà phê
   items:
+  - name: PAVO CUISINE & MIXOLOGY (BAR)
+    description:
+    - 'Địa chỉ: 11 Trần Phú, Hải Châu, Đà Nẵng'
+    - 'Hạng mục công trình: Tường cây nhiệt đới & Hộp dây rũ'
+    images:
+    - "/v1622707427/2_x3pk17.jpg"
+    - "/v1622707427/1_kbgl2q.jpg"
+    - "/v1622707475/3_f8v0uj.jpg"
+    - "/v1622707427/7_uovaxg.jpg"
+    - "/v1622707427/4_wgnyiy.jpg"
+    - "/v1622707475/8_eo0uvf.jpg"
+    - "/v1622707475/9_nag6t3.jpg"
+    - "/v1622707475/10_dmenb4.jpg"
+    is_home: false
+  - name: THE VIEW QUY NHON
+    images: []
+    description: []
+    is_home: false
   - name: KHÓI GARDEN
     description:
     - 'Chủ đầu tư: Nguyễn Quang Linh'
