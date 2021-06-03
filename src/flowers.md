@@ -104,7 +104,7 @@ categories:
     - "/v1622709845/DSC00289-2_ro5kde.jpg"
     - "/v1622709845/DSC00277-2_kfdmao.jpg"
     price: ''
-    is_home: false
+    is_home: true
   - name: Hoa Huệ Tây Vàng
     description:
     - "\U0001F33F Còn được gọi là hoa Bách Hợp, Loa Kèn, Lily và ở Đà Lạt gọi là hoa
@@ -130,7 +130,7 @@ categories:
     - "/v1616138519/MAP_7980_ubztmd.jpg"
     price: 1.200.000
     is_home: false
-  - name: Glowing Vase - Cổ điển Châu Âu - Tone Nhiệt đới
+  - name: Gorgeous  Vase - Cổ điển Châu Âu - Tone Nhiệt đới
     description:
     - "- Kích thước bình Cao 40cm x Ngang 60cm"
     - "- Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm
