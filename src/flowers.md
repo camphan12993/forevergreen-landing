@@ -48,9 +48,24 @@ categories:
   - '"Your home should tell the story of who you are, and be a collection of what
     you love" - Nate Berkus'
   items:
-  - name: 'Cổ điển Châu Âu - '
-    description: []
-    images: []
+  - name: Pink Vase - Cổ điển Châu Âu - Tone Hồng đỏ
+    description:
+    - "- Kích thước: Ngang 43 x Cao 32 (cm) "
+    - "- Chất liệu: Hoa chất liệu vải lụa cao cấp, an toàn, mềm mại. Bình màu trắng,
+      chất liệu men sứ cao cấp, có đai xách chất liệu inox mạ vàng, chắc chắn. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    - "- Bình hoa là sự kết hợp hài hòa giữa những bông hoa tone màu hồng - đỏ tươi
+      tắn. "
+    - "- Hướng dẫn sử dụng: Thích hợp để trang trí bàn ở phòng khách, phòng ngủ, phòng
+      làm việc. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1622710471/DSC00379-2_udpzlz.jpg"
+    - "/v1622710471/DSC00377-2_gvhurq.jpg"
+    - "/v1622710471/DSC00370-2_xnwba1.jpg"
+    - "/v1622710471/DSC00396-2_wprsgx.jpg"
     price: ''
     is_home: false
   - name: Glamour Vase - Cổ điển Châu Âu - Tone Đỏ Nâu
