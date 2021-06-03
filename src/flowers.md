@@ -174,7 +174,7 @@ categories:
     - "/v1616140398/7B7744E8-0FDA-4E5A-BCB2-3F5A3229C5E9_haqqnz.jpg"
     price: ''
     is_home: false
-- name: La Chance Bouquet
+- name: LA CHANCE BOUQUETS
   description: []
   items:
   - name: Tiny Bouquet
