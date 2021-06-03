@@ -3,6 +3,23 @@ layout: gallery.liquid
 tags: flowers
 title: Flowers
 categories:
+- name: GỐM SỨ BÁT TRÀNG CAO CẤP
+  description:
+  - Tinh tế, sang trọng, nổi bật, thu hút - là tất cả những gì Florist FG muốn truyền
+    tải qua nghệ thuật sắp đặt bộ gốm sứ Bát Tràng.
+  items:
+  - name: 'Concept: "Spring is coming"'
+    description:
+    - 'Bộ gốm sứ được trang trí cùng Đào đông đỏ, Cẩm tú cầu đỏ và Cẩm chướng đỏ -
+      màu sắc rực rỡ nổi bất, phù hợp để trưng bày vào dịp Tết hoặc trang trí hỷ sự
+      Gia tiên. '
+    - 'Giá: Liên hệ FG'
+    images:
+    - "/v1622708535/DSC00043-2-2-2_zoaljo.jpg"
+    - "/v1622708535/DSC00055-2-2-2_emhjqi.jpg"
+    - "/v1622708535/DSC00042-2-2-2_spxpi3.jpg"
+    price: ''
+    is_home: false
 - name: Home Decoration
   description:
   - '"Your home should tell the story of who you are, and be a collection of what
