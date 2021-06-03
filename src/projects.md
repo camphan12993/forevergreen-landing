@@ -46,7 +46,7 @@ categories:
     - "/v1622707475/8_eo0uvf.jpg"
     - "/v1622707475/9_nag6t3.jpg"
     - "/v1622707475/10_dmenb4.jpg"
-    is_home: false
+    is_home: true
   - name: KHÓI GARDEN
     description:
     - 'Chủ đầu tư: Nguyễn Quang Linh'
@@ -79,7 +79,7 @@ categories:
     - "/v1615796385/_MAP3184_wkqdjo.jpg"
     - "/v1615796385/_MAP3218_orkkuz.jpg"
     - "/v1615796385/_MAP3282_tk1uj2.jpg"
-    is_home: true
+    is_home: false
   - name: NHÀ HÀNG CO BAO
     description:
     - 'Chủ đầu tư: Mr. Dinh'
