@@ -125,10 +125,10 @@ categories:
     - "/v1615795809/NDB_8569_ozdgb3.jpg"
     - "/v1615795809/NDB_8575_ijydls.jpg"
     is_home: false
-  - name: ISLAND COFFEE
+  - name: ISLAND COFFEE 2020
     description:
     - 'Chủ đầu tư: Ms. Diệp'
-    - 'Địa chỉ: Khu Đảo Nổi, Cẩm Lệ, Đà Nẵng'
+    - 'Địa chỉ: Khu Biệt Thự Đảo Nổi, Cẩm Lệ, Đà Nẵng'
     - 'Hạng mục công trình: Tiểu cảnh sen đá (DT 6 mét tới)'
     images:
     - "/v1616129508/MAP_1316_jkntm7.jpg"
@@ -137,6 +137,27 @@ categories:
     - "/v1616129596/dcc40c85521fa141f80e_basmks.jpg"
     - "/v1616129594/1b0ce62caab659e800a7_nqqcur.jpg"
     - "/v1616129508/MAP_0964_ovq5ip.jpg"
+    is_home: false
+  - name: ISLAND COFFEE 2021
+    description:
+    - 'Chủ đầu tư: Ms. Diệp
+
+'
+    - 'Địa chỉ: Khu Biệt Thự Đảo Nổi, Cẩm Lệ, Đà Nẵng'
+    - 'Hạng mục đầu tư: Tường Cây 3D nhiệt đới + Chậu hoa Thiên Điểu đại sảnh + Bồn
+      cây Thiên Điểu'
+    images:
+    - "/v1623138039/NDB_4722_gfq8fe.jpg"
+    - "/v1623138039/NDB_4734_w6t2dh.jpg"
+    - "/v1623138039/NDB_4737_rs2vai.jpg"
+    - "/v1623138039/NDB_4740_avqhgd.jpg"
+    - "/v1623138039/NDB_4733_xieahq.jpg"
+    - "/v1623138405/NDB_3933-2_di5hgf.jpg"
+    - "/v1623138405/NDB_3936-2_wmi3vg.jpg"
+    - "/v1623138731/NDB_3959_eai8ic.jpg"
+    - "/v1623138731/NDB_3960_ng9hby.jpg"
+    - "/v1623138730/NDB_3961_tqi1bg.jpg"
+    - "/v1623138730/NDB_3969_cioiie.jpg"
     is_home: false
   - name: YÊN GARDEN
     description:
