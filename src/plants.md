@@ -269,17 +269,37 @@ categories:
     price: "2300000"
     is_home: false
 - name: Cây Cau
-  description: []
+  description:
+  - "- Chiều cao cây: 1m5 và 2m (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, có thể uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
   - name: Cây Cau 1m5
     description: []
-    images: []
-    price: ''
+    images:
+    - "/v1623142279/1_gwzjmy.jpg"
+    - "/v1623142279/2_jsyvyk.jpg"
+    - "/v1623142278/z2523850751618_e23a0b14582e85397e8f53a4ce74c36d-2-2_unf2n0.jpg"
+    price: "1400000"
     is_home: false
   - name: Cây Cau 2m
     description: []
-    images: []
-    price: ''
+    images:
+    - "/v1623142279/2_jsyvyk.jpg"
+    - "/v1623142279/1_gwzjmy.jpg"
+    - "/v1623142278/z2523850751618_e23a0b14582e85397e8f53a4ce74c36d-2-2_unf2n0.jpg"
+    price: "1900000"
     is_home: false
 - name: Cây Vạn Tuế
   description: []
