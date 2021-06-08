@@ -3,16 +3,34 @@ layout: gallery.liquid
 title: Plants
 categories:
 - name: Cây bàng Singapore
-  description: []
+  description:
+  - "- Chiều cao cây: 50cm và 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa
+    cành."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân giả gỗ dễ uốn nắn, tạo
+    hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
   - name: Cây Bàn Singapore 50cm
     description: []
-    images: []
-    price: ''
+    images:
+    - "/v1623139576/89750485_141479724017502_4923922822222315520_n_sxwawx.jpg"
+    price: "320000"
     is_home: false
-  - description: []
-    images: []
-    price: ''
+  - description:
+    - "- Chiều cao cây: 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành."
+    images:
+    - "/v1623139818/z2524000261215_c08f908a141e2d792d07057f6a7f318c-2-2_ohrvot.jpg"
+    price: "1060000"
     is_home: false
     name: Cây bàng Singapore 1m2
 - name: Cây Trầu Bà Thanh Xuân
@@ -20,12 +38,23 @@ categories:
   items:
   - name: Cây Trầu Bà Thanh Xuân 2 nhánh cao 1m2
     description: []
-    images: []
+    images:
+    - "/v1623140178/z2523854144909_a1169b2e84f7aef83c86b9e4d5182aff-2-2_dypdea.jpg"
+    - "/v1623140178/z2523854156088_16d7865db4ef7f858dae792c573f658d-2-2_eg8nna.jpg"
+    - "/v1623140178/z2523854136214_5bb49bb5cee704d1ec618e71edc1b4c2-2-2_mcdee9.jpg"
+    - "/v1623140203/z2523854162431_3fbddc627835af448c9af59a75594a67-2-2_vplzxz.jpg"
+    - "/v1623140203/z2523854158078_9cd04ea5055e1edd784ffa757a8eff93-2-2_ig9kri.jpg"
     price: ''
-    is_home: false
+    is_home: true
   - name: Cây Trầu Bà Thanh Xuân 3 nhánh cao 1m3
     description: []
-    images: []
+    images:
+    - "/v1623140255/z2523854154253_7fa2650ba8b463183af822bec8e91ae2-2-2_myywaf.jpg"
+    - "/v1623140255/z2523854136214_5bb49bb5cee704d1ec618e71edc1b4c2-2-2_rpw1la.jpg"
+    - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
+    - "/v1623140203/z2523854158078_9cd04ea5055e1edd784ffa757a8eff93-2-2_ig9kri.jpg"
+    - "/v1623140255/z2523854150843_555f5fbdfd81847fe0f98aecbd4582a1-2-2_gwokkb.jpg"
+    - "/v1623140203/z2523854162431_3fbddc627835af448c9af59a75594a67-2-2_vplzxz.jpg"
     price: ''
     is_home: false
 - name: Cây Trầu Bà Lá Sẻ
