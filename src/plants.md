@@ -72,16 +72,38 @@ categories:
     price: ''
     is_home: false
 - name: Cây Trầu Bà Lá Sẻ
-  description: []
+  description:
+  - "- Chiều cao cây: 1m2 và 1m3 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé."
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
   - name: Cây Trầu Bà Lá Sẻ 80cm
     description: []
-    images: []
+    images:
+    - "/v1623140498/103963339_172996334199174_2339627329207139714_n_u0gtz5.jpg"
+    - "/v1623140567/z2523920082331_1b3c517b132349017fc59c641a1e918a-2-2_wci2z7.jpg"
+    - "/v1623140498/c_rgio68.jpg"
+    - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
     price: ''
     is_home: false
   - name: Cây Trầu Bà Lá Sẻ 1m9
     description: []
-    images: []
+    images:
+    - "/v1623140609/z2523920076175_0ad4e0a3e34bc7d7d8c9f06f7a719b4c-2-2_scskkk.jpg"
+    - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
+    - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
+    - "/v1623140498/c_rgio68.jpg"
     price: ''
     is_home: false
 - name: Cây Thiên Điểu
