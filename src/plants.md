@@ -161,7 +161,7 @@ categories:
     - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
     - "/v1623141354/e_jho0pp.jpg"
     - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
-    price: ''
+    price: "670000"
     is_home: false
     name: Cây Chuối Cảnh 80cm
   - name: Cây Chuối Cảnh 1m8
@@ -170,7 +170,7 @@ categories:
     - "/v1623141388/b_cn36uu.jpg"
     - "/v1623141388/z2523841987754_a440bd9d07c69e3c86bdc1226064958b-2-2_uhsf4v.jpg"
     - "/v1623141388/e_o0q3ya.jpg"
-    price: ''
+    price: "1450000"
     is_home: false
   - name: Cây Chuối Cảnh 2m1
     description: []
@@ -178,7 +178,7 @@ categories:
     - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
     - "/v1623141388/b_cn36uu.jpg"
     - "/v1623141421/142586618_839787953262200_2241815226302919240_o_dkbrpz.jpg"
-    price: ''
+    price: "1780000"
     is_home: false
 - name: Cây Lưỡi Hổ
   description:
