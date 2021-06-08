@@ -58,7 +58,7 @@ categories:
     - "/v1623140178/z2523854136214_5bb49bb5cee704d1ec618e71edc1b4c2-2-2_mcdee9.jpg"
     - "/v1623140203/z2523854162431_3fbddc627835af448c9af59a75594a67-2-2_vplzxz.jpg"
     - "/v1623140203/z2523854158078_9cd04ea5055e1edd784ffa757a8eff93-2-2_ig9kri.jpg"
-    price: ''
+    price: "1060000"
     is_home: true
   - name: Cây Trầu Bà Thanh Xuân 3 nhánh cao 1m3
     description: []
@@ -69,7 +69,7 @@ categories:
     - "/v1623140203/z2523854158078_9cd04ea5055e1edd784ffa757a8eff93-2-2_ig9kri.jpg"
     - "/v1623140255/z2523854150843_555f5fbdfd81847fe0f98aecbd4582a1-2-2_gwokkb.jpg"
     - "/v1623140203/z2523854162431_3fbddc627835af448c9af59a75594a67-2-2_vplzxz.jpg"
-    price: ''
+    price: "1300000"
     is_home: false
 - name: Cây Trầu Bà Lá Sẻ
   description:
@@ -95,7 +95,7 @@ categories:
     - "/v1623140567/z2523920082331_1b3c517b132349017fc59c641a1e918a-2-2_wci2z7.jpg"
     - "/v1623140498/c_rgio68.jpg"
     - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
-    price: ''
+    price: "715000"
     is_home: false
   - name: Cây Trầu Bà Lá Sẻ 1m9
     description: []
@@ -104,10 +104,24 @@ categories:
     - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
     - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
     - "/v1623140498/c_rgio68.jpg"
-    price: ''
+    price: "1570000"
     is_home: false
 - name: Cây Thiên Điểu
-  description: []
+  description:
+  - "- Chiều cao cây: 1m6, 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa chắc chắn,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
   - name: Cây Thiên Điểu 1m6
     description: []
@@ -115,14 +129,14 @@ categories:
     - "/v1623140794/z2523921820794_d58a09374927ed0ab986b4d1cb2605fe-2-2_bmppk9.jpg"
     - "/v1623140867/z2523921809224_5dd058d7152e22fa057ddc00cb61059a-2-2_qpwpvm.jpg"
     - "/v1623140804/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_ety8dr.jpg"
-    price: ''
+    price: "1150000"
     is_home: false
   - name: Cây Thiên Điểu 1m8
     description: []
     images:
     - "/v1623140849/z2523921804340_bd40b9e55a74b2d23ab35d3a854e3d75-2-2_dbafmz.jpg"
     - "/v1623140849/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_rib7jg.jpg"
-    price: ''
+    price: "1450000"
     is_home: false
 - name: Cây Chuối Cảnh
   description: []
