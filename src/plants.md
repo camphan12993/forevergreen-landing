@@ -139,21 +139,45 @@ categories:
     price: "1450000"
     is_home: false
 - name: Cây Chuối Cảnh
-  description: []
+  description:
+  - "- Chiều cao cây: 20cm, 1m8 và 2m1 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa sống động,
+    dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
   - description: []
-    images: []
+    images:
+    - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
+    - "/v1623141354/e_jho0pp.jpg"
+    - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
     price: ''
     is_home: false
     name: Cây Chuối Cảnh 80cm
   - name: Cây Chuối Cảnh 1m8
     description: []
-    images: []
+    images:
+    - "/v1623141388/b_cn36uu.jpg"
+    - "/v1623141388/z2523841987754_a440bd9d07c69e3c86bdc1226064958b-2-2_uhsf4v.jpg"
+    - "/v1623141388/e_o0q3ya.jpg"
     price: ''
     is_home: false
   - name: Cây Chuối Cảnh 2m1
     description: []
-    images: []
+    images:
+    - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
+    - "/v1623141388/b_cn36uu.jpg"
+    - "/v1623141421/142586618_839787953262200_2241815226302919240_o_dkbrpz.jpg"
     price: ''
     is_home: false
 - name: Cây Lưỡi Hổ
