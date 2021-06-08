@@ -111,12 +111,17 @@ categories:
   items:
   - name: Cây Thiên Điểu 1m6
     description: []
-    images: []
+    images:
+    - "/v1623140867/z2523921809224_5dd058d7152e22fa057ddc00cb61059a-2-2_qpwpvm.jpg"
+    - "/v1623140794/z2523921820794_d58a09374927ed0ab986b4d1cb2605fe-2-2_bmppk9.jpg"
+    - "/v1623140804/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_ety8dr.jpg"
     price: ''
     is_home: false
   - name: Cây Thiên Điểu 1m8
     description: []
-    images: []
+    images:
+    - "/v1623140849/z2523921804340_bd40b9e55a74b2d23ab35d3a854e3d75-2-2_dbafmz.jpg"
+    - "/v1623140849/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_rib7jg.jpg"
     price: ''
     is_home: false
 - name: Cây Chuối Cảnh
