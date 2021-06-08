@@ -229,7 +229,7 @@ categories:
     description: []
     images:
     - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
-    price: ''
+    price: "1450000"
     is_home: false
 - name: Cây Dứa Cảnh
   description: []
@@ -245,12 +245,28 @@ categories:
     price: ''
     is_home: false
 - name: Cây Dừa Cảnh
-  description: []
+  description:
+  - "- Chiều cao cây: 2m (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
   - name: Cây Dừa Cảnh 2m
     description: []
-    images: []
-    price: ''
+    images:
+    - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
+    - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
+    price: "2300000"
     is_home: false
 - name: Cây Cau
   description: []
