@@ -353,19 +353,6 @@ categories:
     description:
     - "- Chiều cao cây: 1m43 (Không hoa) và 1m54 (Có hoa) (Tính từ gốc lên đến ngọn
       cao nhất)."
-    - "- Chất liệu: Cây chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
-      sống động, dễ uốn nắn, tạo hình. "
-    - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-      sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-      cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-    - "- Giá chưa bao gồm chậu Composite."
-    - "- FREESHIP nội thành Đà Nẵng."
-    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-      gốc thêm cho sinh động nhé."
     images:
     - "/v1623229382/46058f1e3ffbcfa596ea_ewate3.jpg"
     - "/v1623229381/z2523846920335_cfee0f35ad9047434b5760275d4cbe23-2-2_xo5zim.jpg"
@@ -377,18 +364,6 @@ categories:
     description:
     - "- Chiều cao cây: 81cm và 1m53 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa
       cành)."
-    - "- Chất liệu: Cây chất liệu nhựa cao cấp, an toàn, sống động giống thật."
-    - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-      sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-      cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-    - "- Giá chưa bao gồm chậu Composite."
-    - "- FREESHIP nội thành Đà Nẵng."
-    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-      gốc thêm cho sinh động nhé."
     images:
     - "/v1623229584/7723c42574c0849eddd1_f1njdh.jpg"
     - "/v1623229381/z2523846926881_a500e172fd7bc081c7efbeca399ac89d-2-2_iqtkya.jpg"
