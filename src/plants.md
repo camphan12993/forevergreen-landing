@@ -205,9 +205,6 @@ categories:
     - "/v1623141693/z2523849011922_3265d77428499a8cb1455e72ab5dd3cf-2-2_zkjzsx.jpg"
     price: "1150000"
     is_home: false
-- name: Chậu Lan Ý
-  description: []
-  items: []
 - name: Cây Phát Tài Núi
   description:
   - "- Chiều cao cây: 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
