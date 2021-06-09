@@ -329,8 +329,24 @@ categories:
   description: []
   items:
   - name: Xương Rồng Tròn
-    description: []
-    images: []
+    description:
+    - "- Đường kính, gồm 4 size: 19cm, 29cm, 39cm và 60cm."
+    - "- Chất liệu: Cây chất liệu nhựa cao cấp, an toàn, sống động giống thật."
+    - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+      sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+      cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    - "- Giá chưa bao gồm chậu Composite."
+    - "- FREESHIP nội thành Đà Nẵng."
+    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+      gốc thêm cho sinh động nhé."
+    images:
+    - "/v1623229648/z2523846924393_452ba77c6dbb3d7ded147b65e95b817e-2-2_ahri5f.jpg"
+    - "/v1623229381/z2523846920335_cfee0f35ad9047434b5760275d4cbe23-2-2_xo5zim.jpg"
+    - "/v1623229382/z2523846929184_1edc5c1d67956a42f0ad6de80c5f7c1e-2-2_msbh3x.jpg"
     price: ''
     is_home: false
   - name: 'Cây Xương Rồng 2 nhánh '
