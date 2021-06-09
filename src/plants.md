@@ -395,12 +395,32 @@ categories:
     - "/v1623229381/z2523846920335_cfee0f35ad9047434b5760275d4cbe23-2-2_xo5zim.jpg"
     price: ''
     is_home: false
-- name: Cây Trúc
+- name: Cây Tre - Trúc
   description: []
-  items: []
-- name: Cây Tre
-  description: []
-  items: []
+  items:
+  - name: Tre cao dưới 2m5
+    description:
+    - "- Chiều cao cây: dưới 2m5, tùy nhu cầu khách (Tính từ gốc lên đến ngọn cao
+      nhất khi chưa tỏa cành)."
+    - "- Chất liệu: Thân cây thật 100% đã qua xử lý chống mối mọt, điểm lá tre - trúc
+      giả, chất liệu nhựa cao cấp, an toàn, sống động giống thật."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu)."
+    - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+      sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+      cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    - "- Giá chưa bao gồm chậu Composite."
+    - "- FREESHIP nội thành Đà Nẵng."
+    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+      gốc thêm cho sinh động nhé."
+    images:
+    - "/v1623230014/ca4f2458bacfe44457f611d398a4c178-2_vp6max.jpg"
+    - "/v1623230014/cay-tre-canh1-2_oeco75.jpg"
+    - "/v1623230013/7546b687a77d0fffb3f39b0d01113ef0-2_fufhny.jpg"
+    - "/v1623230013/2944782293_944373968-2_lnysex.jpg"
+    price: "180000"
+    is_home: false
 tags: ''
 
 ---
