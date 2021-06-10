@@ -55,7 +55,7 @@ callout:
     text: View More
   cover: "/v1615367933/Th%C3%B4_m%E1%BB%99c_N%E1%BB%99i_th%E1%BA%A5t_%E1%BA%A2nh_gh%C3%A9p_2_jsx77k.jpg"
   description:
-  - Cây xanh giả cao cấp trang trí nội thất
+  - 'Cây nội thất cao cấp '
 - name: Lookbook
   link:
     url: "/lookbook"
