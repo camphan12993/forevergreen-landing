@@ -2,6 +2,42 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Cẩm Thạch
+  description:
+  - "- Chiều cao cây:  1m4, 1m7 và 1m9 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Cẩm Thạch 1m4
+    description: []
+    images:
+    - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
+    price: "1150000"
+    is_home: false
+  - name: Cây Cẩm Thạch 1m7
+    description: []
+    images:
+    - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
+    price: "1630000"
+    is_home: false
+  - name: Cây Cẩm Thạch 1m9
+    description: []
+    images:
+    - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
+    price: "2080000"
+    is_home: false
 - name: Cây bàng Singapore
   description:
   - "- Chiều cao cây: 50cm, 90cm, 1m2 và 1m5 (Tính từ gốc lên đến ngọn cao nhất khi
@@ -141,6 +177,42 @@ categories:
     - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
     - "/v1623140498/c_rgio68.jpg"
     price: "1670000"
+    is_home: false
+- name: Cây Mộc Hương
+  description:
+  - "- Chiều cao cây: 1m5, 1m8 và 2m1 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Mộc Hương 1m5
+    images:
+    - "/v1623311544/z2523917779511_b75902bbbdec8c0bb13f8a42a982f1b4-2-2_eah1tc.jpg"
+    price: "1250000"
+    description: []
+    is_home: false
+  - name: Cây Mộc Hương 1m8
+    images:
+    - "/v1623311544/z2523917779511_b75902bbbdec8c0bb13f8a42a982f1b4-2-2_eah1tc.jpg"
+    price: "1550000"
+    description: []
+    is_home: false
+  - name: Cây Mộc Hương 2m1
+    images:
+    - "/v1623311544/z2523917779511_b75902bbbdec8c0bb13f8a42a982f1b4-2-2_eah1tc.jpg"
+    price: "2200000"
+    description: []
     is_home: false
 - name: Cây Thiên Điểu
   description:
@@ -313,6 +385,35 @@ categories:
     - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
     price: "1550000"
     is_home: false
+- name: Cây Cọ
+  description:
+  - "- Chiều cao cây: 1m5 và 2m (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Cọ 1m5
+    images:
+    - "/v1623310988/ec35ce78f6a206fc5fb3_w4inoi.jpg"
+    price: "1500000"
+    description: []
+    is_home: false
+  - name: Cây Cọ 2m
+    images:
+    - "/v1623310988/ec35ce78f6a206fc5fb3_w4inoi.jpg"
+    price: "2000000"
+    description: []
+    is_home: false
 - name: Cây Dứa Cảnh
   description:
   - "- Chiều cao cây: 60cm, 1m1 và 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa
@@ -431,6 +532,43 @@ categories:
     - "/v1623142278/z2523850751618_e23a0b14582e85397e8f53a4ce74c36d-2-2_unf2n0.jpg"
     price: "2000000"
     is_home: false
+- name: Cây Kim Tiền
+  description:
+  - "- Còn được gọi là: Cây Kim Phát Tài."
+  - "- Chiều cao cây: 60cm, 90cm và 1m1 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé."
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Kim Tiền 60cm
+    images:
+    - "/v1623311286/87691c2124fbd4a58dea_wwpgdq.jpg"
+    price: "700000"
+    description: []
+    is_home: false
+  - name: Cây Kim Tiền 90cm
+    images:
+    - "/v1623311286/87691c2124fbd4a58dea_wwpgdq.jpg"
+    price: "1050000"
+    description: []
+    is_home: false
+  - name: Cây Kim Tiền 1m1
+    images:
+    - "/v1623311286/87691c2124fbd4a58dea_wwpgdq.jpg"
+    price: "1250000"
+    description: []
+    is_home: false
 - name: Cây Vạn Tuế
   description:
   - 'Chiều cao cây: 1m1 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành).'
@@ -505,24 +643,26 @@ categories:
     price: 1160000 - 2400000
     is_home: false
 - name: Cây Tre - Trúc
-  description: []
+  description:
+  - "- Chất liệu: Thân cây thật 100% đã qua xử lý chống mối mọt, điểm lá tre - trúc
+    giả, chất liệu nhựa cao cấp, an toàn, sống động giống thật."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu)."
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
   - name: Tre cao dưới 2m5
     description:
     - "- Chiều cao cây: dưới 2m5, tùy nhu cầu khách (Tính từ gốc lên đến ngọn cao
       nhất khi chưa tỏa cành)."
-    - "- Chất liệu: Thân cây thật 100% đã qua xử lý chống mối mọt, điểm lá tre - trúc
-      giả, chất liệu nhựa cao cấp, an toàn, sống động giống thật."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu)."
-    - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-      sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-      cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-    - "- Giá chưa bao gồm chậu Composite."
-    - "- FREESHIP nội thành Đà Nẵng."
-    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-      gốc thêm cho sinh động nhé."
+    - 'Giá: tính trên 1 cây tre.'
+    - Mua SLL sẽ được chiết khấu.
     images:
     - "/v1623230014/ca4f2458bacfe44457f611d398a4c178-2_vp6max.jpg"
     - "/v1623230014/cay-tre-canh1-2_oeco75.jpg"
@@ -534,18 +674,8 @@ categories:
     description:
     - "- Chiều cao cây: từ 2m5 - 3m (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa
       cành)."
-    - "- Chất liệu: Thân cây thật 100% đã qua xử lý chống mối mọt, điểm lá tre - trúc
-      giả, chất liệu nhựa cao cấp, an toàn, sống động giống thật."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-      sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-      cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-    - "- Giá chưa bao gồm chậu Composite."
-    - "- FREESHIP nội thành Đà Nẵng."
-    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-      gốc thêm cho sinh động nhé."
+    - "- Giá: tính trên 1 cây tre."
+    - "- Mua SLL sẽ được chiết khấu."
     images:
     - "/v1623230014/cay-tre-canh1-2_oeco75.jpg"
     - "/v1623230013/7546b687a77d0fffb3f39b0d01113ef0-2_fufhny.jpg"
