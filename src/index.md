@@ -63,7 +63,6 @@ callout:
   cover: "/v1615271504/145746423_3496182167274520_5314553773798810619_n_rv9jer.jpg"
   description:
   - '"After women, flowers are the most divine creations"'
-  - Thương mời bạn chiêm ngưỡng những bộ sưu tập Hoa đầy tâm huyết của Forever Green
-    nhé!
+  - Cùng đến với những bộ sưu tập Hoa đầy tâm huyết của Forever Green nhé!
 
 ---
