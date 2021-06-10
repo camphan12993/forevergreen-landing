@@ -331,6 +331,18 @@ categories:
     is_home: true
 - name: Văn phòng, Spa
   items:
+  - name: Poona House Shop
+    description:
+    - 'Chủ đầu tư: Ms.Na.'
+    - 'Địa chỉ: Ngô Gia Tự, Hải Châu, Đà Nẵng.'
+    - 'Hạng mục đầu tư: Backdrop hoa hồng style Korean.'
+    images:
+    - "/v1623307263/184612946_322674699231336_3369177981807103681_n_jim28v.jpg"
+    - "/v1623307263/184808305_322674595898013_3363100976175694121_n_ktbmtf.jpg"
+    - "/v1623307263/184712184_322674632564676_471814415493334310_n_jwlvzm.jpg"
+    - "/v1623307282/185291481_322674645898008_4322075980304511252_n_pl1pt5.jpg"
+    - "/v1623307263/185020651_322674752564664_2545289715305865880_n_yofmjl.jpg"
+    is_home: false
   - name: J&T Express
     description:
     - 'Chủ đầu tư: Mr. Vũ'
