@@ -183,10 +183,10 @@ categories:
     - "/v1623140849/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_rib7jg.jpg"
     price: "1450000"
     is_home: false
-- name: Cây Chuối Cảnh
+- name: Cây Chuối Dẻ Quạt
   description:
-  - "- Chiều cao cây: 20cm, 1m8 và 2m1 (Tính từ gốc lên đến ngọn cao nhất khi chưa
-    tỏa cành."
+  - "- Chiều cao cây: 80cm, 1m2, 1m6, 1m8 và 2m1 (Tính từ gốc lên đến ngọn cao nhất
+    khi chưa tỏa cành."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa sống động,
     dễ uốn nắn, tạo hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
@@ -206,10 +206,29 @@ categories:
     - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
     - "/v1623141354/e_jho0pp.jpg"
     - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
-    price: "670000"
+    price: "770000"
     is_home: false
-    name: Cây Chuối Cảnh 80cm
-  - name: Cây Chuối Cảnh 1m8
+    name: Cây Chuối Dẻ Quạt 80cm
+  - name: Cây Chuối Dẻ Quạt 1m2
+    description: []
+    images:
+    - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
+    - "/v1623141388/z2523841987754_a440bd9d07c69e3c86bdc1226064958b-2-2_uhsf4v.jpg"
+    - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
+    - "/v1623141354/e_jho0pp.jpg"
+    - "/v1623141388/b_cn36uu.jpg"
+    price: "1050000"
+    is_home: false
+  - name: Cây Chuối Dẻ Quạt 1m6
+    description: []
+    images:
+    - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
+    - "/v1623141388/z2523841987754_a440bd9d07c69e3c86bdc1226064958b-2-2_uhsf4v.jpg"
+    - "/v1623141388/e_o0q3ya.jpg"
+    - "/v1623141388/b_cn36uu.jpg"
+    price: "1250000"
+    is_home: false
+  - name: Cây Chuối Dẻ Quạt 1m8
     description: []
     images:
     - "/v1623141388/b_cn36uu.jpg"
@@ -217,7 +236,7 @@ categories:
     - "/v1623141388/e_o0q3ya.jpg"
     price: "1450000"
     is_home: false
-  - name: Cây Chuối Cảnh 2m1
+  - name: Cây Chuối Dẻ Quạt 2m1
     description: []
     images:
     - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
@@ -227,7 +246,7 @@ categories:
     is_home: false
 - name: Cây Lưỡi Hổ
   description:
-  - "- Chiều cao cây: 80cm (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chiều cao cây: 80cm và 1m (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
     sống động, dễ uốn nắn, tạo hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
@@ -242,17 +261,26 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
-  - name: Cây Lưỡi hổ
+  - name: Cây Lưỡi Hổ 80cm
     description: []
     images:
     - "/v1623141693/m_cbefye.jpg"
     - "/v1623141693/z2523849014585_587a23f0f04e908360be50063d20acaa-2-2_qxtb8j.jpg"
     - "/v1623141693/z2523849011922_3265d77428499a8cb1455e72ab5dd3cf-2-2_zkjzsx.jpg"
-    price: "1150000"
+    price: "770000"
+    is_home: false
+  - name: Cây Lưỡi Hổ 1m
+    description: []
+    images:
+    - "/v1623141693/z2523849014585_587a23f0f04e908360be50063d20acaa-2-2_qxtb8j.jpg"
+    - "/v1623141693/z2523849011922_3265d77428499a8cb1455e72ab5dd3cf-2-2_zkjzsx.jpg"
+    - "/v1623141693/m_cbefye.jpg"
+    price: "990000"
     is_home: false
 - name: Cây Phát Tài Núi
   description:
-  - "- Chiều cao cây: 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chiều cao cây: 60cm, 1m1 và 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
     sống động, có thể uốn nắn, tạo hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
@@ -267,28 +295,64 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
+  - name: Cây Phát Tài Núi 60cm
+    description: []
+    images:
+    - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
+    price: "820000"
+    is_home: false
+  - name: Cây Phát Tài Núi 1m1
+    description: []
+    images:
+    - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
+    price: "1160000"
+    is_home: false
   - name: Cây Phát Tài Núi 1m4
     description: []
     images:
     - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
-    price: "1450000"
+    price: "1550000"
     is_home: false
 - name: Cây Dứa Cảnh
-  description: []
+  description:
+  - "- Chiều cao cây: 60cm, 1m1 và 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Chất liệu: Lá chất liệu su cao cấp, an toàn. Thân thép bọc nhựa cứng cáp, sống
+    động, có thể uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - " - Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
+  - name: Cây Dứa Cảnh 60cm
+    description: []
+    images:
+    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
+    price: "820000"
+    is_home: false
   - name: Cây Dứa Cảnh 1m1
     description: []
-    images: []
-    price: ''
+    images:
+    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
+    price: "1160000"
     is_home: false
   - name: Cây Dứa Cảnh 1m4
     description: []
-    images: []
-    price: ''
+    images:
+    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
+    price: "1550000"
     is_home: false
 - name: Cây Dừa Cảnh
   description:
-  - "- Chiều cao cây: 2m (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chiều cao cây: 1m1, 1m4, 1m6 và 2m (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
     sống động, dễ uốn nắn, tạo hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
@@ -303,12 +367,36 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
+  - name: Cây Dừa Cảnh 1m1
+    description: []
+    images:
+    - "/v1623310184/d%E1%BB%ABa1-2_zqotfo.jpg"
+    - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
+    - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
+    price: "770000"
+    is_home: false
+  - name: Cây Dừa Cảnh 1m4
+    description: []
+    images:
+    - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
+    - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
+    - "/v1623310184/d%E1%BB%ABa1-2_zqotfo.jpg"
+    price: "1040000"
+    is_home: false
+  - name: Cây Dừa Cảnh 1m6
+    description: []
+    images:
+    - "/v1623310184/d%E1%BB%ABa1-2_zqotfo.jpg"
+    - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
+    - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
+    price: "1250000"
+    is_home: false
   - name: Cây Dừa Cảnh 2m
     description: []
     images:
     - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
     - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
-    price: "2300000"
+    price: "2400000"
     is_home: false
 - name: Cây Cau
   description:
