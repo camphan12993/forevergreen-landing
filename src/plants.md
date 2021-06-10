@@ -311,9 +311,9 @@ categories:
   - name: Cây Chuối Dẻ Quạt 2m1
     description: []
     images:
+    - "/v1623141421/142586618_839787953262200_2241815226302919240_o_dkbrpz.jpg"
     - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
     - "/v1623141388/b_cn36uu.jpg"
-    - "/v1623141421/142586618_839787953262200_2241815226302919240_o_dkbrpz.jpg"
     price: "1780000"
     is_home: false
 - name: Cây Lưỡi Hổ
