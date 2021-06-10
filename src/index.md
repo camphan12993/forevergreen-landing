@@ -14,16 +14,20 @@ banner:
 about:
   title: About Us
   description:
-  - 'Forever Green (FG) chúng mình là những cô nàng - chàng trai có niềm đam mê bất
-    tận với Cỏ - Cây - Hoa - Lá và Phong cách thiết kế nhiệt đới. Thấu hiểu sâu sắc
-    những khó khăn, hạn chế khi chăm sóc mảng xanh tươi thật 100% của các căn hộ,
-    mô hình kinh doanh hiện đại nên chúng mình đã thành lập ra FG và làm việc mỗi
-    ngày với Sứ mệnh:'
-  - "- Mang giải pháp xanh nhân tạo tối ưu nhất đến với Khách hàng."
-  - "- Cung cấp Nguyên vật liệu chất lượng để thi công không gian xanh với giá thành
-    tốt nhất thị trường."
-  - "- Tư vấn, sáng tạo và thi công những sản phẩm Hoa phù hợp với Yêu cầu & Ngân
-    sách của Khách hàng."
+  - Forever Green (FG) được sáng lập ra bằng niềm đam mê bất tận với thiên nhiên,
+    mong muốn đem đến một không gian sống thư thái đến tất cả mọi người.
+  - Hoà mình vào thiên nhiên hùng vĩ giữa nhịp sống tất bật, hối hả như hiện nay có
+    còn là vấn đề đáng lo?
+  - 'Thấu hiểu sâu sắc những khó khăn, hạn chế khi chăm sóc mảng xanh tươi thật 100%
+    của Chủ Đầu Tư, nên FG đã ra đời với Sứ mệnh:'
+  - "- Chất lượng làm nên thương hiệu."
+  - "- Mang giải pháp xanh nhân tạo tối ưu nhất đến với CĐT bằng đội ngũ nhân viên
+    nhiệt huyết, tài năng."
+  - "- Thiết kế, sáng tạo bắt kịp xu hướng Thế Giới, cung cấp nhiều giải pháp phù
+    hợp với Yêu cầu, Không gian & Ngân sách của CĐT. Nói không với những mô hình thi
+    công thô sơ, kém thẩm mĩ."
+  - "- Chế độ hậu mãi tốt nhất và duy nhất trên thị trường: Bảo hành 6 tháng -> 1
+    năm, vệ sinh làm mới định kì bằng những máy móc hiện đại."
   cover: "/v1616133704/z2375671056287_0b92126df55e14b42b60169cb479af93_ktqxbb.jpg"
 solutions:
   title: Our Solutions
@@ -43,8 +47,8 @@ callout:
     text: View More
   cover: "/v1615177743/170827d19124627a3b35_de47o7.jpg"
   description:
-  - Nguyên vật liệu tại Forever Green được nhập khẩu 100%, là hàng cao cấp loại 1
-    nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
+  - 'Nguyên vật liệu: Forever Green luôn cập nhật các chất liệu mới nhất trên Thế
+    Giới, nhập khẩu những sản phẩm Cây – Hoa – Lá giống thật đến 99,9%.'
 - name: Plants
   link:
     url: "/plants"
