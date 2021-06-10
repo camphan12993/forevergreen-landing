@@ -4,8 +4,8 @@ title: Plants
 categories:
 - name: Cây bàng Singapore
   description:
-  - "- Chiều cao cây: 50cm và 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa
-    cành."
+  - "- Chiều cao cây: 50cm, 90cm, 1m2 và 1m5 (Tính từ gốc lên đến ngọn cao nhất khi
+    chưa tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân giả gỗ dễ uốn nắn, tạo
     hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
@@ -20,11 +20,19 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
-  - name: Cây Bàn Singapore 50cm
+  - name: Cây Bàng Singapore 50cm
     description: []
     images:
     - "/v1623139576/89750485_141479724017502_4923922822222315520_n_sxwawx.jpg"
-    price: "320000"
+    price: "420000"
+    is_home: false
+  - name: Cây bàng Singapore 90cm
+    description: []
+    images:
+    - "/v1623307981/o_dtjas7.jpg"
+    - "/v1623307982/8bcad16f9c3d6863312c_zitc6u.jpg"
+    - "/v1623307982/bc337af437a6c3f89ab7-2_desblg.jpg"
+    price: "1020000"
     is_home: false
   - description:
     - "- Chiều cao cây: 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành."
@@ -33,6 +41,15 @@ categories:
     price: "1060000"
     is_home: false
     name: Cây bàng Singapore 1m2
+  - name: Cây Bàng Singapore 1m5
+    description: []
+    images:
+    - "/v1623307981/o_dtjas7.jpg"
+    - "/v1623139818/z2524000261215_c08f908a141e2d792d07057f6a7f318c-2-2_ohrvot.jpg"
+    - "/v1623307982/8bcad16f9c3d6863312c_zitc6u.jpg"
+    - "/v1623308158/bc337af437a6c3f89ab7-2_c6xdrh.jpg"
+    price: "1330000"
+    is_home: false
 - name: Cây Trầu Bà Thanh Xuân
   description:
   - "- Chiều cao cây: 1m2 và 1m3 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
@@ -58,7 +75,7 @@ categories:
     - "/v1623140178/z2523854136214_5bb49bb5cee704d1ec618e71edc1b4c2-2-2_mcdee9.jpg"
     - "/v1623140203/z2523854162431_3fbddc627835af448c9af59a75594a67-2-2_vplzxz.jpg"
     - "/v1623140203/z2523854158078_9cd04ea5055e1edd784ffa757a8eff93-2-2_ig9kri.jpg"
-    price: "1060000"
+    price: "1160000"
     is_home: true
   - name: Cây Trầu Bà Thanh Xuân 3 nhánh cao 1m3
     description: []
@@ -69,11 +86,13 @@ categories:
     - "/v1623140203/z2523854158078_9cd04ea5055e1edd784ffa757a8eff93-2-2_ig9kri.jpg"
     - "/v1623140255/z2523854150843_555f5fbdfd81847fe0f98aecbd4582a1-2-2_gwokkb.jpg"
     - "/v1623140203/z2523854162431_3fbddc627835af448c9af59a75594a67-2-2_vplzxz.jpg"
-    price: "1300000"
+    price: "1400000"
     is_home: false
-- name: Cây Trầu Bà Lá Sẻ
+- name: Cây Trầu Bà Nam Mỹ
   description:
-  - "- Chiều cao cây: 1m2 và 1m3 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Còn có tên gọi khác là: Cây Trầu bà lá sẻ hay rẻ quạt"
+  - "- Chiều cao cây: 80cm, 1m1, 1m5 và 1m9 (Tính từ gốc lên đến ngọn cao nhất khi
+    chưa tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
     sống động, dễ uốn nắn, tạo hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
@@ -88,27 +107,45 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
-  - name: Cây Trầu Bà Lá Sẻ 80cm
+  - name: Cây Trầu Bà Nam Mỹ 80cm
     description: []
     images:
     - "/v1623140498/103963339_172996334199174_2339627329207139714_n_u0gtz5.jpg"
     - "/v1623140567/z2523920082331_1b3c517b132349017fc59c641a1e918a-2-2_wci2z7.jpg"
     - "/v1623140498/c_rgio68.jpg"
     - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
-    price: "715000"
+    price: "815000"
     is_home: false
-  - name: Cây Trầu Bà Lá Sẻ 1m9
+  - name: Cây Trầu Bà Nam Mỹ 1m1
+    description: []
+    images:
+    - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
+    - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
+    - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
+    - "/v1623140609/z2523920076175_0ad4e0a3e34bc7d7d8c9f06f7a719b4c-2-2_scskkk.jpg"
+    price: "997000"
+    is_home: false
+  - name: Cây Trầu Bà Nam Mỹ 1m5
+    description: []
+    images:
+    - "/v1623140498/c_rgio68.jpg"
+    - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
+    - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
+    price: "1040000"
+    is_home: false
+  - name: Cây Trầu Bà Nam Mỹ 1m9
     description: []
     images:
     - "/v1623140609/z2523920076175_0ad4e0a3e34bc7d7d8c9f06f7a719b4c-2-2_scskkk.jpg"
     - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
     - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
     - "/v1623140498/c_rgio68.jpg"
-    price: "1570000"
+    price: "1670000"
     is_home: false
 - name: Cây Thiên Điểu
   description:
-  - "- Chiều cao cây: 1m6, 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chiều cao cây: 1m4, 1m6 và 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa chắc chắn,
     sống động, dễ uốn nắn, tạo hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
@@ -123,6 +160,14 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
+  - name: Cây Thiên Điểu 1m4
+    description: []
+    images:
+    - "/v1623308560/z2523921797693_8df0da3d1e223a81669957ffae2d84e3-2-2_vzzlex.jpg"
+    - "/v1623140804/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_ety8dr.jpg"
+    - "/v1623140794/z2523921820794_d58a09374927ed0ab986b4d1cb2605fe-2-2_bmppk9.jpg"
+    price: "1100000"
+    is_home: false
   - name: Cây Thiên Điểu 1m6
     description: []
     images:
