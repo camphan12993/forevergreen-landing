@@ -159,7 +159,7 @@ categories:
     - "/v1623138730/NDB_3961_tqi1bg.jpg"
     - "/v1623138730/NDB_3969_cioiie.jpg"
     is_home: false
-  - name: YÊN GARDEN
+  - name: YÊN GARDEN COFFEE
     description:
     - 'Chủ đầu tư: Ms. Linh'
     - 'Địa chỉ: 150 Lê Lợi, Hải Châu, Đà Nẵng'
@@ -331,7 +331,7 @@ categories:
     is_home: true
 - name: Văn phòng, Spa
   items:
-  - name: Poona House Shop
+  - name: POONA HOUSE (SHOP)
     description:
     - 'Chủ đầu tư: Ms.Na.'
     - 'Địa chỉ: Ngô Gia Tự, Hải Châu, Đà Nẵng.'
