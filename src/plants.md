@@ -421,7 +421,7 @@ categories:
     - "/v1623142279/1_gwzjmy.jpg"
     - "/v1623142279/2_jsyvyk.jpg"
     - "/v1623142278/z2523850751618_e23a0b14582e85397e8f53a4ce74c36d-2-2_unf2n0.jpg"
-    price: "1400000"
+    price: "1500000"
     is_home: false
   - name: Cây Cau 2m
     description: []
@@ -429,7 +429,7 @@ categories:
     - "/v1623142279/2_jsyvyk.jpg"
     - "/v1623142279/1_gwzjmy.jpg"
     - "/v1623142278/z2523850751618_e23a0b14582e85397e8f53a4ce74c36d-2-2_unf2n0.jpg"
-    price: "1900000"
+    price: "2000000"
     is_home: false
 - name: Cây Vạn Tuế
   description:
@@ -451,7 +451,7 @@ categories:
   - images:
     - "/v1623142374/8472764d4e97bec9e786_gsatqo.jpg"
     - "/v1623142375/ac8ac0bdf86708395176_nig1ck.jpg"
-    price: "1300000"
+    price: "1400000"
     name: Cây Vạn Tuế
     description: []
     is_home: false
@@ -472,12 +472,16 @@ categories:
   items:
   - name: Xương Rồng Tròn
     description:
-    - "- Đường kính, gồm 4 size: 19cm, 29cm, 39cm và 60cm."
+    - 'Đường kính, gồm 4 size:'
+    - "- Size 19cm: Giá 1.300.000đ"
+    - "- Size 29cm: Giá 1.500.000đ"
+    - "- Size 39cm: Giá 1.900.000đ"
+    - "- Size 60cm: Giá 4.500.000đ"
     images:
     - "/v1623229648/z2523846924393_452ba77c6dbb3d7ded147b65e95b817e-2-2_ahri5f.jpg"
     - "/v1623229381/z2523846920335_cfee0f35ad9047434b5760275d4cbe23-2-2_xo5zim.jpg"
     - "/v1623229382/z2523846929184_1edc5c1d67956a42f0ad6de80c5f7c1e-2-2_msbh3x.jpg"
-    price: ''
+    price: 1300000 - 4500000
     is_home: false
   - name: 'Cây Xương Rồng 2 nhánh '
     description:
@@ -498,7 +502,7 @@ categories:
     - "/v1623229584/7723c42574c0849eddd1_f1njdh.jpg"
     - "/v1623229381/z2523846926881_a500e172fd7bc081c7efbeca399ac89d-2-2_iqtkya.jpg"
     - "/v1623229381/z2523846920335_cfee0f35ad9047434b5760275d4cbe23-2-2_xo5zim.jpg"
-    price: ''
+    price: 1160000 - 2400000
     is_home: false
 - name: Cây Tre - Trúc
   description: []
