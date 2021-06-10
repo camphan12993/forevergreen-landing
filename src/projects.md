@@ -4,10 +4,10 @@ title: Projects
 tags: projects
 cover: "/v1615364853/Brown_Clean_Grid_Fashion_Moodboard_Photo_Collage_exrnna.png"
 description:
-- Với chất liệu Cỏ - Cây - Hoa - Lá giả cao cấp ngoại nhập 100% kết hợp đội ngũ Florist
-  chuyên nghiệp cùng trang thiết bị hiện đại nhất, Forever Green luôn sáng tạo, thiết
-  kế và thi công ra những sản phẩm tinh tế, phù hợp với không gian nội thất và ngân
-  sách của Đối tác & Khách hàng.
+- Với chất liệu Cỏ - Cây - Hoa - Lá nhân tạo cao cấp nhập khẩu 100%, kết hợp đội ngũ
+  Florist chuyên nghiệp cùng trang thiết bị hiện đại nhất, Forever Green luôn cung
+  cấp giải pháp và thi công ra những sản phẩm đón đầu xu hướng trong nước, phù hợp
+  với từng không gian & ngân sách của CĐT mong muốn.
 categories:
 - name: DANANG INTERNATIONAL AIRPORT (DIA)
   items:
