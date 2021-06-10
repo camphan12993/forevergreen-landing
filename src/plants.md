@@ -38,7 +38,7 @@ categories:
     - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
     price: "2080000"
     is_home: false
-- name: Cây bàng Singapore
+- name: Cây Bàng Singapore
   description:
   - "- Chiều cao cây: 50cm, 90cm, 1m2 và 1m5 (Tính từ gốc lên đến ngọn cao nhất khi
     chưa tỏa cành)."
@@ -60,12 +60,15 @@ categories:
     description: []
     images:
     - "/v1623139576/89750485_141479724017502_4923922822222315520_n_sxwawx.jpg"
+    - "/v1623315166/bc337af437a6c3f89ab7-2_pv4ucb.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
     price: "420000"
     is_home: false
   - name: Cây bàng Singapore 90cm
     description: []
     images:
     - "/v1623307981/o_dtjas7.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
     - "/v1623307982/8bcad16f9c3d6863312c_zitc6u.jpg"
     - "/v1623307982/bc337af437a6c3f89ab7-2_desblg.jpg"
     price: "1020000"
@@ -74,15 +77,17 @@ categories:
     - "- Chiều cao cây: 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành."
     images:
     - "/v1623139818/z2524000261215_c08f908a141e2d792d07057f6a7f318c-2-2_ohrvot.jpg"
+    - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
     price: "1060000"
     is_home: false
     name: Cây bàng Singapore 1m2
   - name: Cây Bàng Singapore 1m5
     description: []
     images:
-    - "/v1623307981/o_dtjas7.jpg"
-    - "/v1623139818/z2524000261215_c08f908a141e2d792d07057f6a7f318c-2-2_ohrvot.jpg"
-    - "/v1623307982/8bcad16f9c3d6863312c_zitc6u.jpg"
+    - "/v1623315168/cc63_3f6dfb2c8eaf4e618f3858ba3d000c8c-2_gyx1gp.jpg"
+    - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
     - "/v1623308158/bc337af437a6c3f89ab7-2_c6xdrh.jpg"
     price: "1330000"
     is_home: false
