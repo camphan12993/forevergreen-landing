@@ -1,10 +1,12 @@
 ---
 layout: home.liquid
 banner:
-  title: FG - Chuyên gia không gian xanh
+  title: FG _ XANH ĐẲNG CẤP - SỐNG BẤT TẬN
   description:
-  - Chào mừng bạn đến với FOREVER GREEN,
-  - Cùng khám phá Không Gian Xanh của chúng mình nhé!
+  - 'Chào mừng Quý Đối Tác và Quý Khách Hàng đến với FOREVER GREEN,
+
+'
+  - Hãy khám phá KHÔNG GIAN XANH đẳng cấp cùng FG nhé!
   images:
   - "/v1615447859/NDB_0087_xyiygu.jpg"
   - "/v1615782680/MAP_0992_o2tzgf.jpg"
