@@ -32,14 +32,22 @@ categories:
     price: "120000"
     is_home: false
   - name: Thảm cỏ xanh
-    description: []
-    images: []
-    price: ''
+    description:
+    - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
+    images:
+    - "/v1623742190/7_elwjsb.jpg"
+    - "/v1623742190/9_kuxgon.jpg"
+    price: "275000"
     is_home: false
   - name: Thảm Rêu Loang (Đỏ)
-    description: []
-    images: []
-    price: ''
+    description:
+    - 'Kích thước: 100 x 100 cm.'
+    - Thảm cỏ mượt, có loang vệt đỏ đất tự nhiên tạo cảm giác chân thực.
+    - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
+    images:
+    - "/v1623742852/cf60988826d38a33920cd2eb418c5ce9-2_r5cthh.jpg"
+    - "/v1623138039/NDB_4733_xieahq.jpg"
+    price: "290000"
     is_home: false
   - name: Thảm Rêu Gỗ (Vĩ Gỗ)
     description: []
