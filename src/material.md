@@ -271,7 +271,7 @@ categories:
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
     - "/v1623744164/z2431925018630_354ce155b747c41baaebace71b245367_gdjcmx.jpg"
-    price: ''
+    price: "147000"
     is_home: false
   - name: Bụi Dương Xỉ Dài
     description: []
