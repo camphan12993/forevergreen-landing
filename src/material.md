@@ -9,17 +9,25 @@ categories:
   items:
   - name: 'Thảm cỏ Milan '
     description:
-    - Chất liệu nhựa cao cấp an toàn.
+    - 'Còn được gọi là: Tấm cỏ cải xoong.'
     - Mỗi tấm có kích thước 40 x 60 cm.
-    images: []
-    price: ''
+    - Chất liệu nhựa cao cấp an toàn. Đã xử lý rửa L.O.C và phơi khô khi nhập về kho.
+    - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)'
+    images:
+    - "/v1623741478/85c87f2489577d092446-2-2_jmnob9.jpg"
+    - "/v1623741495/26b015a7e152120c4b43_hdste8.jpg"
+    price: "90000"
     is_home: false
   - name: Thảm cỏ Vẩy ốc (Cỏ bạch đàn)
     description:
-    - Chất liệu nhựa cao cấp an toàn.
+    - 'Còn được gọi là: Thảm cỏ tai chuột.'
     - Mỗi tấm có kích thước là 40 x 60 cm.
-    images: []
-    price: ''
+    - Chất liệu nhựa cao cấp an toàn. Đã qua xử lý L.O.C khi nhập hàng về kho.
+    - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
+    images:
+    - "/v1623739601/Th%E1%BA%A3m_c%E1%BB%8F_tai_chu%E1%BB%99t_yedldo.jpg"
+    - "/v1623740085/34268603_254404801800521_8825503613926244352_n_ebhz9b.jpg"
+    price: "120000"
     is_home: false
   - name: Thảm cỏ xanh
     description: []
@@ -104,6 +112,91 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cụm Lá Trầu Bà Sẻ Quạt Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lá Chân Vịt Sao Su Đơn Lớn
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lá Chân Vịt Sao Su Đơn Nhỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cụm Lá Lúa
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: 'Cành Lá Chuối Su Đơn To '
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cụm Lá Lan To Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cụm Lá Lan Dài Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lá Tràm
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cánh Lá Bạnh Đàn
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cụm Rong Thông
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cây Chân Vịt 12 Lá
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Bụi Dứa Ba Đầu
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cành Lá Cọ Trung
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lá Monstera Lớn Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lá Monstera Trung Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Lá Monstera Nhỏ Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: Cụm Lá Môn Chất Su
+    description: []
+    images: []
+    price: ''
+    is_home: false
   - name: Lá Hông Môn Xanh Bê
     description: []
     images: []
@@ -347,11 +440,6 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
-  - name: 'Cành Hoa Hồng Đen '
-    description: []
-    images: []
-    price: ''
-    is_home: false
   - name: Cành Nụ Tầm Xuân Đỏ
     description: []
     images: []
@@ -378,6 +466,11 @@ categories:
     price: ''
     is_home: false
   - name: Hoa Cẩm Tú Cầu Đỏ
+    description: []
+    images: []
+    price: ''
+    is_home: false
+  - name: 'Cành Hoa Hồng Đen '
     description: []
     images: []
     price: ''
