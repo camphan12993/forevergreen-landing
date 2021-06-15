@@ -48,7 +48,7 @@ categories:
     - "/v1623742852/cf60988826d38a33920cd2eb418c5ce9-2_r5cthh.jpg"
     - "/v1623138039/NDB_4733_xieahq.jpg"
     price: "290000"
-    is_home: false
+    is_home: true
   - name: Thảm Rêu Gỗ (Vĩ Gỗ)
     description:
     - 'Kích thước: 50 x 100 cm /tấm.'
