@@ -5,7 +5,7 @@ categories:
 - name: 'Cây Ngâu '
   description:
   - "- Còn được gọi là Cây tán tròn."
-  - "- Chiều cao cây: 80cm và 1m và 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+  - "- Chiều cao cây: 80cm, 1m và 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa
     tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
     sống động, dễ uốn nắn, tạo hình. "
