@@ -500,13 +500,22 @@ categories:
     is_home: false
   - name: Cành Ngâu
     description:
-    - 'Chất liệu: lá bằng nhựa dẻo PVC, thân bằng nhựa bọc lõi thép.'
-    - Mỗi cành ngâu gồm có 7 nhánh nhỏ, chiều dài cả cành là 30cm.
-    - Màu thật của sản phẩm có thể hơi khác so với hình ảnh hiển thị trên trang web
-      do nhiều yếu tố như độ sáng màn hình và độ sáng của đèn. Cho phép độ lệch kích
-      thước (± 2cm) nếu đo bằng tay.
+    - "- Kích thước: Cao 30 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - 'Màu sắc, gồm 3 màu: Xanh; Xanh vàng và Xanh đỏ tía'
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Cành gồm 6 nhánh lá, mỗi nhánh dài dao động từ 10 - 20 cm."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
     images:
     - "/v1618370194/z2431924903548_966cf75b235c6455bd11b9c4ae9c8961_qwthfi.jpg"
+    - "/v1623745390/c%C3%A0nh_ng%C3%A2u_-_xanh_t%C3%ADa_vedf1x.jpg"
+    - "/v1623745390/c%C3%A0nh_ng%C3%A2u_%C4%91i%E1%BB%83m_v%C3%A0ng_o68sb9.jpg"
     price: "42000"
     is_home: true
   - name: Cành Cúc Mốc Nhựa
