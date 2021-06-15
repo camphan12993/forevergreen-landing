@@ -274,9 +274,23 @@ categories:
     price: "147000"
     is_home: false
   - name: Bụi Dương Xỉ Dài
-    description: []
-    images: []
-    price: ''
+    description:
+    - "- Còn được gọi là: Dương Xỉ To."
+    - "- Kích thước: Cao 60 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu su cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
+      tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Cành gồm 7 cành lớn, mỗi cành gồm 3 nhánh, mỗi nhánh dài dao động từ 40 -
+      50 cm."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1623744284/d%C6%B0%C6%A1ng_x%E1%BB%89_d%C3%A0i_ekaquq.jpg"
+    price: "113000"
     is_home: false
   - name: Dương Xỉ Chân Thỏ
     description:
