@@ -14,7 +14,8 @@ categories:
     - Chất liệu nhựa cao cấp an toàn. Đã xử lý rửa L.O.C và phơi khô khi nhập về kho.
     - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)'
     images:
-    - "/v1623741478/85c87f2489577d092446-2-2_jmnob9.jpg"
+    - "/v1623741972/z2553814445976_c4728f6196d258a75d3a741a6924cb7a_kq9dnn.jpg"
+    - "/v1623741972/z2553814624384_d1e4f5072e13e212c5d58f7e2aec668e_qihz5u.jpg"
     - "/v1623741495/26b015a7e152120c4b43_hdste8.jpg"
     price: "90000"
     is_home: false
