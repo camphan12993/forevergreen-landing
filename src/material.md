@@ -50,9 +50,14 @@ categories:
     price: "290000"
     is_home: false
   - name: Thảm Rêu Gỗ (Vĩ Gỗ)
-    description: []
-    images: []
-    price: ''
+    description:
+    - 'Kích thước: 50 x 100 cm /tấm.'
+    - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
+    images:
+    - "/v1615446727/NDB_9414_zlqrgj.jpg"
+    - "/v1615446730/NDB_9421_cp1qxo.jpg"
+    - "/v1615784008/MAP_8040-2_a7knbd.jpg"
+    price: "330000"
     is_home: false
 - name: Sen Đá
   description: []
