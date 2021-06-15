@@ -26,7 +26,8 @@ categories:
     - Chất liệu nhựa cao cấp an toàn. Đã qua xử lý L.O.C khi nhập hàng về kho.
     - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
     images:
-    - "/v1623739601/Th%E1%BA%A3m_c%E1%BB%8F_tai_chu%E1%BB%99t_yedldo.jpg"
+    - "/v1623741995/z2553814757292_2c26e7bf76ace11e59460dafc857047c_fwjt7i.jpg"
+    - "/v1623741995/z2553814890521_9d5ee54bbcd3071e700fb017e45d9ed0_jcvzsc.jpg"
     - "/v1623740085/34268603_254404801800521_8825503613926244352_n_ebhz9b.jpg"
     price: "120000"
     is_home: false
