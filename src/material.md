@@ -12,7 +12,7 @@ categories:
     - 'Còn được gọi là: Tấm cỏ cải xoong.'
     - Mỗi tấm có kích thước 40 x 60 cm.
     - Chất liệu nhựa cao cấp an toàn. Đã xử lý rửa L.O.C và phơi khô khi nhập về kho.
-    - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)'
+    - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
     images:
     - "/v1623741972/z2553814445976_c4728f6196d258a75d3a741a6924cb7a_kq9dnn.jpg"
     - "/v1623741972/z2553814624384_d1e4f5072e13e212c5d58f7e2aec668e_qihz5u.jpg"
@@ -23,7 +23,7 @@ categories:
     description:
     - 'Còn được gọi là: Thảm cỏ tai chuột.'
     - Mỗi tấm có kích thước là 40 x 60 cm.
-    - Chất liệu nhựa cao cấp an toàn. Đã qua xử lý L.O.C khi nhập hàng về kho.
+    - Chất liệu nhựa cao cấp an toàn. Đã xử lý rửa L.O.C và phơi khô khi nhập về kho.
     - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
     images:
     - "/v1623741995/z2553814757292_2c26e7bf76ace11e59460dafc857047c_fwjt7i.jpg"
@@ -41,7 +41,7 @@ categories:
     is_home: false
   - name: Thảm Rêu Loang (Đỏ)
     description:
-    - 'Kích thước: 100 x 100 cm.'
+    - 'Kích thước: 100 x 100 cm /tấm.'
     - Thảm cỏ mượt, có loang vệt đỏ đất tự nhiên tạo cảm giác chân thực.
     - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
     images:
