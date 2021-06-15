@@ -34,6 +34,8 @@ categories:
   - name: Thảm cỏ xanh
     description:
     - 'Xuất xứ: Trung Quốc (đạt tiêu chuẩn xuất khẩu EU).'
+    - Thảm cỏ kết hợp rêu nâu đất hài hòa, tự nhiên. Phù hợp để trải sàn, tạo dựng
+      tiểu cảnh.
     images:
     - "/v1623742190/7_elwjsb.jpg"
     - "/v1623742190/9_kuxgon.jpg"
