@@ -2,46 +2,6 @@
 layout: gallery.liquid
 title: Plants
 categories:
-- name: 'Dứa Nam Phi '
-  description:
-  - "- Kích thước: Cao 45 và 60 (cm) tính từ gốc đến đỉnh cành cao nhất."
-  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
-    tạo hình. "
-  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
-  - "- Mỗi lá dài tầm 20 - 30cm."
-  - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-    khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
-    nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có thể
-    inbox cho shop để nhận video hướng dẫn chi tiết nhé."
-  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
-    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-  items:
-  - name: Dứa Nam Phi Nhỏ - Cao 45cm
-    description:
-    - "- Giá chưa bao gồm chậu Composite."
-    - "- FREESHIP nội thành Đà Nẵng."
-    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-      gốc thêm cho sinh động nhé."
-    images:
-    - "/v1623827930/d%E1%BB%A9a_nam_phi_nh%E1%BB%8F_jsmiai.jpg"
-    - "/v1623829046/9cd0f2df9baf6ff136be_xs72ll.jpg"
-    - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
-    - "/v1623829046/d2eb112079508d0ed441_o2lmro.jpg"
-    price: "440000"
-    is_home: false
-  - name: Dứa Nam Phi To - Cao 60cm
-    description:
-    - "- Giá chưa bao gồm chậu Composite."
-    - "- FREESHIP nội thành Đà Nẵng."
-    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-      gốc thêm cho sinh động nhé."
-    images:
-    - "/v1623827930/D%E1%BB%A9a_Nam_Phi_To_lfgpui.jpg"
-    - "/v1623829046/9cd0f2df9baf6ff136be_xs72ll.jpg"
-    - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
-    - "/v1623829046/d2eb112079508d0ed441_o2lmro.jpg"
-    price: "780000"
-    is_home: false
 - name: 'Cây Ngâu '
   description:
   - "- Còn được gọi là Cây tán tròn."
@@ -544,42 +504,6 @@ categories:
     price: "2000000"
     description: []
     is_home: false
-- name: Cây Dứa Cảnh
-  description:
-  - "- Chiều cao cây: 60cm, 1m1 và 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa
-    tỏa cành)."
-  - "- Chất liệu: Lá chất liệu su cao cấp, an toàn. Thân thép bọc nhựa cứng cáp, sống
-    động, có thể uốn nắn, tạo hình. "
-  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
-  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-  - " - Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
-    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-  - "- Giá chưa bao gồm chậu Composite."
-  - "- FREESHIP nội thành Đà Nẵng."
-  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-    gốc thêm cho sinh động nhé."
-  items:
-  - name: Cây Dứa Cảnh 60cm
-    description: []
-    images:
-    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
-    price: "820000"
-    is_home: false
-  - name: Cây Dứa Cảnh 1m1
-    description: []
-    images:
-    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
-    price: "1160000"
-    is_home: false
-  - name: Cây Dứa Cảnh 1m4
-    description: []
-    images:
-    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
-    price: "1550000"
-    is_home: false
 - name: Cây Dừa Cảnh
   description:
   - "- Chiều cao cây: 1m1, 1m4, 1m6 và 2m (Tính từ gốc lên đến ngọn cao nhất khi chưa
@@ -771,6 +695,83 @@ categories:
     - "/v1623229381/z2523846926881_a500e172fd7bc081c7efbeca399ac89d-2-2_iqtkya.jpg"
     - "/v1623229381/z2523846920335_cfee0f35ad9047434b5760275d4cbe23-2-2_xo5zim.jpg"
     price: 1160000 - 2400000
+    is_home: false
+- name: Cây Dứa Cảnh
+  description:
+  - "- Chiều cao cây: 60cm, 1m1 và 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Chất liệu: Lá chất liệu su cao cấp, an toàn. Thân thép bọc nhựa cứng cáp, sống
+    động, có thể uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - " - Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Dứa Cảnh 60cm
+    description: []
+    images:
+    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
+    price: "820000"
+    is_home: false
+  - name: Cây Dứa Cảnh 1m1
+    description: []
+    images:
+    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
+    price: "1160000"
+    is_home: false
+  - name: Cây Dứa Cảnh 1m4
+    description: []
+    images:
+    - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
+    - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
+    price: "1550000"
+    is_home: false
+- name: 'Dứa Nam Phi '
+  description:
+  - "- Kích thước: Cao 45 và 60 (cm) tính từ gốc đến đỉnh cành cao nhất."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
+    tạo hình. "
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+  - "- Mỗi lá dài tầm 20 - 30cm."
+  - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+    khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+    nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có thể
+    inbox cho shop để nhận video hướng dẫn chi tiết nhé."
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  items:
+  - name: Dứa Nam Phi Nhỏ - Cao 45cm
+    description:
+    - "- Giá chưa bao gồm chậu Composite."
+    - "- FREESHIP nội thành Đà Nẵng."
+    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+      gốc thêm cho sinh động nhé."
+    images:
+    - "/v1623827930/d%E1%BB%A9a_nam_phi_nh%E1%BB%8F_jsmiai.jpg"
+    - "/v1623829046/9cd0f2df9baf6ff136be_xs72ll.jpg"
+    - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
+    - "/v1623829046/d2eb112079508d0ed441_o2lmro.jpg"
+    price: "440000"
+    is_home: false
+  - name: Dứa Nam Phi To - Cao 60cm
+    description:
+    - "- Giá chưa bao gồm chậu Composite."
+    - "- FREESHIP nội thành Đà Nẵng."
+    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+      gốc thêm cho sinh động nhé."
+    images:
+    - "/v1623827930/D%E1%BB%A9a_Nam_Phi_To_lfgpui.jpg"
+    - "/v1623829046/9cd0f2df9baf6ff136be_xs72ll.jpg"
+    - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
+    - "/v1623829046/d2eb112079508d0ed441_o2lmro.jpg"
+    price: "780000"
     is_home: false
 - name: Cây Dứa Nam Mỹ Nhỏ - Cao 23cm
   description:
