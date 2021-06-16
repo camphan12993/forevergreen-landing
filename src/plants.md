@@ -3,19 +3,28 @@ layout: gallery.liquid
 title: Plants
 categories:
 - name: Cây Thiết Mộc Lan
-  description: []
+  description:
+  - "- Chiều cao cây: 1m; 1m2; 1m6 và 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
   items:
-  - name: Cây Thiết Mộc Lan 1m8
+  - name: Cây Thiết Mộc Lan 1m
     description: []
     images:
     - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
-    price: "1330000"
-    is_home: false
-  - name: Cây Thiết Mộc Lan 1m6
-    description: []
-    images:
-    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
-    price: "1250000"
+    price: "630000"
     is_home: false
   - name: Cây Thiết Mộc Lan 1m2
     description: []
@@ -23,11 +32,17 @@ categories:
     - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
     price: "850000"
     is_home: false
-  - name: Cây Thiết Mộc Lan 1m
+  - name: Cây Thiết Mộc Lan 1m6
     description: []
     images:
     - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
-    price: "630000"
+    price: "1250000"
+    is_home: false
+  - name: Cây Thiết Mộc Lan 1m8
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "1330000"
     is_home: false
 - name: Cây Dứa Nam Mỹ Nhỏ - Cao 23cm
   description:
