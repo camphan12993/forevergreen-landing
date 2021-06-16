@@ -342,7 +342,7 @@ categories:
     - "/v1623307263/184712184_322674632564676_471814415493334310_n_jwlvzm.jpg"
     - "/v1623307282/185291481_322674645898008_4322075980304511252_n_pl1pt5.jpg"
     - "/v1623307263/185020651_322674752564664_2545289715305865880_n_yofmjl.jpg"
-    is_home: false
+    is_home: true
   - name: J&T Express
     description:
     - 'Chủ đầu tư: Mr. Vũ'
@@ -418,6 +418,6 @@ categories:
     - "/v1615783686/MAP_1103_qreygi.jpg"
     - "/v1615783682/MAP_1049_zazpcl.jpg"
     - "/v1615783686/MAP_1051_iguecy.jpg"
-    is_home: true
+    is_home: false
 
 ---
