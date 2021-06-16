@@ -2,43 +2,45 @@
 layout: gallery.liquid
 title: Plants
 categories:
-- name: Cây Dứa Nam Mỹ Nhỡ - Cao 27cm
+- name: 'Dứa Nam Phi '
   description:
-  - "- Chiều cao cây: 27cm (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
-  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
-    sống động, dễ uốn nắn, tạo hình. "
-  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
-  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Kích thước: Cao 45 và 60 (cm) tính từ gốc đến đỉnh cành cao nhất."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
+    tạo hình. "
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+  - "- Mỗi lá dài tầm 20 - 30cm."
+  - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+    khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+    nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có thể
+    inbox cho shop để nhận video hướng dẫn chi tiết nhé."
   - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
     pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-  - "- Giá chưa bao gồm chậu Composite."
-  - "- FREESHIP nội thành Đà Nẵng."
-  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-    gốc thêm cho sinh động nhé."
   items:
-  - name: Cây Dứa Nam Mỹ Nhỡ - Xanh Đốm Đỏ
+  - name: Dứa Nam Phi Nhỏ - Cao 45cm
     description:
-    - "- Giá chưa bao gồm chậu."
+    - "- Giá chưa bao gồm chậu Composite."
+    - "- FREESHIP nội thành Đà Nẵng."
+    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+      gốc thêm cho sinh động nhé."
     images:
-    - "/v1623827666/d%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%A1_ejuahi.jpg"
-    price: "100000"
+    - "/v1623827930/d%E1%BB%A9a_nam_phi_nh%E1%BB%8F_jsmiai.jpg"
+    - "/v1623829046/9cd0f2df9baf6ff136be_xs72ll.jpg"
+    - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
+    - "/v1623829046/d2eb112079508d0ed441_o2lmro.jpg"
+    price: "440000"
     is_home: false
-  - name: Cây Dứa Nam Mỹ Nhỡ - Xanh Sọc Trắng
+  - name: Dứa Nam Phi To - Cao 60cm
     description:
-    - "- GIá chưa bao gồm chậu."
+    - "- Giá chưa bao gồm chậu Composite."
+    - "- FREESHIP nội thành Đà Nẵng."
+    - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+      gốc thêm cho sinh động nhé."
     images:
-    - "/v1623827666/D%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%A1_-_s%E1%BB%8Dc_tr%E1%BA%AFng_whjpp2.jpg"
-    price: "100000"
-    is_home: false
-  - name: Cây Dứa Nam Mỹ Nhỡ - Xanh Điểm Đỏ
-    description:
-    - "- Giá chưa bao gồm chậu."
-    images:
-    - "/v1623827666/D%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%A1_-_%C4%91i%E1%BB%83m_%C4%91%E1%BB%8F_nlsnrl.jpg"
-    price: "100000"
+    - "/v1623827930/D%E1%BB%A9a_Nam_Phi_To_lfgpui.jpg"
+    - "/v1623829046/9cd0f2df9baf6ff136be_xs72ll.jpg"
+    - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
+    - "/v1623829046/d2eb112079508d0ed441_o2lmro.jpg"
+    price: "780000"
     is_home: false
 - name: 'Cây Ngâu '
   description:
@@ -806,6 +808,44 @@ categories:
     images:
     - "/v1623746519/d%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%8F_-_%C4%91i%E1%BB%83m_%C4%91%E1%BB%8F_xkaxlx.jpg"
     price: "65000"
+    is_home: false
+- name: Cây Dứa Nam Mỹ Nhỡ - Cao 27cm
+  description:
+  - "- Chiều cao cây: 27cm (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Dứa Nam Mỹ Nhỡ - Xanh Đốm Đỏ
+    description:
+    - "- Giá chưa bao gồm chậu."
+    images:
+    - "/v1623827666/d%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%A1_ejuahi.jpg"
+    price: "100000"
+    is_home: false
+  - name: Cây Dứa Nam Mỹ Nhỡ - Xanh Sọc Trắng
+    description:
+    - "- GIá chưa bao gồm chậu."
+    images:
+    - "/v1623827666/D%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%A1_-_s%E1%BB%8Dc_tr%E1%BA%AFng_whjpp2.jpg"
+    price: "100000"
+    is_home: false
+  - name: Cây Dứa Nam Mỹ Nhỡ - Xanh Điểm Đỏ
+    description:
+    - "- Giá chưa bao gồm chậu."
+    images:
+    - "/v1623827666/D%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%A1_-_%C4%91i%E1%BB%83m_%C4%91%E1%BB%8F_nlsnrl.jpg"
+    price: "100000"
     is_home: false
 - name: Cây Dứa Nam Mỹ To - Cao 33cm
   description:
