@@ -2,119 +2,6 @@
 layout: gallery.liquid
 title: Plants
 categories:
-- name: Cây Thiết Mộc Lan
-  description:
-  - "- Chiều cao cây: 1m; 1m2; 1m6 và 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa
-    tỏa cành)."
-  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
-  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
-    sống động, dễ uốn nắn, tạo hình. "
-  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
-    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-  - "- Giá chưa bao gồm chậu Composite."
-  - "- FREESHIP nội thành Đà Nẵng."
-  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-    gốc thêm cho sinh động nhé."
-  items:
-  - name: Cây Thiết Mộc Lan 1m
-    description: []
-    images:
-    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
-    price: "630000"
-    is_home: false
-  - name: Cây Thiết Mộc Lan 1m2
-    description: []
-    images:
-    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
-    price: "850000"
-    is_home: false
-  - name: Cây Thiết Mộc Lan 1m6
-    description: []
-    images:
-    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
-    price: "1250000"
-    is_home: false
-  - name: Cây Thiết Mộc Lan 1m8
-    description: []
-    images:
-    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
-    price: "1330000"
-    is_home: false
-- name: Cây Dứa Nam Mỹ Nhỏ - Cao 23cm
-  description:
-  - "- Kích thước: Cao 23 (cm) tính từ gốc đến đỉnh cành cao nhất. - Chất liệu: Lá
-    chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn, tạo "
-  - "- Màu sắc, gồm 3 màu: Xanh đốm đỏ; Xanh sọc trắng và Xanh điểm đỏ."
-  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
-    tạo hình. "
-  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
-  - "- Mỗi nhánh lá dài dao động từ 10 - 20 cm."
-  - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-    khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
-    nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có thể
-    inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
-    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-  items:
-  - name: ''
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cây Dứa Nam Mỹ Nhỏ - Xanh Điểm Đỏ
-    description:
-    - "- Giá: Chưa bao gồm chậu."
-    images:
-    - "/v1623745825/D%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%8F_-_%C4%91%E1%BB%91m_%C4%91%E1%BB%8F_bldbcm.jpg"
-    price: "65000"
-    is_home: false
-  - name: Cây Dứa Nam Mỹ Nhỏ - Xanh Điểm Đỏ
-    description:
-    - "- Giá chưa bao gồm chậu."
-    images:
-    - "/v1623746519/d%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%8F_-_%C4%91i%E1%BB%83m_%C4%91%E1%BB%8F_xkaxlx.jpg"
-    price: "65000"
-    is_home: false
-- name: Cây Dứa Nam Mỹ To
-  description:
-  - "- Kích thước: Cao 33 (cm) tính từ gốc đến đỉnh cành cao nhất."
-  - "- Màu sắc, gồm 3 màu: Xanh; Xanh Sọc Trắng và Xanh Đốm Đỏ."
-  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
-    tạo hình. "
-  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
-  - "- Mỗi nhánh lá dài tầm 15 - 20 cm."
-  - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-    khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
-    nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có thể
-    inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
-    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-  items:
-  - name: Cây Dứa Nam Mỹ To - Xanh Đốm Đỏ
-    description:
-    - "- Giá: Chưa bao gồm chậu."
-    images:
-    - "/v1623745827/D%E1%BB%A9a_Nam_M%E1%BB%B9_to_-_%C4%91%E1%BB%91m_%C4%91%E1%BB%8F_ulcwf8.jpg"
-    price: "170000"
-    is_home: false
-  - name: Cây Dứa Nam Mỹ To - Xanh Sọc Trắng
-    description:
-    - "- Giá: Chưa bao gồm chậu."
-    images:
-    - "/v1623745827/d%E1%BB%A9a_nam_m%E1%BB%B9_to_qnd5vp.jpg"
-    price: "170000"
-    is_home: false
-  - name: Cây Dứa Nam Mỹ To - Màu Xanh
-    description:
-    - "- Giá: Chưa bao gồm chậu."
-    images:
-    - "/v1623745826/d%E1%BB%A9a_nam_m%E1%BB%B9_to_p6uupw.jpg"
-    price: "170000"
-    is_home: false
 - name: 'Cây Ngâu '
   description:
   - "- Còn được gọi là Cây tán tròn."
@@ -510,6 +397,48 @@ categories:
     - "/v1623141693/m_cbefye.jpg"
     price: "990000"
     is_home: false
+- name: Cây Thiết Mộc Lan
+  description:
+  - "- Chiều cao cây: 1m; 1m2; 1m6 và 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Thiết Mộc Lan 1m
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "630000"
+    is_home: false
+  - name: Cây Thiết Mộc Lan 1m2
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "850000"
+    is_home: false
+  - name: Cây Thiết Mộc Lan 1m6
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "1250000"
+    is_home: false
+  - name: Cây Thiết Mộc Lan 1m8
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "1330000"
+    is_home: false
 - name: Cây Phát Tài Núi
   description:
   - "- Chiều cao cây: 60cm, 1m1 và 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa
@@ -802,6 +731,79 @@ categories:
     - "/v1623229381/z2523846926881_a500e172fd7bc081c7efbeca399ac89d-2-2_iqtkya.jpg"
     - "/v1623229381/z2523846920335_cfee0f35ad9047434b5760275d4cbe23-2-2_xo5zim.jpg"
     price: 1160000 - 2400000
+    is_home: false
+- name: Cây Dứa Nam Mỹ Nhỏ - Cao 23cm
+  description:
+  - "- Kích thước: Cao 23 (cm) tính từ gốc đến đỉnh cành cao nhất. - Chất liệu: Lá
+    chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn, tạo "
+  - "- Màu sắc, gồm 3 màu: Xanh đốm đỏ; Xanh sọc trắng và Xanh điểm đỏ."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
+    tạo hình. "
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+  - "- Mỗi nhánh lá dài dao động từ 10 - 20 cm."
+  - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+    khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+    nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có thể
+    inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  items:
+  - name: Cây Dứa Nam Mỹ Nhỏ - Xanh Sọc Trắng
+    description:
+    - "- Giá chưa bao gồm chậu."
+    images:
+    - "/v1623746517/D%E1%BB%A9a_Nam_m%E1%BB%B9_nh%E1%BB%8F_-_s%E1%BB%8Dc_tr%E1%BA%AFng_j7hnmg.jpg"
+    price: "65000"
+    is_home: false
+  - name: Cây Dứa Nam Mỹ Nhỏ - Xanh Đốm Đỏ
+    description:
+    - "- Giá: Chưa bao gồm chậu."
+    images:
+    - "/v1623745825/D%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%8F_-_%C4%91%E1%BB%91m_%C4%91%E1%BB%8F_bldbcm.jpg"
+    price: "65000"
+    is_home: false
+  - name: Cây Dứa Nam Mỹ Nhỏ - Xanh Điểm Đỏ
+    description:
+    - "- Giá chưa bao gồm chậu."
+    images:
+    - "/v1623746519/d%E1%BB%A9a_nam_m%E1%BB%B9_nh%E1%BB%8F_-_%C4%91i%E1%BB%83m_%C4%91%E1%BB%8F_xkaxlx.jpg"
+    price: "65000"
+    is_home: false
+- name: Cây Dứa Nam Mỹ To - Cao 33cm
+  description:
+  - "- Kích thước: Cao 33 (cm) tính từ gốc đến đỉnh cành cao nhất."
+  - "- Màu sắc, gồm 3 màu: Xanh; Xanh Sọc Trắng và Xanh Đốm Đỏ."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
+    tạo hình. "
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+  - "- Mỗi nhánh lá dài tầm 15 - 20 cm."
+  - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+    khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+    nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có thể
+    inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  items:
+  - name: Cây Dứa Nam Mỹ To - Xanh Đốm Đỏ
+    description:
+    - "- Giá: Chưa bao gồm chậu."
+    images:
+    - "/v1623745827/D%E1%BB%A9a_Nam_M%E1%BB%B9_to_-_%C4%91%E1%BB%91m_%C4%91%E1%BB%8F_ulcwf8.jpg"
+    price: "170000"
+    is_home: false
+  - name: Cây Dứa Nam Mỹ To - Xanh Sọc Trắng
+    description:
+    - "- Giá: Chưa bao gồm chậu."
+    images:
+    - "/v1623745827/d%E1%BB%A9a_nam_m%E1%BB%B9_to_qnd5vp.jpg"
+    price: "170000"
+    is_home: false
+  - name: Cây Dứa Nam Mỹ To - Màu Xanh
+    description:
+    - "- Giá: Chưa bao gồm chậu."
+    images:
+    - "/v1623745826/d%E1%BB%A9a_nam_m%E1%BB%B9_to_p6uupw.jpg"
+    price: "170000"
     is_home: false
 - name: Cây Tre - Trúc
   description:
