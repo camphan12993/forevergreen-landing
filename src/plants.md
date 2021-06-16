@@ -2,6 +2,33 @@
 layout: gallery.liquid
 title: Plants
 categories:
+- name: Cây Thiết Mộc Lan
+  description: []
+  items:
+  - name: Cây Thiết Mộc Lan 1m8
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "1330000"
+    is_home: false
+  - name: Cây Thiết Mộc Lan 1m6
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "1250000"
+    is_home: false
+  - name: Cây Thiết Mộc Lan 1m2
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "850000"
+    is_home: false
+  - name: Cây Thiết Mộc Lan 1m
+    description: []
+    images:
+    - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    price: "630000"
+    is_home: false
 - name: Cây Dứa Nam Mỹ Nhỏ - Cao 23cm
   description:
   - "- Kích thước: Cao 23 (cm) tính từ gốc đến đỉnh cành cao nhất. - Chất liệu: Lá
