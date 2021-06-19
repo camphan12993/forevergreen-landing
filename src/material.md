@@ -77,7 +77,7 @@ categories:
     - "/v1623831017/20-st-ck-2-Gr-en-K-nstliche-Moos-Felsen-Dekorative-Faux-Gr-n-Moos-Abgedeckt.jpg_q50-2_h1xnpe.jpg"
     price: ''
     is_home: false
-- name: Dây rũ - Dây Rừng - Cành cổ
+- name: Dây Rũ - Dây Rừng - Cành Cổ
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
@@ -240,7 +240,7 @@ categories:
     images: []
     price: ''
     is_home: false
-- name: Cành cây lá - Bụi lá
+- name: Cành Cây Lá - Bụi Lá
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
@@ -618,11 +618,28 @@ categories:
     - "/v1618371616/z2431924928020_5e14e837d194475e1112c0862abd9ca3_yur8hf.jpg"
     price: "210000"
     is_home: true
-- name: Cành hoa quả
+- name: Cành Hoa - Quả
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Hoa Mộc Lan Trắng Đại
+    description:
+    - "- Chiều cao: 76 (cm) tính từ gốc đến ngọn cao nhất."
+    - "- 1 cây hoa gồm: 1 hoa lớn (ĐK 18cm), 1 hoa trung (ĐK 8cm), 1 hoa búp (ĐK 3cm)
+      - hoa màu trắng, nhụy vàng và 2 chồi non xanh. "
+    - " - Chất liệu: Hoa chất su mềm mại, tự nhiên. Thân cây chất liệu nhựa đặc chắc
+      chắn nhưng vẫn đảm bảo dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc.  Sau khi nhận hàng nếu có khó khăn trong việc
+      cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624090449/Thi%E1%BA%BFt_m%E1%BB%99c_lan_tr%E1%BA%AFng_%C4%91%E1%BA%A1i_wy2ixn.jpg"
+    price: "170000"
+    is_home: false
   - name: Cành Nụ Tầm Xuân Đỏ
     description: []
     images: []
@@ -642,23 +659,6 @@ categories:
     description: []
     images: []
     price: ''
-    is_home: false
-  - name: Hoa Mộc Lan Trắng Đại
-    description:
-    - "- Chiều cao: 76 (cm) tính từ gốc đến ngọn cao nhất."
-    - "- 1 cây hoa gồm: 1 hoa lớn (ĐK 18cm), 1 hoa trung (ĐK 8cm), 1 hoa búp (ĐK 3cm)
-      - hoa màu trắng, nhụy vàng và 2 chồi non xanh. "
-    - " - Chất liệu: Hoa chất su mềm mại, tự nhiên. Thân cây chất liệu nhựa đặc chắc
-      chắn nhưng vẫn đảm bảo dễ uốn nắn tạo hình."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
-    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-      khách, phòng ngủ, phòng làm việc.  Sau khi nhận hàng nếu có khó khăn trong việc
-      cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé."
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
-    images:
-    - "/v1624090449/Thi%E1%BA%BFt_m%E1%BB%99c_lan_tr%E1%BA%AFng_%C4%91%E1%BA%A1i_wy2ixn.jpg"
-    price: "170000"
     is_home: false
   - name: Hoa Cẩm Tú Cầu Đỏ
     description: []
