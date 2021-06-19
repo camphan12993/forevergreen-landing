@@ -152,8 +152,20 @@ categories:
     price: ''
     is_home: false
   - name: Dây Rũ Liễu Tú Cầu
-    description: []
-    images: []
+    description:
+    - "- Kích thước: dài 90 (cm) tính từ gốc đến ngọn lá dài nhất."
+    - "- Màu sắc: Xanh lá non."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624087884/r%C5%A9_li%E1%BB%85u_t%C3%BA_c%E1%BA%A7u_qjwr6w.jpg"
     price: ''
     is_home: false
   - name: Dây Rũ Ngâu
