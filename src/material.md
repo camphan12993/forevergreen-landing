@@ -209,20 +209,22 @@ categories:
     price: "55000"
     is_home: false
     name: Dây Rũ Vẩy Ốc
-  - name: Dây Rũ Cúc Tầng 1 - Màu nhạt
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Dây Rũ Cúc Tầng 2 - Màu trung
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Dây Rũ Cúc Tầng 3 - Màu đậm
-    description: []
-    images: []
-    price: ''
+  - name: 'Dây Rũ Cúc Tầng '
+    description:
+    - "- Kích thước: dài 100 (cm) tính từ gốc đến ngọn lá cao nhất."
+    - "- Màu sắc: Đậm; Trung và Nhạt."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624088593/c%C3%BAc_t%E1%BA%A7ng_%C4%91%E1%BA%ADm_icvnev.jpg"
+    price: "30000"
     is_home: false
 - name: Cành cây lá - Bụi lá
   description:
