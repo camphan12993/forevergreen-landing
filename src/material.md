@@ -169,8 +169,21 @@ categories:
     price: ''
     is_home: false
   - name: Dây Rũ Ngâu
-    description: []
-    images: []
+    description:
+    - "- Kích thước: dài 82 (cm) tính từ gốc đến ngọn lá cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624088110/dr_ng%C3%A2u_vivc1x.jpg"
     price: ''
     is_home: false
   - name: Dây Rũ Nắp Ấm
@@ -178,9 +191,22 @@ categories:
     images: []
     price: ''
     is_home: false
-  - description: []
-    images: []
-    price: ''
+  - description:
+    - "- Kích thước: dài 105 (cm) tính từ gốc đến ngọn lá cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624088381/dr_v%E1%BA%ABy_%E1%BB%91c_nybmsv.jpg"
+    - "/v1624088381/dr_v%E1%BA%ABy_%E1%BB%91c1_trxycr.jpg"
+    - "/v1624088383/dr_v%E1%BA%ABy_%E1%BB%91c2_cwqzdl.jpg"
+    price: "55000"
     is_home: false
     name: Dây Rũ Vẩy Ốc
   - name: Dây Rũ Cúc Tầng 1 - Màu nhạt
