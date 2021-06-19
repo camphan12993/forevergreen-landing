@@ -77,11 +77,42 @@ categories:
     - "/v1623831017/20-st-ck-2-Gr-en-K-nstliche-Moos-Felsen-Dekorative-Faux-Gr-n-Moos-Abgedeckt.jpg_q50-2_h1xnpe.jpg"
     price: ''
     is_home: false
-- name: Dây rũ
+- name: Dây rũ - Dây Rừng - Cành cổ
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Dây Rừng
+    description:
+    - "- Chất liệu: Thật 100%, được cắt tươi tại rừng, sau đó xử lý qua chống mối
+      mọt trước khi nhập vào kho."
+    - "- Xuất xứ: Việt Nam"
+    - "- Hướng dẫn sử dụng: Thích hợp làm khung trần trang trí; Vòng treo cửa hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
+    images:
+    - "/v1624089734/CDF05890-3-2_jocqae.jpg"
+    - "/v1624089745/D%C3%A2y_r%E1%BB%ABng_yz8yz7.jpg"
+    price: ''
+    is_home: false
+  - name: Cành Cổ Chồi Non
+    description:
+    - "- Kích thước: dài 200 (cm) tính từ gốc đến ngọn lá cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa nâu phủ
+      rêu xanh sống động, dễ uốn nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp làm thân cây leo tường, khung trần trang trí
+      hoặc làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu
+      có khó khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video
+      hướng dẫn chi tiết nhé. "
+    - " - Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624090121/c%C3%A0nh_c%E1%BB%95_ch%E1%BB%93i_non1_hqkl8n.jpg"
+    - "/v1624090121/c%C3%A0nh_c%E1%BB%95_ch%E1%BB%93i_non_heeaa2.jpg"
+    price: ''
+    is_home: false
   - name: Dương Xỉ Rủ Dài
     description:
     - "- Kích thước: dài 80 (cm) tính từ gốc đến ngọn lá cao nhất."
