@@ -61,9 +61,22 @@ categories:
     - "/v1615784008/MAP_8040-2_a7knbd.jpg"
     price: "330000"
     is_home: false
-- name: Sen Đá
+- name: Sen Đá - Rêu
   description: []
-  items: []
+  items:
+  - name: Củ rêu
+    description:
+    - "- Màu sắc: Xanh rêu giống thật 99,9%."
+    - "- Chất liệu: Xốp chuyên dụng thi công trang trí, phủ rêu chất liệu nhựa cao
+      cấp, an toàn."
+    - "- Hướng dẫn sử dụng: Là vật liệu phụ kiện trang trí tiểu cảnh/chậu cây/terrarium/hồ
+      cá/bonsai/hòn non bộ/sen đá/xương rồng."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    images:
+    - "/v1623831020/bb67a5414980371ee64d79a5e0ef8832-2_ugasj2.jpg"
+    - "/v1623831017/20-st-ck-2-Gr-en-K-nstliche-Moos-Felsen-Dekorative-Faux-Gr-n-Moos-Abgedeckt.jpg_q50-2_h1xnpe.jpg"
+    price: ''
+    is_home: false
 - name: Dây rũ
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
@@ -77,10 +90,10 @@ categories:
       nắn, tạo hình. "
     - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
     - "- Mỗi lá dài tầm 15 - 20 cm."
-    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
-      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
-      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
@@ -95,10 +108,10 @@ categories:
       nắn, tạo hình. "
     - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
     - "- Mỗi lá dài tầm 15 - 20 cm."
-    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
-      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
-      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
@@ -121,8 +134,21 @@ categories:
     price: ''
     is_home: false
   - name: Cụm Sóng Rũ
-    description: []
-    images: []
+    description:
+    - "- Kích thước: dài 90 (cm) tính từ gốc đến ngọn dài nhất."
+    - "- Màu sắc: Xanh đậm và Xanh nhạt.\n"
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624086433/s%C3%B3ng_r%C5%A9_xeauog.jpg"
+    - "/v1624086433/s%C3%B3ng_r%C5%A91_n2y3un.jpg"
     price: ''
     is_home: false
   - name: Dây Rũ Liễu Tú Cầu
@@ -165,11 +191,6 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
-  - name: ''
-    description: []
-    images: []
-    price: ''
-    is_home: false
   - name: Cụm Lá Trầu Bà Sẻ Quạt Su
     description: []
     images: []
