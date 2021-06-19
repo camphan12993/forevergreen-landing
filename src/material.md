@@ -658,7 +658,7 @@ categories:
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
     images:
     - "/v1624090449/Thi%E1%BA%BFt_m%E1%BB%99c_lan_tr%E1%BA%AFng_%C4%91%E1%BA%A1i_wy2ixn.jpg"
-    price: ''
+    price: "170000"
     is_home: false
   - name: Hoa Cẩm Tú Cầu Đỏ
     description: []
