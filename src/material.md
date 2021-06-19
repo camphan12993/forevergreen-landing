@@ -220,121 +220,11 @@ categories:
     - "/v1624088593/c%C3%BAc_t%E1%BA%A7ng_%C4%91%E1%BA%ADm_icvnev.jpg"
     price: "30000"
     is_home: false
-  - name: Dây Rũ Nắp Ấm
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Dây Rũ Tai Chuột
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Rong Rũ
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Dây Lộc Vừng
-    description: []
-    images: []
-    price: ''
-    is_home: false
 - name: Cành Cây Lá - Bụi Lá
   description:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
-  - name: Cụm Lá Trầu Bà Sẻ Quạt Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lá Chân Vịt Sao Su Đơn Lớn
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lá Chân Vịt Sao Su Đơn Nhỏ
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Lá Lúa
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: 'Cành Lá Chuối Su Đơn To '
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Lá Lan To Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Lá Lan Dài Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lá Tràm
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cánh Lá Bạnh Đàn
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Rong Thông
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cây Chân Vịt 12 Lá
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Bụi Dứa Ba Đầu
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lá Cọ Trung
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Monstera Lớn Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Monstera Trung Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Monstera Nhỏ Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Lá Môn Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Hông Môn Xanh Bê
-    description: []
-    images: []
-    price: ''
-    is_home: false
   - name: Bụi Dương Xỉ Mỹ
     description:
     - "- Kích thước: Cao 50 (cm) tính từ gốc đến đỉnh cành cao nhất."
@@ -389,150 +279,55 @@ categories:
     - "/v1618372217/z2431924928962_cf3818155fb5bbe01e7a148a4d12dca4_rciclm.jpg"
     price: "90000"
     is_home: false
-  - name: Bụi Dương Xỉ Đẹp
+  - name: Cành Lá Đinh Lăng
     description: []
-    images: []
+    images:
+    - "/v1624092004/c%C3%A0nh_%C4%91inh_l%C4%83ng_ripq75.jpg"
+    price: "87000"
+    is_home: false
+  - name: Cành Ngâu
+    description:
+    - "- Kích thước: Cao 30 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - 'Màu sắc, gồm 3 màu: Xanh; Xanh vàng và Xanh đỏ tía'
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Cành gồm 6 nhánh lá, mỗi nhánh dài dao động từ 10 - 20 cm."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1618370194/z2431924903548_966cf75b235c6455bd11b9c4ae9c8961_qwthfi.jpg"
+    - "/v1623745390/c%C3%A0nh_ng%C3%A2u_-_xanh_t%C3%ADa_vedf1x.jpg"
+    - "/v1623745390/c%C3%A0nh_ng%C3%A2u_%C4%91i%E1%BB%83m_v%C3%A0ng_o68sb9.jpg"
+    price: "42000"
+    is_home: true
+  - name: Cành Lá Ngâu Xanh
+    description: []
+    images:
+    - "/v1624092129/c%C3%A0nh_ng%C3%A2u_vwwt4y.jpg"
     price: ''
     is_home: false
-  - name: Bụi Lá Táo
+  - name: Cành Lá Ngâu Xanh Điểm Vàng
     description: []
-    images: []
+    images:
+    - "/v1624092129/c%C3%A0nh_ng%C3%A2u_%C4%91i%E1%BB%83m_v%C3%A0ng_yyd3jp.jpg"
     price: ''
     is_home: false
-  - name: Bụi Lá Viền Trắng
+  - name: Cành Lá Ngâu Xanh Tía
     description: []
-    images: []
+    images:
+    - "/v1624092129/c%C3%A0nh_ng%C3%A2u_-_xanh_t%C3%ADa_akqswm.jpg"
     price: ''
     is_home: false
-  - name: Cụm Chuối Rễ
+  - name: Bụi Lá Trầu bà
     description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lá Trầu Vằn
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Cau
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Tre Lá Nhỏ
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Tre Lá Lớn
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Địa Lan Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Dâu Mầm Đỏ (Thân Mềm)
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Ngũ Gia Bì Vàng Xanh
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Ngũ Gia Bì Xanh
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Bụi Thài Lài Tía Tô
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Lá Đinh Lăng
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Bó Bạch Đàn Hạt Khô
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Bụi Kim Tiền Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Trầu Bà Loan
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Hoa Ngâu Xanh
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Ngâu Xanh
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Khế Viền Cam
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Khế Viền Trắng
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Trầu Bà Đuôi Cong
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm Lá Môn Màu
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cụm 12 Lá Môn
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Lá Chân Vịt Chất Su
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lan Ý  Nhỏ
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lan Ý Lớn
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lá Si Xanh
-    description: []
-    images: []
-    price: ''
-    is_home: false
-  - name: Cành Lá Si Viền Trắng
-    description: []
-    images: []
-    price: ''
+    images:
+    - "/v1624092299/B%E1%BB%A5i_l%C3%A1_tr%E1%BA%A7u_b%C3%A0_bqqeno.jpg"
+    price: "152000"
     is_home: false
   - name: Cành Bao Thanh Thiên
     description:
@@ -553,8 +348,9 @@ categories:
     is_home: false
   - name: Cành Thường Xuân Viền Trắng
     description: []
-    images: []
-    price: ''
+    images:
+    - "/v1624092406/c%C3%A0nh_th%C6%B0%C6%A1ng_xu%C3%A2n_inseid.jpg"
+    price: "60000"
     is_home: false
   - name: Cành Dẻ Quạt
     description:
@@ -582,26 +378,6 @@ categories:
     - "/v1618371252/z2431924922539_b787f640a94ced6bbfef4abcf74d9ced_pijsop.jpg"
     price: "70000"
     is_home: false
-  - name: Cành Ngâu
-    description:
-    - "- Kích thước: Cao 30 (cm) tính từ gốc đến đỉnh cành cao nhất."
-    - 'Màu sắc, gồm 3 màu: Xanh; Xanh vàng và Xanh đỏ tía'
-    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
-      nắn, tạo hình. "
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
-    - "- Cành gồm 6 nhánh lá, mỗi nhánh dài dao động từ 10 - 20 cm."
-    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
-      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
-      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
-    images:
-    - "/v1618370194/z2431924903548_966cf75b235c6455bd11b9c4ae9c8961_qwthfi.jpg"
-    - "/v1623745390/c%C3%A0nh_ng%C3%A2u_-_xanh_t%C3%ADa_vedf1x.jpg"
-    - "/v1623745390/c%C3%A0nh_ng%C3%A2u_%C4%91i%E1%BB%83m_v%C3%A0ng_o68sb9.jpg"
-    price: "42000"
-    is_home: true
   - name: Cành Cúc Mốc Nhựa
     description:
     - 'Chất liệu: Lá bằng nhựa dẻo PVC, thân bằng nhựa bọc lõi thép.'
