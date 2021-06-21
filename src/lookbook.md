@@ -1,6 +1,6 @@
 ---
 layout: lookbook.liquid
-title: BỘ SƯ TẬP
+title: BỘ SƯU TẬP
 tags: lookbook
 items:
 - name: BE MY VALENTINE
