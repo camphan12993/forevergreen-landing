@@ -165,7 +165,7 @@ categories:
     - "/v1616140090/3573F5CF-B38C-4178-8585-4B92189E1E05_zrmiyz.jpg"
     price: ''
     is_home: true
-  - name: Sweet
+  - name: Lẳng Hoa 03
     description:
     - Ngọt ngào, dịu dàng, ân cần là những thông điệp chúng mình muốn gửi găm vào
       em Basket này đấy! Một món quà không thể phù hợp hơn dành tặng mẹ của những
