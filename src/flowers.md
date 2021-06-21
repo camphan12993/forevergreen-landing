@@ -118,7 +118,7 @@ categories:
     - "/v1622710184/DSC00344-2_g2mtzz.jpg"
     price: 1.200.000
     is_home: false
-  - name: Hoa Huệ Tây Vàng
+  - name: Bình Hoa Huệ Tây Vàng
     description:
     - "\U0001F33F Còn được gọi là hoa Bách Hợp, Loa Kèn, Lily và ở Đà Lạt gọi là hoa
       Lys (từ tiếng Pháp: fleur de lys)."
