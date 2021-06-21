@@ -105,7 +105,7 @@ categories:
     - "/v1622710639/DSC00308-2_jg3jxx.jpg"
     price: ''
     is_home: false
-  - name: Gorgeous  Vase - Cổ điển Châu Âu - Tone Nhiệt đới
+  - name: Bình hoa cổ điển Châu Âu 04
     description:
     - "- Kích thước bình Cao 40cm x Ngang 60cm"
     - "- Chúng mình đã tinh tế phối hợp hoa hồng màu cam + cẩm chướng cam cùng cẩm
