@@ -10,9 +10,9 @@ banner:
   images:
   - "/v1615447859/NDB_0087_xyiygu.jpg"
   - "/v1615782680/MAP_0992_o2tzgf.jpg"
-  button: Explore
+  button: Khám phá
 about:
-  title: About Us
+  title: Về Forever Green
   description:
   - Forever Green (FG) được sáng lập ra bằng niềm đam mê bất tận với thiên nhiên,
     mong muốn đem đến một không gian sống thư thái đến tất cả mọi người.
@@ -26,11 +26,11 @@ about:
   - "- Thiết kế, sáng tạo bắt kịp xu hướng Thế Giới, cung cấp nhiều giải pháp phù
     hợp với Yêu cầu, Không gian & Ngân sách của CĐT. Nói không với những mô hình thi
     công thô sơ, kém thẩm mĩ."
-  - "- Chế độ hậu mãi tốt nhất và duy nhất trên thị trường: Bảo hành 6 tháng -> 1
-    năm, vệ sinh làm mới định kì bằng những máy móc hiện đại."
+  - "- Chế độ hậu mãi tốt nhất và duy nhất trên thị trường: Bảo hành công trình từ
+    6 tháng đến 1 năm, vệ sinh làm mới định kì bằng những máy móc hiện đại."
   cover: "/v1616133704/z2375671056287_0b92126df55e14b42b60169cb479af93_ktqxbb.jpg"
 solutions:
-  title: Our Solutions
+  title: QUY TRÌNH LÀM VIỆC
   description:
   - Quy Trình Thi Công và Thiết Kế tại FG
   images:
@@ -41,22 +41,22 @@ categories:
 - "/v1615271421/146677808_120401853299636_5901119414545093535_n_f2lhgk.jpg"
 - "/v1616569019/416ae8c6c19ca3d684902053b4bcebf4_rxce67.jpg"
 callout:
-- name: Material
+- name: NGUYÊN VẬT LIỆU
   link:
     url: "/material"
     text: View More
   cover: "/v1615177743/170827d19124627a3b35_de47o7.jpg"
   description:
-  - 'Nguyên vật liệu: Forever Green luôn cập nhật các chất liệu mới nhất trên Thế
-    Giới, nhập khẩu những sản phẩm Cây – Hoa – Lá giống thật đến 99,9%.'
-- name: Plants
+  - Forever Green luôn cập nhật các chất liệu mới nhất trên Thế Giới, nhập khẩu những
+    sản phẩm Cây – Hoa – Lá giống thật đến 99,9%.
+- name: CÂY XANH NỘI THẤT
   link:
     url: "/plants"
     text: View More
   cover: "/v1615367933/Th%C3%B4_m%E1%BB%99c_N%E1%BB%99i_th%E1%BA%A5t_%E1%BA%A2nh_gh%C3%A9p_2_jsx77k.jpg"
   description:
   - 'Cây nội thất cao cấp '
-- name: Lookbook
+- name: BỘ SƯU TẬP
   link:
     url: "/lookbook"
     text: View More
