@@ -87,7 +87,7 @@ categories:
     - "/v1622710471/DSC00396-2_wprsgx.jpg"
     price: ''
     is_home: false
-  - name: Glowing Vase - Cổ điển Châu Âu - Tone Nhiệt đới
+  - name: Bình hoa cổ điển Châu Âu 03
     description:
     - "- Chất liệu: Hoa chất liệu vải lụa cao cấp, an toàn, mềm mại. Bình màu trắng,
       chất liệu men sứ cao cấp, có quai xách inox mạ vàng chắc chắn. "
