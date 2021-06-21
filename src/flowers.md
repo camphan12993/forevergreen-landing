@@ -67,7 +67,7 @@ categories:
     - "/v1622709845/DSC00277-2_kfdmao.jpg"
     price: ''
     is_home: true
-  - name: Pink Vase - Cổ điển Châu Âu - Tone Hồng đỏ
+  - name: Bình hoa cổ điển Châu Âu 02
     description:
     - "- Kích thước: Ngang 43 x Cao 32 (cm) "
     - "- Chất liệu: Hoa chất liệu vải lụa cao cấp, an toàn, mềm mại. Bình màu trắng,
