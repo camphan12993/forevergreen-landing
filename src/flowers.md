@@ -143,12 +143,12 @@ categories:
     - "/v1616138519/MAP_7980_ubztmd.jpg"
     price: 1.200.000
     is_home: false
-- name: FLOWER BASKETS
+- name: LẲNG HOA
   description:
   - Những lẳng hoa cao cấp phối màu đầy tinh tế sẽ là món quà khiến mọi cô gái hạnh
     phúc
   items:
-  - name: Glowing
+  - name: Lẳng hoa 01
     description:
     - Glowing - Rực rỡ tỏa sắc với tone phối màu nhiệt đới.
     - Phù hợp để tặng cho những cô nàng năng động, yêu thích sự lãng mạn.
