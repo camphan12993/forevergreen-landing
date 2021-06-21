@@ -156,7 +156,7 @@ categories:
     - "/v1616139608/146677808_120401853299636_5901119414545093535_n_fktxce.jpg"
     price: 1.000.000
     is_home: false
-  - name: Mystery
+  - name: Lẳng Hoa 02
     description:
     - Mystery - Huyền bí đầy sức hút.
     - Phù hợp làm quà tặng cho những cô nàng cá tính, độc lập nhưng vẫn rất đổi tình
