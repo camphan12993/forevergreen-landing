@@ -1,6 +1,6 @@
 ---
 layout: gallery.liquid
-title: Projects
+title: DỰ ÁN - CÔNG TRÌNH
 tags: projects
 cover: "/v1615364853/Brown_Clean_Grid_Fashion_Moodboard_Photo_Collage_exrnna.png"
 description:
@@ -31,7 +31,7 @@ categories:
     - "/v1615794876/_MAP5222_xsc93e.jpg"
     - "/v1615794871/_MAP5189_oyk6sr.jpg"
     is_home: true
-- name: Bar, Nhà hàng, Cà phê
+- name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
   - name: PAVO CUISINE & MIXOLOGY (BAR)
     description:
@@ -229,7 +229,7 @@ categories:
     - "/v1615795914/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_6_hyp1if.jpg"
     - "/v1615795913/02_Nguy%E1%BB%85n_ph%E1%BA%A1m_Tu%C3%A2n_5_qf1juy.jpg"
     is_home: false
-- name: Hotel, Homestay, Apartment
+- name: KHÁCH SẠN, CĂN HỘ CHUNG CƯ
   items:
   - name: MULBERRY COLLECTION SILK ECO HOTEL (Hoi An)
     description:
@@ -295,7 +295,7 @@ categories:
     - "/v1616397833/0c2e6a1814a3e7fdbeb2-2-2_iv2ihv.jpg"
     - "/v1616397834/228a51872f3cdc62852d-2-2_wkvkno.jpg"
     is_home: false
-- name: Nhà phố
+- name: NHÀ PHỐ
   items:
   - name: ANH MINH
     description:
@@ -329,7 +329,7 @@ categories:
     - "/v1615447864/NDB_0124_rjo6yv.jpg"
     - "/v1615447866/NDB_0091_tf7zt7.jpg"
     is_home: true
-- name: Văn phòng, Spa
+- name: VĂN PHÒNG, SPA, SHOWROOM
   items:
   - name: POONA HOUSE (SHOP)
     description:
