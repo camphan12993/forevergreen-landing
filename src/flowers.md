@@ -174,7 +174,7 @@ categories:
     - "/v1616140398/7B7744E8-0FDA-4E5A-BCB2-3F5A3229C5E9_haqqnz.jpg"
     price: ''
     is_home: false
-- name: LA CHANCE BOUQUETS
+- name: BÓ HOA
   description: []
   items:
   - name: Tiny Bouquet
@@ -236,7 +236,7 @@ categories:
     - "/v1616400897/9520034d2b93d8cd8182_n9nkqg.jpg"
     price: "150000"
     is_home: false
-- name: WREATH
+- name: 'VÒNG TREO '
   description:
   - Những vòng hoa xinh xắn được thiết kế bởi La Chance Decor by FG.
   items:
@@ -254,10 +254,10 @@ categories:
     - "/v1616561056/7acd446d979b7e53180a36f273dfc89b_q8kyag.jpg"
     price: ''
     is_home: false
-- name: BLOOM BOX
+- name: HỘP HOA
   description: []
   items:
-  - name: Rose Box
+  - name: HỘP HOA HỒNG
     description:
     - Hộp hoa hồng nhung sang trọng với 33 bông hồng rực rỡ, tượng trưng cho tình
       yêu chân thành và gửi gắm thông điệp “Anh yêu em bằng tất cả trái tim và mong
