@@ -133,7 +133,7 @@ categories:
     - "/v1616135528/MAP_7950_htdqdf.jpg"
     price: ''
     is_home: false
-  - name: Thiết Mộc Lan Xanh Đại
+  - name: Bình Hoa Thiết Mộc Lan Xanh Đại
     description:
     - Bình Hoa mộc lan được tạo hình uyển chuyển, gồm 4 bông lớn (ĐK 20cm) + 2 bông
       trung + 4 bông búp. Màu xanh huyền bí, sang trọng.
