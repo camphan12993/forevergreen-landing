@@ -1,7 +1,7 @@
 ---
 layout: gallery.liquid
 tags: flowers
-title: Flowers
+title: HOA TRANG TRÍ
 categories:
 - name: GỐM SỨ BÁT TRÀNG CAO CẤP
   description:
@@ -43,12 +43,12 @@ categories:
     - "/v1622708535/DSC00042-2-2-2_spxpi3.jpg"
     price: ''
     is_home: false
-- name: HOME DECORATION
+- name: HOA TRANG TRÍ BÀN
   description:
   - '"Your home should tell the story of who you are, and be a collection of what
     you love" - Nate Berkus'
   items:
-  - name: Glamour Vase - Cổ điển Châu Âu - Tone Đỏ Nâu
+  - name: Bình hoa cổ điển Châu Âu 01
     description:
     - "- Kích thước: Ngang 26 x Cao 30 (cm) "
     - "- Chất liệu: Hoa chất liệu vải cao cấp, an toàn, mềm mại. Chân bình kiểu dáng
