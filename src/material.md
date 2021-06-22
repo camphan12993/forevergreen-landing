@@ -1,6 +1,6 @@
 ---
 layout: gallery.liquid
-title: Material
+title: NGUYÊN VẬT LIỆU
 categories:
 - name: Thảm Cỏ - Rêu
   description:
@@ -84,9 +84,14 @@ categories:
   items:
   - name: Dây Rừng
     description:
+    - "- Giá bán: 50.000 đồng/cuộn. "
+    - "- Có 2 loại: Thân dây lớn và Thân dây nhỏ."
+    - "- Trọng lượng: "
+    - "+ Dây rừng lớn: 8 - 9 kg/ cuộn và 1kg dài dao động từ 3m5 - 4m."
+    - "+ Dây rừng nhỏ: 5 - 6 kg/ cuộn và 1kg dài tầm 5m."
     - "- Chất liệu: Thật 100%, được cắt tươi tại rừng, sau đó xử lý qua chống mối
       mọt trước khi nhập vào kho."
-    - "- Xuất xứ: Việt Nam"
+    - "- Xuất xứ: Việt Nam."
     - "- Hướng dẫn sử dụng: Thích hợp làm khung trần trang trí; Vòng treo cửa hoặc
       làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
       khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
@@ -94,7 +99,8 @@ categories:
     images:
     - "/v1624089734/CDF05890-3-2_jocqae.jpg"
     - "/v1624089745/D%C3%A2y_r%E1%BB%ABng_yz8yz7.jpg"
-    price: ''
+    - "/v1624347883/d%C3%A2y_r%E1%BB%ABng_c0jlgc.png"
+    price: "50000"
     is_home: false
   - name: Cành Cổ Chồi Non
     description:
