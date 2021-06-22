@@ -720,17 +720,22 @@ categories:
     description: []
     images:
     - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
+    - "/v1624353712/d%E1%BB%A9a-2_hh3zss.jpg"
+    - "/v1624353713/79cebca6d6d622887bc7_pl9sji.jpg"
     price: "820000"
     is_home: false
   - name: Cây Dứa Cảnh 1m1
     description: []
     images:
+    - "/v1624353713/79cebca6d6d622887bc7_pl9sji.jpg"
+    - "/v1624353712/d%E1%BB%A9a-2_hh3zss.jpg"
     - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
     price: "1160000"
     is_home: false
   - name: Cây Dứa Cảnh 1m4
     description: []
     images:
+    - "/v1624353712/d%E1%BB%A9a-2_hh3zss.jpg"
     - "/v1623829045/79cebca6d6d622887bc7_hwm3zj.jpg"
     - "/v1623310031/mua-cay-gia-trang-tri-o-ha-noi-6-1416-2_yvy50w.jpg"
     price: "1550000"
