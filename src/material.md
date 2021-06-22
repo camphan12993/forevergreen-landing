@@ -117,7 +117,7 @@ categories:
     images:
     - "/v1624090121/c%C3%A0nh_c%E1%BB%95_ch%E1%BB%93i_non1_hqkl8n.jpg"
     - "/v1624090121/c%C3%A0nh_c%E1%BB%95_ch%E1%BB%93i_non_heeaa2.jpg"
-    price: ''
+    price: "235000"
     is_home: false
   - name: Dương Xỉ Rủ Dài
     description:
