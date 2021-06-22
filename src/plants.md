@@ -1,6 +1,6 @@
 ---
 layout: gallery.liquid
-title: Plants
+title: CÂY XANH NỘI THẤT
 categories:
 - name: Cây Bàng Singapore
   description:
@@ -173,12 +173,14 @@ categories:
     is_home: false
   - name: Cây Mộc Hương 1m8
     images:
+    - "/v1624351708/cay-moc-huong-trang-tri-1m5-1m8-2m1-homeazvn-1152512549-2_gfhtbf.jpg"
     - "/v1623311544/z2523917779511_b75902bbbdec8c0bb13f8a42a982f1b4-2-2_eah1tc.jpg"
     price: "1550000"
     description: []
     is_home: false
   - name: Cây Mộc Hương 2m1
     images:
+    - "/v1624351722/cay-moc-huong-trang-tri-1m5-1m8-2m1-homeazvn-3-1543-2_rlqiyv.jpg"
     - "/v1623311544/z2523917779511_b75902bbbdec8c0bb13f8a42a982f1b4-2-2_eah1tc.jpg"
     price: "2200000"
     description: []
