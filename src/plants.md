@@ -185,7 +185,7 @@ categories:
     price: "2200000"
     description: []
     is_home: false
-- name: Cây Cẩm Thạch
+- name: Cây Thạch Nam Nhật Bản
   description:
   - "- Chiều cao cây:  1m4, 1m7 và 1m9 (Tính từ gốc lên đến ngọn cao nhất khi chưa
     tỏa cành)."
