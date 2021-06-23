@@ -443,6 +443,7 @@ categories:
     is_home: false
 - name: Cây Phát Tài Núi
   description:
+  - "- Còn có tên gọi là: Phất Dụ Rồng, Phát Tài Núi, Huyết Rồng."
   - "- Chiều cao cây: 60cm, 1m1 và 1m4 (Tính từ gốc lên đến ngọn cao nhất khi chưa
     tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
@@ -463,17 +464,23 @@ categories:
     description: []
     images:
     - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
+    - "/v1624432142/CC162-4-1-3_klc9ya.jpg"
+    - "/v1624432142/CC162-7-3_a2nzhp.jpg"
     price: "820000"
     is_home: false
   - name: Cây Phát Tài Núi 1m1
     description: []
     images:
+    - "/v1624432142/CC162-7-3_a2nzhp.jpg"
+    - "/v1624432142/CC162-4-1-3_klc9ya.jpg"
     - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
     price: "1160000"
     is_home: false
   - name: Cây Phát Tài Núi 1m4
     description: []
     images:
+    - "/v1624432142/CC162-4-1-3_klc9ya.jpg"
+    - "/v1624432142/CC162-7-3_a2nzhp.jpg"
     - "/v1623141979/z2523928200741_3e38ce612a3146568ce5e86ab8940d89-2-2_ekiead.jpg"
     price: "1550000"
     is_home: false
