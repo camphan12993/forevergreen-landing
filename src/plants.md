@@ -2,6 +2,58 @@
 layout: gallery.liquid
 title: CÂY XANH NỘI THẤT
 categories:
+- name: Cây Oliu
+  description:
+  - "- Chiều cao cây: 90cm; 1m2; 1m5 và 1m7 (Tính từ gốc lên đến ngọn cao nhất khi
+    chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, có thể uốn nắn, tạo hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Oliu 90cm
+    description: []
+    images:
+    - "/v1624440227/d_jjzpr3.jpg"
+    - "/v1624440228/z2539966120279_5b523864cdaead09cc42a58d6d894da3_xhomig.jpg"
+    - "/v1624440227/z2539966116403_d290df3459433d1b5bfadf5b9ce356aa_o8neca.jpg"
+    - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
+    price: "770000"
+    is_home: false
+  - name: Cây Oliu 1m2
+    description: []
+    images:
+    - "/v1624440227/c%C3%A2y_oliu2-2_z5afts.jpg"
+    - "/v1624440226/z2523917766702_cf944f55360330191b4d9982f2fb5764-2-2_tkuwuv.jpg"
+    - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
+    price: "1040000"
+    is_home: false
+  - name: Cây Oliu 1m5
+    description: []
+    images:
+    - "/v1624440228/z2539966120279_5b523864cdaead09cc42a58d6d894da3_xhomig.jpg"
+    - "/v1624440227/z2539966116403_d290df3459433d1b5bfadf5b9ce356aa_o8neca.jpg"
+    - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
+    price: "1430000"
+    is_home: false
+  - name: Cây Oliu 1m7
+    description: []
+    images:
+    - "/v1624440228/c%C3%A2y_oliu3-2_imhe5x.jpg"
+    - "/v1624440227/c%C3%A2y_oliu4-2_aijcn7.jpg"
+    - "/v1624440227/d_jjzpr3.jpg"
+    - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
+    price: "1670000"
+    is_home: false
 - name: Cây Bàng Singapore
   description:
   - "- Chiều cao cây: 50cm, 90cm, 1m2 và 1m5 (Tính từ gốc lên đến ngọn cao nhất khi
