@@ -420,6 +420,7 @@ categories:
   - name: Cây Thiết Mộc Lan 1m
     description: []
     images:
+    - "/v1624353713/79cebca6d6d622887bc7_pl9sji.jpg"
     - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
     price: "630000"
     is_home: false
@@ -427,18 +428,24 @@ categories:
     description: []
     images:
     - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    - "/v1624353713/79cebca6d6d622887bc7_pl9sji.jpg"
+    - "/v1624439351/2_gb2ksn.jpg"
     price: "850000"
     is_home: false
   - name: Cây Thiết Mộc Lan 1m6
     description: []
     images:
+    - "/v1624439351/1_nrdckf.jpg"
     - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    - "/v1624353713/79cebca6d6d622887bc7_pl9sji.jpg"
     price: "1250000"
     is_home: false
   - name: Cây Thiết Mộc Lan 1m8
     description: []
     images:
+    - "/v1624439351/2_gb2ksn.jpg"
     - "/v1623827237/163598584_873266196581042_7755489722248201320_n_lulfwt.jpg"
+    - "/v1624353713/79cebca6d6d622887bc7_pl9sji.jpg"
     price: "1330000"
     is_home: false
 - name: Cây Phát Tài Núi
