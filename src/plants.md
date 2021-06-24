@@ -40,9 +40,9 @@ categories:
   - name: Cây Oliu 1m5
     description: []
     images:
-    - "/v1624440228/z2539966120279_5b523864cdaead09cc42a58d6d894da3_xhomig.jpg"
-    - "/v1624440227/z2539966116403_d290df3459433d1b5bfadf5b9ce356aa_o8neca.jpg"
     - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
+    - "/v1624440227/z2539966116403_d290df3459433d1b5bfadf5b9ce356aa_o8neca.jpg"
+    - "/v1624440228/z2539966120279_5b523864cdaead09cc42a58d6d894da3_xhomig.jpg"
     price: "1430000"
     is_home: false
   - name: Cây Oliu 1m7
@@ -54,12 +54,12 @@ categories:
     - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
     price: "1670000"
     is_home: false
-- name: Cây Bàng Singapore
+- name: Cây Thạch Nam Nhật Bản
   description:
-  - "- Chiều cao cây: 50cm, 90cm, 1m2 và 1m5 (Tính từ gốc lên đến ngọn cao nhất khi
-    chưa tỏa cành)."
-  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân giả gỗ dễ uốn nắn, tạo
-    hình. "
+  - "- Chiều cao cây:  1m4, 1m7 và 1m9 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình. "
   - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
   - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
   - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
@@ -72,40 +72,29 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
-  - name: Cây Bàng Singapore 50cm
+  - name: Cây Cẩm Thạch 1m4
     description: []
     images:
-    - "/v1623139576/89750485_141479724017502_4923922822222315520_n_sxwawx.jpg"
-    - "/v1623315166/bc337af437a6c3f89ab7-2_pv4ucb.jpg"
-    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
-    price: "420000"
+    - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
+    - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
+    price: "1150000"
     is_home: false
-  - name: Cây bàng Singapore 90cm
+  - name: Cây Cẩm Thạch 1m7
     description: []
     images:
-    - "/v1623307981/o_dtjas7.jpg"
-    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
-    - "/v1623307982/8bcad16f9c3d6863312c_zitc6u.jpg"
-    - "/v1623307982/bc337af437a6c3f89ab7-2_desblg.jpg"
-    price: "1020000"
+    - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
+    - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
+    - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
+    price: "1630000"
     is_home: false
-  - description:
-    - "- Chiều cao cây: 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành."
-    images:
-    - "/v1623139818/z2524000261215_c08f908a141e2d792d07057f6a7f318c-2-2_ohrvot.jpg"
-    - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
-    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
-    price: "1060000"
-    is_home: false
-    name: Cây bàng Singapore 1m2
-  - name: Cây Bàng Singapore 1m5
+  - name: Cây Cẩm Thạch 1m9
     description: []
     images:
-    - "/v1623315168/cc63_3f6dfb2c8eaf4e618f3858ba3d000c8c-2_gyx1gp.jpg"
-    - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
-    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
-    - "/v1623308158/bc337af437a6c3f89ab7-2_c6xdrh.jpg"
-    price: "1330000"
+    - "/v1623315344/a-2-2_eg7yo8.jpg"
+    - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
+    - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
+    - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
+    price: "2080000"
     is_home: false
 - name: Cây Trầu Bà Thanh Xuân
   description:
@@ -199,6 +188,59 @@ categories:
     - "/v1623140498/c_rgio68.jpg"
     price: "1670000"
     is_home: false
+- name: Cây Bàng Singapore
+  description:
+  - "- Chiều cao cây: 50cm, 90cm, 1m2 và 1m5 (Tính từ gốc lên đến ngọn cao nhất khi
+    chưa tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân giả gỗ dễ uốn nắn, tạo
+    hình. "
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Bàng Singapore 50cm
+    description: []
+    images:
+    - "/v1623139576/89750485_141479724017502_4923922822222315520_n_sxwawx.jpg"
+    - "/v1623315166/bc337af437a6c3f89ab7-2_pv4ucb.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
+    price: "420000"
+    is_home: false
+  - name: Cây bàng Singapore 90cm
+    description: []
+    images:
+    - "/v1623307981/o_dtjas7.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
+    - "/v1623307982/8bcad16f9c3d6863312c_zitc6u.jpg"
+    - "/v1623307982/bc337af437a6c3f89ab7-2_desblg.jpg"
+    price: "1020000"
+    is_home: false
+  - description:
+    - "- Chiều cao cây: 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành."
+    images:
+    - "/v1623139818/z2524000261215_c08f908a141e2d792d07057f6a7f318c-2-2_ohrvot.jpg"
+    - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
+    price: "1060000"
+    is_home: false
+    name: Cây bàng Singapore 1m2
+  - name: Cây Bàng Singapore 1m5
+    description: []
+    images:
+    - "/v1623315168/cc63_3f6dfb2c8eaf4e618f3858ba3d000c8c-2_gyx1gp.jpg"
+    - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
+    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
+    - "/v1623308158/bc337af437a6c3f89ab7-2_c6xdrh.jpg"
+    price: "1330000"
+    is_home: false
 - name: Cây Mộc Hương
   description:
   - "- Chiều cao cây: 1m5, 1m8 và 2m1 (Tính từ gốc lên đến ngọn cao nhất khi chưa
@@ -236,48 +278,6 @@ categories:
     - "/v1623311544/z2523917779511_b75902bbbdec8c0bb13f8a42a982f1b4-2-2_eah1tc.jpg"
     price: "2200000"
     description: []
-    is_home: false
-- name: Cây Thạch Nam Nhật Bản
-  description:
-  - "- Chiều cao cây:  1m4, 1m7 và 1m9 (Tính từ gốc lên đến ngọn cao nhất khi chưa
-    tỏa cành)."
-  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
-    sống động, dễ uốn nắn, tạo hình. "
-  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
-  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
-    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
-    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
-    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-  - "- Giá chưa bao gồm chậu Composite."
-  - "- FREESHIP nội thành Đà Nẵng."
-  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
-    gốc thêm cho sinh động nhé."
-  items:
-  - name: Cây Cẩm Thạch 1m4
-    description: []
-    images:
-    - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
-    - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
-    price: "1150000"
-    is_home: false
-  - name: Cây Cẩm Thạch 1m7
-    description: []
-    images:
-    - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
-    - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
-    - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
-    price: "1630000"
-    is_home: false
-  - name: Cây Cẩm Thạch 1m9
-    description: []
-    images:
-    - "/v1623315344/a-2-2_eg7yo8.jpg"
-    - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
-    - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
-    - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
-    price: "2080000"
     is_home: false
 - name: 'Cây Ngâu '
   description:
