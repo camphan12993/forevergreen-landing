@@ -34,7 +34,7 @@ categories:
     - "/v1624520501/z2523917785466_d329d62f4e0fad433af6df9dd1bebd21-2_u1eklf.jpg"
     - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
     - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
-    price: ''
+    price: "1230000"
     is_home: false
   - name: Cây Bạch Đàn 1m8
     description: []
@@ -43,7 +43,7 @@ categories:
     - "/v1624520500/z2523917782769_60c4947509acf8abca80fa340e0767e9-2_i3omm6.jpg"
     - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
     - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
-    price: ''
+    price: "1670000"
     is_home: false
 - name: Cây Oliu
   description:
