@@ -2,6 +2,49 @@
 layout: gallery.liquid
 title: CÂY XANH NỘI THẤT
 categories:
+- name: Cây Bạch Đàn
+  description:
+  - "- Chiều cao cây: 1m2; 1m5 và 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+    tỏa cành)."
+  - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
+    sống động, dễ uốn nắn, tạo hình."
+  - "- Cây đã có sẵn 1 chậu nhựa đen. Shop TẶNG kèm Giỏ cối xinh xắn cho Khách nhé."
+  - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu)."
+  - "- Hướng dẫn sử dụng: Thích hợp để trang trí nội thất gia đình, nhà hàng, khách
+    sạn hoặc dựng tiểu cảnh. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+    cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé."
+  - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt có
+    pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+  - "- Giá chưa bao gồm chậu Composite."
+  - "- FREESHIP nội thành Đà Nẵng."
+  - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
+    gốc thêm cho sinh động nhé."
+  items:
+  - name: Cây Bạch Đàn 1m2
+    description: []
+    images:
+    - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
+    - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
+    price: "1040000"
+    is_home: false
+  - name: Cây Bạch Đàn 1m5
+    description: []
+    images:
+    - "/v1624520500/z2523917782769_60c4947509acf8abca80fa340e0767e9-2_i3omm6.jpg"
+    - "/v1624520501/z2523917785466_d329d62f4e0fad433af6df9dd1bebd21-2_u1eklf.jpg"
+    - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
+    - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
+    price: ''
+    is_home: false
+  - name: Cây Bạch Đàn 1m8
+    description: []
+    images:
+    - "/v1624520501/z2523917785466_d329d62f4e0fad433af6df9dd1bebd21-2_u1eklf.jpg"
+    - "/v1624520500/z2523917782769_60c4947509acf8abca80fa340e0767e9-2_i3omm6.jpg"
+    - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
+    - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
+    price: ''
+    is_home: false
 - name: Cây Oliu
   description:
   - "- Chiều cao cây: 90cm; 1m2; 1m5 và 1m7 (Tính từ gốc lên đến ngọn cao nhất khi
