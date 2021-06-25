@@ -231,6 +231,43 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Bụi Lá Cau - Bụi Lá Dừa
+    description:
+    - "- Kích thước: Cao 81 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Mỗi nhánh lá dài tầm 70 cm."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624606417/z2431924972178_24ecfefc949ed917d284df1ff7280e57_m9svkk.jpg"
+    - "/v1624606403/C%C3%A0nh_cau_d%C3%A0i3_mryed7.jpg"
+    - "/v1624606402/C%C3%A0nh_cau_d%C3%A0i2_ubgjbl.jpg"
+    - "/v1624606402/C%C3%A0nh_cau_d%C3%A0i_smo0iq.jpg"
+    price: "152000"
+    is_home: false
+  - name: Lá Cau - Lá Dừa
+    description:
+    - "- Kích thước: Cao 68 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624606252/C%C3%A0nh_cau_ondbjx.jpg"
+    - "/v1624606541/z2431924977135_99cf6f032f47dda2c99ea5b6bc76737a_byl6xi.jpg"
+    price: "35000"
+    is_home: false
   - name: Cành Vạn Niên Thanh
     description:
     - "- Mỗi nhánh lá dài tầm 30 cm."
