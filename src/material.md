@@ -248,23 +248,6 @@ categories:
     - "/v1624607301/c%C3%A0nh_h%C6%B0%C6%A1ng_th%E1%BA%A3o_pufsl4.jpg"
     price: "90000"
     is_home: false
-  - name: Tảo Lá Tròn
-    description:
-    - "- Kích thước: Cao 40 (cm) tính từ gốc đến đỉnh cành cao nhất."
-    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
-      nắn, tạo hình. "
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
-    - "- Mỗi nhánh lá dài tầm 20 cm."
-    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
-      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
-      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
-      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
-    images:
-    - "/v1624607187/t%E1%BA%A3o_l%C3%A1_tr%C3%B2n_dh8jjo.jpg"
-    price: "87000"
-    is_home: false
   - name: Cành Đinh Lăng
     description:
     - "- Kích thước: Cao 30 (cm) tính từ gốc đến đỉnh cành cao nhất."
@@ -281,6 +264,23 @@ categories:
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
     - "/v1624607075/c%C3%A0nh_%C4%91inh_l%C4%83ng_hjw8jk.jpg"
+    price: "87000"
+    is_home: false
+  - name: Tảo Lá Tròn
+    description:
+    - "- Kích thước: Cao 40 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Mỗi nhánh lá dài tầm 20 cm."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624607187/t%E1%BA%A3o_l%C3%A1_tr%C3%B2n_dh8jjo.jpg"
     price: "87000"
     is_home: false
   - name: 'Tảo Lá Sao '
