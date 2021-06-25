@@ -467,12 +467,41 @@ categories:
     - "/v1618370313/z2431924907745_a3521bc71034ec2036b8d6675aa5cc88_zicoqr.jpg"
     price: "90000"
     is_home: false
-  - name: Cành Không Khí Dài
+  - name: Cành Không Khí Dài 35cm
     description:
-    - 'Chất liệu: Nhựa PE cao cấp an toàn, dễ uốn dẻo. Chiều cao cành là 55cm.'
-    - 'Xuất xứ: hàng TW Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu).'
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa giả gỗ
+      dễ uốn nắn, tạo hình. "
+    - "- Kích thước: Cao 35 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Mỗi cành gồm 3 nhánh."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
+    - "/v1624605777/c%C3%A0nh_kh%C3%B4ng_kh%C3%AD_d%C3%A0i_to_-_xanh_t%C3%ADa_zxbkbx.jpg"
+    price: ''
+    is_home: false
+  - name: Cành Không Khí Dài 55cm
+    description:
+    - "- Màu sắc: Xanh nhạt; Đỏ; Xanh tía."
+    - "- Kích thước: Cao 55 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa giả gỗ
+      dễ uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Mỗi cây gồm 2 nhánh và 3 hoa."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624605451/c%C3%A0nh_kh%C3%B4ng_kh%C3%AD_-_xanh_v%C3%A0ng_edcbok.jpg"
     - "/v1618371616/z2431924928020_5e14e837d194475e1112c0862abd9ca3_yur8hf.jpg"
+    - "/v1624605451/c%C3%A0nh_kh%C3%B4ng_kh%C3%AD_d%C3%A0i_-_nh%E1%BB%8F_myeu5j.jpg"
     price: "210000"
     is_home: true
 - name: Cành Hoa - Quả
