@@ -702,10 +702,22 @@ categories:
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
   - name: Cành Đào Đông
-    description: []
+    description:
+    - "- Chiều cao: 90 (cm) tính từ gốc đến ngọn cao nhất."
+    - "- Chất liệu: Hoa chất liệu xốp chuyên dụng, phủ sơn đỏ bền màu, tự nhiên. Thân
+      cây dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Sau khi nhận hàng nếu có khó khăn trong việc
+      cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
     images:
     - "/v1624696585/%C4%91%C3%A0o_%C4%91%C3%B4ng-2_mvxsxn.jpg"
-    price: ''
+    - "/v1624696607/DSC00043-3-2-3_whlpj8.jpg"
+    - "/v1624696607/DSC00055-3-2-3_sashvs.jpg"
+    - "/v1624696607/DSC00042-3-2-3_cxmwdn.jpg"
+    price: "110000"
     is_home: false
   - name: Cành Hoa Lan Ý
     description:
