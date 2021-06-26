@@ -289,7 +289,7 @@ categories:
     - "/v1624697016/NC103-4-2_-_Ch%C3%A2n_v%E1%BB%8Bt_su_vtpmue.jpg"
     - "/v1624697015/NC103-2-2_-_Ch%C3%A2n_v%E1%BB%8Bt_su_mpc17g.jpg"
     price: "150000"
-    is_home: false
+    is_home: true
   - name: 'Lá Chuối Đơn '
     description:
     - "- Kích thước: Cao 85 (cm) tính từ gốc đến đỉnh cành cao nhất."
