@@ -636,7 +636,9 @@ categories:
   - name: Cây Dừa Cảnh 1m1
     description: []
     images:
-    - "/v1623310184/d%E1%BB%ABa1-2_zqotfo.jpg"
+    - "/v1624689510/CC65-3-1-2_bh4qzt.jpg"
+    - "/v1624689499/z2572172400892_120f623e42d89f6060e772426e39baaf-2_wwvy56.jpg"
+    - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
     - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
     - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
     price: "770000"
@@ -645,6 +647,8 @@ categories:
     description: []
     images:
     - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
+    - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
+    - "/v1624689499/z2572172400892_120f623e42d89f6060e772426e39baaf-2_wwvy56.jpg"
     - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
     - "/v1623310184/d%E1%BB%ABa1-2_zqotfo.jpg"
     price: "1040000"
@@ -652,16 +656,21 @@ categories:
   - name: Cây Dừa Cảnh 1m6
     description: []
     images:
-    - "/v1623310184/d%E1%BB%ABa1-2_zqotfo.jpg"
     - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
+    - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
+    - "/v1624689499/z2572172400892_120f623e42d89f6060e772426e39baaf-2_wwvy56.jpg"
+    - "/v1623310184/d%E1%BB%ABa1-2_zqotfo.jpg"
     - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
     price: "1250000"
     is_home: false
   - name: Cây Dừa Cảnh 2m
     description: []
     images:
-    - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
+    - "/v1624689567/d2eb112079508d0ed441_vgyp3h.jpg"
     - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
+    - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
+    - "/v1624689499/z2572172400892_120f623e42d89f6060e772426e39baaf-2_wwvy56.jpg"
+    - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
     price: "2400000"
     is_home: false
 - name: Cây Cau
