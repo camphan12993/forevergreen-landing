@@ -701,6 +701,12 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Đào Đông
+    description: []
+    images:
+    - "/v1624696585/%C4%91%C3%A0o_%C4%91%C3%B4ng-2_mvxsxn.jpg"
+    price: ''
+    is_home: false
   - name: Cành Hoa Lan Ý
     description:
     - "- Chiều cao: 60 (cm) tính từ gốc đến ngọn lá cao nhất."
