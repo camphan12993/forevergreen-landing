@@ -231,6 +231,65 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cụm Lá Môn
+    description:
+    - "- Kích thước: Cao 68 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu su cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
+      tạo hình. "
+    - "- 1 cụm gồm 7 nhánh lá."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624697239/C%C3%A0nh_m%C3%B4n_gi%E1%BA%A3_1-2_dmgftx.jpg"
+    - "/v1624697241/c%C3%A0nh_m%C3%B4n_gi%E1%BA%A3-2_clcfto.jpg"
+    - "/v1624697242/c%C3%A0nh_tr%E1%BA%A7u_b%C3%A0-2_-_C%C3%A0nh_m%C3%B4n_gi%E1%BA%A3_p7spzb.jpg"
+    price: "150000"
+    is_home: false
+  - name: 'Cụm Trầu Bà Lá Rách '
+    description:
+    - "- Còn được gọi là: Trầu Bà Lá Lỗ/Trầu Bà Cửa Sổ/Trúc Lưng Rùa (Monstera oblique)."
+    - "- Kích thước: Cao 75 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu su cứng cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- 1 cụm gồm 7 nhánh lá, màu sắc chân thực."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624697175/C%E1%BB%A5m_l%C3%A1_r%C3%A1ch_cao_su2_ahllyt.jpg"
+    - "/v1624697178/C%E1%BB%A5m_l%C3%A1_r%C3%A1ch_cao_su3_ck9ro5.jpg"
+    - "/v1624697175/C%E1%BB%A5m_l%C3%A1_r%C3%A1ch_cao_su1_mstnhw.jpg"
+    - "/v1624697177/C%E1%BB%A5m_l%C3%A1_r%C3%A1ch_cao_su4_zhffjw.jpg"
+    price: "150000"
+    is_home: false
+  - name: Cụm Lá Trầu Bà Chân Vịt
+    description:
+    - "- Tên khoa học: Philodendron xanadu."
+    - "- Kích thước: Cao 68 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu su cứng cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- 1 cụm gồm 7  nhánh lá."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624697016/NC103-4-2_-_Ch%C3%A2n_v%E1%BB%8Bt_su_vtpmue.jpg"
+    - "/v1624697015/NC103-2-2_-_Ch%C3%A2n_v%E1%BB%8Bt_su_mpc17g.jpg"
+    price: "150000"
+    is_home: false
   - name: 'Lá Chuối Đơn '
     description:
     - "- Kích thước: Cao 85 (cm) tính từ gốc đến đỉnh cành cao nhất."
