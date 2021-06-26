@@ -701,6 +701,24 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Hoa Lan Ý
+    description:
+    - "- Chiều cao: 60 (cm) tính từ gốc đến ngọn lá cao nhất."
+    - "- 1 cây hoa gồm: 2 hoa trắng và 10 lá lớn nhỏ xen kẽ sinh động, hài hòa."
+    - "- Chất liệu: Hoa chất liệu su cứng cao cấp, an toàn  mềm mại, tự nhiên. Thân
+      cây chất liệu nhựa đặc chắc chắn nhưng vẫn đảm bảo dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Sau khi nhận hàng nếu có khó khăn trong việc
+      cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624692313/C%C3%A2y_lan_%C3%BD-2_qw5cht.jpg"
+    - "/v1624692312/c%C3%A2y_lan_%C3%BD1-2_dp0u5l.jpg"
+    - "/v1624692313/c%C3%A2y_Lan_%C3%BD_wmmlqr.jpg"
+    price: ''
+    is_home: false
   - name: Hoa Mộc Lan Trắng Đại
     description:
     - "- Chiều cao: 76 (cm) tính từ gốc đến ngọn cao nhất."
