@@ -82,26 +82,6 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
-  - name: Dây Lộc Vừng
-    description:
-    - "- Kích thước: dài 72 (cm) tính từ gốc đến ngọn cao nhất."
-    - "- 1 cụm gồm 5 dây rũ ngắn dài xen kẽ tự nhiên."
-    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
-      nắn, tạo hình."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
-    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
-      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
-      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
-      dẫn chi tiết nhé."
-    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
-      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
-    images:
-    - "/v1624697485/D%C3%A2y_l%E1%BB%99c_v%E1%BB%ABng_lrjy4e.jpg"
-    - "/v1624697509/sen_%C4%91%C3%A13-2_eheoxh.jpg"
-    - "/v1624697508/KTT32-2_nkr1wj.jpg"
-    - "/v1624697507/KTT31-1-1-2_j11kaz.jpg"
-    price: "90000"
-    is_home: false
   - name: Dây Rừng
     description:
     - "- Giá bán: 50.000 đồng/cuộn. "
@@ -138,6 +118,26 @@ categories:
     - "/v1624090121/c%C3%A0nh_c%E1%BB%95_ch%E1%BB%93i_non1_hqkl8n.jpg"
     - "/v1624090121/c%C3%A0nh_c%E1%BB%95_ch%E1%BB%93i_non_heeaa2.jpg"
     price: "235000"
+    is_home: false
+  - name: Dây Lộc Vừng
+    description:
+    - "- Kích thước: dài 72 (cm) tính từ gốc đến ngọn cao nhất."
+    - "- 1 cụm gồm 5 dây rũ ngắn dài xen kẽ tự nhiên."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    - "- Hướng dẫn sử dụng: Thích hợp làm Chậu/Hộp cây rũ treo trang trí trần hoặc
+      làm Nguyên vật liệu thi công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó
+      khăn trong việc cắm, uốn cành bạn có thể inbox cho shop để nhận video hướng
+      dẫn chi tiết nhé."
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
+    images:
+    - "/v1624697485/D%C3%A2y_l%E1%BB%99c_v%E1%BB%ABng_lrjy4e.jpg"
+    - "/v1624697509/sen_%C4%91%C3%A13-2_eheoxh.jpg"
+    - "/v1624697508/KTT32-2_nkr1wj.jpg"
+    - "/v1624697507/KTT31-1-1-2_j11kaz.jpg"
+    price: "90000"
     is_home: false
   - name: Dương Xỉ Rủ Dài
     description:
@@ -251,10 +251,26 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
-  - name: ''
-    description: []
-    images: []
-    price: ''
+  - name: Cành Lá Khuynh Diệp
+    description:
+    - "- Còn được gọi là: Cành cây Silver Dollar, Lá Táo."
+    - "- Kích thước: Cao 98 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa nâu dễ
+      uốn nắn, tạo hình. "
+    - "- 1 cành gồm 5  nhánh lá."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Vòng treo cửa, Nguyên vật liệu thi
+      công Mảng xanh nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn
+      cành bạn có thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624697912/C%C3%A0nh_c%C3%A2y_silver_dollar-2_dih2or.jpg"
+    - "/v1624697912/C%C3%A0nh_c%C3%A2y_silver_dollar2-2_tell13.jpg"
+    - "/v1624697911/C%C3%A0nh_c%C3%A2y_silver_dollar1-2_arrvdp.jpg"
+    - "/v1624697912/V%C3%B2ng_D%C3%A2y_Silver_Dollar-2_ftjpq0.jpg"
+    price: "75000"
     is_home: false
   - name: Cụm Lá Môn
     description:
