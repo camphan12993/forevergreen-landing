@@ -836,6 +836,51 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Hoa Thiên Điểu
+    description:
+    - "- Hoa Thiên Điểu hình dạng tựa dáng Chim thiên đường, tượng trưng cho sự mạnh
+      mẽ, gắn kết, kiên trì của cặp đôi, sự tự do trong tình yêu đôi lứa."
+    - "- Kích thước: Cao 95 cm) tính từ gốc đến đỉnh hoa cao nhất khi chưa tạo hình."
+    - "- Chất liệu: Hoa chất liệu su cao cấp, an toàn. Thân thép bọc nhựa dễ uốn nắn,
+      tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624865265/DSC00179-3-2-3_hrik90.jpg"
+    - "/v1624865265/DSC00139-3-2-3_qicr5o.jpg"
+    - "/v1624865265/DSC00136-3-2-3_t0wzwl.jpg"
+    price: "90000"
+    is_home: false
+  - name: Cành Hoa Cúc Họa Mi
+    description:
+    - "- Màu sắc: Trắng."
+    - "- Kích thước: Cao 64 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Chất liệu: Lá chất liệu vải cao cấp, mềm mại. Thân thép bọc nhựa dễ uốn nắn,
+      tạo hình. "
+    - "- 1 cành hoa gồm 5 nhánh nhỏ, mỗi nhánh gồm 3 hoa và lá lớn nhỏ xen kẽ hài
+      hòa."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    - "- Hướng dẫn sử dụng: Thích hợp để thả lọ/bình thủy tính trang trí bàn ở phòng
+      khách, phòng ngủ, phòng làm việc. Hoặc làm Nguyên vật liệu thi công Mảng xanh
+      nhân tạo. Sau khi nhận hàng nếu có khó khăn trong việc cắm, uốn cành bạn có
+      thể inbox cho shop để nhận video hướng dẫn chi tiết nhé. "
+    - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
+      có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
+    images:
+    - "/v1624865202/DSC00187-3-2-3_c0bckx.jpg"
+    - "/v1624865202/DSC00184-3-2-3_gkrffj.jpg"
+    - "/v1624865202/DSC00197-3-2-3_dw4aex.jpg"
+    - "/v1624865202/DSC00213-3-2-3_opfdid.jpg"
+    - "/v1624865202/DSC00212-3-2-3_zh2ouv.jpg"
+    - "/v1624865202/DSC00208-3-2-3_pewm06.jpg"
+    - "/v1624865202/DSC00228-3-2-3_z7y0hr.jpg"
+    price: "55000"
+    is_home: false
   - name: Cành Đào Đông
     description:
     - "- Chiều cao: 90 (cm) tính từ gốc đến ngọn cao nhất."
