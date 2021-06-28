@@ -174,7 +174,7 @@ categories:
     images:
     - "/v1624086433/s%C3%B3ng_r%C5%A9_xeauog.jpg"
     - "/v1624086433/s%C3%B3ng_r%C5%A91_n2y3un.jpg"
-    price: ''
+    price: "90000"
     is_home: false
   - name: Dây Rũ Liễu Tú Cầu
     description:
