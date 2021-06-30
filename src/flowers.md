@@ -131,7 +131,7 @@ categories:
     - "/v1616135527/MAP_7948_tz6unc.jpg"
     - "/v1616135528/MAP_7949_akjzsd.jpg"
     - "/v1616135528/MAP_7950_htdqdf.jpg"
-    price: ''
+    price: "900000"
     is_home: false
   - name: Bình Hoa Thiết Mộc Lan Xanh Đại
     description:
