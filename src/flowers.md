@@ -62,10 +62,10 @@ categories:
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
-    - "/v1622709845/DSC00261-2_h5desh.jpg"
-    - "/v1622709845/DSC00289-2_ro5kde.jpg"
-    - "/v1622709845/DSC00277-2_kfdmao.jpg"
-    price: ''
+    - "/v1625039229/DSC00261-3-2_xff4bc.jpg"
+    - "/v1625039228/DSC00289-3-2_pqhnx1.jpg"
+    - "/v1625039229/DSC00277-3-2_tafexb.jpg"
+    price: "1200000"
     is_home: true
   - name: Bình hoa cổ điển Châu Âu 02
     description:
@@ -81,11 +81,11 @@ categories:
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
-    - "/v1622710471/DSC00379-2_udpzlz.jpg"
-    - "/v1622710471/DSC00377-2_gvhurq.jpg"
-    - "/v1622710471/DSC00370-2_xnwba1.jpg"
-    - "/v1622710471/DSC00396-2_wprsgx.jpg"
-    price: ''
+    - "/v1625039295/DSC00379-3-2_zzrdui.jpg"
+    - "/v1625039298/DSC00396-3-2_a72jnm.jpg"
+    - "/v1625039297/DSC00377-3-2_pkav1p.jpg"
+    - "/v1625039298/DSC00370-3-2_mkzbxz.jpg"
+    price: "800000"
     is_home: false
   - name: Bình hoa cổ điển Châu Âu 03
     description:
@@ -100,10 +100,10 @@ categories:
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
-    - "/v1622710639/DSC00319-2_fzq6xr.jpg"
-    - "/v1622710639/DSC00312-2_br46ak.jpg"
-    - "/v1622710639/DSC00308-2_jg3jxx.jpg"
-    price: ''
+    - "/v1625039350/DSC00319-3-2_etlzlc.jpg"
+    - "/v1625039351/DSC00305-3-2_jcgj0r.jpg"
+    - "/v1625039350/DSC00312-3-2_xx9vpc.jpg"
+    price: "700000"
     is_home: false
   - name: Bình hoa cổ điển Châu Âu 04
     description:
@@ -113,10 +113,10 @@ categories:
       đấy. Đây chắc chắn là Best choice trưng bày khu vực bếp hoặc phòng ngủ nhé."
     - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
     images:
-    - "/v1622710184/DSC00351-2_fkcywr.jpg"
-    - "/v1622710184/DSC00364-2_duwgb7.jpg"
-    - "/v1622710184/DSC00344-2_g2mtzz.jpg"
-    price: 1.200.000
+    - "/v1625039383/DSC00351-3-2_i5eqk0.jpg"
+    - "/v1625039383/DSC00364-3-2_clbta5.jpg"
+    - "/v1625039382/DSC00344-3-2_bgliii.jpg"
+    price: "1200000"
     is_home: false
   - name: Bình Hoa Huệ Tây Vàng
     description:
