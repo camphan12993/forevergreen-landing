@@ -313,6 +313,7 @@ categories:
   - name: Cây Bạch Đàn 1m2
     description: []
     images:
+    - "/v1625906728/z2590058651446_0c59cd39893e702012dae91fe90c69f6-2_hgajym.jpg"
     - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
     - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
     price: "1040000"
@@ -320,18 +321,18 @@ categories:
   - name: Cây Bạch Đàn 1m5
     description: []
     images:
+    - "/v1625906729/z2590058646413_bc1d7ee35638e8fb13eccc0e01b5c911-2_h2i2lx.jpg"
     - "/v1624520500/z2523917782769_60c4947509acf8abca80fa340e0767e9-2_i3omm6.jpg"
     - "/v1624520501/z2523917785466_d329d62f4e0fad433af6df9dd1bebd21-2_u1eklf.jpg"
-    - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
     - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
     price: "1230000"
     is_home: false
   - name: Cây Bạch Đàn 1m8
     description: []
     images:
+    - "/v1625906729/z2590058649872_a2e466c7be1d94c71de5639e5b6694d8-2_ks3xko.jpg"
     - "/v1624520501/z2523917785466_d329d62f4e0fad433af6df9dd1bebd21-2_u1eklf.jpg"
     - "/v1624520500/z2523917782769_60c4947509acf8abca80fa340e0767e9-2_i3omm6.jpg"
-    - "/v1624520501/z2539966116285_260344c063304e00d2b0c8959dd9f335_izfgyh.jpg"
     - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
     price: "1670000"
     is_home: false
@@ -396,6 +397,8 @@ categories:
   - name: Cây Thiên Điểu 1m4
     description: []
     images:
+    - "/v1625906811/z2590058651737_52a53fd32f458184c2dd3860dbd86be1-2_mmem7z.jpg"
+    - "/v1625906809/thi%C3%AAn_%C4%91i%E1%BB%83u_ph%E1%BB%91i-2_zntke2.jpg"
     - "/v1623308560/z2523921797693_8df0da3d1e223a81669957ffae2d84e3-2-2_vzzlex.jpg"
     - "/v1623140804/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_ety8dr.jpg"
     - "/v1623140794/z2523921820794_d58a09374927ed0ab986b4d1cb2605fe-2-2_bmppk9.jpg"
@@ -404,17 +407,21 @@ categories:
   - name: Cây Thiên Điểu 1m6
     description: []
     images:
+    - "/v1625906811/z2590058651737_52a53fd32f458184c2dd3860dbd86be1-2_mmem7z.jpg"
+    - "/v1625906809/thi%C3%AAn_%C4%91i%E1%BB%83u_ph%E1%BB%91i-2_zntke2.jpg"
     - "/v1623140794/z2523921820794_d58a09374927ed0ab986b4d1cb2605fe-2-2_bmppk9.jpg"
     - "/v1623140867/z2523921809224_5dd058d7152e22fa057ddc00cb61059a-2-2_qpwpvm.jpg"
     - "/v1623140804/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_ety8dr.jpg"
-    price: "1150000"
+    price: "1250000"
     is_home: false
   - name: Cây Thiên Điểu 1m8
     description: []
     images:
+    - "/v1625906810/z2590058646415_c9b9b1780853936867b9e2a727685447-2_u61stl.jpg"
+    - "/v1625906809/thi%C3%AAn_%C4%91i%E1%BB%83u_ph%E1%BB%91i-2_zntke2.jpg"
     - "/v1623140849/z2523921804340_bd40b9e55a74b2d23ab35d3a854e3d75-2-2_dbafmz.jpg"
     - "/v1623140849/z2523921796526_cc277fa2680a845e1342e5e3865e83be-2-2_rib7jg.jpg"
-    price: "1450000"
+    price: "1550000"
     is_home: false
 - name: Cây Chuối Dẻ Quạt
   description:
@@ -436,6 +443,7 @@ categories:
   items:
   - description: []
     images:
+    - "/v1625906908/z2590058814151_262d3e6c4d0112ac13f747398d7fd9b8-2_rxhqes.jpg"
     - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
     - "/v1623141354/e_jho0pp.jpg"
     - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
@@ -445,9 +453,9 @@ categories:
   - name: Cây Chuối Dẻ Quạt 1m2
     description: []
     images:
+    - "/v1625906908/z2590058810539_e79645f1213b67a7cf34721f482519b7-2_rao2rz.jpg"
     - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
     - "/v1623141388/z2523841987754_a440bd9d07c69e3c86bdc1226064958b-2-2_uhsf4v.jpg"
-    - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
     - "/v1623141354/e_jho0pp.jpg"
     - "/v1623141388/b_cn36uu.jpg"
     price: "1050000"
@@ -455,6 +463,7 @@ categories:
   - name: Cây Chuối Dẻ Quạt 1m6
     description: []
     images:
+    - "/v1625906907/z2590058810538_5b0348f1e79207ec99f296a8612ece72-2_nfjokh.jpg"
     - "/v1623141355/z2523842000159_2323917017927685cb8ae5e5e8d72807-2-2_nln9lm.jpg"
     - "/v1623141388/z2523841987754_a440bd9d07c69e3c86bdc1226064958b-2-2_uhsf4v.jpg"
     - "/v1623141388/e_o0q3ya.jpg"
@@ -464,6 +473,7 @@ categories:
   - name: Cây Chuối Dẻ Quạt 1m8
     description: []
     images:
+    - "/v1625906907/z2590058814150_1ff1a13c7aea41237b19dc21ce8ff3ce-2_xbhcxg.jpg"
     - "/v1623141388/b_cn36uu.jpg"
     - "/v1623141388/z2523841987754_a440bd9d07c69e3c86bdc1226064958b-2-2_uhsf4v.jpg"
     - "/v1623141388/e_o0q3ya.jpg"
@@ -472,6 +482,7 @@ categories:
   - name: Cây Chuối Dẻ Quạt 2m1
     description: []
     images:
+    - "/v1625906908/z2590058815588_880f4a866939e108c8dec0c897fec4d6-2_wm72od.jpg"
     - "/v1623141421/142586618_839787953262200_2241815226302919240_o_dkbrpz.jpg"
     - "/v1623141355/z2523841992491_8a930ed609d3462c73aedcec574e655d-2-2_bip63g.jpg"
     - "/v1623141388/b_cn36uu.jpg"
@@ -497,6 +508,7 @@ categories:
   - name: Cây Lưỡi Hổ 80cm
     description: []
     images:
+    - "/v1625907060/z2590058644013_3e98f6aa95c54b7d48b839dbe980ef42-2_nf4mou.jpg"
     - "/v1623141693/m_cbefye.jpg"
     - "/v1623141693/z2523849014585_587a23f0f04e908360be50063d20acaa-2-2_qxtb8j.jpg"
     - "/v1623141693/z2523849011922_3265d77428499a8cb1455e72ab5dd3cf-2-2_zkjzsx.jpg"
@@ -505,6 +517,7 @@ categories:
   - name: Cây Lưỡi Hổ 1m
     description: []
     images:
+    - "/v1625907060/z2590058648933_9436c9efd8dd541a81f7fe7eb50a0a0e-2_iwrvpv.jpg"
     - "/v1623141693/z2523849014585_587a23f0f04e908360be50063d20acaa-2-2_qxtb8j.jpg"
     - "/v1623141693/z2523849011922_3265d77428499a8cb1455e72ab5dd3cf-2-2_zkjzsx.jpg"
     - "/v1623141693/m_cbefye.jpg"
