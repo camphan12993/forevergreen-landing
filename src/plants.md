@@ -209,11 +209,12 @@ categories:
     - "/v1623140567/z2523920082331_1b3c517b132349017fc59c641a1e918a-2-2_wci2z7.jpg"
     - "/v1623140498/c_rgio68.jpg"
     - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
-    price: "815000"
+    price: "820000"
     is_home: false
   - name: Cây Trầu Bà Nam Mỹ 1m1
     description: []
     images:
+    - "/v1625906291/z2590058635735_4c418c86b8e02e8a177cf237bad8e2ff-2_ab5gtk.jpg"
     - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
     - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
     - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
@@ -223,6 +224,7 @@ categories:
   - name: Cây Trầu Bà Nam Mỹ 1m5
     description: []
     images:
+    - "/v1625906291/z2590058642836_9275d946b7ef5e86e8c939434a95af83-2_esjfjq.jpg"
     - "/v1623140498/c_rgio68.jpg"
     - "/v1623140567/z2523920077618_1eeab70d47b3e1bfcde757144c1b37a6-2-2_q3o386.jpg"
     - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
@@ -231,6 +233,7 @@ categories:
   - name: Cây Trầu Bà Nam Mỹ 1m9
     description: []
     images:
+    - "/v1625906291/z2590058642980_b0870b03e10b28b77ebaf4a2bccb9383-2_exkdkc.jpg"
     - "/v1623140609/z2523920076175_0ad4e0a3e34bc7d7d8c9f06f7a719b4c-2-2_scskkk.jpg"
     - "/v1623140609/z2523920087045_1923ed0aa554836d3ac175eff0a54079-2-2_dbyutm.jpg"
     - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
@@ -258,6 +261,7 @@ categories:
   - name: Cây Bàng Singapore 50cm
     description: []
     images:
+    - "/v1625906425/z2590058646990_fa77cd514a39b6f4b5bc7ae38864b639-2_balxfd.jpg"
     - "/v1623139576/89750485_141479724017502_4923922822222315520_n_sxwawx.jpg"
     - "/v1623315166/bc337af437a6c3f89ab7-2_pv4ucb.jpg"
     - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
@@ -266,26 +270,24 @@ categories:
   - name: Cây bàng Singapore 90cm
     description: []
     images:
-    - "/v1623307981/o_dtjas7.jpg"
-    - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
-    - "/v1623307982/8bcad16f9c3d6863312c_zitc6u.jpg"
+    - "/v1625906425/z2590058651447_6d7bc8f7c14fcafa8f34e1c204bbce58-2_zaxyns.jpg"
     - "/v1623307982/bc337af437a6c3f89ab7-2_desblg.jpg"
     price: "1020000"
     is_home: false
   - description:
     - "- Chiều cao cây: 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành."
     images:
+    - "/v1625906425/z2590058646414_4e997a660f843bcd7a52412638d8e994-2_i2estl.jpg"
     - "/v1623139818/z2524000261215_c08f908a141e2d792d07057f6a7f318c-2-2_ohrvot.jpg"
     - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
     - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
-    price: "1060000"
+    price: "1160000"
     is_home: false
     name: Cây bàng Singapore 1m2
   - name: Cây Bàng Singapore 1m5
     description: []
     images:
-    - "/v1623315168/cc63_3f6dfb2c8eaf4e618f3858ba3d000c8c-2_gyx1gp.jpg"
-    - "/v1623315166/bo-chau-cay-bang-singapore-1m6-5-nhanh-6hflkorh-2_ya4ucs.jpg"
+    - "/v1625906425/z2590058646989_93c64c2f1a8ef3c4cd47b957603a334c-2_vo5kso.jpg"
     - "/v1623315167/cay-bang-singapore-800-800-fill-jpg-2_jlij4q.jpg"
     - "/v1623308158/bc337af437a6c3f89ab7-2_c6xdrh.jpg"
     price: "1330000"
@@ -333,7 +335,7 @@ categories:
     - "/v1624520501/z2539966106944_4855eb29157c7f62cb5ae6ff5d0edf9b_eqns7f.jpg"
     price: "1670000"
     is_home: false
-- name: 'Cây Ngâu '
+- name: Cây Ngâu (Cây Hạnh Phúc)
   description:
   - "- Còn được gọi là Cây tán tròn."
   - "- Chiều cao cây: 80cm, 1m và 1m2 (Tính từ gốc lên đến ngọn cao nhất khi chưa
@@ -355,18 +357,21 @@ categories:
   - name: Cây Ngâu 80cm
     description: []
     images:
+    - "/v1625906541/z2590058814153_f33415f9c544539ec74e8935fb32064f-2_kfmvuc.jpg"
     - "/v1623315895/cay-ngau-tron-nhua-cao-cap-homeazvn-1114447498_jvii8r.jpg"
     price: "690000"
     is_home: false
   - name: Cây Ngâu 1m
     description: []
     images:
+    - "/v1625906542/z2590058815582_f915757785683d5077996b173747939f-2_bwddie.jpg"
     - "/v1623315895/cay-ngau-tron-nhua-cao-cap-homeazvn-1114447498_jvii8r.jpg"
     price: "970000"
     is_home: false
   - name: Cây Ngâu 1m2
     description: []
     images:
+    - "/v1625906541/z2590058815581_94d5673f1131abfba644aad9e041db3b-2_r5smer.jpg"
     - "/v1623315895/cay-ngau-tron-nhua-cao-cap-homeazvn-1114447498_jvii8r.jpg"
     price: "1160000"
     is_home: false
