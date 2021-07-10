@@ -23,6 +23,7 @@ categories:
   - name: Cây Oliu 90cm
     description: []
     images:
+    - "/v1625905665/z2590058651445_6c1722365e72aee21e23bbc295f69f65-2_triqwq.jpg"
     - "/v1624440227/d_jjzpr3.jpg"
     - "/v1624440228/z2539966120279_5b523864cdaead09cc42a58d6d894da3_xhomig.jpg"
     - "/v1624440227/z2539966116403_d290df3459433d1b5bfadf5b9ce356aa_o8neca.jpg"
@@ -32,6 +33,7 @@ categories:
   - name: Cây Oliu 1m2
     description: []
     images:
+    - "/v1625905665/z2590058651444_1158183d8ebeb6b2a5d01ea0827cdd3b-2_vrljxy.jpg"
     - "/v1624440227/c%C3%A2y_oliu2-2_z5afts.jpg"
     - "/v1624440226/z2523917766702_cf944f55360330191b4d9982f2fb5764-2-2_tkuwuv.jpg"
     - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
@@ -40,6 +42,7 @@ categories:
   - name: Cây Oliu 1m5
     description: []
     images:
+    - "/v1625905665/z2590058653696_e7d471fabee477dba0b3c62ba2862755-2_jnxbl1.jpg"
     - "/v1624440227/c%C3%A2y_oliu1-2_ofx9tj.jpg"
     - "/v1624440227/z2539966116403_d290df3459433d1b5bfadf5b9ce356aa_o8neca.jpg"
     - "/v1624440228/z2539966120279_5b523864cdaead09cc42a58d6d894da3_xhomig.jpg"
@@ -48,6 +51,7 @@ categories:
   - name: Cây Oliu 1m7
     description: []
     images:
+    - "/v1625905665/z2590058654451_7d1acc6297b202eb4ebbf6dbe0ad2e96-2_ogdhot.jpg"
     - "/v1624440228/c%C3%A2y_oliu3-2_imhe5x.jpg"
     - "/v1624440227/c%C3%A2y_oliu4-2_aijcn7.jpg"
     - "/v1624440227/d_jjzpr3.jpg"
@@ -56,7 +60,7 @@ categories:
     is_home: false
 - name: Cây Thạch Nam Nhật Bản
   description:
-  - "- Chiều cao cây:  1m4, 1m7 và 1m9 (Tính từ gốc lên đến ngọn cao nhất khi chưa
+  - "- Chiều cao cây:  1m2, 1m6 và 1m8 (Tính từ gốc lên đến ngọn cao nhất khi chưa
     tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
     sống động, dễ uốn nắn, tạo hình. "
@@ -72,24 +76,27 @@ categories:
   - "- Nhắn tin riêng với FG nếu bạn muốn dựng cây vào Chậu Composite và trang trí
     gốc thêm cho sinh động nhé."
   items:
-  - name: Cây Cẩm Thạch 1m4
+  - name: Cây Cẩm Thạch 1m2
     description: []
     images:
+    - "/v1625905856/z2590058639154_1f73984a09000625ff82b9d3710e98b3-2_yahgzm.jpg"
     - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
     - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
     price: "1150000"
     is_home: false
-  - name: Cây Cẩm Thạch 1m7
+  - name: Cây Cẩm Thạch 1m6
     description: []
     images:
+    - "/v1625905856/z2590058649873_65928de43dff616e5826736d49756d8a-2_upibgi.jpg"
     - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
     - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
     - "/v1623313799/c1350744e57829c3b5e4c9eea34b6506-2_s1mgyj.jpg"
     price: "1630000"
     is_home: false
-  - name: Cây Cẩm Thạch 1m9
+  - name: Cây Cẩm Thạch 1m8
     description: []
     images:
+    - "/v1625905856/z2590058633695_40574011fbc57975966bc8bc72dab27e-2_kd8zcf.jpg"
     - "/v1623315344/a-2-2_eg7yo8.jpg"
     - "/v1623315344/596a30d05da99685d2d61833daa9b2d1-2-2_l5zknk.jpg"
     - "/v1623315344/882522aa8cff588bf013a8de6601f3e8-2-2_bm5vnh.jpg"
@@ -117,6 +124,7 @@ categories:
   - name: Cây Mộc Hương 1m5
     images:
     - "/v1623311544/z2523917779511_b75902bbbdec8c0bb13f8a42a982f1b4-2-2_eah1tc.jpg"
+    - "/v1623229648/z2523846924393_452ba77c6dbb3d7ded147b65e95b817e-2-2_ahri5f.jpg"
     price: "1250000"
     description: []
     is_home: false
@@ -134,7 +142,7 @@ categories:
     price: "2200000"
     description: []
     is_home: false
-- name: Cây Trầu Bà Thanh Xuân
+- name: 'Cây Trầu Bà Thanh Xuân '
   description:
   - "- Chiều cao cây: 1m2 và 1m3 (Tính từ gốc lên đến ngọn cao nhất khi chưa tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
@@ -154,6 +162,8 @@ categories:
   - name: Cây Trầu Bà Thanh Xuân 2 nhánh cao 1m2
     description: []
     images:
+    - "/v1625906151/z2590058816461_7d12b018094ca3ebe6df52d7f6b3bce8-2_ctq8pr.jpg"
+    - "/v1625906198/IMG_5046-2-2_mpwnja.jpg"
     - "/v1623140178/z2523854144909_a1169b2e84f7aef83c86b9e4d5182aff-2-2_dypdea.jpg"
     - "/v1623140178/z2523854156088_16d7865db4ef7f858dae792c573f658d-2-2_eg8nna.jpg"
     - "/v1623140178/z2523854136214_5bb49bb5cee704d1ec618e71edc1b4c2-2-2_mcdee9.jpg"
@@ -164,6 +174,7 @@ categories:
   - name: Cây Trầu Bà Thanh Xuân 3 nhánh cao 1m3
     description: []
     images:
+    - "/v1625906176/z2590058814152_dd65deb6de26d4fbf76ac8dbc0df73ab-2_li8wrh.jpg"
     - "/v1623140255/z2523854154253_7fa2650ba8b463183af822bec8e91ae2-2-2_myywaf.jpg"
     - "/v1623140255/z2523854136214_5bb49bb5cee704d1ec618e71edc1b4c2-2-2_rpw1la.jpg"
     - "/v1623140255/z2523854135324_36d2859f9d293d2a4e19b67a201778e6-2-2_fpxjvj.jpg"
@@ -174,7 +185,7 @@ categories:
     is_home: false
 - name: Cây Trầu Bà Nam Mỹ
   description:
-  - "- Còn có tên gọi khác là: Cây Trầu bà lá sẻ hay rẻ quạt"
+  - "- Còn có tên gọi khác là: Trầu bà Lá Sẻ, Trầu bà Rẻ quạt hay Trầu bà Lá Rách."
   - "- Chiều cao cây: 80cm, 1m1, 1m5 và 1m9 (Tính từ gốc lên đến ngọn cao nhất khi
     chưa tỏa cành)."
   - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa cứng cáp,
