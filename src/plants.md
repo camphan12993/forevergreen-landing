@@ -642,12 +642,16 @@ categories:
   items:
   - name: Cây Cọ 1m5
     images:
+    - "/v1625907568/z2590058648112_4405be6055c29faa143d7aa80965db7e-2_rh9jjh.jpg"
+    - "/v1625907567/7f40de92b6e242bc1bf3_cszgzd.jpg"
     - "/v1623310988/ec35ce78f6a206fc5fb3_w4inoi.jpg"
     price: "1500000"
     description: []
     is_home: false
   - name: Cây Cọ 2m
     images:
+    - "/v1625907568/z2590058632243_6b2e5dfb3e5e7d884bc5698d0f084270-2_yhgyrc.jpg"
+    - "/v1625907567/7f40de92b6e242bc1bf3_cszgzd.jpg"
     - "/v1623310988/ec35ce78f6a206fc5fb3_w4inoi.jpg"
     price: "2000000"
     description: []
@@ -673,6 +677,7 @@ categories:
   - name: Cây Dừa Cảnh 1m1
     description: []
     images:
+    - "/v1625907648/z2590058631460_da2691c5ecdc8af336a3cc6c0b0e09ea-2_wqsorp.jpg"
     - "/v1624689510/CC65-3-1-2_bh4qzt.jpg"
     - "/v1624689499/z2572172400892_120f623e42d89f6060e772426e39baaf-2_wwvy56.jpg"
     - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
@@ -683,6 +688,7 @@ categories:
   - name: Cây Dừa Cảnh 1m4
     description: []
     images:
+    - "/v1625907648/z2590058633583_f8e268a7d23ec9f83a0c80a0a16a3418-2_papkrw.jpg"
     - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
     - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
     - "/v1624689499/z2572172400892_120f623e42d89f6060e772426e39baaf-2_wwvy56.jpg"
@@ -693,6 +699,7 @@ categories:
   - name: Cây Dừa Cảnh 1m6
     description: []
     images:
+    - "/v1625907649/z2590058638939_eb19e6972bff3d55b88a78646bba468e-2_to0bbw.jpg"
     - "/v1623142157/z2523850753531_3ed29c76ee4b01030322aeebd4b60230-2-2_pq6qki.jpg"
     - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
     - "/v1624689499/z2572172400892_120f623e42d89f6060e772426e39baaf-2_wwvy56.jpg"
@@ -703,6 +710,8 @@ categories:
   - name: Cây Dừa Cảnh 2m
     description: []
     images:
+    - "/v1625907647/z2590058639157_2f36c2752d48e6440b5f93b904d968a3-2-2_u64kfu.jpg"
+    - "/v1625907645/c%C3%A2y_d%E1%BB%ABa-2_q5buuj.jpg"
     - "/v1624689567/d2eb112079508d0ed441_vgyp3h.jpg"
     - "/v1623142159/z2523850763857_17294520b6144c46a32f27d2c569569e-2_dwe9rd.jpg"
     - "/v1624689499/z2572172400352_abeff799e4abc3bbb1c5f2953c4b369a-2_flp31d.jpg"
