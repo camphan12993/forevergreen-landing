@@ -64,8 +64,81 @@ categories:
 - name: Sen Đá - Rêu
   description: []
   items:
+  - name: Sen Đá (S11)
+    description:
+    - "- Kích thước: Cao 9,5 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây gồm 1 hoa đường kính 8 cm và thân dài 4 cm"
+    - "- Chất liệu: hoa chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629187780/Sen_%C4%91%C3%A1_S11_fxi82o.jpg"
+    - "/v1629187782/sen_%C4%91%C3%A1_S6_-_S11_ozxizz.jpg"
+    price: "105000"
+    is_home: false
+  - name: Cành Hoa Sen Đá Thân Dài
+    description:
+    - "- Liên hệ cho FG để chọn mẫu Hoa Sen Đá bạn thích nhé. "
+    - "- Mẫu mã, gồm 2 mẫu: Cánh tròn dày và Cánh mỏng hơi cong hướng lên trên."
+    - "- Màu sắc đa dạng:"
+    - "+ Cánh tròn đày, gồm 2 màu: Xanh phủ trắng và Xanh loang đỏ."
+    - "+  Cánh mỏng, gồm 3 màu: Xanh phủ trắng; Xanh loang đỏ và Xanh loang tím."
+    - "- Kích thước: Cao 41 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Cây gồm 1 hoa sen đá đường kính tầm 9 - 10 cm và thân cành dài 35cm ."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn; màu sắc loang phủ tự nhiên
+      sống động. Thân thép bọc nhựa dễ uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629187581/BS%C4%903B_kgdki9.jpg"
+    - "/v1629187581/BS%C4%903B_2_x6rv5g.jpg"
+    - "/v1629187582/BS%C4%903B_1_pnunvf.jpg"
+    price: "60000"
+    is_home: false
+  - name: Sen Đá Bé
+    description:
+    - "- Màu sắc, gồm 3 màu: Xanh lá, Vàng, và Đỏ tía."
+    - "- Kích thước: Cao 13,5 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Cây gồm 1 hoa sen đá đường kính 7 cm và thân dài 6,5 cm."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn; mặt ngoài màu xanh lá, mặt
+      trong có phủ lớp tơ bạc mịn tạo độ mốc tự nhiên sống động. Thân thép bọc nhựa
+      dễ uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629187324/sen_%C4%91%C3%A1_b%C3%A9_1_b8jjdo.jpg"
+    price: "55000"
+    is_home: false
+  - name: Hoa Đá Súng To
+    description:
+    - "- Màu sắc: Xanh nhạt và Xanh đậm. "
+    - "- Kích thước: Cao 17 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- 1 cây gồm 1 hoa đường kính 11cm và thân dài 11cm."
+    - "- Chất liệu: Lá chất liệu cao su dày cao cấp, an toàn. Thân chất liệu cao su
+      dễ uốn nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629187247/hoa_%C4%91%C3%A1_s%C3%BAng_to_%C4%91%E1%BA%ADm_1_gqx3ht.jpg"
+    - "/v1629187247/hoa_%C4%91%C3%A1_s%C3%BAng_to_e7cllc.jpg"
+    - "/v1629187246/hoa_%C4%91%C3%A1_s%C3%BAng_to_3_rrebq3.jpg"
+    price: "60000"
+    is_home: false
+  - name: 'Sen Đá Cao Su Leo '
+    description:
+    - "- Kích thước: Cao tầm 18 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Gồm 2 màu: Xanh và Xanh loang đỏ"
+    - "- Gồm 1 bông hoa lớn đường kính tầm 12cm và 1 cành hoa nhỏ vươn cao đường kính
+      3cm."
+    - "- Chất liệu: Lá chất liệu su cao cấp, mềm mại, an toàn. Thân thép bọc nhựa
+      dễ uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629187074/hoa_%C4%91%C3%A1_cao_su_leo_3_eykqby.jpg"
+    - "/v1629187074/hoa_%C4%91%C3%A1_cao_su_leo_2_nzhsbn.jpg"
+    - "/v1629187073/hoa_%C4%91%C3%A1_cao_su_leo_1_uy0nje.jpg"
+    price: "70000"
+    is_home: false
   - name: Củ rêu
     description:
+    - "- 1 bịch gồm 6 củ rêu: 2 nhỏ (~ 4cm), 2 trung (~ 10cm), 2 lớn (~ 12cm)."
     - "- Màu sắc: Xanh rêu giống thật 99,9%."
     - "- Chất liệu: Xốp chuyên dụng thi công trang trí, phủ rêu chất liệu nhựa cao
       cấp, an toàn."
@@ -75,7 +148,45 @@ categories:
     images:
     - "/v1623831020/bb67a5414980371ee64d79a5e0ef8832-2_ugasj2.jpg"
     - "/v1623831017/20-st-ck-2-Gr-en-K-nstliche-Moos-Felsen-Dekorative-Faux-Gr-n-Moos-Abgedeckt.jpg_q50-2_h1xnpe.jpg"
-    price: ''
+    price: "90000"
+    is_home: false
+  - name: Sen Đá To
+    description:
+    - "- Kích thước: Cao 28 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Màu sắc, gồm 2 màu: Xanh đậm và Xanh nhạt."
+    - "- 1 cây gồm 1 hoa đường kính 24cm và thân dài 21cm."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629186601/sen_%C4%91%C3%A1_to_hxrxgj.jpg"
+    - "/v1629186601/sen_%C4%91%C3%A1_to_m%C3%A0u_nh%E1%BA%A1t_oewu4a.jpg"
+    - "/v1629186601/sen_%C4%91%C3%A1_to_m%C3%A0u_%C4%91%E1%BA%ADm_oqlzn1.jpg"
+    price: "95000"
+    is_home: false
+  - name: Hoa Sen Đá Quang Âm Dày
+    description:
+    - "- Màu sắc: Xanh đậm."
+    - "- Kích thước: Cao 18 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây gồm 1 hoa đường kính 12 cm và thân dài 8cm."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629186765/Hoa_%C4%91%C3%A1_quan_%C3%A2m_d%C3%A0y_grdvrx.jpg"
+    - "/v1629186765/Hoa_%C4%91%C3%A1_quan_%C3%A2m_d%C3%A0y_nh%E1%BA%A1t_f8sf6e.jpg"
+    price: "55000"
+    is_home: false
+  - name: Sen Đá Cánh Cong
+    description:
+    - "- Kích thước: Cao 18 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây gồm 1 hoa đường kính 12cm và thân dài 8cm."
+    - "- Chất liệu: Lá chất liệu su cứng cao cấp, an toàn. Thân chất liệu su cứng
+      dễ uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629186953/sen_%C4%91%C3%A1_c%C3%A1nh_cong_bcjzpa.jpg"
+    price: "40000"
     is_home: false
 - name: Dây Rũ - Dây Rừng - Cành Cổ
   description:
