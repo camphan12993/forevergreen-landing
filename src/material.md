@@ -64,6 +64,93 @@ categories:
 - name: Sen Đá - Rêu
   description: []
   items:
+  - name: Củ rêu
+    description:
+    - "- 1 bịch gồm 6 củ rêu: 2 nhỏ (~ 4cm), 2 trung (~ 10cm), 2 lớn (~ 12cm)."
+    - "- Màu sắc: Xanh rêu giống thật 99,9%."
+    - "- Chất liệu: Xốp chuyên dụng thi công trang trí, phủ rêu chất liệu nhựa cao
+      cấp, an toàn."
+    - "- Hướng dẫn sử dụng: Là vật liệu phụ kiện trang trí tiểu cảnh/chậu cây/terrarium/hồ
+      cá/bonsai/hòn non bộ/sen đá/xương rồng."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    images:
+    - "/v1623831020/bb67a5414980371ee64d79a5e0ef8832-2_ugasj2.jpg"
+    - "/v1623831017/20-st-ck-2-Gr-en-K-nstliche-Moos-Felsen-Dekorative-Faux-Gr-n-Moos-Abgedeckt.jpg_q50-2_h1xnpe.jpg"
+    price: "90000"
+    is_home: false
+  - name: 'Hoa Đá Súng Mốc '
+    description:
+    - "- Kích thước: Cao 15 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Mỗi cây có 1 hoa đường kính hoa 6cm, hoa được tạo thành từ nhiều cánh nhỏ
+      xếp phân tầng từ thấp lên cao tự nhiên; thân dài 9,5 cm."
+    - "- Chất liệu: Hoa chất liệu nhựa cao cấp, an toàn có phủ lớp tơ trắng mịn tạo
+      độ phủ mốc tự nhiên giống cây hoa thật. Thân nhựa chắc chắn, dễ uốn nắn, tạo
+      hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629188284/hoa_%C4%91%C3%A1_s%C3%BAng_m%E1%BB%91c_xanh_vwzac6.jpg"
+    - "/v1629188284/hoa_%C4%91%C3%A1_s%C3%BAng_m%E1%BB%91c_h%E1%BB%93ng_kpl5b7.jpg"
+    price: "50000"
+    is_home: false
+  - name: Hoa Nha Đam Nhỏ
+    description:
+    - "- Kích thước: Cao tầm 18 (cm) tính từ gốc đến đỉnh hoa cao nhất, đường kính
+      tỏa lá tầm 11cm."
+    - "- Cây có các lá dài tầm 7cm, xếp phân tầng từ thấp lên cao tự nhiên; thân dài
+      7 cm."
+    - "- Chất liệu: Lá nha đam chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa
+      dễ uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629188242/hoa_nha_%C4%91am_nh%E1%BB%8F_taf1dm.jpg"
+    price: "65000"
+    is_home: false
+  - name: Sen Đá Xương Rồng
+    description:
+    - "- Kích thước: Cao 21 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây gồm 16 nhánh lớn nhỏ xen kẽ hài hòa, cao từ 5 - 13 cm; thân dài 7 cm."
+    - "- Chất liệu: Sen đá chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ
+      uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629188181/sen_%C4%91%C3%A1_x%C6%B0%C6%A1ng_r%E1%BB%93ng_f5ade8.jpg"
+    price: "70000"
+    is_home: false
+  - name: Hoa Bỏng Đơn Mốc
+    description:
+    - "- Kích thước: Cao 17,5 (cm) tính từ gốc đến đỉnh lá cao nhất"
+    - "- Cây gồm 23 lá lớn nhỏ, đường kính ngang 13 cm và thân dài 4,5 cm."
+    - "- Chất liệu: Lá chất liệu nhựa cao cấp, an toàn; mặt ngoài màu xanh lá, mặt
+      trong có phủ lớp tơ bạc mịn tạo độ mốc tự nhiên sống động. Thân thép bọc nhựa
+      dễ uốn nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629188114/hoa_b%E1%BB%8Fng_%C4%91%C6%A1n_m%E1%BB%91c_sbfx6x.jpg"
+    price: "65000"
+    is_home: false
+  - name: Cành Sen Đá Tròn
+    description:
+    - "- Kích thước: Cao 34 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Cây gồm 1 hoa sen đá đường kính 9 cm và thân dài 29 cm."
+    - "- Chất liệu: hoa chất liệu nhựa cao cấp, an toàn. Thân thép bọc nhựa dễ uốn
+      nắn, tạo hình. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629188012/z2647305899196_4b061ac6ff954e5cf9819546011508c8-2_dzcz5y.jpg"
+    price: "60000"
+    is_home: false
+  - name: Sen đá (S6)
+    description:
+    - "- Kích thước: Cao 9 (cm) tính từ gốc đến đỉnh lá cao nhất."
+    - "- Cây gồm 1 hoa sen đá cánh nhọn, dày, đường kính 8,5 cm và thân dài 3 cm."
+    - "- Chất liệu: hoa chất liệu nhựa cao cấp, an toàn; màu sắc tự nhiên sống động.
+      Thân nhựa đặc dễ uốn nắn, tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU). "
+    images:
+    - "/v1629187782/sen_%C4%91%C3%A1_S6_-_S11_ozxizz.jpg"
+    - "/v1629187831/sen_%C4%91%C3%A1_S6_su3a3v.jpg"
+    price: "105000"
+    is_home: false
   - name: Sen Đá (S11)
     description:
     - "- Kích thước: Cao 9,5 (cm) tính từ gốc đến đỉnh hoa cao nhất."
@@ -135,20 +222,6 @@ categories:
     - "/v1629187074/hoa_%C4%91%C3%A1_cao_su_leo_2_nzhsbn.jpg"
     - "/v1629187073/hoa_%C4%91%C3%A1_cao_su_leo_1_uy0nje.jpg"
     price: "70000"
-    is_home: false
-  - name: Củ rêu
-    description:
-    - "- 1 bịch gồm 6 củ rêu: 2 nhỏ (~ 4cm), 2 trung (~ 10cm), 2 lớn (~ 12cm)."
-    - "- Màu sắc: Xanh rêu giống thật 99,9%."
-    - "- Chất liệu: Xốp chuyên dụng thi công trang trí, phủ rêu chất liệu nhựa cao
-      cấp, an toàn."
-    - "- Hướng dẫn sử dụng: Là vật liệu phụ kiện trang trí tiểu cảnh/chậu cây/terrarium/hồ
-      cá/bonsai/hòn non bộ/sen đá/xương rồng."
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    images:
-    - "/v1623831020/bb67a5414980371ee64d79a5e0ef8832-2_ugasj2.jpg"
-    - "/v1623831017/20-st-ck-2-Gr-en-K-nstliche-Moos-Felsen-Dekorative-Faux-Gr-n-Moos-Abgedeckt.jpg_q50-2_h1xnpe.jpg"
-    price: "90000"
     is_home: false
   - name: Sen Đá To
     description:
