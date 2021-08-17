@@ -17,7 +17,7 @@ categories:
     - "/v1623741972/z2553814445976_c4728f6196d258a75d3a741a6924cb7a_kq9dnn.jpg"
     - "/v1623741972/z2553814624384_d1e4f5072e13e212c5d58f7e2aec668e_qihz5u.jpg"
     - "/v1623741495/26b015a7e152120c4b43_hdste8.jpg"
-    price: "90000"
+    price: "75000"
     is_home: false
   - name: Thảm cỏ Vẩy ốc (Cỏ bạch đàn)
     description:
@@ -29,7 +29,7 @@ categories:
     - "/v1623741995/z2553814757292_2c26e7bf76ace11e59460dafc857047c_fwjt7i.jpg"
     - "/v1623741995/z2553814890521_9d5ee54bbcd3071e700fb017e45d9ed0_jcvzsc.jpg"
     - "/v1623740085/34268603_254404801800521_8825503613926244352_n_ebhz9b.jpg"
-    price: "120000"
+    price: "85000"
     is_home: false
   - name: Thảm cỏ xanh
     description:
@@ -39,7 +39,7 @@ categories:
     images:
     - "/v1623742190/7_elwjsb.jpg"
     - "/v1623742190/9_kuxgon.jpg"
-    price: "275000"
+    price: "480000"
     is_home: false
   - name: Thảm Rêu Loang (Đỏ)
     description:
@@ -49,7 +49,7 @@ categories:
     images:
     - "/v1623742852/cf60988826d38a33920cd2eb418c5ce9-2_r5cthh.jpg"
     - "/v1623138039/NDB_4733_xieahq.jpg"
-    price: "290000"
+    price: "350000"
     is_home: true
   - name: Thảm Rêu Gỗ (Vĩ Gỗ)
     description:
