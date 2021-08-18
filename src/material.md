@@ -1020,6 +1020,17 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Mai Cổ Tròn
+    description:
+    - "- Chiều cao: tầm 90 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- Chất liệu: Hoa chất chất liệu vải cao cấp, mềm mại, tự nhiên. Thân nhựa đặc
+      dẻo màu xanh, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629258808/mai_c%E1%BB%95_fluhex.jpg"
+    - "/v1629258807/mai_c%E1%BB%95_2_cywe60.jpg"
+    price: "145000"
+    is_home: false
   - name: Hoa Cẩm Tú Cầu Đỏ
     description:
     - "- Chiều cao: 50 (cm) tính từ gốc đến đỉnh hoa cao nhất."
