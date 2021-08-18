@@ -1020,6 +1020,20 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Hoa Anh Túc Trắng
+    description:
+    - "- Chiều cao: 38 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây hoa gồm: 2 bông hoa màu trắng nhụy vàng, 1 bông búp và 3 lá xanh sống
+      động giống nhất 99%."
+    - "- Chất liệu: Hoa chất chất liệu vải cao cấp, mềm mại, tự nhiên. Thân thép bọc
+      nhựa dẻo màu xanh, phủ lớp tơ nhựa mô phỏng giống cây thật, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629259471/hoa_anh_t%C3%BAc_1_l7ril2.jpg"
+    - "/v1629259472/hoa_anh_t%C3%BAc_ojiybq.jpg"
+    - "/v1629259471/c%C3%A0nh_hoa_anh_t%C3%BAc_2_hyj14s.jpg"
+    price: "70000"
+    is_home: false
   - name: Hoa Thược Dược Đơn Đỏ
     description:
     - "- Chiều cao: 55 (cm) tính từ gốc đến đỉnh hoa cao nhất."
