@@ -1020,6 +1020,32 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Hoa Cẩm Tú Cầu Đỏ
+    description:
+    - "- Chiều cao: 50 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây hoa gồm 5 nhánh, mỗi nhánh gồm 6 cụm hoa, mỗi cụm có 4 nhánh hoa nhỏ
+      màu sắc sống động giống nhất 99% và lá xanh."
+    - "- Chất liệu: Hoa chất chất liệu vải cao cấp, mềm mại, tự nhiên. Thân nhựa đặc
+      dẻo màu xanh, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629258157/C%E1%BA%A9m_T%C3%BA_C%E1%BA%A7u_%C4%91%E1%BB%8F_l2ybt1.jpg"
+    price: "170000"
+    is_home: false
+  - name: Hoa Cẩm Tú Cầu Xanh
+    description:
+    - "- Chiều cao: 68 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây hoa gồm: nhiều nhánh hoa nhỏ tạo thành 1 cụm hoa lớn đường kính tầm
+      20cm và Lá."
+    - "- Chất liệu: Hoa chất chất liệu vải cao cấp, mềm mại, tự nhiên. Lá chất liệu
+      nhựa cao cấp, an toàn. Thân chất liệu nhựa đặc màu xanh, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629258075/c%E1%BA%A9m_t%C3%BA_c%E1%BA%A7u_xanh-2_sb0dv3.jpg"
+    - "/v1629258075/c%E1%BA%A9m_t%C3%BA_c%E1%BA%A7u_xanh_l%C3%A1_3_n7f8lz.jpg"
+    - "/v1629258075/c%E1%BA%A9m_t%C3%BA_c%E1%BA%A7u_xanh_l%C3%A1_2_vmai7u.jpg"
+    price: "120000"
+    is_home: false
   - name: Cành Chanh Vàng
     description:
     - "- Chiều cao: 87 (cm) tính từ gốc đến đỉnh cành lá cao nhất."
@@ -1099,7 +1125,7 @@ categories:
     - "/v1624866825/144505324_842376863003309_3007349542733945276_n_dhuvhp.jpg"
     - "/v1624866825/144131487_842376833003312_4250146062735001105_n_ia1snc.jpg"
     - "/v1624866825/144494847_842376813003314_7088977074809221867_n_lgmrxc.jpg"
-    price: "80000"
+    price: "110000"
     is_home: false
   - name: Cành Hoa Thiên Điểu
     description:
@@ -1116,6 +1142,9 @@ categories:
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên. "
     images:
+    - "/v1629258282/thi%C3%AAn_%C4%91i%E1%BB%83u_2_c1rkng.jpg"
+    - "/v1629258282/thi%C3%AAn_%C4%91i%E1%BB%83u3_gbfctx.jpg"
+    - "/v1629258282/thi%C3%AAn_%C4%91i%E1%BB%83u_1_lpjb4a.jpg"
     - "/v1624865265/DSC00179-3-2-3_hrik90.jpg"
     - "/v1624865265/DSC00139-3-2-3_qicr5o.jpg"
     - "/v1624865265/DSC00136-3-2-3_t0wzwl.jpg"
@@ -1164,7 +1193,7 @@ categories:
     - "/v1624696607/DSC00042-3-2-3_cxmwdn.jpg"
     price: "110000"
     is_home: false
-  - name: Cành Hoa Lan Ý
+  - name: Cành Hoa Lan Ý Nhỏ
     description:
     - "- Chiều cao: 60 (cm) tính từ gốc đến ngọn lá cao nhất."
     - "- 1 cây hoa gồm: 2 hoa trắng và 10 lá lớn nhỏ xen kẽ sinh động, hài hòa."
@@ -1180,8 +1209,8 @@ categories:
     - "/v1624692313/C%C3%A2y_lan_%C3%BD-2_qw5cht.jpg"
     - "/v1624692312/c%C3%A2y_lan_%C3%BD1-2_dp0u5l.jpg"
     - "/v1624692313/c%C3%A2y_Lan_%C3%BD_wmmlqr.jpg"
-    price: ''
     is_home: false
+    price: ''
   - name: Hoa Mộc Lan Trắng Đại
     description:
     - "- Chiều cao: 76 (cm) tính từ gốc đến ngọn cao nhất."
