@@ -1206,11 +1206,26 @@ categories:
     - "- Vệ sinh sản phẩm: nên vệ sinh sản phẩm ít nhất 1 lần/tháng, bằng bình xịt
       có pha loãng nước rửa L.O.C, rồi lau bằng khăn ẩm và để khô tự nhiên."
     images:
+    - "/v1624692313/c%C3%A2y_Lan_%C3%BD_wmmlqr.jpg"
     - "/v1624692313/C%C3%A2y_lan_%C3%BD-2_qw5cht.jpg"
     - "/v1624692312/c%C3%A2y_lan_%C3%BD1-2_dp0u5l.jpg"
-    - "/v1624692313/c%C3%A2y_Lan_%C3%BD_wmmlqr.jpg"
     is_home: false
     price: ''
+  - name: Cành Hoa Lan Ý Lớn
+    description:
+    - "- Chiều cao: 95 (cm) tính từ gốc đến ngọn lá cao nhất."
+    - "- 1 cây hoa gồm: 15 nhánh nhỏ đính 3 hoa trắng và 15 lá lớn nhỏ xen kẽ sinh
+      động, hài hòa."
+    - "- Chất liệu: Hoa chất liệu su cứng cao cấp,  mềm mại, tự nhiên. Lá chất liệu
+      nhựa, an toàn. Thân cây chất liệu nhựa đặc chắc chắn nhưng vẫn đảm bảo dễ uốn
+      nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629258347/C%C3%A2y_lan_%C3%BD-2_wgsnu3.jpg"
+    - "/v1629258347/c%C3%A2y_lan_%C3%BD1-2_vh72l1.jpg"
+    - "/v1629258347/c%C3%A2y_Lan_%C3%BD_zu6dm7.jpg"
+    price: "280000"
+    is_home: false
   - name: Hoa Mộc Lan Trắng Đại
     description:
     - "- Chiều cao: 76 (cm) tính từ gốc đến ngọn cao nhất."
