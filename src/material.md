@@ -1020,6 +1020,68 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Cành Chanh Vàng
+    description:
+    - "- Chiều cao: 87 (cm) tính từ gốc đến đỉnh cành lá cao nhất."
+    - "- 1 cây hoa gồm: 3 nhánh, 7 quả chanh lớn nhỏ xen kẽ màu vàng và lá xanh."
+    - "- Chất liệu: Quả chất liệu xốp chuyên dụng phủ sơn vàng điểm xanh rất tự nhiên,
+      lá chất nhựa cao cấp, mềm mại, tự nhiên. Thân chất nhựa dẻo đặc màu nâu sậm
+      có độ sần tự nhiên, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629257823/c%C3%A0nh_chanh3_rbjyec.jpg"
+    - "/v1629257822/c%C3%A0nh_chanh2_gc5sf4.jpg"
+    - "/v1629257822/c%C3%A0nh_chanh1_tdx2hv.jpg"
+    - "/v1629257823/c%C3%A0nh_chanh_4_oju4qs.jpg"
+    - "/v1629257816/c%C3%A0nh_chanh_y2nmat.jpg"
+    price: "165000"
+    is_home: false
+  - name: 'Cành Hoa Huệ Tây '
+    description:
+    - "- Màu sắc, gồm 3 màu: Đỏ, Trắng và Cam."
+    - "- Chiều cao: 80 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây hoa gồm: 3 bông hoa màu sắc sống động giống nhất 99%."
+    - "- Chất liệu: Hoa chất chất liệu vải cao cấp, mềm mại, tự nhiên. Thân thép bọc
+      nhựa dẻo màu xanh, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629257674/hoa_hu%E1%BB%87_t%C3%A2y_yojis5.jpg"
+    - "/v1629257674/hoa_hu%E1%BB%87_t%C3%A2y_v%C3%A0ng_1_x4z97j.jpg"
+    - "/v1629257674/hu%E1%BB%87_t%C3%A2y_v%C3%A0ng_zycxb7.jpg"
+    - "/v1629257674/hu%E1%BB%87_t%C3%A2y_tr%E1%BA%AFng_m7koj9.jpg"
+    - "/v1629257674/hoa_hu%E1%BB%87_t%C3%A2y_tr%E1%BA%AFng_3_u1szff.jpg"
+    - "/v1629257674/hoa_hu%E1%BB%87_t%C3%A2y_tr%E1%BA%AFng_1_heajaa.jpg"
+    - "/v1629257674/hoa_hu%E1%BB%87_t%C3%A2y_%C4%91%E1%BB%8F_2_ssyyjk.jpg"
+    - "/v1629257674/hoa_hu%E1%BB%87_t%C3%A2y_%C4%91%E1%BB%8F_1_aiuxan.jpg"
+    price: "150000"
+    is_home: false
+  - name: Cành Hoa Hồng Cam
+    description:
+    - "- Chiều cao: 93 (cm) tính từ gốc đến đỉnh cành cao nhất."
+    - "- 1 cây hoa gồm: 6 nhánh nhỏ có 3 bông lớn (đường kính tầm 11cm), 2 bông nhỏ
+      (đường kính tầm 3cm), 3 nụ nhỏ và lá."
+    - "- Chất liệu: Hoa và lá chất chất liệu vải cao cấp, màu sắc sống động giống
+      nhất 99%. Nụ hoa chất nhựa an toàn. Thân nhựa đặc cứng cáp, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images: []
+    price: "116000"
+    is_home: false
+  - name: Cây Hoa Atiso
+    description:
+    - "- Màu sắc, gồm 2 màu: Đỏ và Xanh."
+    - "- Chiều cao: 62 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây hoa gồm: 1 bông hoa đường kính 11 (cm), màu sắc sống động giống nhất
+      99% và 1 thân."
+    - "- Chất liệu: Hoa chất chất liệu nhựa cao cấp, an toàn, tự nhiên. Thân thép
+      bọc su dẻo màu xanh, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629257424/hoa_atiso_4_ottjkl.jpg"
+    - "/v1629257424/hoa_atiso_1_yp2js2.jpg"
+    - "/v1629257424/hoa_atiso_3_tg627d.jpg"
+    - "/v1629257424/hoa_atiso_2_twanid.jpg"
+    price: "110000"
+    is_home: false
   - name: Cành Lựu
     description:
     - "- Kích thước: Cao tầm 90 (cm) tính từ gốc đến đỉnh cành cao nhất."
