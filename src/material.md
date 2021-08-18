@@ -1020,6 +1020,29 @@ categories:
   - Nguyên vật liệu tại Forever Green là hàng cao cấp loại 1, được nhập khẩu 100%,
     nên chất liệu vô cùng mềm mại, sống động giống thật 99%.
   items:
+  - name: Hoa Thược Dược Đơn Đỏ
+    description:
+    - "- Chiều cao: 55 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây hoa gồm: 1 bông hoa lớn (ĐK 9 cm) và 1 bông búp (ĐK 2,5 cm)  màu sắc
+      sống động giống nhất 99%."
+    - "- Chất liệu: Hoa chất chất liệu vải cao cấp, mềm mại, tự nhiên. Thân nhựa đặc
+      dẻo màu xanh, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629259360/hoa_th%C6%B0%E1%BB%A3c_d%C6%B0%E1%BB%A3c_%C4%91%E1%BB%8F_tsigya.jpg"
+    price: "80000"
+    is_home: false
+  - name: Cành Hoa Thược Dược 6 Bông
+    description:
+    - "- Chiều cao: tầm 70 (cm) tính từ gốc đến đỉnh hoa cao nhất."
+    - "- 1 cây hoa gồm 6 bông hoa và lá xanh."
+    - "- Chất liệu: Hoa chất chất liệu vải cao cấp, mềm mại, tự nhiên. Thân nhựa đặc
+      dẻo màu xanh, dễ uốn nắn tạo hình."
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu EU)."
+    images:
+    - "/v1629258926/hoa_th%C6%B0%E1%BB%A3c_d%C6%B0%E1%BB%A3c_6_b%C3%B4ng_kakfi7.jpg"
+    price: "65000"
+    is_home: false
   - name: Cành Mai Cổ Tròn
     description:
     - "- Chiều cao: tầm 90 (cm) tính từ gốc đến đỉnh hoa cao nhất."
