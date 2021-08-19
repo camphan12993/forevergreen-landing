@@ -41,6 +41,11 @@
     ],
     "socials": [
       {
+        "name": "shopee",
+        "url": "https://shopee.vn/lachancebyfg",
+        "icon": "logo-shopee"
+      },
+      {
         "name": "facebook",
         "url": "https://www.facebook.com/LaChance.FG",
         "icon": "logo-facebook"
