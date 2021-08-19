@@ -14,20 +14,18 @@ banner:
 about:
   title: Về Forever Green
   description:
-  - Forever Green (FG) được sáng lập ra bằng niềm đam mê bất tận với thiên nhiên,
-    mong muốn đem đến một không gian sống thư thái đến tất cả mọi người.
-  - Hoà mình vào thiên nhiên hùng vĩ giữa nhịp sống tất bật, hối hả như hiện nay có
-    còn là vấn đề đáng lo?
+  - 'Bằng niềm đam mê bất tận dành cho thiên nhiên cỏ cây, Forever Green (FG) đã được
+    sáng lập và hoạt động với mục tiêu: Mang sắc xanh thư thái, đẳng cấp đến mọi không
+    gian sống.'
   - 'Thấu hiểu sâu sắc những khó khăn, hạn chế khi chăm sóc mảng xanh tươi thật 100%
-    của Chủ Đầu Tư, nên FG đã ra đời với Sứ mệnh:'
-  - "- Chất lượng làm nên thương hiệu."
-  - "- Mang giải pháp xanh nhân tạo tối ưu nhất đến với CĐT bằng đội ngũ nhân viên
-    nhiệt huyết, tài năng."
-  - "- Thiết kế, sáng tạo bắt kịp xu hướng Thế Giới, cung cấp nhiều giải pháp phù
-    hợp với Yêu cầu, Không gian & Ngân sách của CĐT. Nói không với những mô hình thi
-    công thô sơ, kém thẩm mĩ."
-  - "- Chế độ hậu mãi tốt nhất và duy nhất trên thị trường: Bảo hành công trình từ
-    6 tháng đến 1 năm, vệ sinh làm mới định kì bằng những máy móc hiện đại."
+    của Chủ Đầu Tư, FG hoạt động với Sứ mệnh:'
+  - "- Chất lượng làm nên Thương hiệu."
+  - "- Cung cấp nhiều giải pháp xanh nhân tạo  tối ưu phù hợp với Yêu cầu, Không gian
+    kiến trúc & Ngân sách của CĐT bằng Đội ngũ nhân viên nhiệt huyết, tài năng."
+  - '- Thiết kế, sáng tạo bắt kịp xu hướng Thế Giới. Nói "không" với những mô hình
+    thi công thô sơ, kém thẩm mĩ.'
+  - "- Chế độ hậu mãi tốt nhất trên thị trường: Bảo hành công trình từ 6 tháng đến
+    1 năm, vệ sinh làm mới định kì bằng những máy móc hiện đại."
   cover: "/v1616133704/z2375671056287_0b92126df55e14b42b60169cb479af93_ktqxbb.jpg"
 solutions:
   title: QUY TRÌNH LÀM VIỆC
