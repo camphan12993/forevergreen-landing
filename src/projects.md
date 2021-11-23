@@ -378,6 +378,23 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: FASHION SHOP
+    description:
+    - "- Địa chỉ: Đường Ngô Gia Tự, TP. Đà Nẵng"
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tường cây nhiệt đới điểm hoa, chạy dây rừng tự nhiên."
+    images:
+    - "/v1637635489/1_qtftqc.jpg"
+    - "/v1637635491/2_jkjzv4.jpg"
+    - "/v1637635494/6_diknjt.jpg"
+    - "/v1637635494/5_h5jabd.jpg"
+    - "/v1637635493/MAP_2176_cvclwm.jpg"
+    - "/v1637635493/MAP_2178_ycztsg.jpg"
+    - "/v1637635494/8_np8dme.jpg"
+    - "/v1637635494/MAP_2172-2_iszvpp.jpg"
+    - "/v1637635494/MAP_2162_upsegq.jpg"
+    - "/v1637635494/MAP_2157-2_vhfxdc.jpg"
+    is_home: false
   - name: POONA HOUSE (SHOP)
     description:
     - 'Chủ đầu tư: Ms.Na.'
