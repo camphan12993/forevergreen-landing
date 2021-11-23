@@ -33,6 +33,35 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: AN' Garden Cafe
+    description:
+    - "- Địa chỉ: 56 BT8 Hồ Văn Quán, Quận Hà Đông, Hà Nội."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Thương hiệu cửa hàng tạo nên từ Khung lá cây 3D."
+    - "\U0001F33F Lũa treo tường nghệ thuật"
+    - "\U0001F33F Khung tranh lá cây sen đá 3D treo tường độc đáo"
+    - "\U0001F33F Hộp cây lá rũ sống động xanh mát."
+    - "\U0001F33F Bồn gỗ cây xanh tạo ngăn khu vực nhưng vẫn đảm bảo không gian thoáng. "
+    - "\U0001F33F Bồn tiểu cảnh cây lá mini treo tường."
+    images:
+    - "/v1637635104/1-2-2_hilgg0.jpg"
+    - "/v1637635104/2-2-2_geieah.jpg"
+    - "/v1637635105/6-2-2_jr4xld.jpg"
+    - "/v1637635105/7-2-2_rgvrl9.jpg"
+    - "/v1637635105/3-2-2_m91syu.jpg"
+    - "/v1637635105/4-2-2_omytvl.jpg"
+    - "/v1637635104/5-2-2_hsk9iq.jpg"
+    - "/v1637635104/8-2-2_kuwui0.jpg"
+    - "/v1637635102/9-2-2_gaerqm.jpg"
+    - "/v1637635103/11-2-2_kvcz9t.jpg"
+    - "/v1637635104/12-2-2_s6gz3q.jpg"
+    - "/v1637635102/10-2-2_ewdclt.jpg"
+    - "/v1637635102/13-2-2_o8xwxd.jpg"
+    - "/v1637635102/14-2-2_eqkyot.jpg"
+    - "/v1637635102/15-2-2_mrgupi.jpg"
+    - "/v1637635102/17-2-2_ssflzw.jpg"
+    - "/v1637635102/16-2-2_d4ttt8.jpg"
+    is_home: false
   - name: PAVO CUISINE & MIXOLOGY (BAR)
     description:
     - 'Địa chỉ: 11 Trần Phú, Hải Châu, Đà Nẵng'
