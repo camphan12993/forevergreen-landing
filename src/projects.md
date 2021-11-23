@@ -297,7 +297,25 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
-  - name: ANH MINH
+  - name: MS.HUONG
+    description:
+    - 'Chủ đầu tư: Chị Hương'
+    - 'Địa chỉ: Tỉnh Vĩnh Phúc'
+    - 'Hạng mục công trình:'
+    - "\U0001F33F Tiểu cảnh cây xanh chậu gốm #Atlantis phong cách Địa Trung Hải"
+    - "\U0001F33F Chậu Hoa Thảo Đường Atlantis - Quốc hoa của Nam Phi, biểu tượng
+      cho vẻ đẹp mạnh mẽ nhưng cũng đầy quyến rũ"
+    - " \U0001F33F Cành cây mộc lan đại thụ đã qua xử lý chống mối mọt trang trí ngoại
+      thất."
+    images:
+    - "/v1637634135/IMG_4580_vhb49p.jpg"
+    - "/v1637634134/IMG_4582_fv0d1r.jpg"
+    - "/v1637634137/IMG_4584_enzk8v.jpg"
+    - "/v1637634139/IMG_4575_ua1zse.jpg"
+    - "/v1637634336/IMG_4569-2-2_b8vhri.jpg"
+    - "/v1637634138/IMG_4577_pfywbh.jpg"
+    is_home: false
+  - name: MR.MINH
     description:
     - 'Chủ đầu tư: Anh Minh'
     - 'Địa chỉ: Trung Lương 9, Đà Nẵng'
