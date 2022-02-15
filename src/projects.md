@@ -33,6 +33,48 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: ZURICH COFFEE
+    description:
+    - "- Địa chỉ: 86 Tân Lưu, Quận Ngũ Hành Sơn, Đà Nẵng."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F  Cành cổ lá si bò tường giúp làm nổi bật thương hiệu cửa tiệm."
+    - "\U0001F33F Vòng hoa lá si giúp làm nổi bật Slogan của Zurich."
+    - "\U0001F33F Chậu cây xanh phối gốc sống động."
+    - "\U0001F33F Bồn cây xanh."
+    - "\U0001F33F Khung tranh lá cây 3D treo tường."
+    - "\U0001F33F Hộp cây dây rũ giúp ngăn cách không gian tinh tế, tạo sự xanh mát."
+    images:
+    - "/v1644941378/185245957_2296012640530699_8955464644419699292_n_xwffpw.jpg"
+    - "/v1644941378/208256445_2296013433863953_1995897625997147200_n_i5yu7e.jpg"
+    - "/v1644941378/182122176_2296013253863971_8566607929632353947_n_y6xxab.jpg"
+    - "/v1644941378/182833525_2296012723864024_8472093340627908612_n_oxreji.jpg"
+    - "/v1644941378/169085105_2296013070530656_7070921350801985285_n_qjguxk.jpg"
+    - "/v1644941378/175708236_2296013067197323_4922561869346462479_n_oxz5fh.jpg"
+    - "/v1644941378/204649882_2296012743864022_6366712419806373023_n_iwqgtc.jpg"
+    - "/v1644941378/171101329_2296013430530620_7331074768019703168_n_jelukc.jpg"
+    - "/v1644941378/185300403_2296013363863960_5983991271398779472_n_ipghgu.jpg"
+    - "/v1644941377/211866468_2296013207197309_7831726329954702082_n_hghtgm.jpg"
+    - "/v1644941377/173536745_2296013147197315_5304545845638024888_n_osahls.jpg"
+    - "/v1644941378/173525286_2296012830530680_8871803773835932922_n_zneqgh.jpg"
+    - "/v1644941378/131390489_2296013090530654_566141753267891055_n_ndamgn.jpg"
+    - "/v1644941378/172595287_2296012870530676_52772196513022671_n_kordrg.jpg"
+    - "/v1644941378/131326926_2296012793864017_44731574520455586_n_bjijog.jpg"
+    is_home: false
+  - name: AIMÉE CAFE
+    description:
+    - "- Địa chỉ: Hà Nội."
+    - "- Hạng mục công trình: "
+    - "\U0001F33F Các vòm hoa trang trí cửa hàng tone màu nhiệt đới rực rỡ, sang trọng."
+    - "\U0001F33F Cây thiết mộc lan và hồng hạc."
+    images:
+    - "/v1644940602/C9A0FA90-BFA3-4481-A33E-6867A2B1FEB2_b9z6k7.jpg"
+    - "/v1644940653/53A6AFD0-2CBE-49D1-81A2-C3F3CF46402E_glbc8p.jpg"
+    - "/v1644940858/757D73A6-085E-4A36-A190-B8B9946ADEF4_f4aps9.jpg"
+    - "/v1644940858/E41243E7-4D93-497C-B959-2AE2E1D13F94_esvkhc.jpg"
+    - "/v1644940858/68E7FCB6-9B9B-4526-BE0F-DA6C9573DD05_ri9wme.jpg"
+    - "/v1644940858/FB1FC8C8-1109-48E8-AC7D-0E3A7E64D0EC_fwq2gn.jpg"
+    - "/v1644940866/201470935_2290214051110558_4817597259949548647_n_m1sgsf.jpg"
+    is_home: false
   - name: FIRGUN COFFEE (HẢI AN HOTEL)
     description:
     - "- Chủ đầu tư: Hải An Hotel."
