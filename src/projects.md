@@ -326,6 +326,23 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
+  - name: MR. DUNG
+    description:
+    - "- Địa chỉ: Phường Hoà Quý, Quận Ngũ Hành Sơn, Đà Nẵng."
+    - "- Hạng mục công trình: "
+    - "\U0001F33F  Cây xanh lá si lớn decor khu vực Giếng trời: thân cây thật 100%
+      đã qua xử lý chống mối mọt và gắn lá si nhân tạo giống thật 90%."
+    - "\U0001F33F Tre xanh: sử dụng thân tre thật đã qua xử lý chống mối mọt, và điểm
+      lá tre nhân tạo cao cấp."
+    images:
+    - "/v1644896251/z2601181913663_23c7df349bc8a8a61741a8bdbfe01b77-2_yqk8iq.jpg"
+    - "/v1644896252/z2601181909127_0c7cb74774917d18475554b7aecb804a-2_b5p5jt.jpg"
+    - "/v1644896255/z2601181908669_a185655b0c09aaeafc98f46e4dbfcfa4-2_qbgmow.jpg"
+    - "/v1644896260/B04EB765-B4C9-4BA0-AF64-67075F682B05_mek0lx.jpg"
+    - "/v1644896260/323F461A-27AF-4FB1-A7AD-5D2B415B5F85_sbm4no.jpg"
+    - "/v1644896258/B143A40A-EFE6-42D2-BB29-CB336E10BDF5_bzvdgd.jpg"
+    - "/v1644896260/44263237-41AF-42C6-B081-6F8F11D8FFAA_tru8nc.jpg"
+    is_home: false
   - name: MS. VAN DUNG
     description:
     - "- Địa chỉ: Thành phố Việt Trì, Tỉnh Phú Thọ."
