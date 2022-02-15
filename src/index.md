@@ -35,9 +35,9 @@ solutions:
   - "/v1616144793/QUY_TR%C3%8CNH_THI_C%C3%94NG_rkqehd.png"
   - "/v1616145050/QUY_TR%C3%8CNH_THI_C%C3%94NG_1_aezvlk.png"
 categories:
-- "/v1622707427/4_wgnyiy.jpg"
 - "/v1620636508/CDF05973_amxo4j.jpg"
 - "/v1644899453/A9AA20CD-99C1-4F02-BEA6-ADDFDADF8EB7_os9nbr.jpg"
+- "/v1615781492/MAP_1211_sqfi7q.jpg"
 callout:
 - name: NGUYÊN VẬT LIỆU
   link:
