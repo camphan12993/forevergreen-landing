@@ -421,6 +421,17 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: SHOWROOM LA CHANCE HANOI
+    description:
+    - "- Địa chỉ: Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội."
+    - "- Hạng mục công trình: Tiểu cảnh cây xanh chậu gốm #Atlantis cao cấp, màu men
+      trầm kết hợp sỏi và đèn vàng ấm."
+    images:
+    - "/v1644937715/241426732_2373037679494861_2853583923310891380_n_c4j58n.jpg"
+    - "/v1644937715/240207546_2373037749494854_4519313215499985015_n_peygiw.jpg"
+    - "/v1644937715/239782149_2373037746161521_3052010444660137948_n_zujkxz.jpg"
+    - "/v1644937715/240833943_2373037729494856_168821204456762717_n_qbzqpn.jpg"
+    is_home: false
   - name: VĂN PHÒNG LẠC TRUNG
     description:
     - "- Địa chỉ: Đường Lạc Trung, Quận Hai Bà Trưng, Hà Nội."
