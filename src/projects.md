@@ -33,6 +33,19 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: COFFEE SHOP (Hà Nội)
+    description:
+    - "- Địa chỉ: 463 Minh Khai, Quận Hai Bà Trưng, Hà Nội."
+    - "- Hạng mục công trình: Tiểu cảnh cây xanh nội thất phong cách nhiệt đới."
+    images:
+    - "/v1644899453/D141C66B-53DA-4D7D-9092-4FEC89649EB6_wpcjl3.jpg"
+    - "/v1644899451/4EB2A82A-8BB5-4124-A2B8-6755FE4A3636_dk2qlo.jpg"
+    - "/v1644899454/E54266D3-CC6A-48AA-8853-F2EA2E9A85ED_jkcuhf.jpg"
+    - "/v1644899454/772DF723-03AB-4120-B5E4-8D3EE7CE693D_cpdt5b.jpg"
+    - "/v1644899454/63A0797A-5610-4015-9FC4-2F6807E0830D_kevajs.jpg"
+    - "/v1644899450/0FE9FD39-F6FE-4747-8543-9178463625CB_jv5mbs.jpg"
+    - "/v1644899453/A9AA20CD-99C1-4F02-BEA6-ADDFDADF8EB7_os9nbr.jpg"
+    is_home: false
   - name: AN' Garden Cafe
     description:
     - "- Địa chỉ: 56 BT8 Hồ Văn Quán, Quận Hà Đông, Hà Nội."
@@ -326,7 +339,7 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
-  - name: MR. DUNG
+  - name: MR.DUNG
     description:
     - "- Địa chỉ: Phường Hoà Quý, Quận Ngũ Hành Sơn, Đà Nẵng."
     - "- Hạng mục công trình: "
@@ -343,7 +356,7 @@ categories:
     - "/v1644896258/B143A40A-EFE6-42D2-BB29-CB336E10BDF5_bzvdgd.jpg"
     - "/v1644896260/44263237-41AF-42C6-B081-6F8F11D8FFAA_tru8nc.jpg"
     is_home: false
-  - name: MS. VAN DUNG
+  - name: MS.VAN DUNG
     description:
     - "- Địa chỉ: Thành phố Việt Trì, Tỉnh Phú Thọ."
     - "- Hạng mục công trình: Tiểu cảnh chậu gốm Atlantis cao cấp phong cách Địa Trung
@@ -439,7 +452,7 @@ categories:
     - "/v1623307282/185291481_322674645898008_4322075980304511252_n_pl1pt5.jpg"
     - "/v1623307263/185020651_322674752564664_2545289715305865880_n_yofmjl.jpg"
     is_home: true
-  - name: FASHION SHOP
+  - name: FASHION SHOP (Ngô Gia Tự)
     description:
     - "- Địa chỉ: Đường Ngô Gia Tự, TP. Đà Nẵng"
     - "- Hạng mục công trình:"
