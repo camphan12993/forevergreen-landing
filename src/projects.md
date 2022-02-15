@@ -33,6 +33,22 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: FIRGUN COFFEE (HẢI AN HOTEL)
+    description:
+    - "- Chủ đầu tư: Hải An Hotel."
+    - "- Địa chỉ: 182 Bạch Đằng, Phường Hải Châu 1, Quận Hải Châu, Đà Nẵng."
+    - "- Hạng mục đầu tư: Tiểu cảnh phong cách Địa Trung Hải. FG đã sử dụng các loại
+      cây đặc trưng thuộc vùng Địa Trung Hải  hình dáng thanh nhỏ, đơn giản, mang
+      đến không gian decor tươi mát mà vẫn đảm bảo sự tối giản trong thiết kế cho
+      Chủ đầu tư."
+    images:
+    - "/v1644939960/z3185226867774_bd1e7115cc1aad33cc54511cfbb04ea6_ltngzh.jpg"
+    - "/v1644939961/z3185227340647_4da27f837f00e97a98ec06432561a97d_piqlr1.jpg"
+    - "/v1644939961/z3185227315626_57ed855c12ad0eb48d236dd43f97518c_ywrrbz.jpg"
+    - "/v1644939961/z3185227225331_70496fe27b514257ca50c8604c3e1576_vnpvwr.jpg"
+    - "/v1644939960/z3185227031710_50fc2666a4d7adf67b9a5404b82c85ef_hebc4z.jpg"
+    - "/v1644939961/z3185226977242_b225c2429fc28aa9efa03f99551dce1c_kh0fvx.jpg"
+    is_home: false
   - name: COFFEE SHOP (Hà Nội)
     description:
     - "- Địa chỉ: 463 Minh Khai, Quận Hai Bà Trưng, Hà Nội."
