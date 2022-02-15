@@ -397,6 +397,20 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
+  - name: MR.TUAN
+    description:
+    - "- Địa chỉ: Vinhome Ocean Park, Hà Nội."
+    - "- Hạng mục công trình: Các chậu cây xanh nội thất phối gốc sống động, xanh
+      mát."
+    images:
+    - "/v1644942875/6EF424B4-A0C3-401C-8036-E27CD8DA854C_s4lpon.jpg"
+    - "/v1644942876/789C2796-46C8-4916-8D32-46E2AF2B9123_yrssl6.jpg"
+    - "/v1644942877/EF4D6218-9D35-433F-8578-EC94729E3532_zxdoi4.jpg"
+    - "/v1644942877/72FAA9E9-B9B9-4B29-9D67-CCE535490CB0_wdy55g.jpg"
+    - "/v1644942876/A891753E-2F94-42AD-83B4-2D78C97D68EA_ssp1g3.jpg"
+    - "/v1644942875/45792B09-BDFC-4D0F-B0A3-A43F74C39D58_pja5rh.jpg"
+    - "/v1644942876/B175B717-94B3-477C-94BD-D94907C93218_t8bcau.jpg"
+    is_home: false
   - name: MR.DUNG
     description:
     - "- Địa chỉ: Phường Hoà Quý, Quận Ngũ Hành Sơn, Đà Nẵng."
