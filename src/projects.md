@@ -171,7 +171,7 @@ categories:
     description:
     - 'Chủ đầu tư: Ms. Diệp
 
-'
+      '
     - 'Địa chỉ: Khu Biệt Thự Đảo Nổi, Cẩm Lệ, Đà Nẵng'
     - 'Hạng mục đầu tư: Tường Cây 3D nhiệt đới + Chậu hoa Thiên Điểu đại sảnh + Bồn
       cây Thiên Điểu'
@@ -326,6 +326,19 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
+  - name: MS. VAN DUNG
+    description:
+    - "- Địa chỉ: Thành phố Việt Trì, Tỉnh Phú Thọ."
+    - "- Hạng mục công trình: Tiểu cảnh chậu gốm Atlantis cao cấp phong cách Địa Trung
+      Hải."
+    images:
+    - "/v1644895711/C71A882A-4AC3-48CC-B480-DF389F381E0B_xxpxat.jpg"
+    - "/v1644895712/70A9728F-52C0-4D15-AE0F-F79E7F92587C_ybnr7f.jpg"
+    - "/v1644895670/6B870414-0898-4594-B1D0-AA121E4C0E87_bgtom9.jpg"
+    - "/v1644895712/A56E8870-923B-40FA-906C-BC7761E6872F_hbonk0.jpg"
+    - "/v1644895712/458B0D13-8530-4CF1-A1D9-CEA791A4815B_le9lld.jpg"
+    - "/v1644895670/06CACFD7-A4CD-4776-9DFC-3589939689C3_nx2dwu.jpg"
+    is_home: false
   - name: MS.HUONG
     description:
     - 'Chủ đầu tư: Chị Hương'
@@ -378,6 +391,25 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: VĂN PHÒNG LẠC TRUNG
+    description:
+    - "- Địa chỉ: Đường Lạc Trung, Quận Hai Bà Trưng, Hà Nội."
+    - "- Hạng mục công trình:"
+    - "\U0001F33FBồn cây phong cách Địa Trung Hải với số lượng cây lá đơn giản, tập
+      trung làm bật lên điểm nhấn là các hoa sen đá nhỏ nhiều màu sắc.  "
+    - "\U0001F33FDây rừng leo kệ tự nhiên kết hợp dương xỉ, giúp giảm bớt độ phô cứng
+      của cột trụ tòa nhà. "
+    - "\U0001F33F Hộp cây dây rũ tạo cảm giác xanh mát trên cao, kết nối toàn bộ không
+      gian xanh phía dưới."
+    images:
+    - "/v1644895209/3299DED4-34F0-4B6A-9B60-7C9D35F58F91_djqwzq.jpg"
+    - "/v1644895207/6C474F78-DA08-42D6-AB50-FBF49BFB74D3_iv3pxb.jpg"
+    - "/v1644895209/3447E9B0-813C-436F-986F-4115CEBFE021_vublbx.jpg"
+    - "/v1644895208/05D42638-B1D7-4DBB-B58F-9EC1638FD69F_oo5ib4.jpg"
+    - "/v1644895209/F1A76868-7409-4C43-A923-84B809D77FD9_ianxte.jpg"
+    - "/v1644895209/742881FF-04A0-4173-A59D-035E0A001128_ak3tcq.jpg"
+    - "/v1644895209/256AE986-E06F-4AC6-B681-18FAB22E9649_nrxlkk.jpg"
+    is_home: false
   - name: POONA HOUSE (SHOP)
     description:
     - 'Chủ đầu tư: Ms.Na.'
