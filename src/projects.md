@@ -33,6 +33,21 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: THE VIEW QUY NHƠN
+    description:
+    - "- Địa chỉ: Tầng 8, 24 Nguyễn Huệ, TP.Quy Nhơn, Bình Định."
+    - "- Hạng mục công trình: Dàn trần dây rũ điểm hoa cúc tana trắng."
+    images:
+    - "/v1644983238/212796322_929072394333755_1940960917439734397_n_zxixvl.jpg"
+    - "/v1644983239/213695873_929072477667080_4145052255147927814_n_dv4xzu.jpg"
+    - "/v1644983239/213819441_929072454333749_514046270647888027_n_lqfhln.jpg"
+    - "/v1644983239/213866275_929072421000419_1363239914825730719_n_ed7n0z.jpg"
+    - "/v1644983239/214457861_929072634333731_1704124764731690702_n_rncsjp.jpg"
+    - "/v1644983239/214418885_929072527667075_533636448771266944_n_edtv1t.jpg"
+    - "/v1644983239/213742772_929072544333740_2061461955811727247_n_nkst7p.jpg"
+    - "/v1644983239/214119869_929072614333733_913443723354693742_n_scejsk.jpg"
+    - "/v1644983239/213651091_929072587667069_3765774395505421875_n_mlbxzi.jpg"
+    is_home: false
   - name: ZURICH COFFEE
     description:
     - "- Địa chỉ: 86 Tân Lưu, Quận Ngũ Hành Sơn, Đà Nẵng."
@@ -397,6 +412,16 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
+  - name: MR.PHUC
+    description:
+    - "- Địa chỉ: Đường Ỷ Lan Nguyên Phi, Quận Hải Châu, Đà Nẵng."
+    - "- Hạng mục công trình: Khu vườn trên không - tạo ra không gian xanh mát; mang
+      lại cảm giác hòa hợp với thiên nhiên ở khu vực Giếng trời - Cầu thang."
+    images:
+    - "/v1644982121/184757731_2251952271603403_6895941265387964577_n_trp2et.jpg"
+    - "/v1644982121/183841020_2251952274936736_5562130402414445720_n_okbj63.jpg"
+    - "/v1644982122/183588446_2251952304936733_512381803442501153_n_n3twps.jpg"
+    is_home: false
   - name: MR.TUAN
     description:
     - "- Địa chỉ: Vinhome Ocean Park, Hà Nội."
@@ -493,6 +518,43 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: TCB HÀ NỘI
+    description:
+    - "- Địa chỉ: Hà Nội."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tiểu cảnh cây xanh nội thất phong cách nhiệt đới giúp làm nổi bật
+      Logo và Slogan của Công ty."
+    - "\U0001F33F Bồn cây xanh nhân tạo giúp phân chia không gian làm việc thoáng
+      mát."
+    images:
+    - "/v1644982731/z1974052487931_bc10764d83de9c5f5c98f5a0ac147f01_nqvi39.jpg"
+    - "/v1644982732/z1974052492639_4061dead22689546f143236a59d67266_z1hwub.jpg"
+    - "/v1644982732/z1974052484172_f8d0bf2cbf5846bf195c055684f9224a_utg1en.jpg"
+    - "/v1644982731/z1974052483169_f20a02d38e9ff529c544514035d12513_ayvuix.jpg"
+    - "/v1644982731/z1974052479958_46b17e0785b4d1899d080a24974c8619_iwexh1.jpg"
+    - "/v1644982724/z1974050567761_f58c7a3a89ca849db393777feecf3b3b_bkrc8k.jpg"
+    - "/v1644982720/z1974050485656_fb5a4d3b2712dcc81d8c29d705a674c7_kyxn0d.jpg"
+    - "/v1644982720/z1974050463783_9c1757467502b94a565db09f965a3cb7_otqlwv.jpg"
+    - "/v1644982731/z1974050422313_9989b68964ec333e0cd888060fbc3e09_us3fnv.jpg"
+    - "/v1644982719/z1974050421814_36b6449f94a3c91b12e12739957a5ac4_dka2jf.jpg"
+    is_home: false
+  - name: VĂN PHÒNG ALADDIN
+    description:
+    - "- Chủ đầu tư: Công ty CP Tầm Nhìn Quốc Tế ALADDIN."
+    - "- Địa chỉ: Quận Thanh Xuân, Hà Nội."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Bồn cây xanh nhân tạo giúp làm nổi bật Tầm nhìn - Giá trị cốt lõi
+      - Sứ mệnh hoạt động của Công ty."
+    - "\U0001F33F Cây xanh lá si lớn giúp kết nối mở các không gian làm việc với nhau."
+    - "\U0001F33F Chậu cây xanh treo trần"
+    images:
+    - "/v1644981530/196184055_2289306531201310_6198331740140050064_n_f9egro.jpg"
+    - "/v1644981530/201666433_2289306591201304_2935159692611976280_n_aecn0k.jpg"
+    - "/v1644981530/200670038_2289306574534639_5620584606006934395_n_xer96y.jpg"
+    - "/v1644981530/203680900_2289306667867963_8709690075703367698_n_x6dg6m.jpg"
+    - "/v1644981530/197356409_2289306547867975_2764618819316501372_n_akipei.jpg"
+    - "/v1644981530/196461741_2289306637867966_8502009257076442405_n_jgo7iu.jpg"
+    is_home: false
   - name: SHOWROOM LA CHANCE HANOI
     description:
     - "- Địa chỉ: Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội."
