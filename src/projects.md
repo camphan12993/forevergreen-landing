@@ -690,5 +690,41 @@ categories:
     - "/v1615783682/MAP_1049_zazpcl.jpg"
     - "/v1615783686/MAP_1051_iguecy.jpg"
     is_home: false
+- name: EVENT - TỔ CHỨC SỰ KIỆN
+  items:
+  - name: TẾT 2022 - MOBIFONE
+    description:
+    - "- Địa chỉ: Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng."
+    - "- Hạng mục công trình: Trang trí Tết khu vực đại sảnh."
+    - "\U0001F33F Đơn giản - Hiện đại như chính #Mobifone nhưng vẫn ngập tràn không
+      khí Tết truyền thống là tiêu chí thiết kế trang trí của La Chance.  Chúng mình
+      đã sử dụng các cây lá phun mạ vàng bắt mắt - mẫu trang trí mới được ưa chuộng
+      trong năm nay để tạo điểm nhấn hiện đại cho thiết kế.  "
+    - "\U0001F33F FG nhận tư vấn, thiết kế, #Setup & #Chothuê Backdrop phục vụ
+      nhu cầu dịp lễ ngắn hạn, giúp các Đơn vị chủ đầu tư tiết kiệm được
+      chi phí trang trí."
+    images:
+    - "/v1644985862/272792653_1054637668443893_1100224925318243205_n_c8tknq.jpg"
+    - "/v1644985862/272854457_1054637661777227_5542476675758832029_n_p5bdlh.jpg"
+    - "/v1644985862/272738336_1054637725110554_7608048786267080179_n_gmof7d.jpg"
+    - "/v1644985862/272686513_1054637771777216_3896658832027842911_n_smu6sj.jpg"
+    - "/v1644985862/272766342_1054637715110555_2719362150199422612_n_apn7yr.jpg"
+    is_home: false
+  - name: LỄ BÀN GIAO XE - MS.ANN
+    description:
+    - "- Địa chỉ: Madaz Đà Nẵng."
+    - "- La Chance rất hân hạnh khi được trở thành bạn đồng hành, hỗ trợ Khách hàng
+      ghi dấu lại khoảnh khắc đáng nhớ - LỄ BÀN GIAO XE - kết quả minh chứng cho sự
+      cố gắng, nỗ lực làm việc của bản thân và gia đình."
+    images:
+    - "/v1644985547/NDB_5238_zice4c.jpg"
+    - "/v1644985547/NDB_5242_ooe1lg.jpg"
+    - "/v1644985547/NDB_5227_v3d1vd.jpg"
+    - "/v1644985547/NDB_5366_set2no.jpg"
+    - "/v1644985547/NDB_5358_dsu46s.jpg"
+    - "/v1644985547/NDB_5355_jou4bp.jpg"
+    - "/v1644985547/NDB_5230_mhwpfr.jpg"
+    - "/v1644985547/NDB_5228_btxkob.jpg"
+    is_home: false
 
 ---
