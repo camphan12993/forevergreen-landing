@@ -6,24 +6,6 @@ categories:
 - name: LŨA - SEN ĐÁ
   description: []
   items:
-  - name: SET SEN ĐÁ THỦY TINH (SSD02)
-    description:
-    - "- 1 Set gồm 3 Lọ thủy tinh; Sen đá và vật liệu decor, kích thước lần lượt từng
-      lọ là: 20 x 10 (cm); 15 x 12 (cm) và 10 x 10 (cm)."
-    - "- Nguyên Set 3 lọ: 800.000 đồng. Mua lẻ 300.000 đồng/lọ."
-    - '- Trong trẻo - An yên - Hạnh phúc là những gì chúng mình muốn gửi gắm đến bạn
-      khi "trồng" 3 lọ sen đá xinh xắn này. '
-    - "-  Lọ có lớp thuỷ tinh trong suốt, nhìn được rõ từng tầng đất nâu - sỏi trắng."
-    - "- Đất sử dụng decor là đất chuyên dụng để trồng cây thật, tạo vẻ đẹp tự nhiên. "
-    - " - Chất liệu: Sen đá chất liệu nhựa cao cấp, an toàn. "
-    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
-    images:
-    - "/v1629188894/IMG_6436_dmcmlh.jpg"
-    - "/v1629188894/IMG_6442_ouug8l.jpg"
-    - "/v1629188284/hoa_%C4%91%C3%A1_s%C3%BAng_m%E1%BB%91c_h%E1%BB%93ng_kpl5b7.jpg"
-    - "/v1629188895/IMG_6440_la0ezv.jpg"
-    price: 300000 - 800000
-    is_home: false
   - name: SET SEN ĐÁ THỦY TINH (SSD1)
     description:
     - "- 1 Set gồm 3 Lọ thủy tinh; Sen đá và vật liệu decor, kích thước lần lượt từng
@@ -41,6 +23,24 @@ categories:
     - "/v1629188242/hoa_nha_%C4%91am_nh%E1%BB%8F_taf1dm.jpg"
     - "/v1629188809/IMG_6439_xkhivd.jpg"
     - "/v1629188808/IMG_6438_huznuy.jpg"
+    price: 300000 - 800000
+    is_home: false
+  - name: SET SEN ĐÁ THỦY TINH (SSD02)
+    description:
+    - "- 1 Set gồm 3 Lọ thủy tinh; Sen đá và vật liệu decor, kích thước lần lượt từng
+      lọ là: 20 x 10 (cm); 15 x 12 (cm) và 10 x 10 (cm)."
+    - "- Nguyên Set 3 lọ: 800.000 đồng. Mua lẻ 300.000 đồng/lọ."
+    - '- Trong trẻo - An yên - Hạnh phúc là những gì chúng mình muốn gửi gắm đến bạn
+      khi "trồng" 3 lọ sen đá xinh xắn này. '
+    - "-  Lọ có lớp thuỷ tinh trong suốt, nhìn được rõ từng tầng đất nâu - sỏi trắng."
+    - "- Đất sử dụng decor là đất chuyên dụng để trồng cây thật, tạo vẻ đẹp tự nhiên. "
+    - " - Chất liệu: Sen đá chất liệu nhựa cao cấp, an toàn. "
+    - "- Xuất xứ: hàng nhập khẩu Trung Quốc (đạt tiêu chuẩn xuất khẩu Châu Âu). "
+    images:
+    - "/v1629188894/IMG_6436_dmcmlh.jpg"
+    - "/v1629188894/IMG_6442_ouug8l.jpg"
+    - "/v1629188284/hoa_%C4%91%C3%A1_s%C3%BAng_m%E1%BB%91c_h%E1%BB%93ng_kpl5b7.jpg"
+    - "/v1629188895/IMG_6440_la0ezv.jpg"
     price: 300000 - 800000
     is_home: false
   - name: SET SEN ĐÁ THỦY TINH (SSD03)
