@@ -518,6 +518,32 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: MENX BILLARDS CLUB
+    description:
+    - "- Chủ đầu tư: Mr. Thanh An."
+    - "- Địa chỉ: 66 Ngô Thị Nhậm, Quận Liên Chiểu, Đà Nẵng."
+    - "- Hạng mục công trình: Lũa tự nhiên phối dây rừng, sen đá, dây rủ và điểm hoa
+      làm thành dàn treo tường độc đáo, xanh mát."
+    images:
+    - "/v1645063770/18_ithnuj.jpg"
+    - "/v1645063769/17-2_nbhoqs.jpg"
+    - "/v1645063768/16-2_m9ogrp.jpg"
+    - "/v1645063768/15-2_rzs2mj.jpg"
+    - "/v1645063768/14-2_stkcxe.jpg"
+    - "/v1645063768/13-2_doiji0.jpg"
+    - "/v1645063770/12-2_qpnswg.jpg"
+    - "/v1645063770/11-3_vi8xqj.jpg"
+    - "/v1645063770/10-3_qomdpk.jpg"
+    - "/v1645063770/9-3_fxlslw.jpg"
+    - "/v1645063769/8-3_sasnaj.jpg"
+    - "/v1645063770/7-3_x1iokz.jpg"
+    - "/v1645063770/6-3_fck5iu.jpg"
+    - "/v1645063769/5-3_l3kazl.jpg"
+    - "/v1645063770/4-3_urxqma.jpg"
+    - "/v1645063770/3-4_xsqx8v.jpg"
+    - "/v1645063770/2-4_y4hll1.jpg"
+    - "/v1645063770/1-3_w5njqs.jpg"
+    is_home: false
   - name: LGC HÀ NỘI
     description:
     - "- Chủ đầu tư: Công ty đầu tư tài chính LGC Hà Nội."
@@ -709,13 +735,71 @@ categories:
     is_home: false
 - name: EVENT - TỔ CHỨC SỰ KIỆN
   items:
+  - name: WEDDING - THÀNH HÔN || Quang Huy & Thuỳ An (9/12/2021)
+    description:
+    - "- Khách hàng: Quang Huy & Thuỳ An."
+    - "- Địa điểm: FURAMA Resort Da Nang."
+    - "- Chủ đề trang trí: Tình yêu vĩnh cửu - sử dụng hoa hồng và tone đỏ làm sắc
+      màu chủ đạo."
+    - " \U0001F33F Với đội ngũ Decorator nhiệt huyết, kinh nghiệm, FG\x1C luôn mang
+      đến các thiết kế sáng tạo bắt kịp xu hướng hiện đại. "
+    - "\U0001F33F Giúp hiện thực hoá mọi ý tưởng của các cặp đôi với nhiều phương
+      án phù hợp theo ngân sách và cá tính của chủ nhân buổi tiệc. "
+    images:
+    - "/v1645003270/1-2_w0esaz.jpg"
+    - "/v1645003270/2-3_cxmayq.jpg"
+    - "/v1645003269/3-3_fupw09.jpg"
+    - "/v1645003268/4-2_lyo5mx.jpg"
+    - "/v1645003268/5-2_q1uhyq.jpg"
+    - "/v1645003270/6-2_jncaes.jpg"
+    - "/v1645003266/6a_qju4k1.jpg"
+    - "/v1645003269/7-2_bnewqb.jpg"
+    - "/v1645003270/8-2_sxks3w.jpg"
+    - "/v1645003266/9-2_vuve01.jpg"
+    - "/v1645003270/7a_gtzsth.jpg"
+    - "/v1645003267/10-2_ahuwv0.jpg"
+    - "/v1645003267/11-2_wbfp8x.jpg"
+    - "/v1645003269/13_mxf4so.jpg"
+    - "/v1645003268/14_y2ldoi.jpg"
+    - "/v1645003268/15_azxxbk.jpg"
+    - "/v1645003270/16_sloshf.jpg"
+    - "/v1645003270/17_c61qms.jpg"
+    - "/v1645003267/12_u7tz5g.jpg"
+    is_home: true
+  - name: WEDDING - VU QUY || Thuỳ An & Quang Huy (9/12/2021)
+    description:
+    - "- Khách hàng: Thuỳ An & Quang Huy."
+    - "- Địa điểm: Ỷ Lan Nguyên Phi, Quận Hải Châu, Đà Nẵng."
+    - "- Chủ đề trang trí: Rừng nhiệt đới tình yêu."
+    - " \U0001F33F Với đội ngũ Decorator nhiệt huyết, kinh nghiệm, FG\x1C luôn mang
+      đến các thiết kế sáng tạo bắt kịp xu hướng hiện đại. "
+    - "\U0001F33F Giúp hiện thực hoá mọi ý tưởng của các cặp đôi với nhiều phương
+      án phù hợp theo ngân sách và cá tính của chủ nhân buổi tiệc. "
+    images:
+    - "/v1645002425/1_f2xo7q.jpg"
+    - "/v1645002422/2-2_doooql.jpg"
+    - "/v1645002423/3-2_cs8ydf.jpg"
+    - "/v1645002421/4b_r7gqjn.jpg"
+    - "/v1645002424/4a_shfmqo.jpg"
+    - "/v1645002422/4c_vdk4ni.jpg"
+    - "/v1645002422/8_aun8vp.jpg"
+    - "/v1645002422/4_v9nqeq.jpg"
+    - "/v1645002425/5_ljjr0p.jpg"
+    - "/v1645002420/7_rlg6bn.jpg"
+    - "/v1645002422/6_nj1lqe.jpg"
+    - "/v1645002425/5b_olfmpe.jpg"
+    - "/v1645002425/9_evkcef.jpg"
+    - "/v1645002425/9a_qeioe7.jpg"
+    - "/v1645002423/10_c8nexz.jpg"
+    - "/v1645002423/11_fwlro6.jpg"
+    is_home: false
   - name: WEDDING - Mỹ Hạnh & Tiến Phát (1/5/2021)
     description:
     - "- Khách hàng: Mỹ Hạnh & Tín Phát."
     - "- Địa điểm: Hilton Đà Nẵng."
     - "- Chủ đề trang trí: Khu rừng nhiệt đới."
-    - " \U0001F33F Với đội ngũ Decorator nhiệt huyết, kinh nghiệm, La Chance luôn
-      mang đến các thiết kế sáng tạo bắt kịp xu hướng hiện đại. "
+    - " \U0001F33F Với đội ngũ Decorator nhiệt huyết, kinh nghiệm, FG\x1C luôn mang
+      đến các thiết kế sáng tạo bắt kịp xu hướng hiện đại. "
     - "\U0001F33F Giúp hiện thực hoá mọi ý tưởng của các cặp đôi với nhiều phương
       án phù hợp theo ngân sách và cá tính của chủ nhân buổi tiệc. "
     - "\U0001F33F Sử dụng vật liệu, chất liệu decor cao cấp, tinh tế."
