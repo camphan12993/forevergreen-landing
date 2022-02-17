@@ -33,6 +33,31 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: THAP BEER RESTAURANT
+    description:
+    - "- Chủ đầu tư: Mr.Bình."
+    - "- Địa chỉ: 86 Võ Văn Kiệt, Quận Sơn Trà, Đà Nẵng."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tiểu cảnh cây xanh phong cách nhiệt đới kết hợp dây rừng tự nhiên."
+    - "\U0001F33F Giỏ mây kết hợp rêu, dây lá rủ treo thả trần."
+    - "\U0001F33F Hộp gỗ cây lá dây rủ kết hợp cành cổ cherry đỏ treo thả trần."
+    - "\U0001F33F Cây lá si lớn."
+    images:
+    - "/v1645071741/1-2-2_yvfwwe.jpg"
+    - "/v1645071743/2-2-2_yppxse.jpg"
+    - "/v1645071741/3-2-2_jmsuu4.jpg"
+    - "/v1645071740/4-2-2_kdudzx.jpg"
+    - "/v1645071741/5-2-2_tdmdy4.jpg"
+    - "/v1645071739/6-2-2_mqnam2.jpg"
+    - "/v1645071744/8-2_uj72nv.jpg"
+    - "/v1645071744/9-2_lvwswe.jpg"
+    - "/v1645071743/7-2_egduwt.jpg"
+    - "/v1645071744/10_wojkrk.jpg"
+    - "/v1645071744/11_snknme.jpg"
+    - "/v1645071744/13_tdmpii.jpg"
+    - "/v1645071744/12_fg1isq.jpg"
+    - "/v1645071744/14_vannzb.jpg"
+    is_home: false
   - name: THE VIEW QUY NHƠN
     description:
     - "- Địa chỉ: Tầng 8, 24 Nguyễn Huệ, TP.Quy Nhơn, Bình Định."
@@ -518,6 +543,23 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: VĂN PHÒNG ĐIỆN LỰC MIỀN TRUNG
+    description:
+    - "- Chủ đầu tư: Công ty Công Nghệ Thông Tinh Điện Lực Miền Trung."
+    - "- Địa chỉ: 491 Trưng Nữ Vương, P.Hoà Thuận Đông, Q.Hải Châu, Đà Nẵng,"
+    - "- Hạng mục công trình: Tường cây nhiệt đới điểm hoa thiên điểu và trải sàn
+      thảm cỏ."
+    images:
+    - "/v1645069316/1_wh4ih6.jpg"
+    - "/v1645069311/2_dxssbi.jpg"
+    - "/v1645069318/3_gvv02c.jpg"
+    - "/v1645069318/4_vwsxmb.jpg"
+    - "/v1645069316/5_jzl7zd.jpg"
+    - "/v1645069313/6_mxudim.jpg"
+    - "/v1645069307/7_kbypmt.jpg"
+    - "/v1645069292/8_kcyz4s.jpg"
+    - "/v1645069293/9_e3slbr.jpg"
+    is_home: false
   - name: MENX BILLARDS CLUB
     description:
     - "- Chủ đầu tư: Mr. Thanh An."
