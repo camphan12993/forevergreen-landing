@@ -777,6 +777,35 @@ categories:
     is_home: false
 - name: EVENT - TỔ CHỨC SỰ KIỆN
   items:
+  - name: WEDDING - Thuỳ Dung & Hoài Nam (15/11/2021)
+    description:
+    - "- Khách hàng: Thuỳ Dung & Hoài Nam."
+    - "- Địa điểm: Tại gia và Nhà hàng."
+    - "- Hạng mục: "
+    - "\U0001F33F Trang trí lễ gia tiên: Kết hợp hài hoà giữa hoa lá nhân tạo chất
+      liệu su cao cấp mềm mại với hoa tươi."
+    - "\U0001F33F Trang trí tiệc đãi khách mời: Background đón khách & Bàn Gallery."
+    images:
+    - "/v1645092641/A4EEE98C-CE03-4BFB-B0AD-D038E6C5BF78-9E94E63D-BBE7-4148-8076-8FE0509B695B_sakuhb.jpg"
+    - "/v1645092640/8EB534E9-3611-4ED0-B324-2815839FC805-19CE69E1-238C-4636-B5EF-57183722DFCB_ytnjny.jpg"
+    - "/v1645092640/A0C98017-6D5B-47F0-88DA-8E1318FC6DFA-4E780CF8-80CE-4C06-999F-9B70823DAF6C_w3zuww.jpg"
+    - "/v1645092640/10E48C92-9042-4E79-A9C9-18FD4DE3A5AC-33CEC12F-A9CD-4EC1-B62F-A05065530B80_hkda9z.jpg"
+    - "/v1645092640/FB8D37E0-4A15-4531-940D-CA60302E2259-937F70BC-9B47-4449-BA0A-5BDA667382AC_tav9nt.jpg"
+    - "/v1645092640/A2286D0D-FC99-4328-8678-F2AB66797B2B-1CC8B322-6AD4-4F71-88B5-3AA36B495F99_mgn40n.jpg"
+    - "/v1645092857/14-2-2_avl9dn.jpg"
+    - "/v1645092857/15-2_lfyfuk.jpg"
+    - "/v1645092860/20-2_w0dulk.jpg"
+    - "/v1645092860/21-2_rcr1b8.jpg"
+    - "/v1645092860/22-2_cxtabm.jpg"
+    - "/v1645092483/1-3-2_gohj4b.jpg"
+    - "/v1645092479/4-3-2_qadm7v.jpg"
+    - "/v1645092481/3-3-2_pktnk8.jpg"
+    - "/v1645092481/2-3-2_wuy7sy.jpg"
+    - "/v1645092482/5-3-2_scb9c8.jpg"
+    - "/v1645092483/6-3-2_vv73vm.jpg"
+    - "/v1645092482/7-3-2_vw7lyz.jpg"
+    - "/v1645092483/8-3-2_d2klz0.jpg"
+    is_home: false
   - name: WEDDING - THÀNH HÔN || Quang Huy & Thuỳ An (9/12/2021)
     description:
     - "- Khách hàng: Quang Huy & Thuỳ An."
