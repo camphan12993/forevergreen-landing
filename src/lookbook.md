@@ -3,6 +3,15 @@ layout: lookbook.liquid
 title: BỘ SƯU TẬP
 tags: lookbook
 items:
+- name: BST HOA LAN TẾT PHÚ QUÝ
+  description:
+  - "-  Lựa chọn hoa lan có chất liệu làm từ su ướt mềm mại tự nhiên giống hoa thật
+    99% phối hợp cùng nguyên vật liệu cây lá phụ sinh động cắm trong Bình sứ mạ bạc
+    & vàng cao cấp, FG đã thiết kế ra những mẫu \U0001D5D5\U0001D5F6̀\U0001D5FB\U0001D5F5
+    \U0001D5DF\U0001D5EE\U0001D5FB \U0001D5E6\U0001D602̛́ sang trọng #số_lượng_giới_hạn
+    thích hợp để trưng đón \U0001D5E7\U0001D5F2̂́\U0001D601 \U0001D5E1\U0001D5F4\U0001D602\U0001D606\U0001D5F2̂\U0001D5FB
+    Đ\U0001D5EÉ\U0001D5FB; làm quà biếu tặng Tân gia, Khai trương, Sinh nhật..."
+  images: []
 - name: BE MY VALENTINE
   description: []
   images:
