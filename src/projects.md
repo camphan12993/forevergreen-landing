@@ -33,6 +33,50 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: MINH PHƯƠNG FOUR SEASONS
+    description:
+    - "- Là Tổ hợp Thể thao, chăm sóc sức khỏe (Bể bơi bốn mùa, Gym, Yoga & Fitness,
+      Spa & Massage."
+    - "-  Địa chỉ: Hồ sinh thái Khu đô thị Minh Phương, Việt Trì, Phú Thọ."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tường rêu tiểu cảnh 3D."
+    - "\U0001F33F Dàn trần lá rủ."
+    - "\U0001F33F Vòm cổng hoa tone nhiệt đới."
+    - "\U0001F33F Cây thiết mộc lan hồng đại."
+    - "\U0001F33F Cây đào tuyết Nhật Bản."
+    - "\U0001F33F Cây hoa hồng."
+    - "\U0001F33F Lũa phối dây rừng, sen đá, dây rũ tạo thành dải leo tường tự nhiên,
+      sinh động."
+    - "\U0001F33F Khung tranh sen đá 3D treo tường.\n"
+    - "\U0001F33F Khung tranh lá cây 3D treo tường."
+    - "\U0001F33F Các cành cổ điểm hoa làm thành dàn hoa leo tự nhiên."
+    images:
+    - "/v1645171476/5-4-2_i0ydts.jpg"
+    - "/v1645171476/6-4-2_qwxgc9.jpg"
+    - "/v1645171474/7-4-2_fecqsp.jpg"
+    - "/v1645171466/1-4-2_wengpi.jpg"
+    - "/v1645171476/3-4-2_xth8v6.jpg"
+    - "/v1645171476/2-4-2_lfrdeh.jpg"
+    - "/v1645171475/4-4-2_qtujri.jpg"
+    - "/v1645171471/8-4-2_n0mxgi.jpg"
+    - "/v1645171472/9-4-2_uzi7gr.jpg"
+    - "/v1645171471/10-4-2_hbvh0u.jpg"
+    - "/v1645171474/11-4-2_lafx3d.jpg"
+    - "/v1645171472/12-3-2_emwrzh.jpg"
+    - "/v1645171471/13-3-2_yrewrs.jpg"
+    - "/v1645171474/14-3-2_qex3dq.jpg"
+    - "/v1645171474/15-3-2_c1m2ta.jpg"
+    - "/v1645171474/16-3-2_dhwybj.jpg"
+    - "/v1645171476/17-3-2_ykijfg.jpg"
+    - "/v1645171476/18-3-2_tvmtww.jpg"
+    - "/v1645171474/22-3-2_h0rqsr.jpg"
+    - "/v1645171474/23-2_ra9ulk.jpg"
+    - "/v1645171473/24-2_f0cu9c.jpg"
+    - "/v1645171473/25-2_bnwy23.jpg"
+    - "/v1645171474/21-3-2_ssbyzm.jpg"
+    - "/v1645171474/20-3-2_jagslx.jpg"
+    - "/v1645171476/19-3-2_vpvbnn.jpg"
+    is_home: false
   - name: BẢO BẢO COFFEE
     description:
     - "- Địa chỉ: Sơn Tây, Hà Nội."
