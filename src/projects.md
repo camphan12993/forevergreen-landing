@@ -33,6 +33,25 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: BẢO BẢO COFFEE
+    description:
+    - "- Địa chỉ: Sơn Tây, Hà Nội."
+    - "- Hạng mục công trình: "
+    - "\U0001F33F Khung tranh lá cây 3D treo tường."
+    - "\U0001F33F Hộp cây dây rủ và hộp hoa hồng trắng."
+    - "\U0001F33F Vòng hoa phong cách Châu Âu."
+    images:
+    - "/v1645153727/1_iih7qv.jpg"
+    - "/v1645153730/2_eoxnsk.jpg"
+    - "/v1645153731/3_a4fioe.jpg"
+    - "/v1645153729/7_re65ht.jpg"
+    - "/v1645153712/4_jdwpku.jpg"
+    - "/v1645153715/6_qxuyy5.jpg"
+    - "/v1645153725/5_pixq9j.jpg"
+    - "/v1645153723/8_hyuhb4.jpg"
+    - "/v1645153722/9_msqyaf.jpg"
+    - "/v1645153731/10_qszec0.jpg"
+    is_home: false
   - name: THAP BEER RESTAURANT
     description:
     - "- Chủ đầu tư: Mr.Bình."
@@ -309,6 +328,10 @@ categories:
     - "/v1615782684/MAP_0993_zcklt9.jpg"
     - "/v1615782682/MAP_0997_peva6o.jpg"
     - "/v1615782680/MAP_0992_o2tzgf.jpg"
+    - "/v1645094110/_MAP4059_wpk92i.jpg"
+    - "/v1645094114/_MAP4060_tilnhe.jpg"
+    - "/v1645094113/_MAP4071_qrlnbo.jpg"
+    - "/v1645094105/_MAP4061_t2g2w1.jpg"
     - "/v1615782688/MAP_1014_miadgq.jpg"
     - "/v1615782689/MAP_1022_cxnzbr.jpg"
     - "/v1615782687/MAP_0991_wwb8tq.jpg"
