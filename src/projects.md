@@ -800,6 +800,24 @@ categories:
     is_home: false
 - name: EVENT - TỔ CHỨC SỰ KIỆN
   items:
+  - name: SET UP BACKDROP ATLANTIS
+    description:
+    - "- Địa chỉ: Studio Hà Nội."
+    - "- Hạng mục công trình: Tạo dựng backdrop tiểu cảnh từ phối các chậu gốm #Atlantis
+      cao cấp."
+    images:
+    - "/v1645155391/1-2-3_eufevs.jpg"
+    - "/v1645155390/2-2-3_atmmm6.jpg"
+    - "/v1645155390/3-2-3_rdgqje.jpg"
+    - "/v1645155391/4-2-3_evcwfm.jpg"
+    - "/v1645155391/5-2-3_ckgjps.jpg"
+    - "/v1645155391/6-2-3_bwzpnc.jpg"
+    - "/v1645155386/7-2-2_pw2yw1.jpg"
+    - "/v1645155387/8-2-2_vzxysd.jpg"
+    - "/v1645155418/11-3_ij6rpd.jpg"
+    - "/v1645155417/10-3_owotvn.jpg"
+    - "/v1645155420/9-2-2_emgd7d.jpg"
+    is_home: false
   - name: WEDDING - Thuỳ Dung & Hoài Nam (15/11/2021)
     description:
     - "- Khách hàng: Thuỳ Dung & Hoài Nam."
