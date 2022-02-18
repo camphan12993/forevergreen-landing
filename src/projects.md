@@ -626,6 +626,26 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: FALALA VN
+    description:
+    - "- Chủ đầu tư: Mr. Phạm Anh."
+    - "- Địa chỉ: Biệt Thự Phong Lan 01-37 Khu đô thị Vinhomes Riverside, phường Phúc
+      Đồng, quận Long Biên,Thành phố Hà Nội."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tường rêu điểm cây lá và hoa ly lửa rực rỡ."
+    - "\U0001F33F Dây rừng leo tự nhiên kết hợp dương xỉ và hoa trắng."
+    - "\U0001F33F Giỏ cây lá dây rủ treo thả trần."
+    images:
+    - "/v1645176307/1-5_oy7yyi.jpg"
+    - "/v1645176306/2-5_xrlcwz.jpg"
+    - "/v1645176307/3-5_czalhl.jpg"
+    - "/v1645176306/4-5_eo4sv1.jpg"
+    - "/v1645176307/5-5_cxgzhr.jpg"
+    - "/v1645176307/6-5_uj5avf.jpg"
+    - "/v1645176307/9-5_a6egoh.jpg"
+    - "/v1645176307/7-5_vmmkij.jpg"
+    - "/v1645176307/8-5_p971da.jpg"
+    is_home: false
   - name: VĂN PHÒNG ĐIỆN LỰC MIỀN TRUNG
     description:
     - "- Chủ đầu tư: Công ty Công Nghệ Thông Tinh Điện Lực Miền Trung."
