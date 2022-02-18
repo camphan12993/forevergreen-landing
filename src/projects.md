@@ -504,6 +504,22 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
+  - name: MR.QUYNH
+    description:
+    - "- Chủ đầu tư: Mr. Quỳnh."
+    - "- Địa chỉ: Phố Nguyễn Đức Cảnh, Quận Hoàng Mai, Hà Nội."
+    - "- Hạng mục công trình: Tiểu cảnh cây xanh nội thất phối lũa tự nhiên."
+    images:
+    - "/v1645173923/IMG_9867-2_ljehqt.jpg"
+    - "/v1645173923/IMG_9883-2_mgfvpo.jpg"
+    - "/v1645173922/IMG_9904_skdr9u.jpg"
+    - "/v1645173922/IMG_9902-2_erxtlm.jpg"
+    - "/v1645173922/IMG_9909-2_o7socf.jpg"
+    - "/v1645173923/IMG_9895-2_dv9xkr.jpg"
+    - "/v1645173923/IMG_9884-2_jbtuly.jpg"
+    - "/v1645173923/IMG_9880-2_k1cbwl.jpg"
+    - "/v1645173923/IMG_9878-2_t2duy8.jpg"
+    is_home: false
   - name: MR.PHUC
     description:
     - "- Địa chỉ: Đường Ỷ Lan Nguyên Phi, Quận Hải Châu, Đà Nẵng."
