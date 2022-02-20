@@ -33,6 +33,29 @@ categories:
     is_home: true
 - name: BAR, NHÀ HÀNG, CÀ PHÊ
   items:
+  - name: SAPO BAKERY
+    description:
+    - "- Chủ đầu tư: Ms. Hương."
+    - "- Địa chỉ: 08 Quang Trung, Hà Đông, Hà Nội."
+    - "- Hạng mục công trình: "
+    - "\U0001F33F Bàn decor khu vực giữa đại sảnh theo phong cách Bắc Âu."
+    - "\U0001F33F Cây khô khoanh gỗ tròn trang trí tường."
+    - "\U0001F33F Các chậu cây hoa khô decor kệ sau quầy lễ tân."
+    images:
+    - "/v1645324094/1-8-2_dercyw.jpg"
+    - "/v1645324093/2-8-2_brjnol.jpg"
+    - "/v1645324093/3-8-2_culy7u.jpg"
+    - "/v1645324093/4-8-2_bb3duc.jpg"
+    - "/v1645324093/5-8-2_fdqouy.jpg"
+    - "/v1645324093/6-8-2_cwbsja.jpg"
+    - "/v1645324094/6a-2_hjq1l8.jpg"
+    - "/v1645324094/6b-2_h8by3d.jpg"
+    - "/v1645324093/7-8-2_zwdsw1.jpg"
+    - "/v1645324093/8-8-2_doexag.jpg"
+    - "/v1645324094/9-6-2_n0lgnk.jpg"
+    - "/v1645324094/10-5-2_n6lbe3.jpg"
+    - "/v1645324093/11-5-2_qjcfis.jpg"
+    is_home: false
   - name: MINH PHƯƠNG FOUR SEASONS
     description:
     - "- Là Tổ hợp Thể thao, chăm sóc sức khỏe (Bể bơi bốn mùa, Gym, Yoga & Fitness,
