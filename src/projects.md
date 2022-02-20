@@ -504,6 +504,22 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
+  - name: MS.TUYET
+    description:
+    - "- Địa chỉ: 59 Xuân Diệu, Quận Tây Hồ, Hà Nội."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tiểu cảnh cây xanh phong cách nhiệt đới."
+    - "\U0001F33F Tiểu cảnh lũa tự nhiên."
+    images:
+    - "/v1645322150/1-7-2_y1t5oy.jpg"
+    - "/v1645322151/3-7-2_if3as1.jpg"
+    - "/v1645322151/2-7-2_f0jygo.jpg"
+    - "/v1645322154/4-7-2_ouccut.jpg"
+    - "/v1645322154/5-7-2_qzwzma.jpg"
+    - "/v1645322154/8-7-2_c0sfzt.jpg"
+    - "/v1645322154/7-7-2_y2sjxr.jpg"
+    - "/v1645322153/6-7-2_ty6ud5.jpg"
+    is_home: false
   - name: MR.QUYNH
     description:
     - "- Chủ đầu tư: Mr. Quỳnh."
