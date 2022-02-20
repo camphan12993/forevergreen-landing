@@ -527,6 +527,40 @@ categories:
     is_home: false
 - name: NHÀ PHỐ
   items:
+  - name: MR.HAO
+    description:
+    - "- Chủ đầu tư: Mr. Hảo."
+    - "- Địa chỉ: Khu đô thị Mon Bay Hạ Long, Quảng Ninh."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tiểu cảnh chậu gốm #Atlantis cao cấp."
+    - "\U0001F33F Các chậu Atlantis cây xanh nội thất phối gốc sinh động trang trí
+      hành lang, lối đi."
+    - "\U0001F33F Chậu Lan hồ điệp trắng đại trang trí phòng khách."
+    - "\U0001F33F Bồn cây tiểu cảnh Thạch Nam."
+    images:
+    - "/v1645332807/4-9-2_zqfoiy.jpg"
+    - "/v1645332807/3-9-2_xqxxwp.jpg"
+    - "/v1645332808/2-9-2_b5iwy2.jpg"
+    - "/v1645332807/1-9-2_ekj3o3.jpg"
+    - "/v1645332807/5-9-2_y5jmaa.jpg"
+    - "/v1645332807/7-9-2_byhk9w.jpg"
+    - "/v1645332807/6-9-2_v7iput.jpg"
+    - "/v1645332808/16-4-2_zorqs8.jpg"
+    - "/v1645332805/17-4-2_itve6l.jpg"
+    - "/v1645332807/18-4-2_yuegcx.jpg"
+    - "/v1645332807/8-9-2_oaa9pz.jpg"
+    - "/v1645332806/9-7-2_fclohd.jpg"
+    - "/v1645332805/12-4-2_wb3zoz.jpg"
+    - "/v1645332805/14-4-2_n6feaf.jpg"
+    - "/v1645332805/13-4-2_hoibmr.jpg"
+    - "/v1645332806/15-4-2_cqisgb.jpg"
+    - "/v1645332806/11-6-2_uqva5j.jpg"
+    - "/v1645332807/10-6-2_xmdb9u.jpg"
+    - "/v1645332807/20-4-2_qqblth.jpg"
+    - "/v1645332808/19-4-2_iqvwms.jpg"
+    - "/v1645332808/21-4-2_x365cg.jpg"
+    - "/v1645332807/22-4-2_lnvynn.jpg"
+    is_home: false
   - name: MS.TUYET
     description:
     - "- Địa chỉ: 59 Xuân Diệu, Quận Tây Hồ, Hà Nội."
