@@ -461,6 +461,20 @@ categories:
     is_home: false
 - name: KHÁCH SẠN, CĂN HỘ CHUNG CƯ
   items:
+  - name: CHUNG CƯ THE TERRA AN HƯNG
+    description:
+    - "- Địa chỉ: Đường Tố Hữu, Quận Hà Đông, Hà Nội."
+    - "- Hạng mục công trình:"
+    images:
+    - "/v1645503700/2-10-2_l0dvn1.jpg"
+    - "/v1645503700/1-10-2_fbhm1d.jpg"
+    - "/v1645503700/3-10-2_hfgghd.jpg"
+    - "/v1645503699/4-10-2_difely.jpg"
+    - "/v1645503700/5-10-2_sweosc.jpg"
+    - "/v1645503700/6-10-2_b0fvps.jpg"
+    - "/v1645503699/7-10-2_tiyzrr.jpg"
+    - "/v1645503700/8-10-2_kos4hx.jpg"
+    is_home: false
   - name: MULBERRY COLLECTION SILK ECO HOTEL (Hoi An)
     description:
     - 'Địa chỉ: 30 Đào Duy Từ, Cẩm Phô, Hội An, Quảng Nam.  '
