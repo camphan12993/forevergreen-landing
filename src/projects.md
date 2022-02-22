@@ -464,7 +464,10 @@ categories:
   - name: CHUNG CƯ THE TERRA AN HƯNG
     description:
     - "- Địa chỉ: Đường Tố Hữu, Quận Hà Đông, Hà Nội."
-    - "- Hạng mục công trình:"
+    - "- Hạng mục công trình: Các chậu cây xanh trang trí chung cư.\n"
+    - "\U0001F33F Chậu hoa lan ý."
+    - "\U0001F33F Chậu cây lưỡi hổ."
+    - "\U0001F33F Chậu cây trầu bà Monstera."
     images:
     - "/v1645503700/2-10-2_l0dvn1.jpg"
     - "/v1645503700/1-10-2_fbhm1d.jpg"
