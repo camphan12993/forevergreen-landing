@@ -716,6 +716,24 @@ categories:
     is_home: true
 - name: VĂN PHÒNG, SPA, SHOWROOM
   items:
+  - name: PHƯƠNG ĐÔNG
+    description:
+    - "- Địa chỉ: 169 Hoàng Ngân, Trung Hoà, Quận Cầu Giấy, Hà Nội."
+    - "- Hạng mục công trình:"
+    - "\U0001F33F Tường rêu điểm cây hoa."
+    - "\U0001F33F  Các chậu cây xanh nội thất phối gốc."
+    - "\U0001F33F Cành quả chanh treo tường.\n"
+    - "\U0001F33F Lũa phối sen đá, dây rủ treo tường."
+    images:
+    - "/v1645516736/1-11-2_qna9pi.jpg"
+    - "/v1645516735/2-11-2_gakpct.jpg"
+    - "/v1645516735/3-11-2_b7qllc.jpg"
+    - "/v1645516735/4-11-2_zbfnhe.jpg"
+    - "/v1645516737/5-11-2_qojepy.jpg"
+    - "/v1645516737/6-11-2_osdnbr.jpg"
+    - "/v1645516737/7-11-2_iybuoh.jpg"
+    - "/v1645516737/8-11-2_ly3wyn.jpg"
+    is_home: false
   - name: FALALA VN
     description:
     - "- Chủ đầu tư: Mr. Phạm Anh."
